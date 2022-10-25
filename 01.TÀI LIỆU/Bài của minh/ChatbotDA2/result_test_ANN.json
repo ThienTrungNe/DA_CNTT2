@@ -1,0 +1,1095 @@
+[
+    {
+        "question": "Lệnh gọi khám sức khỏe phải được giao cho công dân trước thời điểm khám sức khỏe bao nhiêu ngày ?",
+        "answer": [
+            "15 ngày"
+        ],
+        "predict": "15 ngày"
+    },
+    {
+        "question": "Hành vi nào được xem là bóc lột trẻ em",
+        "answer": [
+            "Bắt trẻ em lao động trái quy định của pháp luật về lao động, Trình diễn hoặc sản xuất sản phẩm khiêu dâm; tổ chức, hỗ trợ hoạt động du lịch nhằm mục đích xâm hại tình dục trẻ em, Cho, nhận hoặc cung cấp trẻ em để hoạt động mại dâm và các hành vi khác sử dụng trẻ em để trục lợi."
+        ],
+        "predict": "Là hành vi gây tổn hại về thể chất, tình cảm, tâm lý, danh dự, nhân phẩm của trẻ em dưới các hình thức bạo lực, bóc lột, xâm hại tình dục, mua bán, bỏ rơi bỏ mặc trẻ em và các hình thức gây tổn hại khác."
+    },
+    {
+        "question": "Chất hướng thần là gì ?",
+        "answer": [
+            "chất hướng thần là chất kích thích hoặc ức chế thần kinh hoặc gây ảo giác, nếu sử dụng nhiều lần có thể dẫn tới tình trạng nghiện đối với người sử dụng"
+        ],
+        "predict": "chất hướng thần là chất kích thích hoặc ức chế thần kinh hoặc gây ảo giác, nếu sử dụng nhiều lần có thể dẫn tới tình trạng nghiện đối với người sử dụng"
+    },
+    {
+        "question": "Nghia vụ của người kê khai tài sản , thu nhập",
+        "answer": [
+            "Người có nghĩa vụ kê khai phải kê khai tài sản, thu nhập và biến động về tài sản, thu nhập của mình, của vợ hoặc chồng, con chưa thành niên theo quy định của Luật này."
+        ],
+        "predict": "Người có nghĩa vụ kê khai phải kê khai tài sản, thu nhập và biến động về tài sản, thu nhập của mình, của vợ hoặc chồng, con chưa thành niên theo quy định của Luật này."
+    },
+    {
+        "question": "Người nghiện ma túy là gì ?",
+        "answer": [
+            "người sử dụng chất ma túy, thuốc gây nghiện, thuốc hướng thần và bị phụ thuộc vào các chất này."
+        ],
+        "predict": "người sử dụng chất ma túy, thuốc gây nghiện, thuốc hướng thần và bị phụ thuộc vào các chất này."
+    },
+    {
+        "question": "Thế nào là Đình chỉ hoạt động có thời hạn ?",
+        "answer": [
+            "Đình chỉ hoạt động có thời hạn là tạm dừng hoạt động của pháp nhân thương mại trong một hoặc một số lĩnh vực mà pháp nhân thương mại phạm tội gây thiệt hại đến tính mạng, sức khỏe con người, môi trường hoặc an ninh, trật tự, an toàn xã hội và hậu quả gây ra có khả năng khắc phục trên thực tế."
+        ],
+        "predict": "Đình chỉ hoạt động có thời hạn là tạm dừng hoạt động của pháp nhân thương mại trong một hoặc một số lĩnh vực mà pháp nhân thương mại phạm tội gây thiệt hại đến tính mạng, sức khỏe con người, môi trường hoặc an ninh, trật tự, an toàn xã hội và hậu quả gây ra có khả năng khắc phục trên thực tế."
+    },
+    {
+        "question": "Tử hình là sao ?",
+        "answer": [
+            "Tử hình là hình phạt đặc biệt chỉ áp dụng đối với người phạm tội đặc biệt nghiêm trọng thuộc một trong nhóm các tội xâm phạm an ninh quốc gia, xâm phạm tính mạng con người, các tội phạm về ma túy, tham nhũng và một số tội phạm đặc biệt nghiêm trọng khác do Bộ luật này quy định."
+        ],
+        "predict": "Tử hình là hình phạt đặc biệt chỉ áp dụng đối với người phạm tội đặc biệt nghiêm trọng thuộc một trong nhóm các tội xâm phạm an ninh quốc gia, xâm phạm tính mạng con người, các tội phạm về ma túy, tham nhũng và một số tội phạm đặc biệt nghiêm trọng khác do Bộ luật này quy định."
+    },
+    {
+        "question": "Khái niệm quyền của trẻ em khuyết tật",
+        "answer": [
+            "Trẻ em khuyết tật được hưởng đầy đủ các quyền của trẻ em và quyền của người khuyết tật theo quy định của pháp luật.Được hỗ trợ, chăm sóc, giáo dục đặc biệt để phục hồi chức năng, phát triển khả năng tự lực và hòa nhập xã hội."
+        ],
+        "predict": "Trẻ em khuyết tật được hưởng đầy đủ các quyền của trẻ em và quyền của người khuyết tật theo quy định của pháp luật.Được hỗ trợ, chăm sóc, giáo dục đặc biệt để phục hồi chức năng, phát triển khả năng tự lực và hòa nhập xã hội."
+    },
+    {
+        "question": "Theo pháp luật những người nào không được hưởng di sản được chia",
+        "answer": [
+            "Người vi phạm nghiêm trọng nghĩa vụ nuôi dưỡng người để lại di sản."
+        ],
+        "predict": "Người vi phạm nghiêm trọng nghĩa vụ nuôi dưỡng người để lại di sản."
+    },
+    {
+        "question": "Kể tên các thành phần người tham gia giao thông đường bộ nào",
+        "answer": [
+            " Người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ Người điều khiển, dẫn dắt súc vật, Người đi bộ trên đường bộ"
+        ],
+        "predict": "Người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ Người điều khiển, dẫn dắt súc vật, Người đi bộ trên đường bộ"
+    },
+    {
+        "question": "Tù có thời hạn là sao ?",
+        "answer": [
+            "Tù có thời hạn là buộc người bị kết án phải chấp hành hình phạt tại cơ sở giam giữ trong một thời hạn nhất định."
+        ],
+        "predict": "Tù có thời hạn là buộc người bị kết án phải chấp hành hình phạt tại cơ sở giam giữ trong một thời hạn nhất định."
+    },
+    {
+        "question": "Ai hoặc cấp nào qui định việc miễn gọi nhập ngũ trong thời chiến ?",
+        "answer": [
+            "Chính phủ quy định"
+        ],
+        "predict": "Chính phủ quy định"
+    },
+    {
+        "question": "Người khác đe dọa giết mình thì bị xử lý như thế nào ?",
+        "answer": [
+            "Người nào đe doạ giết người, nếu có căn cứ làm cho người bị đe dọa lo sợ rằng việc đe dọa này sẽ được thực hiện, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm."
+        ],
+        "predict": "Người nào đối xử tàn ác hoặc làm nhục người lệ thuộc mình nếu không thuộc các trường hợp quy định tại Điều 185 của Bộ luật này, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 03 tháng đến 02 năm."
+    },
+    {
+        "question": "Cản trở người khác tham gia các hoạt động kinh tế , chính trị bị phạt ra sao ?",
+        "answer": [
+            "Người nào vì lý do giới mà thực hiện hành vi dưới bất kỳ hình thức nào cản trở người khác tham gia hoạt động trong các lĩnh vực chính trị, kinh tế, lao động, giáo dục và đào tạo, khoa học và công nghệ, văn hóa, thông tin, thể dục, thể thao, y tế, đã bị xử lý kỷ luật hoặc xử phạt vi phạm hành chính về hành vi này mà còn vi phạm, thì bị phạt cảnh cáo, phạt tiền từ 5.000.000 đồng đến 50.000.000 đồng hoặc phạt cải tạo không giam giữ đến 02 năm."
+        ],
+        "predict": "Phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm.Phạm tội làm 02 người trở lên tự sát, thì bị phạt tù từ 02 năm đến 07 năm."
+    },
+    {
+        "question": "Luật nghĩa vụ quân sự năm 2005 có mấy Chương , Điều ?",
+        "answer": [
+            "11 chương 71 điều"
+        ],
+        "predict": "11 chương 71 điều"
+    },
+    {
+        "question": "Khái niệm về phần đường xe chạy",
+        "answer": [
+            "phần đường xe chạy là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại"
+        ],
+        "predict": "phần đường xe chạy là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại"
+    },
+    {
+        "question": "Theo Luật Phòng , chống ma túy năm 2021 thì Tiền chất là ?",
+        "answer": [
+            "Tiền chất hóa chất không thể thiếu được trong quá trình điều chế, sản xuất chất ma túy được quy định trong danh mục tiền chất do Chính phủ ban hành."
+        ],
+        "predict": "Tiền chất hóa chất không thể thiếu được trong quá trình điều chế, sản xuất chất ma túy được quy định trong danh mục tiền chất do Chính phủ ban hành."
+    },
+    {
+        "question": "Ký cược ?",
+        "answer": [
+            "Ký cược là việc bên thuê tài sản là động sản giao cho bên cho thuê một khoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung là tài sản ký cược) trong một thời hạn để bảo đảm việc trả lại tài sản thuê."
+        ],
+        "predict": "Ký cược là việc bên thuê tài sản là động sản giao cho bên cho thuê một khoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung là tài sản ký cược) trong một thời hạn để bảo đảm việc trả lại tài sản thuê."
+    },
+    {
+        "question": "Quy định về hạn chế quyền dân sự",
+        "answer": [
+            "Quyền dân sự chỉ có thể bị hạn chế theo quy định của luật trong trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng"
+        ],
+        "predict": "Quyền dân sự chỉ có thể bị hạn chế theo quy định của luật trong trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng"
+    },
+    {
+        "question": "Khái niệm Không gian mạng quốc gia",
+        "answer": [
+            "Là không gian mạng do Chính phủ xác lập, quản lý và kiểm soát"
+        ],
+        "predict": "Là không gian mạng do Chính phủ xác lập, quản lý và kiểm soát"
+    },
+    {
+        "question": "những hành vi nào bị nghiêm cấm khi xảy ra tai nạn giao thông",
+        "answer": [
+            "Xâm phạm tính mạng, sức khỏe, tài sản của người bị tai nạn giao thông, xâm phạm tính mạng, sức khỏe, tài sản của người gây tai nạn giao thông.Lợi dụng việc xảy ra tai nạn giao thông để hành hung, đe dọa, xúi giục, gây sức ép, làm mất trật tự, cản trở việc xử lý tai nạn giao thông."
+        ],
+        "predict": "Xâm phạm tính mạng, sức khỏe, tài sản của người bị tai nạn giao thông, xâm phạm tính mạng, sức khỏe, tài sản của người gây tai nạn giao thông.Lợi dụng việc xảy ra tai nạn giao thông để hành hung, đe dọa, xúi giục, gây sức ép, làm mất trật tự, cản trở việc xử lý tai nạn giao thông."
+    },
+    {
+        "question": "Chúc một ngày tốt lành",
+        "answer": [
+            "Xin chào, cảm ơn bạn đã ghé thăm",
+            "Rất vui được gặp lại",
+            "Xin chào, tôi có thể giúp gì cho bạn?"
+        ],
+        "predict": ""
+    },
+    {
+        "question": "Kỳ thị , gây hằn thù , chia rẽ , ly khai dân tộc nhẹ nhất bị phạt bao nhiêu năm ?",
+        "answer": [
+            "Từ 07 năm đến 15 năm"
+        ],
+        "predict": "là loại chứng khoán xác nhận quyền và lợi ích hợp pháp của người sở hữu đối với một phần vốn cổ phần của tổ chức phát hành."
+    },
+    {
+        "question": "Khái niệm Công trình đường bộ được hiểu như thế nào là đúng ?",
+        "answer": [
+            "Công trình đường bộ gồm: Đường bộ, nơi dừng xe, đỗ xe trên đường, đèn tín hiệu, cọc tiêu, biển báo hiệu, dải phân cách, hệ thống thoát nước và công trình, thiết bị phụ trợ khác."
+        ],
+        "predict": "Công trình đường bộ gồm: Đường bộ, nơi dừng xe, đỗ xe trên đường, đèn tín hiệu, cọc tiêu, biển báo hiệu, dải phân cách, hệ thống thoát nước và công trình, thiết bị phụ trợ khác."
+    },
+    {
+        "question": "khỏe không ?",
+        "answer": [
+            "Tớ vẫn khỏe, chat chit suốt ngày. hi hi"
+        ],
+        "predict": "Tớ vẫn khỏe, chat chit suốt ngày. hi hi"
+    },
+    {
+        "question": "Điều khiển xe môtô , xe gắn máy không đội mũ bảo hiểm hoặc đội mũ bảo hiểm không cài quai đúng quy cách khi tham gia giao thông trên đường bộ thì bị phạt bao nhiêu tiền ?",
+        "answer": [
+            "Phạt từ 100.000 đồng đến 200.000 đồng"
+        ],
+        "predict": "Phạt từ 100.000 đồng đến 200.000 đồng"
+    },
+    {
+        "question": "Theo Luật trẻ em , “ chăm sóc thay thế ” được hiểu như thế nào ?",
+        "answer": [
+            "Là việc tổ chức, gia đình, cá nhân nhận trẻ em về chăm sóc, nuôi dưỡng khi trẻ em không còn cha mẹ, Trẻ em không được hoặc không thể sống cùng cha đẻ, mẹ đẻ Trẻ em bị ảnh hưởng bởi thiên tai, thảm họa, xung đột vũ trang nhằm bảo đảm sự an toàn và lợi ích tốt nhất của trẻ em"
+        ],
+        "predict": "Thể chất, Trí tuệ, tinh thần, đạo đức, Mối quan hệ xã hội của trẻ em"
+    },
+    {
+        "question": "Khái niệm về tham nhũng",
+        "answer": [
+            "Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+        ],
+        "predict": "Tài sản tham nhũng phải được thu hồi, trả lại cho chủ sở hữu, người quản lý hợp pháp hoặc tịch thu theo quy định của pháp luật."
+    },
+    {
+        "question": "Khái niệm về Khổ giới hạn của đường bộ",
+        "answer": [
+            "Là khoảng trống có kích thước giới hạn về chiều cao, chiều rộng của đường, cầu, hầm trên đường bộ để các xe kể cả hàng hoá xếp trên xe đi qua được an toàn;"
+        ],
+        "predict": "Là khoảng trống có kích thước giới hạn về chiều cao, chiều rộng của đường, cầu, hầm trên đường bộ để các xe kể cả hàng hoá xếp trên xe đi qua được an toàn;"
+    },
+    {
+        "question": "Ai có trách nhiệm trong việc đảm bảo trật tự an toàn giao thông đường bộ",
+        "answer": [
+            "Là trách nhiệm của cơ quan, tổ chức, cá nhân."
+        ],
+        "predict": "Là trách nhiệm của cơ quan, tổ chức, cá nhân."
+    },
+    {
+        "question": "Khi xin vượt phải trong đô thi và khu đông dân cư từ 22 giờ đến 5 giờ thì xe phải xin vượt như thế nào ?",
+        "answer": [
+            "Báo hiệu bằng đèn tín hiệu"
+        ],
+        "predict": "Báo hiệu bằng đèn tín hiệu"
+    },
+    {
+        "question": "Hợp đồng hợp tác là như thế nào ?",
+        "answer": [
+            "Hợp đồng hợp tác là sự thỏa thuận giữa các cá nhân, pháp nhân về việc cùng đóng góp tài sản, công sức để thực hiện công việc nhất định, cùng hưởng lợi và cùng chịu trách nhiệm."
+        ],
+        "predict": "Hợp đồng hợp tác là sự thỏa thuận giữa các cá nhân, pháp nhân về việc cùng đóng góp tài sản, công sức để thực hiện công việc nhất định, cùng hưởng lợi và cùng chịu trách nhiệm."
+    },
+    {
+        "question": "Có bị phạt tiền khi phơi thóc , lúa , rơm , rạ , nông , lâm , hải sản trên đường bộ",
+        "answer": [
+            "Phạt từ 100.000 đồng đến 200.000 đồng"
+        ],
+        "predict": "Phạt từ 100.000 đồng đến 200.000 đồng"
+    },
+    {
+        "question": "Đe dọa dùng vũ lực , gây sức ép bược người khác rời khỏi chổ ở hợp pháp xử lý ra sao ?",
+        "answer": [
+            "Người nào thực hiện một trong các hành vi sau đây xâm phạm chỗ ở của người khác, thì bị phạt cải tạo không giam giữ đến 02 năm hoặc phạt tù từ 03 tháng đến 02 năm:Khám xét trái pháp luật chỗ ở của người khác;Dùng vũ lực, đe doạ dùng vũ lực, gây sức ép về tinh thần hoặc thủ đoạn trái pháp luật khác buộc người khác phải rời khỏi chỗ ở hợp pháp của họ;Dùng mọi thủ đoạn trái pháp luật nhằm chiếm, giữ chỗ ở hoặc cản trở trái phép, không cho người đang ở hoặc quản lý hợp pháp chỗ ở được vào chỗ ở của họ;Tự ý xâm nhập chỗ ở của người khác mà không được sự đồng ý của chủ nhà hoặc người quản lý hợp pháp."
+        ],
+        "predict": "Là biện pháp cưỡng chế hành chính áp dụng đối với công dân Việt Nam"
+    },
+    {
+        "question": "Thời gian Đình chỉ hoạt động là bao nhiêu năm ?",
+        "answer": [
+            "Thời hạn đình chỉ hoạt động từ 06 tháng đến 03 năm."
+        ],
+        "predict": "Thời hạn đình chỉ hoạt động từ 06 tháng đến 03 năm."
+    },
+    {
+        "question": "Trong phòng chống tham nhũng công tác kiểm tra của cơ quan , tổ chức , đơn vị bao gồm những hình thức nào ?",
+        "answer": [
+            "Kiểm tra thường xuyên được tiến hành theo chương trình, kế hoạch và tập trung vào lĩnh vực, hoạt động dễ phát sinh tham nhũng; kiểm tra đột xuất được tiến hành khi phát hiện có dấu hiệu tham nhũng."
+        ],
+        "predict": "Kiểm tra thường xuyên được tiến hành theo chương trình, kế hoạch và tập trung vào lĩnh vực, hoạt động dễ phát sinh tham nhũng; kiểm tra đột xuất được tiến hành khi phát hiện có dấu hiệu tham nhũng."
+    },
+    {
+        "question": "Dưới 18 tuổi có bị tử hình ?",
+        "answer": [
+            "Không áp dụng hình phạt tử hình đối với người dưới 18 tuổi khi phạm tội, phụ nữ có thai, phụ nữ đang nuôi con dưới 36 tháng tuổi hoặc người đủ 75 tuổi trở lên khi phạm tội hoặc khi xét xử."
+        ],
+        "predict": "Người nào đánh tráo người dưới 01 tuổi này với người dưới 01 tuổi khác, thì bị phạt tù từ 02 năm đến 05 năm."
+    },
+    {
+        "question": "Thế nào là vụ lợi .",
+        "answer": [
+            "Vụ lợi là việc người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn nhằm đạt được lợi ích vật chất hoặc lợi ích phi vật chất không chính đáng."
+        ],
+        "predict": "Vụ lợi là việc người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn nhằm đạt được lợi ích vật chất hoặc lợi ích phi vật chất không chính đáng."
+    },
+    {
+        "question": "Nhiệm vụ , quyền hạn của Thẩm tra viên ?",
+        "answer": [
+            "Thu thập tài liệu, chứng cứ có liên quan đến vụ việc dân sự theo quy định của Bộ luật Tố tụng dân sự"
+        ],
+        "predict": "Di chúc là sự thể hiện ý chí của cá nhân nhằm chuyển tài sản của mình cho người khác sau khi chết."
+    },
+    {
+        "question": "Văn hóa giao thông là gì ?",
+        "answer": [
+            "Là sự hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông, là ý thức trách nhiệm với cộng đồng khi tham gia giao thông.,Là ứng xử văn hóa có tình yêu thương con người trong các tình huống không may xảy ra khi tham gia giao thông."
+        ],
+        "predict": "Là sự hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông, là ý thức trách nhiệm với cộng đồng khi tham gia giao thông.,Là ứng xử văn hóa có tình yêu thương con người trong các tình huống không may xảy ra khi tham gia giao thông."
+    },
+    {
+        "question": "Chúng ta có trách nhiệm gì khi có mặt tại nơi xảy ra vụ tại nạn",
+        "answer": [
+            "Bảo vệ hiện trường; Giúp đỡ, cứu chữa kịp thời người bị nạn; Báo tin ngay cho cơ quan công an, y tế hoặc Ủy ban nhân dân nơi gần nhất;"
+        ],
+        "predict": "Bảo vệ hiện trường; Giúp đỡ, cứu chữa kịp thời người bị nạn; Báo tin ngay cho cơ quan công an, y tế hoặc Ủy ban nhân dân nơi gần nhất;"
+    },
+    {
+        "question": "Khái niệm ký cược",
+        "answer": [
+            "Ký cược là việc bên thuê tài sản là động sản giao cho bên cho thuê một khoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung là tài sản ký cược) trong một thời hạn để bảo đảm việc trả lại tài sản thuê."
+        ],
+        "predict": "Ký cược là việc bên thuê tài sản là động sản giao cho bên cho thuê một khoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung là tài sản ký cược) trong một thời hạn để bảo đảm việc trả lại tài sản thuê."
+    },
+    {
+        "question": "Khi chưa đến vạch dừng mà gặp đèn vàng bật sáng thì ta phải làm gì",
+        "answer": [
+            "Dừng lại trước vạch dừng"
+        ],
+        "predict": "Dừng lại trước vạch dừng"
+    },
+    {
+        "question": "Điều khiển xe môtô , xe gắn máy không chấp hành hiệu lệnh của đèn tín hiệu giao thông thì bị phạt bao nhiêu tiền ?",
+        "answer": [
+            "Phạt từ 200.000 đồng đến 400.000 đồng"
+        ],
+        "predict": "Phạt từ 200.000 đồng đến 400.000 đồng"
+    },
+    {
+        "question": "Bắt buộc phải đội mũ bảo hiểm khi chạy xe đạp điện . xe máy điện phải không ?",
+        "answer": [
+            "Phải Đội mũ bảo hiểm có cài quai đúng quy cách"
+        ],
+        "predict": "Phải Đội mũ bảo hiểm có cài quai đúng quy cách"
+    },
+    {
+        "question": "Có bao nhiêu hành vi bị nghiêm cấm về an ninh mạng ?",
+        "answer": [
+            "6"
+        ],
+        "predict": "6"
+    },
+    {
+        "question": "Quy định về người thừa kế ?",
+        "answer": [
+            "Người thừa kế là cá nhân phải là người còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết. Trường hợp người thừa kế theo di chúc không là cá nhân thì phải tồn tại vào thời điểm mở thừa kế."
+        ],
+        "predict": "Người thừa kế là cá nhân phải là người còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết. Trường hợp người thừa kế theo di chúc không là cá nhân thì phải tồn tại vào thời điểm mở thừa kế."
+    },
+    {
+        "question": "Hợp đồng mẫu là gì",
+        "answer": [
+            "Hợp đồng mua bán điện nước."
+        ],
+        "predict": "Hợp đồng mua bán điện nước."
+    },
+    {
+        "question": "tạm biệt",
+        "answer": [
+            "Hẹn gặp lại, cảm ơn đã ghé thăm",
+            "Chúc một ngày tốt lành",
+            "Tạm biệt! Hãy quay lại sớm.",
+            "Chào cậu. lần khác nói tiếp nhé"
+        ],
+        "predict": ""
+    },
+    {
+        "question": "Như thế nào được gọi là đồng phạm ?",
+        "answer": [
+            "Đồng phạm là trường hợp có hai người trở lên cố ý cùng thực hiện một tội phạm."
+        ],
+        "predict": "Đồng phạm là trường hợp có hai người trở lên cố ý cùng thực hiện một tội phạm."
+    },
+    {
+        "question": "Đối với người phạm tội là người nước ngoài hình phạt nào được áp dụng",
+        "answer": [
+            "Trục xuất"
+        ],
+        "predict": "Trục xuất"
+    },
+    {
+        "question": "Các cách thực hiện giao dịch dân sự ?",
+        "answer": [
+            "Giao dịch dân sự được thể hiện bằng lời nói, bằng văn bản hoặc bằng hành vi cụ thể."
+        ],
+        "predict": "Bằng miệng hoặc bằng văn bản, Bằng hành vi cụ thể."
+    },
+    {
+        "question": "Các khoản trợ cấp hạ sĩ quan và binh sĩ khi xuất ngũ được hưởng là gì ?",
+        "answer": [
+            "Trợ cấp tạo việc làm do Chính phủ quy định"
+        ],
+        "predict": "Được nghỉ phép theo quy định của Chính phủ"
+    },
+    {
+        "question": "Áp dụng tập quán được quy định như thế nào trong Bộ luật dân sự 2015 ?",
+        "answer": [
+            "Trường hợp các bên không có thỏa thuận và pháp luật không quy định thì có thể áp dụng tập quán nhưng tập quán áp dụng không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này"
+        ],
+        "predict": "Quyền dân sự chỉ có thể bị hạn chế theo quy định của luật trong trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng"
+    },
+    {
+        "question": "Ngày tháng năm ban hành luật Phòng , chống ma túy năm 2021",
+        "answer": [
+            " Ngày 30/3/2021"
+        ],
+        "predict": "Ngày 30/3/2021"
+    },
+    {
+        "question": "Thế nào được gọi là thời hiệu",
+        "answer": [
+            "Thời hiệu là thời hạn do luật quy định mà khi kết thúc thời hạn đó thì phát sinh hậu quả pháp lý đối với chủ thể theo điều kiện do luật quy định."
+        ],
+        "predict": "Thời hiệu truy cứu trách nhiệm hình sự là thời hạn do Bộ luật này quy định mà khi hết thời hạn đó thì người phạm tội không bị truy cứu trách nhiệm hình sự."
+    },
+    {
+        "question": "từ 22 giờ đến 5 giờ trong đô thị và khu đông dân cư xe xin vượt phải báo hiệu như thế nào ?",
+        "answer": [
+            "Báo hiệu bằng đèn tín hiệu"
+        ],
+        "predict": "Báo hiệu bằng đèn tín hiệu"
+    },
+    {
+        "question": "Người chăm sóc trẻ em là người như thế nào ?",
+        "answer": [
+            "Là người đảm nhận nhiệm vụ chăm sóc trẻ em, bao gồm người giám hộ của trẻ em, Người nhận chăm sóc thay thế hoặc người được giao trách nhiệm cùng với cha, mẹ của trẻ em cấp dưỡng, chăm sóc, bảo vệ trẻ em"
+        ],
+        "predict": "Là người đảm nhận nhiệm vụ chăm sóc trẻ em, bao gồm người giám hộ của trẻ em, Người nhận chăm sóc thay thế hoặc người được giao trách nhiệm cùng với cha, mẹ của trẻ em cấp dưỡng, chăm sóc, bảo vệ trẻ em"
+    },
+    {
+        "question": "Cây có chứa chất ma túy là gì ?",
+        "answer": [
+            "cây thuốc phiện, cây côca, cây cần sa và các loại cây khác có chứa chất ma túy do Chính phủ quy định."
+        ],
+        "predict": "cây thuốc phiện, cây côca, cây cần sa và các loại cây khác có chứa chất ma túy do Chính phủ quy định."
+    },
+    {
+        "question": "Quyền xác định lại giới tính được quy định như thế nào ?",
+        "answer": [
+            "Việc xác định lại giới tính của một người được thực hiện trong trường hợp giới tính của người đó bị khuyết tật bẩm sinh hoặc chưa định hình chính xác mà cần có sự can thiệp của y học nhằm xác định rõ giới tính."
+        ],
+        "predict": "Việc xác định lại giới tính của một người được thực hiện trong trường hợp giới tính của người đó bị khuyết tật bẩm sinh hoặc chưa định hình chính xác mà cần có sự can thiệp của y học nhằm xác định rõ giới tính."
+    },
+    {
+        "question": "Có được cầm cố bất động sản hay không ?",
+        "answer": [
+            "Được"
+        ],
+        "predict": "Được"
+    },
+    {
+        "question": "Kích động người dân phá dối an ninh thì bị gì ?",
+        "answer": [
+            "Người nào nhằm chống chính quyền nhân dân mà kích động, lôi kéo, tụ tập nhiều người phá rối an ninh, chống người thi hành công vụ, cản trở hoạt động của cơ quan, tổ chức, nếu không thuộc trường hợp quy định tại Điều 112 của Bộ luật này, thì bị phạt tù từ 05 năm đến 15 năm."
+        ],
+        "predict": "Phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm.Phạm tội làm 02 người trở lên tự sát, thì bị phạt tù từ 02 năm đến 07 năm."
+    },
+    {
+        "question": "Bịa đặt , loan truyền thông tin sai sự thật về người khác bị xử lý như thế nào ?",
+        "answer": [
+            "Người nào thực hiện một trong các hành vi sau đây, thì bị phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng, phạt cải tạo không giam giữ đến 02 năm hoặc phạt tù từ 03 tháng đến 01 năm:Bịa đặt hoặc loan truyền những điều biết rõ là sai sự thật nhằm xúc phạm nghiêm trọng nhân phẩm, danh dự hoặc gây thiệt hại đến quyền, lợi ích hợp pháp của người khác;Bịa đặt người khác phạm tội và tố cáo họ trước cơ quan có thẩm quyền."
+        ],
+        "predict": "Người nào đối xử tàn ác hoặc làm nhục người lệ thuộc mình nếu không thuộc các trường hợp quy định tại Điều 185 của Bộ luật này, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 03 tháng đến 02 năm."
+    },
+    {
+        "question": "Số tiền bị phạt khi Chạy xe môtô , xe gắn máy quá tốc độ quy định từ 05 km / h đến dưới 10 km / h",
+        "answer": [
+            "Phạt từ 100.000 đồng đến 200.000 đồng"
+        ],
+        "predict": "Phạt từ 100.000 đồng đến 200.000 đồng"
+    },
+    {
+        "question": "Loại xe nào được điều khiển khi đủ 16 tuổi",
+        "answer": [
+            "Xe gắn máy có dung tích lanh từ 50cm³ trở xuống."
+        ],
+        "predict": "Xe gắn máy có dung tích lanh từ 50cm³ trở xuống."
+    },
+    {
+        "question": "cảm ơn bạn nha",
+        "answer": [
+            "Vui vẻ giúp đỡ!",
+            "Không có gì nha",
+            "Hân hạnh"
+        ],
+        "predict": "Tôi có thể hướng dẫn bạn các thông tin về pháp luật Việt Nam"
+    },
+    {
+        "question": "Khái niệm Làn đường được hiểu như thế nào là đúng ?",
+        "answer": [
+            "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có bề rộng đủ cho xe chạy an toàn."
+        ],
+        "predict": "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có bề rộng đủ cho xe chạy an toàn."
+    },
+    {
+        "question": "Cố ý lây HIV cho người khác thì bị xử lý như thế nào ?",
+        "answer": [
+            "Người nào biết mình bị nhiễm HIV mà cố ý lây truyền HIV cho người khác, trừ trường hợp nạn nhân đã biết về tình trạng nhiễm HIV của người bị HIV và tự nguyện quan hệ tình dục, thì bị phạt tù từ 01 năm đến 03 năm."
+        ],
+        "predict": "Người nào đối xử tàn ác hoặc làm nhục người lệ thuộc mình nếu không thuộc các trường hợp quy định tại Điều 185 của Bộ luật này, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 03 tháng đến 02 năm."
+    },
+    {
+        "question": "Khái niệm về văn hóa giao thông",
+        "answer": [
+            "Là sự hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông, là ý thức trách nhiệm với cộng đồng khi tham gia giao thông.,Là ứng xử văn hóa có tình yêu thương con người trong các tình huống không may xảy ra khi tham gia giao thông."
+        ],
+        "predict": "Là sự hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông, là ý thức trách nhiệm với cộng đồng khi tham gia giao thông.,Là ứng xử văn hóa có tình yêu thương con người trong các tình huống không may xảy ra khi tham gia giao thông."
+    },
+    {
+        "question": "Tháng hành động vì trẻ em là tháng mấy ?",
+        "answer": [
+            " Tháng 6"
+        ],
+        "predict": "Tháng 6"
+    },
+    {
+        "question": "Khái niệm Cầm giữ tài sản",
+        "answer": [
+            "Cầm giữ tài sản là việc bên có quyền (sau đây gọi là bên cầm giữ) đang nắm giữ hợp pháp tài sản là đối tượng của hợp đồng song vụ được chiếm giữ tài sản trong trường hợp bên có nghĩa vụ không thực hiện hoặc thực hiện không đúng nghĩa vụ."
+        ],
+        "predict": "Cầm giữ tài sản là việc bên có quyền (sau đây gọi là bên cầm giữ) đang nắm giữ hợp pháp tài sản là đối tượng của hợp đồng song vụ được chiếm giữ tài sản trong trường hợp bên có nghĩa vụ không thực hiện hoặc thực hiện không đúng nghĩa vụ."
+    },
+    {
+        "question": "Đình chỉ hoạt động vĩnh viễn là sao ?",
+        "answer": [
+            "Đình chỉ hoạt động vĩnh viễn là chấm dứt hoạt động của pháp nhân thương mại trong một hoặc một số lĩnh vực mà pháp nhân thương mại phạm tội gây thiệt hại hoặc có khả năng thực tế gây thiệt hại đến tính mạng của nhiều người, gây sự cố môi trường hoặc gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội và không có khả năng khắc phục hậu quả gây ra."
+        ],
+        "predict": "Đình chỉ hoạt động vĩnh viễn là chấm dứt hoạt động của pháp nhân thương mại trong một hoặc một số lĩnh vực mà pháp nhân thương mại phạm tội gây thiệt hại hoặc có khả năng thực tế gây thiệt hại đến tính mạng của nhiều người, gây sự cố môi trường hoặc gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội và không có khả năng khắc phục hậu quả gây ra."
+    },
+    {
+        "question": "Theo Luật Phòng , chống ma túy năm 2021 thì Phòng , chống ma túy là ?",
+        "answer": [
+            "Phòng, chống ma túy là phòng ngừa, ngăn chặn, đấu tranh chống tội phạm và tệ nạn ma túy; kiểm soát các hoạt động hợp pháp liên quan đến ma túy"
+        ],
+        "predict": "cây thuốc phiện, cây côca, cây cần sa và các loại cây khác có chứa chất ma túy do Chính phủ quy định."
+    },
+    {
+        "question": "Như thế nào là đường không an toàn",
+        "answer": [
+            "Đường có nhiều cây cối và nhà cửa che khuất tầm nhìn"
+        ],
+        "predict": "Đường có nhiều cây cối và nhà cửa che khuất tầm nhìn"
+    },
+    {
+        "question": "Pháp nhân thương mại là gì ?",
+        "answer": [
+            "Pháp nhân thương mại là pháp nhân có mục tiêu chính là tìm kiếm lợi nhuận và lợi nhuận được chia cho các thành viên."
+        ],
+        "predict": "Pháp nhân thương mại là pháp nhân có mục tiêu chính là tìm kiếm lợi nhuận và lợi nhuận được chia cho các thành viên."
+    },
+    {
+        "question": "Thế nào là không tố giác tội phạm ?",
+        "answer": [
+            "Người nào biết rõ tội phạm đang được chuẩn bị, đang được thực hiện hoặc đã được thực hiện mà không tố giác, thì phải chịu trách nhiệm hình sự về tội không tố giác tội phạm trong những trường hợp quy định tại Điều 389 của Bộ luật này."
+        ],
+        "predict": "Người nào biết rõ tội phạm đang được chuẩn bị, đang được thực hiện hoặc đã được thực hiện mà không tố giác, thì phải chịu trách nhiệm hình sự về tội không tố giác tội phạm trong những trường hợp quy định tại Điều 389 của Bộ luật này."
+    },
+    {
+        "question": "Quyền sở hữu gồm những quyền nào ?",
+        "answer": [
+            "Quyền sở hữu bao gồm quyền chiếm hữu, quyền sử dụng và quyền định đoạt tài sản của chủ sở hữu theo quy định của luật."
+        ],
+        "predict": ""
+    },
+    {
+        "question": "Khái niệm tội phạm mạng",
+        "answer": [
+            "Là hành vi sử dụng không gian mạng, công nghệ thông tin hoặc phương tiện điện tử để thực hiện tội phạm được quy định tại Bộ luật Hình sự"
+        ],
+        "predict": "Là hành vi sử dụng không gian mạng, công nghệ thông tin hoặc phương tiện điện tử để thực hiện tội phạm được quy định tại Bộ luật Hình sự"
+    },
+    {
+        "question": "Trên đường giao thông mà Tụ tập đá bóng , đá cầu , chơi cầu lông thì bị phạt bao nhiêu tiền",
+        "answer": [
+            "Phạt từ 100.000 đồng đến 200.000 đồng"
+        ],
+        "predict": "Phạt từ 100.000 đồng đến 200.000 đồng"
+    },
+    {
+        "question": "Thế nào được gọi là an ninh mạng",
+        "answer": [
+            "Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân"
+        ],
+        "predict": "Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân"
+    },
+    {
+        "question": "Giết con mới để bị xử tù bao lâu ?",
+        "answer": [
+            "Người mẹ nào do ảnh hưởng nặng nề của tư tưởng lạc hậu hoặc trong hoàn cảnh khách quan đặc biệt mà giết con do mình đẻ ra trong 07 ngày tuổi, thì bị phạt tù từ 06 tháng đến 03 năm.Người mẹ nào do ảnh hưởng nặng nề của tư tưởng lạc hậu hoặc trong hoàn cảnh khách quan đặc biệt mà vứt bỏ con do mình đẻ ra trong 07 ngày tuổi dẫn đến hậu quả đứa trẻ chết, thì bị phạt cải tạo không giam giữ đến 02 năm hoặc bị phạt tù từ 03 tháng đến 02 năm."
+        ],
+        "predict": "Người mẹ nào do ảnh hưởng nặng nề của tư tưởng lạc hậu hoặc trong hoàn cảnh khách quan đặc biệt mà giết con do mình đẻ ra trong 07 ngày tuổi, thì bị phạt tù từ 06 tháng đến 03 năm.Người mẹ nào do ảnh hưởng nặng nề của tư tưởng lạc hậu hoặc trong hoàn cảnh khách quan đặc biệt mà vứt bỏ con do mình đẻ ra trong 07 ngày tuổi dẫn đến hậu quả đứa trẻ chết, thì bị phạt cải tạo không giam giữ đến 02 năm hoặc bị phạt tù từ 03 tháng đến 02 năm."
+    },
+    {
+        "question": "chấm dứt quyền sở hữu khi ?",
+        "answer": [
+            "Tài sản bị tịch thu."
+        ],
+        "predict": "Chủ sở hữu chuyển quyền sở hữu của mình cho người khác.Chủ sở hữu từ bỏ quyền sở hữu của mình.Tài sản đã được tiêu dùng hoặc bị tiêu hủy.Tài sản bị xử lý để thực hiện nghĩa vụ của chủ sở hữu.Tài sản bị trưng mua.Tài sản bị tịch thu.Tài sản đã được xác lập quyền sở hữu cho người khác theo quy định của Bộ luật này.Trường hợp khác do luật quy định."
+    },
+    {
+        "question": "Tù chung thân là như thế nào ?",
+        "answer": [
+            "Tù chung thân là hình phạt tù không thời hạn được áp dụng đối với người phạm tội đặc biệt nghiêm trọng, nhưng chưa đến mức bị xử phạt tử hình.Không áp dụng hình phạt tù chung thân đối với người dưới 18 tuổi phạm tội."
+        ],
+        "predict": "Tù chung thân là hình phạt tù không thời hạn được áp dụng đối với người phạm tội đặc biệt nghiêm trọng, nhưng chưa đến mức bị xử phạt tử hình.Không áp dụng hình phạt tù chung thân đối với người dưới 18 tuổi phạm tội."
+    },
+    {
+        "question": "Xin chào",
+        "answer": [
+            "Xin chào, cảm ơn bạn đã ghé thăm",
+            "Rất vui được gặp lại",
+            "Xin chào, tôi có thể giúp gì cho bạn?"
+        ],
+        "predict": "Hẹn gặp lại, cảm ơn đã ghé thăm"
+    },
+    {
+        "question": "Kể tên các trường hợp Trường hợp nào thì được chở tối đa hai người khi điều khiển xe đạp chỉ được chở một người",
+        "answer": [
+            "Trẻ em dưới 7 tuổi"
+        ],
+        "predict": "Trẻ em dưới 7 tuổi"
+    },
+    {
+        "question": "Bộ Y tế có trách nhiệm gì trong việc thực hiện quyền và bổn phận trẻ em ?",
+        "answer": [
+            "Bảo đảm trẻ em được tiếp cận các dịch vụ chăm sóc sức khỏe có chất lượng và công bằng tại các cơ sở khám bệnh, chữa bệnh theo quy định của pháp luật"
+        ],
+        "predict": "Bảo đảm trẻ em được tiếp cận các dịch vụ chăm sóc sức khỏe có chất lượng và công bằng tại các cơ sở khám bệnh, chữa bệnh theo quy định của pháp luật"
+    },
+    {
+        "question": "Tàng trữ thông tin xuyên tạc có bị ở tù ?",
+        "answer": [
+            "Bị phạt từ 05 năm đến 15 năm"
+        ],
+        "predict": "Bị phạt từ 05 năm đến 15 năm"
+    },
+    {
+        "question": "Theo Luật Phòng , chống ma túy năm 2021 thì Chất ma túy là ?",
+        "answer": [
+            "chất ma túy là chất gây nghiện, chất hướng thần được quy định trong danh mục chất ma túy do Chính phủ ban hành."
+        ],
+        "predict": "chất ma túy là chất gây nghiện, chất hướng thần được quy định trong danh mục chất ma túy do Chính phủ ban hành."
+    },
+    {
+        "question": "đường không an toàn là gì",
+        "answer": [
+            "Đường có nhiều cây cối và nhà cửa che khuất tầm nhìn"
+        ],
+        "predict": "Đường có nhiều cây cối và nhà cửa che khuất tầm nhìn"
+    },
+    {
+        "question": "Bị xử lý như nào khi xâm phạm tự do tín ngưỡng , tôn giáo",
+        "answer": [
+            "Người nào dùng vũ lực, đe doạ dùng vũ lực hoặc dùng thủ đoạn khác ngăn cản hoặc ép buộc người khác thực hiện quyền tự do tín ngưỡng, tôn giáo, theo hoặc không theo một tôn giáo nào, đã bị xử lý kỷ luật hoặc xử phạt vi phạm hành chính về một trong các hành vi này mà còn vi phạm, thì bị phạt cải tạo không giam giữ đến 01 năm hoặc phạt tù từ 03 tháng đến 01 năm."
+        ],
+        "predict": "Người nào dùng vũ lực, đe doạ dùng vũ lực hoặc dùng thủ đoạn khác ngăn cản hoặc ép buộc người khác thực hiện quyền tự do tín ngưỡng, tôn giáo, theo hoặc không theo một tôn giáo nào, đã bị xử lý kỷ luật hoặc xử phạt vi phạm hành chính về một trong các hành vi này mà còn vi phạm, thì bị phạt cải tạo không giam giữ đến 01 năm hoặc phạt tù từ 03 tháng đến 01 năm."
+    },
+    {
+        "question": "Tội phạm là gì ?",
+        "answer": [
+            "Tội phạm là hành vi nguy hiểm cho xã hội được quy định trong Bộ luật hình sự, do người có năng lực trách nhiệm hình sự hoặc pháp nhân thương mại thực hiện một cách cố ý hoặc vô ý, xâm phạm độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ Tổ quốc, xâm phạm chế độ chính trị, chế độ kinh tế, nền văn hóa, quốc phòng, an ninh, trật tự, an toàn xã hội, quyền, lợi ích hợp pháp của tổ chức, xâm phạm quyền con người, quyền, lợi ích hợp pháp của công dân, xâm phạm những lĩnh vực khác của trật tự pháp luật xã hội chủ nghĩa mà theo quy định của Bộ luật này phải bị xử lý hình sự."
+        ],
+        "predict": "Hành vi nguy hiểm cho xã hội, trái pháp luật hình sự và theo quy định của Bộ luật hình sự phải bị xử lý hình sự."
+    },
+    {
+        "question": "Tài sản riêng của vợ chồng bao gồm những gì ?",
+        "answer": [
+            "Tài ѕản mà mỗi người có trước khi kết hôn; tài ѕản được thừa kế riêng, được tặng cho riêng trong thời kỳ hôn nhân.Tài ѕản được chia riêng cho ᴠợ, chồng trong thời kỳ hôn nhân.Tài ѕản của ᴠợ, chồng được mua từ tiền riêng của ᴠợ, chồng."
+        ],
+        "predict": "Tài ѕản mà mỗi người có trước khi kết hôn; tài ѕản được thừa kế riêng, được tặng cho riêng trong thời kỳ hôn nhân.Tài ѕản được chia riêng cho ᴠợ, chồng trong thời kỳ hôn nhân.Tài ѕản của ᴠợ, chồng được mua từ tiền riêng của ᴠợ, chồng."
+    },
+    {
+        "question": "Các loại tài sản được đặt cọc",
+        "answer": [
+            "Tiền, đá quý, kim khí quý. Vật có giá trị."
+        ],
+        "predict": "Loại cố định và Loại di động"
+    },
+    {
+        "question": "Giáo dục tại trường giáo dưỡng được áp dụng khi nào ?",
+        "answer": [
+            "Tòa án có thể áp dụng biện pháp giáo dục tại trường giáo dưỡng từ 01 năm đến 02 năm đối với người dưới 18 tuổi phạm tội, nếu thấy do tính chất nghiêm trọng của hành vi phạm tội, do nhân thân và môi trường sống của người đó mà cần đưa người đó vào một tổ chức giáo dục có kỷ luật chặt chẽ."
+        ],
+        "predict": "Khi các bên không có thỏa thuận và pháp luật không quy định."
+    },
+    {
+        "question": "Bị phạt bao nhiêuu tiền khi sử dụng điẹn thoại khi đang điều khiển xe môtô , xe gắn máy",
+        "answer": [
+            "Phạt từ 60.000 đồng đến 80.000 đồng"
+        ],
+        "predict": "Phạt từ 60.000 đồng đến 80.000 đồng"
+    },
+    {
+        "question": "Người điều khiển xe đạp máy , xe máy điện có bắt buộc đội mũ bảo hiểm không ?",
+        "answer": [
+            "Phải Đội mũ bảo hiểm có cài quai đúng quy cách"
+        ],
+        "predict": "Phải Đội mũ bảo hiểm có cài quai đúng quy cách"
+    },
+    {
+        "question": "Những phương thức bảo về quyền dân sự ?",
+        "answer": [
+            "Công nhận, tôn trọng, bảo vệ và bảo đảm quyền dân sự của mình.Buộc chấm dứt hành vi xâm phạm.Buộc xin lỗi, cải chính công khai.Buộc thực hiện nghĩa vụ.Buộc bồi thường thiệt hại.Hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền.Yêu cầu khác theo quy định của luật."
+        ],
+        "predict": "Việc tự bảo vệ quyền dân sự phải phù hợp với tính chất, mức độ xâm phạm đến quyền dân sự đó và không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này."
+    },
+    {
+        "question": "Các trường hợp mà quyền dân sự bị hạn chế ?",
+        "answer": [
+            "Quyền dân sự bị hạn chế trong trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng"
+        ],
+        "predict": "Quyền dân sự bị hạn chế trong trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng"
+    },
+    {
+        "question": "Khái niệm Người sử dụng trái phép chất ma túy",
+        "answer": [
+            "Người sử dụng trái phép chất ma túy là người có hành vi sử dụng chất ma túy mà không được sự cho phép của người hoặc cơ quan chuyên môn có thẩm quyền và xét nghiệm chất ma túy trong cơ thể có kết quả dương tính."
+        ],
+        "predict": "Người sử dụng trái phép chất ma túy là người có hành vi sử dụng chất ma túy mà không được sự cho phép của người hoặc cơ quan chuyên môn có thẩm quyền và xét nghiệm chất ma túy trong cơ thể có kết quả dương tính."
+    },
+    {
+        "question": "Thời hiệu truy cứu là gì ?",
+        "answer": [
+            "Thời hiệu truy cứu trách nhiệm hình sự là thời hạn do Bộ luật này quy định mà khi hết thời hạn đó thì người phạm tội không bị truy cứu trách nhiệm hình sự."
+        ],
+        "predict": "Thời hiệu là thời hạn do luật quy định mà khi kết thúc thời hạn đó thì phát sinh hậu quả pháp lý đối với chủ thể theo điều kiện do luật quy định."
+    },
+    {
+        "question": "Cấm huy động vốn được áp dụng khi nào ?",
+        "answer": [
+            "Cấm huy động vốn được áp dụng khi xét thấy nếu để pháp nhân thương mại bị kết án huy động vốn thì có nguy cơ tiếp tục phạm tội."
+        ],
+        "predict": "Khi các bên không có thỏa thuận và pháp luật không quy định."
+    },
+    {
+        "question": "Nơi cư trú của cá nhân được quy định như thế nào ?",
+        "answer": [
+            "Nơi cư trú của cá nhân là nơi người đó thường xuyên sinh sống."
+        ],
+        "predict": "Nơi cư trú của cá nhân là nơi người đó thường xuyên sinh sống."
+    },
+    {
+        "question": "Điều khiển xe đạp , xe đạp máy lạng lách , đánh võng ; đuổi nhau trên đường thì bị xử lý như thế nào ?",
+        "answer": [
+            "Phạt từ 100.000 đồng đến 200.000 đồng"
+        ],
+        "predict": "Phạt từ 100.000 đồng đến 200.000 đồng"
+    },
+    {
+        "question": "Phân loại tội phạm ?",
+        "answer": [
+            "Tội phạm ít nghiêm trọng.Tội phạm nghiêm trọng.Tội phạm rất nghiêm trọng.Tội phạm đặc biệt nghiêm trọng."
+        ],
+        "predict": "Hành vi nguy hiểm cho xã hội, trái pháp luật hình sự và theo quy định của Bộ luật hình sự phải bị xử lý hình sự."
+    },
+    {
+        "question": "Người hưởng dụng có mấy nghĩa vụ ?",
+        "answer": [
+            "Có 5 nghĩa vụ."
+        ],
+        "predict": "Có 5 nghĩa vụ."
+    },
+    {
+        "question": "Sở hữu chung chấm dứt khi nào ?",
+        "answer": [
+            "Tài sản chung đã được chia.Một trong số các chủ sở hữu chung được hưởng toàn bộ tài sản chung.Tài sản chung không còn.Trường hợp khác theo quy định của luật."
+        ],
+        "predict": "Sở hữu chung là sở hữu của nhiều chủ thể đối với tài sản."
+    },
+    {
+        "question": "Có phải trả thù lao khi đăng ảnh của người khác không",
+        "answer": [
+            "Sai"
+        ],
+        "predict": "Sai"
+    },
+    {
+        "question": "Khái niệm hình phạt ?",
+        "answer": [
+            "Hình phạt là biện pháp cưỡng chế nghiêm khắc nhất của Nhà nước được quy định trong Bộ luật này, do Tòa án quyết định áp dụng đối với người hoặc pháp nhân thương mại phạm tội nhằm tước bỏ hoặc hạn chế quyền, lợi ích của người, pháp nhân thương mại đó."
+        ],
+        "predict": "Hình phạt là biện pháp cưỡng chế nghiêm khắc nhất của Nhà nước được quy định trong Bộ luật này, do Tòa án quyết định áp dụng đối với người hoặc pháp nhân thương mại phạm tội nhằm tước bỏ hoặc hạn chế quyền, lợi ích của người, pháp nhân thương mại đó."
+    },
+    {
+        "question": "Tàng trữ , phát tán hoặc tuyên truyền thông tin có nội dung xuyên tạc , phỉ báng chính quyền thì bị gì ?",
+        "answer": [
+            "Bị phạt từ 05 năm đến 15 năm"
+        ],
+        "predict": "Bị phạt từ 05 năm đến 15 năm"
+    },
+    {
+        "question": "Có những thành phần người tham gia giao thông đường bộ nào",
+        "answer": [
+            " Người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ Người điều khiển, dẫn dắt súc vật, Người đi bộ trên đường bộ"
+        ],
+        "predict": "Người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ Người điều khiển, dẫn dắt súc vật, Người đi bộ trên đường bộ"
+    },
+    {
+        "question": "Bạn khỏe không",
+        "answer": [
+            "Xin chào, cảm ơn bạn đã ghé thăm",
+            "Rất vui được gặp lại",
+            "Xin chào, tôi có thể giúp gì cho bạn?"
+        ],
+        "predict": "Tớ vẫn khỏe, chat chit suốt ngày. hi hi"
+    },
+    {
+        "question": "Tham nhũng là gì ?",
+        "answer": [
+            "Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+        ],
+        "predict": "Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+    },
+    {
+        "question": "Quy định việc chuyển quyền sử dụng đất có hiệu lực từ khi nào ?",
+        "answer": [
+            "Việc chuyển quyền sử dụng đất có hiệu lực kể từ thời điểm đăng ký theo quy định của Luật đất đai."
+        ],
+        "predict": "Việc chuyển quyền sử dụng đất có hiệu lực kể từ thời điểm đăng ký theo quy định của Luật đất đai."
+    },
+    {
+        "question": "Không chấp hành theo hiệu lệnh của đèn tín hiệu giao thông khi điều khiển xe gắn máy xe motô thì bị phạt bao nhiêu tiền ?",
+        "answer": [
+            "Phạt từ 200.000 đồng đến 400.000 đồng"
+        ],
+        "predict": "Phạt từ 200.000 đồng đến 400.000 đồng"
+    },
+    {
+        "question": "Tội bắt cóc chiếm đoạn tài sản bị xử lý ra sao ?",
+        "answer": [
+            "Người nào bắt cóc người khác làm con tin nhằm chiếm đoạt tài sản, thì bị phạt tù từ 02 năm đến 07 năm."
+        ],
+        "predict": "Người nào đe doạ sẽ dùng vũ lực hoặc có thủ đoạn khác uy hiếp tinh thần người khác nhằm chiếm đoạt tài sản, thì bị phạt tù từ 01 năm đến 05 năm."
+    },
+    {
+        "question": "Chiếm hữu là gì ?",
+        "answer": [
+            "Chiếm hữu là việc chủ thể nắm giữ, chi phối tài sản một cách trực tiếp hoặc gián tiếp như chủ thể có quyền đối với tài sản."
+        ],
+        "predict": "Chiếm hữu là việc chủ thể nắm giữ, chi phối tài sản một cách trực tiếp hoặc gián tiếp như chủ thể có quyền đối với tài sản."
+    },
+    {
+        "question": "Bạn có thể làm gì ?",
+        "answer": [
+            "Tôi có thể hướng dẫn bạn các thông tin về pháp luật Việt Nam"
+        ],
+        "predict": "Tôi có thể hướng dẫn bạn các thông tin về pháp luật Việt Nam"
+    },
+    {
+        "question": "Có thể phạt tù đối với người đe dọa giết người không ?",
+        "answer": [
+            "Người nào đe doạ giết người, nếu có căn cứ làm cho người bị đe dọa lo sợ rằng việc đe dọa này sẽ được thực hiện, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm."
+        ],
+        "predict": "người sử dụng chất ma túy, thuốc gây nghiện, thuốc hướng thần và bị phụ thuộc vào các chất này."
+    },
+    {
+        "question": "Điều khiển xe môtô , xe gắn máy chạy quá tốc độ quy định trên 20 km có bị phạt tiền không ?",
+        "answer": [
+            "Phạt từ 4.500.000 đồng đến 5.000.000 đồng đồng thời bị tước quyền sử dụng Giấy phép lái xe 30 (ba mươi) ngày."
+        ],
+        "predict": "Phạt từ 4.500.000 đồng đến 5.000.000 đồng đồng thời bị tước quyền sử dụng Giấy phép lái xe 30 (ba mươi) ngày."
+    },
+    {
+        "question": "Phạm tội do dùng chất kích thích có chịu trách nhiệm hình sự ?",
+        "answer": [
+            "Có."
+        ],
+        "predict": "Có."
+    },
+    {
+        "question": "Khái niệm chất ma túy",
+        "answer": [
+            "chất ma túy là chất gây nghiện, chất hướng thần được quy định trong danh mục chất ma túy do Chính phủ ban hành."
+        ],
+        "predict": "chất ma túy là chất gây nghiện, chất hướng thần được quy định trong danh mục chất ma túy do Chính phủ ban hành."
+    },
+    {
+        "question": "Vợ , chồng có quуền như thế nào trong ᴠiệc chiếm hữu , ѕử dụng ᴠà định đoạt tài ѕản chung ?",
+        "answer": [
+            "Do ᴠợ chồng tự thỏa thuận."
+        ],
+        "predict": "Do ᴠợ chồng tự thỏa thuận."
+    },
+    {
+        "question": "xin chao",
+        "answer": [
+            "Xin chào, cảm ơn bạn đã ghé thăm",
+            "Rất vui được gặp lại",
+            "Xin chào, tôi có thể giúp gì cho bạn?"
+        ],
+        "predict": "là loại chứng khoán xác nhận quyền và lợi ích hợp pháp của người sở hữu đối với một phần nợ của tổ chức phát hành.."
+    },
+    {
+        "question": "Trục xuất là như thế nào ?",
+        "answer": [
+            "Trục xuất là buộc người nước ngoài bị kết án phải rời khỏi lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+        ],
+        "predict": "Trục xuất là buộc người nước ngoài bị kết án phải rời khỏi lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+    },
+    {
+        "question": "Trong đô thị trường hợp nào dưới đây xe không được dùng còi ( trừ các xe ưu tiên theo Luật định ) ?",
+        "answer": [
+            "Từ 22h đến 5h sáng hôm sau;"
+        ],
+        "predict": "Trên cầu hẹp có một làn xe, nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt., Điều kiện thời tiết hoặc đường không đảm bảo an toàn cho việc vượt, xe ưu tiên đang phát tín hiệu ưu tiên làm nhiệm vụ."
+    },
+    {
+        "question": "cơ quan y tế cấp nào phụ trách khi thực hiện kiểm tra sức khỏe cho quân nhân dự bị",
+        "answer": [
+            "Cơ quan y tế cấp huyện và tương đương"
+        ],
+        "predict": "Cơ quan y tế cấp huyện và tương đương"
+    },
+    {
+        "question": "Trường hợp nào thì được chở tối đa hai người khi điều khiển xe đạp chỉ được chở một người",
+        "answer": [
+            "Trẻ em dưới 7 tuổi"
+        ],
+        "predict": "Trẻ em dưới 7 tuổi"
+    },
+    {
+        "question": "Trong máu có nồng độ cồn vượt quá 50 miligam đến 80 miligam / 100 mililít máu khi điều khiển xe môtô xe gắn máy thì bị xử lý như thế nào ?",
+        "answer": [
+            "Phạt tiền từ 500.000 đồng đến 1.000.000 đồng, đồng thời bị tước quyền sử dụng Giấy phép lái xe 30 (ba mươi) ngày và tạm giữ phương tiện đến 10 (mười) ngày."
+        ],
+        "predict": "Phạt tiền từ 500.000 đồng đến 1.000.000 đồng, đồng thời bị tước quyền sử dụng Giấy phép lái xe 30 (ba mươi) ngày và tạm giữ phương tiện đến 10 (mười) ngày."
+    },
+    {
+        "question": "Xúi giục người khác tự sát có bị sao không ?",
+        "answer": [
+            "Phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm.Phạm tội làm 02 người trở lên tự sát, thì bị phạt tù từ 02 năm đến 07 năm."
+        ],
+        "predict": "Phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm.Phạm tội làm 02 người trở lên tự sát, thì bị phạt tù từ 02 năm đến 07 năm."
+    },
+    {
+        "question": "Người đủ 15 tuổi đến chưa đủ 18 tuổi có thể mua bán nhà nếu có tiền .",
+        "answer": [
+            "Sai"
+        ],
+        "predict": "Sai"
+    },
+    {
+        "question": "Khi chưa đến vạch dừng mà gặp đèn vàng bật nhấp nháy thì ta phải làm gì",
+        "answer": [
+            "Được đi nhưng phải giảm tốc độ, chú ý quan sát, nhường đường cho người đi bộ qua đường."
+        ],
+        "predict": "Được đi nhưng phải giảm tốc độ, chú ý quan sát, nhường đường cho người đi bộ qua đường."
+    },
+    {
+        "question": "Khái niệm về vụ lợi",
+        "answer": [
+            "Vụ lợi là việc người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn nhằm đạt được lợi ích vật chất hoặc lợi ích phi vật chất không chính đáng."
+        ],
+        "predict": "Vụ lợi là việc người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn nhằm đạt được lợi ích vật chất hoặc lợi ích phi vật chất không chính đáng."
+    },
+    {
+        "question": "khi nào chấm dứt sở hữu chung ?",
+        "answer": [
+            "Tài sản chung đã được chia."
+        ],
+        "predict": "Sở hữu chung là sở hữu của nhiều chủ thể đối với tài sản."
+    },
+    {
+        "question": "Dải phân cách có mấy loại",
+        "answer": [
+            " Loại cố định và Loại di động"
+        ],
+        "predict": "Loại cố định và Loại di động"
+    },
+    {
+        "question": "Rủi ro về thuế là gì ?",
+        "answer": [
+            " là nguy cơ không tuân thủ pháp luật của người nộp thuế dẫn đến thất thu ngân sách nhà nước."
+        ],
+        "predict": "là nguy cơ không tuân thủ pháp luật của người nộp thuế dẫn đến thất thu ngân sách nhà nước."
+    },
+    {
+        "question": "Công dân có quyền gì trong công tác phòng , chống tham nhũng ?",
+        "answer": [
+            "Công dân có quyền phát hiện, phản ánh, tố cáo, tố giác, báo tin về hành vi tham nhũng và được bảo vệ, khen thưởng theo quy định của pháp luật; có quyền kiến nghị với cơ quan nhà nước hoàn thiện pháp luật về phòng, chống tham nhũng và giám sát việc thực hiện pháp luật về phòng, chống tham nhũng.h"
+        ],
+        "predict": "Công dân có quyền phát hiện, phản ánh, tố cáo, tố giác, báo tin về hành vi tham nhũng và được bảo vệ, khen thưởng theo quy định của pháp luật; có quyền kiến nghị với cơ quan nhà nước hoàn thiện pháp luật về phòng, chống tham nhũng và giám sát việc thực hiện pháp luật về phòng, chống tham nhũng.h"
+    },
+    {
+        "question": "Năng lực pháp luật dân sự của cá nhân là gì ?",
+        "answer": [
+            "Năng lực pháp luật dân sự của cá nhân là khả năng của cá nhân có quyền dân sự và nghĩa vụ dân sự."
+        ],
+        "predict": "Năng lực pháp luật dân sự của cá nhân là khả năng của cá nhân có quyền dân sự và nghĩa vụ dân sự."
+    },
+    {
+        "question": "Tiền chất là gì ?",
+        "answer": [
+            "Tiền chất hóa chất không thể thiếu được trong quá trình điều chế, sản xuất chất ma túy được quy định trong danh mục tiền chất do Chính phủ ban hành."
+        ],
+        "predict": "Tiền chất hóa chất không thể thiếu được trong quá trình điều chế, sản xuất chất ma túy được quy định trong danh mục tiền chất do Chính phủ ban hành."
+    },
+    {
+        "question": "người đang điều khiển xe môtô , xe gắn máy sử dụng điện thoại di động thì bị phạt bao nhiêu tiền ?",
+        "answer": [
+            "Phạt từ 60.000 đồng đến 80.000 đồng"
+        ],
+        "predict": "Phạt từ 5.000.000 đồng đến 700.000 đồng"
+    },
+    {
+        "question": "Trường hợp nào không áp dụng tử hình ?",
+        "answer": [
+            "Không áp dụng hình phạt tử hình đối với người dưới 18 tuổi khi phạm tội, phụ nữ có thai, phụ nữ đang nuôi con dưới 36 tháng tuổi hoặc người đủ 75 tuổi trở lên khi phạm tội hoặc khi xét xử."
+        ],
+        "predict": "Cấm huy động vốn được áp dụng khi xét thấy nếu để pháp nhân thương mại bị kết án huy động vốn thì có nguy cơ tiếp tục phạm tội."
+    },
+    {
+        "question": "Nơi cư trú của cá nhân là gì ?",
+        "answer": [
+            "Nơi cư trú của cá nhân là nơi người đó thường xuyên sinh sống."
+        ],
+        "predict": "Nơi cư trú của cá nhân là nơi người đó thường xuyên sinh sống."
+    },
+    {
+        "question": "Việc sản xuất , mua bán , sử dụng biển xe cơ giới , xe máy chuyên dùng được quy định như thế nào trong Luật giao thông đường bộ ?",
+        "answer": [
+            "Nghiêm cấm sản xuất, mua bán, sử dụng trái phép."
+        ],
+        "predict": "Nghiêm cấm sản xuất, mua bán, sử dụng trái phép."
+    },
+    {
+        "question": "trong máu có nồng độ cồn vượt quá 80 miligam / 100 mililít máu khi điều khiển xe môtô xe gắn máy thì bị xử lý như thế nào ?",
+        "answer": [
+            "Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng, đồng thời bị tước quyền sử dụng Giấy phép lái xe 60 (sáu mươi) ngày và tạm giữ phương tiện đến 10 (mười) ngày."
+        ],
+        "predict": "Phạt tiền từ 500.000 đồng đến 1.000.000 đồng, đồng thời bị tước quyền sử dụng Giấy phép lái xe 30 (ba mươi) ngày và tạm giữ phương tiện đến 10 (mười) ngày."
+    },
+    {
+        "question": "Định nghĩa thế chấp tài sản ?",
+        "answer": [
+            "Thế chấp tài sản là việc một bên (sau đây gọi là bên thế chấp) dùng tài sản thuộc sở hữu của mình để bảo đảm thực hiện nghĩa vụ và không giao tài sản cho bên kia (sau đây gọi là bên nhận thế chấp)."
+        ],
+        "predict": "Thế chấp tài sản là việc một bên (sau đây gọi là bên thế chấp) dùng tài sản thuộc sở hữu của mình để bảo đảm thực hiện nghĩa vụ và không giao tài sản cho bên kia (sau đây gọi là bên nhận thế chấp)."
+    },
+    {
+        "question": "Xóa án tích được áp dụng cho trường hợp nào ?",
+        "answer": [
+            "Người dưới 18 tuổi bị kết án được coi là không có án tích, nếu thuộc một trong các trường hợp sau đây:Người từ đủ 14 đến dưới 16 tuổi;Người từ đủ 16 tuổi đến dưới 18 tuổi bị kết án về tội phạm ít nghiêm trọng, tội phạm nghiêm trọng hoặc tội phạm rất nghiêm trọng do vô ý;Người bị áp dụng biện pháp tư pháp quy định tại Mục 3 Chương này."
+        ],
+        "predict": "Khi các bên không có thỏa thuận và pháp luật không quy định."
+    },
+    {
+        "question": "Khi nào người phạm tội được cải tạo không giam giữ ?",
+        "answer": [
+            "Hình phạt cải tạo không giam giữ được áp dụng đối với người từ đủ 16 đến dưới 18 tuổi phạm tội ít nghiêm trọng, phạm tội nghiêm trọng hoặc phạm tội rất nghiêm trọng do vô ý hoặc người từ đủ 14 tuổi đến dưới 16 tuổi phạm tội rất nghiêm trọng do cố ý."
+        ],
+        "predict": "Người dưới 18 tuổi bị kết án được coi là không có án tích, nếu thuộc một trong các trường hợp sau đây:Người từ đủ 14 đến dưới 16 tuổi;Người từ đủ 16 tuổi đến dưới 18 tuổi bị kết án về tội phạm ít nghiêm trọng, tội phạm nghiêm trọng hoặc tội phạm rất nghiêm trọng do vô ý;Người bị áp dụng biện pháp tư pháp quy định tại Mục 3 Chương này."
+    },
+    {
+        "question": "Khái niệm tử hình",
+        "answer": [
+            "Tử hình là hình phạt đặc biệt chỉ áp dụng đối với người phạm tội đặc biệt nghiêm trọng thuộc một trong nhóm các tội xâm phạm an ninh quốc gia, xâm phạm tính mạng con người, các tội phạm về ma túy, tham nhũng và một số tội phạm đặc biệt nghiêm trọng khác do Bộ luật này quy định."
+        ],
+        "predict": "Tử hình là hình phạt đặc biệt chỉ áp dụng đối với người phạm tội đặc biệt nghiêm trọng thuộc một trong nhóm các tội xâm phạm an ninh quốc gia, xâm phạm tính mạng con người, các tội phạm về ma túy, tham nhũng và một số tội phạm đặc biệt nghiêm trọng khác do Bộ luật này quy định."
+    },
+    {
+        "question": "Hợp đồng dịch vụ gôm các đối tượng nào ?",
+        "answer": [
+            "Đối tượng của hợp đồng dịch vụ là công việc có thể thực hiện được, không vi phạm điều cấm của luật, không trái đạo đức xã hội."
+        ],
+        "predict": "Đối tượng của hợp đồng dịch vụ là công việc có thể thực hiện được, không vi phạm điều cấm của luật, không trái đạo đức xã hội."
+    },
+    {
+        "question": "Cảm ơn",
+        "answer": [
+            "Vui vẻ giúp đỡ!",
+            "Không có gì nha",
+            "Hân hạnh"
+        ],
+        "predict": "Chúc một ngày tốt lành"
+    },
+    {
+        "question": "Trong trường hợp phòng vệ chính đáng Người gây thiệt hại có phải bồi thường cho người bị thiệt hại không ?",
+        "answer": [
+            "Không phải bồi thường cho người bị thiệt hại."
+        ],
+        "predict": "Không phải bồi thường cho người bị thiệt hại."
+    },
+    {
+        "question": "Cấm cư trú là sao ?",
+        "answer": [
+            "Cấm cư trú là buộc người bị kết án phạt tù không được tạm trú hoặc thường trú ở một số địa phương nhất định."
+        ],
+        "predict": "Cấm cư trú là buộc người bị kết án phạt tù không được tạm trú hoặc thường trú ở một số địa phương nhất định."
+    },
+    {
+        "question": "Các trường hợp bị pháp luật cấm kết hôn là gì ?",
+        "answer": [
+            "Giữa người đang có vợ và đang có chồng, Người mất năng lực hành vi dân sự.Người có dòng máu về trực hệ; có họ trong phạm vi ba đời."
+        ],
+        "predict": "Giữa người đang có vợ và đang có chồng, Người mất năng lực hành vi dân sự.Người có dòng máu về trực hệ; có họ trong phạm vi ba đời."
+    },
+    {
+        "question": "Tại sao lại có hình phạt ?",
+        "answer": [
+            "Hình phạt không chỉ nhằm trừng trị người, pháp nhân thương mại phạm tội mà còn giáo dục họ ý thức tuân theo pháp luật và các quy tắc của cuộc sống, ngăn ngừa họ phạm tội mới; giáo dục người, pháp nhân thương mại khác tôn trọng pháp luật, phòng ngừa và đấu tranh chống tội phạm."
+        ],
+        "predict": "Hình phạt là biện pháp cưỡng chế nghiêm khắc nhất của Nhà nước được quy định trong Bộ luật này, do Tòa án quyết định áp dụng đối với người hoặc pháp nhân thương mại phạm tội nhằm tước bỏ hoặc hạn chế quyền, lợi ích của người, pháp nhân thương mại đó."
+    },
+    {
+        "question": "Trường hợp một trong hai bên có quyền hủy hợp đồng là gì",
+        "answer": [
+            "Bên kia vi phạm nghiêm trọng nghĩa vụ hợp đồng"
+        ],
+        "predict": "Bên kia vi phạm nghiêm trọng nghĩa vụ hợp đồng"
+    }
+]
