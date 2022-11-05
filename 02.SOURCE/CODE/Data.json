@@ -1,0 +1,668 @@
+[
+        [
+                {
+                        "Question": [
+                                "Khách sạn Đà Lạt được yêu thích",
+                                "Cho mình hỏi những khách sạn Đà Lạt nào thường được nhiều người ưa thích và lựa chọn nhỉ?"
+                        ],
+                        "Answer": "Chào bạn!\n iVIVU.com gợi ý đến bạn một số Khách sạn Đà Lạt được ưa thích bạn có thể tham khảo nhé!\n - Khách sạn 1 sao: Green Đà Lạt, Tâm Dung 1-2, Violet, Tri Giao\n - Khách sạn 2 sao: Xuân Hồng 2, Mỹ Hoa 2, Nam Nguyên\n - Khách sạn 3 sao: Phố Núi, Du Parc, Rum Vàng, Ngọc Phát\n - Khách sạn 4 sao: Ngọc Lan, Mường Thanh, Sài Gòn Đà Lạt"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Khách sạn Đà Lạt giảm giá sốc",
+                                "Hiện có Khách sạn Đà Lạt nào đang giảm giá sốc không bạn ơi?"
+                        ],
+                        "Answer": "Chào bạn!\n Hiện iVIVU.com đang có các chương trình khuyến mãi sau:\n + Tiết kiệm đến 50%\n + Ở miễn phí\n + Ưu đãi đặt sớm\n + Khuyến mãi hè 2014\n + Đang giảm giá\n + Tiết kiệm & ở dài hơn\n Các chương trình khuyến mãi liên tục được cập nhật tại đây.\n Bên cạnh đó là một số Khách sạn Đà Lạt đang khuyến mãi hấp dẫn:\n - Ana Mandara Villas Đà Lạt Resort & Spa (Giá chỉ từ 1.916.000 VND)\n - Dalat Edensee Lake Resort & Spa (Giá chỉ từ 1.852.000 VND)\n - Khách sạn Sài Gòn Đà Lạt (Giá chỉ từ 1.214.000 VND)"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Hình ảnh phòng khách sạn có đúng thực tế không?",
+                                "Hình ảnh các phòng của khách sạn trên iVIVU.com có đúng như thực tế không? Đặt qua iVIVU.com thì chất lượng dịch vụ có khác  so với đặt trực tiếp tại khách sạn không?"
+                        ],
+                        "Answer": "Chào bạn!\n Hình ảnh phòng được các khách sạn cung cấp và có thể có một chút khác biệt so với thực tế. Tuy nhiên, những khách sạn có liên kết với iVIVU.com đều có chất lượng phòng, chất lượng dịch vụ khá tốt, chúng tôi tin rằng những khách sạn này sẽ đem đến cho các bạn những dịch vụ tốt nhất có thể.\n Bên cạnh đó, iVIVU.com cũng khẳng định chất lượng dịch vụ bạn được nhận khi đặt phòng khách sạn trực tuyến thông qua iVIVU.com và đặt phòng trực tiếp không có gì khác biệt. Điểm khác biệt ở đây là bạn sẽ được hưởng một mức giá tiết kiệm hơn và đảm bảo khách sạn sẽ giữ đúng tình trạng phòng cho bạn."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Chất lượng phòng phụ thu tại Khách sạn Đà Lạt",
+                                "Các Khách sạn Đà Lạt có chất lượng phòng phụ thu ra sao vậy Ad ơi?"
+                        ],
+                        "Answer": "Chào bạn!\n Đối với loại phòng cho khách ở thêm người và tính phụ thu thì chất lượng phòng cũng sẽ giống như các phòng khác cùng loại. Tuy nhiên, việc kê thêm giường phụ sẽ tùy thuộc vào quy định của khách sạn. Trong các trường hợp ở ghép thêm người bạn vui lòng thông báo cụ thể để iVIVU.com có thể kiểm tra lại với khách sạn về các điều kiện ở ghép và báo khách sạn hỗ trợ cho mình tốt nhất."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Khách sạn Đà Lạt có dịch vụ cho thuê xe máy không?",
+                                "Khách sạn Đà Lạt có cho thuê xe máy không, có dịch vụ đưa đón sân bay không, có nhà hàng trong khách sạn không vậy bạn?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Khách sạn không có phòng dù tôi đã đặt trước",
+                                "Tôi sẽ làm gì nếu khách sạn không thể cung cấp phòng khi tôi đến nhận phòng?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Đồ ăn ở Dalat Edensee Lake Resort & Spa ra sao?",
+                                "Đồ ăn ở Dalat Edensee Lake Resort & Spa có ngon không? Nấu theo khẩu vị miền nào?"
+                        ],
+                        "Answer": "Chào bạn!\n Theo chúng tôi tìm hiểu cũng như dựa trên những phản hồi của khách hàng iVIVU.com thì chúng tôi xin trả lời bạn như sau:\n Đồ ăn ở Dalat Edensee Lake Resort & Spa khá ngon và phong phú sự lựa chọn cho khách hàng. Bạn có thể chọn ăn ngay tại nhà hàng của khách sạn để tự mình đánh giá. Trong trường hợp bạn không thích những thức ăn ở khách san, bạn có thể tìm những địa điểm ăn uống ngon của Đà Lạt đã được chúng tôi giới thiệu tại đây hoặc một số gợi ý:\n - Ẩm thực Đà Lạt những ngày mưa\n - 10 món ngon nên thử khi đến Đà Lạt\n - Bánh tráng nướng – món ngon gợi nhớ Đà Lạt\n - Du lịch Đà Lạt: Cẩm nang từ A đến Z"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Dalat Edensee Lake Resort & Spa có wifi miễn phí không?",
+                                "Dalat Edensee Lake Resort & Spa có wifi miễn phí không?"
+                        ],
+                        "Answer": "Chào bạn!\n Hiện tại Dalat Edensee Lake Resort & Spa có cung cấp wifi miễn phí bạn nhé! Bạn sẽ được cung cấp username và password khi đến check-in."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Khách sạn Đà Lạt giá rẻ",
+                                "Cho tôi hỏi, khu vực Đà Lạt có khách sạn nào giá rẻ?"
+                        ],
+                        "Answer": "Chào bạn!\n iVIVU.com xin giới thiệu cho bạn vài Khách sạn Đà Lạt giá hợp lý để bạn tham khảo nhé!\n - Nhà nghỉ Beepub Đà Lạt (Giá chỉ từ 74.000 VND)\n - Nhà nghỉ Thiên Hoàng Đà Lạt (Giá chỉ từ 114.000 VND)\n - Nhà Nghỉ Phụng Hồng Đà Lạt (Giá chỉ từ 132.000 VND)"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Khách sạn cao cấp ở Đà Lạt",
+                                "Xin giới thiệu cho tôi những Khách sạn cao cấp ở gần Đà Lạt?"
+                        ],
+                        "Answer": "Chào bạn!\n iVIVU.com xin giới thiệu cho bạn những khách sạn cao cấp ở khu vực Đà Lạt để bạn tiện chọn lựa:\n - Dalat Edensee Lake Resort & Spa (Giá chỉ từ 1.852.000 VND)\n - Ana Mandara Villas Đà Lạt Resort & Spa (Giá chỉ từ 1.916.000 VND)\n - Khách sạn Đà Lạt Palace (Sofitel Đà Lạt Palace trước đây) (Giá chỉ từ 1.949.000 VND)\n Hoặc bạn có thể tham khảo thêm tại danh sách Khách sạn Đà Lạt và chọn lựa cho mình khách sạn phù hợp."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Thay đổi thông tin khách hàng",
+                                "Tôi có thể thay đổi các thông tin khách hàng như: tên khách nhận phòng, địa chỉ email và điện thoại,… được không?"
+                        ],
+                        "Answer": "Chào bạn!\n Bạn hoàn toàn có thể chuyển tên hoặc thay đổi các thông tin khách nhận phòng mà không phải chịu bất kỳ chi phí nào. Bạn vui lòng gọi trực tiếp đến Hotline: (08) 3930 8290 để nhân viên của iVIVU.com có thể hỗ trợ bạn về các vấn đề về đặt phòng khách sạn trực tuyến."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Khách sạn không có phòng dù đã đặt trước",
+                                "Mình đặt phòng bên iVIVU rồi nhưng khi đến khách sạn không có phòng thì phải làm sao?"
+                        ],
+                        "Answer": "Chào anh!\n Thật đáng tiếc nếu điều này xảy ra! Bộ phận Chăm sóc Khách hàng sẽ luôn hỗ trợ anh trong mọi trường hợp, anh có thể gọi điện thoại trực tiếp đến Hotline 24/7: (08) 3930 8290 để được nhân viên của iVIVU.com giúp đỡ. Chúng tôi sẽ yêu cầu khách sạn cung cấp phòng ngay. Nếu cần thiết, chúng tôi sẽ đặt phòng chất lượng tương đương ở chính khách sạn đó hoặc một khách sạn khác, đảm bảo chuyến đi của anh không bị gián đoạn."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Chính sách giá vé áp dụng cho khách đoàn",
+                                "Bên em có đặt phòng cho khách đoàn và có chính sách ưu đãi đặc biệt gì cho khách đoàn không?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Thay đổi thông tin khách hàng",
+                                "Tôi có thể thay đổi các thông tin khách hàng như: tên khách nhận phòng, địa chỉ email và điện thoại,… được không?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Voucher của iVIVU.com",
+                                "Cho mình hỏi, nếu mình mua voucher của iVIVU.com thì mình sẽ được nhận mã voucher điện tử hay phải đến tận văn phòng iVIVU.com để nhận mã code đặt phòng? Cảm ơn Ad!"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Chất lượng phòng khách sạn",
+                                "Khi không hài lòng với chất lượng phòng của khách sạn, tôi có được đổi phòng khác không?"
+                        ],
+                        "Answer": "Chào bạn!\n Việc đổi phòng được thực hiện dựa trên chính sách của từng khách sạn, bạn nên kiểm tra kỹ những thông tin này trước khi chính thức đặt phòng. Phần lớn trường hợp, nếu có phòng đáp ứng nhu cầu của bạn, khách sạn sẽ linh hoạt thay đổi phòng cho bạn và đảm bảo bạn được phục vụ tốt nhất."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Lợi ích khi đặt phòng khách sạn trực tuyến qua iVIVU.com",
+                                "Đặt phòng khách sạn trực tuyến tại iVIVU.com tôi được lợi/tiền/quà tặng gì không?"
+                        ],
+                        "Answer": "Chào bạn!\n Có thể khẳng định ngay với bạn là những ưu đãi khi đặt phòng khách sạn trực tuyến tại iVIVU.com là rất nhiều! Đây là một lợi thế của iVIVU.com so với các hình thức đặt phòng khách sạn trực tuyến khác. Bạn có thể trở thành khách hàng thân thiết của iVIVU.com, nhận nhiều lợi ích giảm giá, tích điểm, quà may mắn hay tham gia các chương trình khuyến mại khách sạn thường xuyên của chúng tôi."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Chính sách hủy phòng",
+                                "Việc thay đổi hay hủy phòng có dễ dàng không? Có tốn phí không?"
+                        ],
+                        "Answer": "Chào bạn!\n Trường hợp bạn muốn hủy phòng sau khi thanh toán, việc hoàn tiền sẽ tùy thuộc vào chính sách hủy phòng của từng khách sạn hay điều kiện các chương trình khuyến mại. Bạn cần kiểm tra kỹ chính sách này trước khi đặt phòng. Phần lớn trường hợp, tiền sẽ dễ dàng được hoàn lại tài khoản của bạn sau 03 ngày làm việc, sau khi đã trừ đi 20.000 VND phí quản trị. Nếu bạn muốn hủy đặt phòng, xin làm theo hướng dẫn sau:\n 1. Kiểm tra Chính sách hủy phòng của khách sạn được công bố trên website, đặc biệt là thời hạn chấp nhận hủy đặt phòng. Bạn cũng có thể tham khảo Chính sách hủy phòng trên email xác nhận đặt phòng.\n 2. Gọi đến Trung tâm Chăm sóc Khách hàng của iVIVU.com (Hotline: 08 3930 8290) để thông báo hủy đặt phòng. Vui lòng cung cấp số đặt phòng để chúng tôi có thể hỗ trợ nhanh chóng.\n 3. Chúng tôi sẽ gửi email xác nhận việc hủy đặt phòng và phí hoàn trả."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Qui định về thời gian nhận và trả phòng",
+                                "Giờ nhận phòng và trả phòng được quy định như thế nào? Nếu tôi muốn nhận phòng sớm và trả phòng trễ thì có được không?"
+                        ],
+                        "Answer": "Chào bạn!\n Theo quy định quốc tế của ngành khách sạn thì giờ nhận phòng là 14:00 và giờ trả phòng là 12:00 trưa. Tuy nhiên, một số khách sạn vẫn linh hoạt trong vấn đề này và về cơ bản, việc nhận phòng sớm, trả phòng trễ là có thể thực hiện được nếu không ảnh hưởng đến hoạt động nhận khách tiếp theo của khách sạn. Cụ thể, nếu phòng của bạn còn trống (có nghĩa là đêm hôm trước không có khách ở) thì bạn sẽ được nhận phòng sớm, trong trường hợp đã có khách ở vào đêm hôm trước thì đúng 14:00 bạn mới nhận được phòng."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Cách mua voucher iVIVU.com",
+                                "Cho mình hỏi, nếu mình mua voucher của iVIVU.com thì mình sẽ được nhận mã voucher điện tử hay phải đến tận văn phòng iVIVU.com để nhận mã code đặt phòng? Cảm ơn Ad!"
+                        ],
+                        "Answer": "Chào bạn!\n Bạn có thể sử dụng voucher để đặt phòng khách sạn trực tuyến trên website của iVIVU.com. Khi đặt phòng, bạn vui lòng nhập mã giảm giá trên voucher vào khung “Mã số thẻ ưu đãi”. Hệ thống sẽ tự động trừ giá tiền phòng theo thông tin giảm giá trên voucher. Trong trường hợp bạn nhập mã thẻ mà giá tiền không thay đổi hoặc có lỗi xảy ra, bạn vui lòng gọi đến Hotline: (08) 3930 8290 để nhân viên của iVIVU.com có thể hỗ trợ bạn."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Địa điểm tham quan khi du lịch Đà Lạt?",
+                                "Vui lòng giới thiệu mình những địa điểm nổi tiếng ở Đà Lạt để tham quan?"
+                        ],
+                        "Answer": "Chào bạn!\n Bạn có thể tham khảo những địa điếm tham quan thú vị này khi du lịch Đà Lạt nhé!\n - Chợ Đà Lạt\n - Hồ Xuân Hương\n - Thung Lũng Tình Yêu\n - Nhà ga xe lửa\n - Cáp treo - Hồ Tuyền Lâm"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Các lễ hội nổi tiếng ở Đà Lạt?",
+                                "Ad ơi cho mình hỏi ở Đà Lạt có lễ hội gì đặc sắc không?"
+                        ],
+                        "Answer": "Chào bạn!\n Với tuổi đời chỉ hơn một thế kỷ, Đà Lạt không có những lễ hội truyền thống lâu đời. Tuy vậy, từ năm 2005, thành phố này đã bắt đầu tổ chức Festival Hoa Đà Lạt, một lễ hội với nhiều sự kiện cùng các hoạt động nghệ thuật nhằm giới thiệu các loài hoa địa phương cũng như từ những vùng miền khác. Ngày 22/12/2009, thành phố Đà Lạt được Nhà nước công nhận là thành phố Festival Hoa.\n Bên cạnh đó là một số Lễ hội hấp dẫn:\n - Lễ hội văn hóa Trà: Được tổ chức hai năm một lần xen kẽ với Festival Hoa Đà Lạt, nhằm tôn vinh ngành chè và những người làm chè.\n - Lễ hội văn hóa dân tộc: tiêu biểu là các văn hóa lễ hội như Lễ Sarơpu (Lễ đâm trâu), lễ hội cúng mừng lúa mới, lễ hội văn hóa cồng chiêng, lễ hội tạ ơn thần thánh,…\n - Lễ hội bia."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Địa điểm vui chơi ở Đà Lạt?",
+                                "Ad ơi mình sắp đi du lịch Đà Lạt, bạn giới thiệu cho mình vài địa điểm vui chơi nhé!"
+                        ],
+                        "Answer": "Chào bạn!\n Bạn có thể tham khảo những địa điểm vui chơi thú vị ở Đà Lạt tại đây nhé!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Phương tiện đi lại khi đến Đà Lạt?",
+                                "Phương tiện đi lại ở Đà Lạt như thế nào thì thuận tiện nhỉ ad ơi?"
+                        ],
+                        "Answer": "Chào bạn!\n iVIVU.com gợi ý cho bạn những phương tiện thông dụng nhất nhé!\n - Xe máy: Đây là phương tiện phổ biến để du khách đi tham quan, bạn có thể liên hệ với chủ khách sạn để được hướng dẫn và cho thuê với giá tốt nhất. Giá thuê xe khoảng 150.000 – 300.000 VND/xe/ngày.\n - Xe đạp: Là lựa chọn thích hợp nhất sau xe máy, bạn có thể thuê xe đạp ở rất nhiều điểm cho thuê xe trong thành phố hoặc ngay tại khách sạn nơi bạn nghỉ. Giá thuê xe khoảng 20.000 – 30.000VND/xe/ngày."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Kinh nghiệm du lịch Đà Lạt",
+                                "Ad cho mình kinh nghiệm du lịch Đà Lạt với, cảm ơn ad!"
+                        ],
+                        "Answer": "Chào bạn!\n Bạn có thể tham khảo những kinh nghiệm cũng như địa điểm vui chơi thú vị ở Đà Lạt tại đây nhé."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Những điểm đến du lịch đẹp nhất ở Đà Lạt",
+                                "Du lịch Đà Lạt có điểm đến nào đẹp và thơ mộng nhỉ?"
+                        ],
+                        "Answer": "Chào bạn!\n Những điểm du lịch đẹp nhất ở Đà Lạt bạn không nên bỏ qua khi du lịch đến thành phố mộng mơ này:\n - Thiền viện Trúc Lâm: Không chỉ là thiền viện lớn nhất Lâm Đồng, mà còn là điểm tham quan và chiêm bái của nhiều du khách trong và ngoài nước.\n - Thung lũng Tình Yêu - một thắng cảnh trữ tình vào bậc nhất của Đà Lạt.\n - Núi Lang Biang: Với chiều cao 2.167m, Lang biang là một ngọn núi đầy “khiêu khích” với những ai muốn thám hiểm, chinh phục độ cao. Nằm trong lòng thung lũng Lâm Viên, nơi đây rất thích hợp cho những chuyến dã ngoại, cắm trại qua đêm.\n - Vườn dâu tây: Nếu có dịp du lịch Đà Lạt, bạn không nên bỏ qua cơ hội tham quan vườn dâu tây. Tại đây, bạn có thể tận mắt chứng kiến quy trình sản xuất từ việc ươm mầm, chăm sóc, thu hoạch cũng như thưởng thức những trái dâu chín mọng, tươi ngon, vô cùng hấp dẫn.\n - Thác Voi - Chùa Linh Ẩn"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Những điều đặc biệt thú vị của Đà Lạt?",
+                                "Những điểm đặc biệt của du lịch Đà Lạt là gì?"
+                        ],
+                        "Answer": "Chào bạn!\n iVIVU.com gợi ý cho bạn những điểm đặc biệt thú vị ở Đà Lạt nhé! Chúc bạn chuyến du lịch Đà Lạt vui vẻ!\n - Các khách sạn Đà Lạt đều không có máy điều hòa.\n - Không có đèn giao thông và hầu như không bao giờ thấy bóng dáng của cảnh sát giao thông.\n - Không có kẹt xe, không có xe xích lô, xe container.\n - Có khá nhiều lời đồn đại về Ngôi Nhà Ma huyền bí ở Đà Lạt, hãy thử khám phá nhé.\n - Hoa Bất Tử và Dâu rừng của Đà Lạt là 2 thứ bạn nên mua về làm quà cho bạn bè và người thân."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Thanh toán trực tiếp tại khách sạn",
+                                "Mình muốn đặt phòng khách sạn qua iVIVU.com nhưng muốn thanh toán trực tiếp tại khách sạn có được không?"
+                        ],
+                        "Answer": "Chào bạn!\n Khi đặt phòng với iVIVU.com, bạn sẽ nhận được giá ưu đãi hơn khi đặt trực tiếp với khách sạn.  Theo điều kiện hợp tác giữa khách sạn và iVIVU.com, khoản thanh toán này bạn sẽ phải thanh toán cho iVIVU.com, trừ các khoản phụ thu phát sinh khác mới thanh toán riêng cho khách sạn."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Có được hoàn tiền đặt phòng khách sạn?",
+                                "Chị đã đặt phòng khách sạn và thanh toán 100% cho bên em rồi nhưng khi đó gia đình chị có việc bận không thể đi được, bên em có hoàn tiền lại cho chị không?"
+                        ],
+                        "Answer": "Chào chị!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Hóa đơn giá trị gia tăng",
+                                "Bên iVIVU.com có xuất hóa đơn GTGT cho khách hàng không?"
+                        ],
+                        "Answer": "Chào bạn!\n Trong trường hợp bạn cần xuất hóa đơn, iVIVU.com sẽ xuất hóa đơn cho bạn theo các trường hợp sau nhé:\n - iVIVU.com trực tiếp xuất hóa đơn đối với hợp đồng mới.\n - Khách sạn xuất hóa đơn ngay khi khách trả phòng.\n - Khách phải trả 10% VAT để được xuất hóa đơn tại khách sạn."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Chính sách phụ thu với trẻ em tại các khách sạn Đà Lạt",
+                                "Tại các khách sạn Đà Lạt, chính sách phụ thu của trẻ em đi kèm được quy định như thế nào?"
+                        ],
+                        "Answer": "Chào bạn!\n Tùy thuộc vào mỗi khách sạn, thường thì trẻ dưới 6 tuổi sẽ không tính phụ thu. Tuy nhiên, bạn cũng nên kiểm tra kỹ điều này trước khi đặt phòng để tránh những trường hợp không hay xảy ra nhé!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Có thể đặt phòng khách sạn đi nước ngoài được không?",
+                                "Chị muốn đặt phòng khách sạn đi nước ngoài nhưng chị không có thẻ thanh toán qua mạng, chị có thể đặt qua bên em được không?"
+                        ],
+                        "Answer": "Chào chị!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Xuất hóa đơn khách sạn nước ngoài",
+                                "Anh muốn đặt phòng khách sạn để đi công tác nước ngoài và cần xuất hóa đơn thì bên em hay bên khách sạn sẽ xuất cho anh?"
+                        ],
+                        "Answer": "Chào bạn!\n Hiện tại iVIVU.com không xuất hóa đơn mà chỉ có thể xuất phiếu xác nhận thanh toán (Invoice Receipt)."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Có thể đặt cọc trước một phần?",
+                                "Chị muốn đặt phòng khách sạn qua iVIVU.com nhưng không muốn thanh toán 100%, chị có thể đặt cọc trước một phần được không?"
+                        ],
+                        "Answer": "Chào chị!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Thanh toán bằng thẻ của người khác",
+                                "Chị đặt phòng khách sạn cho chị nhưng dùng thẻ của người khác thanh toán có được không?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Đặt phòng khách sạn qua iVIVU.com có đảm bảo giá rẻ hơn đặt trực tiếp không?",
+                                "Đặt phòng khách sạn bên em làm sao em bảo đảm cho chị là giá bên em rẻ hơn đặt trực tiếp qua khách sạn như quảng cáo trên website?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Dịch vụ thu tiền tận nơi",
+                                "Tôi bận quá không thể chuyển khoản hay lên văn phòng iVIVU.com thanh toán được, bên em có người qua thu tiền tận nơi không?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Không lấy hóa đơn thì được giảm giá không?",
+                                "Nếu anh không xuất hóa đơn em có giảm giá cho anh được không?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Giá công bố đã bao gồm phí chưa?",
+                                "Giá công bố là giá sau khi đã tính tất cả các phí phải không?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Chính sách giảm giá khi đặt nhiều phòng",
+                                "Chúng tôi có được giảm giá nếu đặt số lượng phòng nhiều không?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Thanh toán trực tiếp tại khách sạn",
+                                "Tại sao tôi không được thanh toán trực tiếp tại khách sạn?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Có thể đặt cọc 50% tiền phòng không?",
+                                "Chúng tôi có thể đặt cọc trước 50% số tiền cần thanh toán cho khách sạn được không?"
+                        ],
+                        "Answer": "Chào chị!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Thanh toán tiền trực tiếp cho khách sạn được không?",
+                                "24 tiếng thanh toán tiền phòng ngay rất gấp gáp cho chúng tôi. Chúng tôi đặt phòng trực tiếp tại khách sạn qua điện thoại rồi đến đó thanh toán tiện lợi hơn nhiều."
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Phương thức thanh toán của iVIVU.com",
+                                "iVIVU.com có phương thức thanh toán nào ngoài thẻ tín dụng không?"
+                        ],
+                        "Answer": "Chào bạn!\n iVIVU.com cung cấp nhiều phương thức thanh toán đa dạng so với các website khác hiện nay. Bạn có thể chọn các cách thanh toán sau:\n • Thẻ tín dụng/Thẻ ghi nợ\n • Thẻ ATM\n • Trả sau\n • Văn phòng iVIVU.com\n • Các điểm giao dịch ACB\n • Chuyển khoản trực tuyến"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Phí chuyển tiền",
+                                "Tôi có phải trả phí chuyển tiền khi chọn phương thức thanh toán chuyển khoản qua ngân hàng ACB không?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Chương trình khuyến mãi",
+                                "Hiện iVIVU.com có chương trình khuyến mãi nào không ad?"
+                        ],
+                        "Answer": "Chào bạn!\n Hiện bên mình đang có các chương trình khuyến mãi sau:\n + Tiết kiệm đến 50%\n + Ở miễn phí\n + Ưu đãi đặt sớm\n + Khuyến mãi hè 2014\n + Đang giảm giá\n + Tiết kiệm & ở dài hơn\n Những chương trình khuyến mãi này sẽ liên tục được cập nhật tại đây. Hãy theo dõi website của chúng tôi để cập nhật những thông tin khuyến mãi này nhé! "
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Chất lượng phòng khuyến mãi",
+                                "Cho mình hỏi đặt phòng đang khuyến mãi của iVIVU.com thì chất lượng phòng có khác đi không?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Có bị phân biệt đối xử khi mua phòng khuyến mãi không?",
+                                "Mua phòng khuyến mãi có bị phân biệt đối xử không ta?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Bao lâu iVIVU.com khuyến mãi một lần?",
+                                "Bao lâu iVIVU.com lại có khuyến mãi 1 lần ad ơi?"
+                        ],
+                        "Answer": "Chào bạn!\n Hiện bên mình đang có các chương trình khuyến mãi sau:\n + Tiết kiệm đến 50%\n + Ở miễn phí\n + Ưu đãi đặt sớm\n + Khuyến mãi hè 2014\n + Đang giảm giá\n + Tiết kiệm & ở dài hơn\n Những chương trình khuyến mãi này sẽ liên tục được cập nhật tại đây, hãy theo dõi website của chúng tôi để cập nhật những thông tin khuyến mãi này nhé!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Khuyến mãi ở Đà Lạt",
+                                "Hè này mình định du lịch Đà Lạt, ad cho mình hỏi có chương trình khuyến mãi nào không ad?"
+                        ],
+                        "Answer": "Chào bạn!\n Hiện bên mình đang có các chương trình khuyến mãi sau cho du lịch Đà Lạt:\n + Tiết kiệm đến 50%\n + Ở miễn phí\n + Ưu đãi đặt sớm\n + Khuyến mãi hè 2014\n + Đang giảm giá\n + Tiết kiệm & ở dài hơn\n Những chương trình khuyến mãi này sẽ liên tục được cập nhật tại đây, hãy theo dõi website của chúng tôi để cập nhật những thông tin khuyến mãi này nhé!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Ưu đãi đặt phòng sớm",
+                                "Mình nghe nói đặt phòng sớm sẽ được ưu đãi phải không? Cụ thể thế nào ad nhỉ?"
+                        ],
+                        "Answer": "Chào bạn!\n iVIVU.com có chương trình ưu đãi đặt phòng sớm cho một số khách sạn. Sẽ tùy thuộc vào mỗi khách sạn sẽ có chương trình đặt sớm bao nhiêu ngày thì bạn được giá ưu đãi. Bạn có thể gọi điện thoại trực tiếp đến Hotline 24/7: (08) 3930 8290 để được nhân viên của iVIVU tư vấn kỹ hơn các vấn đề về đặt phòng khách sạn trực tuyến.\n Ngoài ra, chúng tôi còn có những chương trình ưu đãi khác diễn ra thường xuyên, bạn có thể tham khảo nhé!\n + Tiết kiệm đến 50%\n + Ở miễn phí\n + Ưu đãi đặt sớm\n + Khuyến mãi hè 2014\n + Đang giảm giá\n + Tiết kiệm & ở dài hơn"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Khuyến mãi khách đoàn",
+                                "Mình đi theo đoàn thì có khuyến mãi nào không ad?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Phục vụ ăn uống trong khách sạn?",
+                                "Mình đặt phòng khách sạn thì có được ăn uống miễn phí trong khách sạn không ad?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Mua đồ về khách sạn ăn uống có bị tính phí không?",
+                                "Tôi mua đồ về khách sạn ăn uống thì có bị tính phí không ad?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Địa điểm ăn uống ở Đà Lạt",
+                                "Khu vực gần Đà Lạt có bán đồ ăn uống nhiều không ad?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Bí kíp ăn uống cần chú ý khi đến Đà Lạt?",
+                                "iVIVU.com có bài viết hay tips nào hay về đồ ăn thức uống không chỉ mình với?"
+                        ],
+                        "Answer": "Chào bạn!\n Bạn hãy tìm hiểu nền ẩm thực hấp dẫn của Đà Lạt tại đây bạn nhé!\n Ngoài ra, chúng tôi cũng có nhiều bài viết hay về những mẹo nhỏ khi đi du lịch Đà Lạt, mời bạn tham khảo tại đây."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Không ăn sáng ở khách sạn có được hoàn tiền?",
+                                "Giá phòng khách sạn đã gồm ăn sáng nhưng nếu mình không ăn thì có được giảm giá hay hoàn trả lại tiền không?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Ăn gì khi đi du lịch Đà Lạt?",
+                                "Đi du lịch Đà Lạt thì ăn uống như nào nhỉ? Ẩm thực Đà Lạt ổn không?"
+                        ],
+                        "Answer": "Chào bạn!\n Ẩm thực Đà Lạt rất đa dạng và thú vị đấy! Bạn có thể tham khảo những món ngon Đà Lạt dưới đây nhé!\n - Bánh canh Xuân An: Nằm gần bưu điện thành phố Đà Lạt.\n - Bánh bèo số 4, bà Hường - số 282 phan đình phùng, phường 2, tp. Đà Lạt.\n - Bún bò Huế hẻm Ánh Sáng.\n -  Nem nướng Bà Hùng\n - Mì hoành thánh Tàu Cao\n - Bánh mì Liên Hoa\n Hãy tìm và thưởng thức hết những món ngon đậm chất Đà Lạt này nhé!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Những món đặc sản phải thử khi đến Đà Lạt?",
+                                "Ở Đà Lạt có những món đặc sản nào nhỉ?"
+                        ],
+                        "Answer": "Chào bạn!\n Du lịch Đà Lạt bạn có thể thử qua các món ngon đặc sản của xứ sở mộng mơ dưới đây:\n - Bánh tráng nướng\n - Nem nướng\n - Bún, phở và thập cẩm các món...\n - Rượu Đà Lạt\n - Trà Lâm Đồng\n - Các loại rau, củ, quả: cải bắp, cải thảo, bó xôi, súp lơ, atisô, cần tây, đậu Hà Lan, cà rốt, khoai tây, su su, cải ngọt..."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Địa chỉ mua sắm giá rẻ ở Đà Lạt?",
+                                "Khu vực xung quanh Khách sạn Đà Lạt có nhiều khu mua sắm không ad nhỉ?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Tips mặc cả khi mua sắm ở Đà Lạt",
+                                "Có tips nào về cách mặc cả không chỉ mình với?"
+                        ],
+                        "Answer": "Chào bạn!\n Kinh nghiệm mặc cả, trả giá khi đi du lịch đã được iVIVU.com tổng hợp khá đầy đủ và chi tiết tại đây. Bạn có thể tham khảo để biết thêm chi tiết."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Tránh nói thách ở Đà Lạt",
+                                "Ở Đà Lạt có nói thách nhiều không nhỉ?"
+                        ],
+                        "Answer": "Chào bạn!\n Cách tốt nhất để tránh bị nói thách là bạn nên tìm hiểu kỹ giá trị món hàng.  Kinh nghiệm mặc cả, trả giá khi đi du lịch đã được iVIVU.com tổng hợp khá đầy đủ và chi tiết tại đây, bạn có thể tham khảo để biết thêm chi tiết."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Làm sao để thoải mái trả giá khi mua sắm ở Đà Lạt?",
+                                "Làm sao để trả giá thoải mái mà không bị… chửi ad ơi?"
+                        ],
+                        "Answer": "Chào bạn!\n Cách tốt nhất để tránh bị nói thách là bạn nên tìm hiểu kỹ giá trị món hàng.  Kinh nghiệm mặc cả, trả giá khi đi du lịch đã được iVIVU.com tổng hợp khá đầy đủ và chi tiết tại đây, bạn có thể tham khảo để biết thêm chi tiết."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Trong Ana Mandara Villas Đà Lạt Resort & Spa có khu vực mua sắm không?",
+                                "Trong Ana Mandara Villas Đà Lạt Resort & Spa có khu vực mua sắm không ad?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Làm sao phân biệt được hàng handmade?",
+                                "Làm sao phân biệt được hàng handmade ad nhỉ?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Mua đồ lưu niệm ở khu Đà Lạt giá rẻ không ta?",
+                                "Mua đồ lưu niệm ở khu Đà Lạt giá rẻ không ta?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Cần người quản lý kì nghỉ của gia đình",
+                                "Tôi cần nhân viên CSKH iVIVU.com như một người quản lý kỳ nghỉ riêng của gia đình tôi nên tôi cần cung cấp thông tin vé máy bay/tàu lửa/tàu cánh ngầm ngoài thông tin khách sạn."
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Cách mua voucher iVIVU.com",
+                                "Tôi muốn mua voucher khách sạn từ iVIVU.com (số tiền cụ thể) để tặng bạn bè hay người thân thì có được không?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Xác nhận sau thanh toán",
+                                "Sau khi chúng tôi thanh toán thành công, chúng tôi sẽ có xác nhận gì từ Công ty?"
+                        ],
+                        "Answer": "Chào bạn!\n Khi bạn thanh toán thành công, iVIVU.com sẽ gửi đến bạn Giấy xác nhận đặt phòng chính thức qua email. Giấy xác nhận này đảm bảo khách sạn có phòng cho bạn khi bạn đến nơi. Đồng thời, bạn cũng sẽ nhận được tin nhắn thông báo “Đặt phòng thành công” qua số điện thoại bạn cung cấp."
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Có bị làm giả mã xác nhận phòng không?",
+                                "Tại sao trên xác nhận đặt phòng không có con dấu, nhìn rất dễ bị làm giả. Mang đến khách sạn có bị gây khó dễ không?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Làm sao khi khách sạn không cung cấp phòng",
+                                "Nếu khách sạn báo là không nhận được thông tin đặt phòng của tôi thì tôi phải làm sao để được nhận phòng?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Mất mã số đặt phòng",
+                                "Tôi bị mất mã số đặt phòng, tôi phải làm sao?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Bảo mật thông tin cá nhân",
+                                "Thông tin cá nhân của tôi có được giữ kín không?"
+                        ],
+                        "Answer": "Chào bạn!"
+                }
+        ],
+        [
+                {
+                        "Question": [
+                                "Những lưu ý khi du lịch Đà Lạt",
+                                "Những lưu ý khi du lịch Đà Lạt là gì nhỉ?"
+                        ],
+                        "Answer": "Chào bạn!\n Bạn có thể tham khảo những kinh nghiệm du lịch Đà Lạt đã được iVIVU.com tổng hợp Tại đây!\n Một số lưu ý:\n - Nên mang theo áo ấm và các phụ kiện cho xứ lạnh khi du lịch Đà Lạt.\n - Nếu có điều kiện, nên tự khám phá Đà Lạt tự túc vì Đà Lạt khá nhỏ, cũng không có quá nhiều điểm tham quan du lịch.\n - Thú vui tao nhã khi du lịch Đà Lạt là thưởng thức cà phê trong không khí se lạnh của Đà Lạt.\n - Đà Lạt vào mùa mưa từ tháng 5 đến tháng 10, cần lưu ý khi có kế hoạch cho chuyến đi của mình.\n - Đến Đà Lạt nên sử dụng dịch vụ vận chuyển có uy tín như: Dalatoteserco, Phương Trang hoặc Thành Bưởi.\n - Mã vùng điện thoại của Đà lạt là 063."
+                }
+        ]
+]
