@@ -33,4 +33,4 @@ Thực hiện các bước sau để chạy được Project:
 
 Lưu ý về input: input có thể là bất cứ đoạn text nào, code đều chạy được (sentence, paragraph hoặc article), không được có từ viết tắt vì chưa có khâu tiền xử lý câu.
 
-vncorenlp -Xmx2g /Users/trung/Desktop/DA_CNTT2/02.SOURCE/CODE/QG_V2_1/Code/vncorenlp/VnCoreNLP-1.1.1.jar -p 9000 -a "wseg,pos,ner,parse"
+vncorenlp -Xmx2g C:\Users\trung\Desktop\DA_CNTT2\02.SOURCE\CODE\QG_V2_1\Code\vncorenlp\VnCoreNLP-1.1.1.jar -p 9000 -a "wseg,pos,ner,parse"
