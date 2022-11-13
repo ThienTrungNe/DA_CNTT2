@@ -1,0 +1,1434 @@
+{
+  "data": [
+    {
+      "title": "Ninh Thu\u1eadn",
+      "paragraphs": [
+        {
+          "context": "\nM\u00f9a h\u00e8 l\u00e0 th\u1eddi \u0111i\u1ec3m th\u00edch h\u1ee3p t\u1ed5 ch\u1ee9c c\u00e1c chuy\u1ebfn \u0111i t\u1edbi v\u1ecbnh V\u0129nh Hy. Ch\u00fa \u00fd tr\u00e1nh m\u00f9a b\u00e3o, nh\u1ea5t l\u00e0 v\u00e0o th\u00e1ng 10, 11, 12 v\u00ec thuy\u1ec1n s\u1ebd kh\u00f4ng ra v\u1ecbnh \u0111\u01b0\u1ee3c. Ngo\u00e0i ra, du kh\u00e1ch n\u00ean ch\u1ecdn \u0111i c\u00e1c ng\u00e0y cu\u1ed1i tu\u1ea7n v\u00ec do l\u01b0\u1ee3ng kh\u00e1ch \u0111\u00f4ng n\u00ean ti\u1ec1n thu\u00ea t\u00e0u \u0111\u00e1y k\u00ednh ng\u1eafm san h\u00f4 gi\u00e1 s\u1ebd kh\u00f4ng cao.\u00a0",
+          "qas": [
+            {
+              "question": "Khi du l\u1ecbch V\u0129nh Hy c\u1ea7n ch\u00fa \u00fd tr\u00e1nh b\u00e3o v\u00e0o th\u00e1ng n\u00e0o ?",
+              "id": "96ebe00b-58ba-4f8e-87ea-839332171aed",
+              "answers": [
+                {
+                  "answer_start": 71,
+                  "text": "Ch\u00fa \u00fd tr\u00e1nh m\u00f9a b\u00e3o, nh\u1ea5t l\u00e0 v\u00e0o th\u00e1ng 10, 11, 12 v\u00ec thuy\u1ec1n s\u1ebd kh\u00f4ng ra v\u1ecbnh \u0111\u01b0\u1ee3c"
+                }
+              ]
+            },
+            {
+              "question": "C\u00f3 n\u00ean \u0111i du l\u1ecbch V\u0129nh Hy v\u00e0o cu\u1ed1i tu\u1ea7n hay kh\u00f4ng ?",
+              "id": "83b95d66-df93-4182-84e9-fecdc5814077",
+              "answers": [
+                {
+                  "answer_start": 154,
+                  "text": "Ngo\u00e0i ra, du kh\u00e1ch n\u00ean ch\u1ecdn \u0111i c\u00e1c ng\u00e0y cu\u1ed1i tu\u1ea7n v\u00ec do l\u01b0\u1ee3ng kh\u00e1ch \u0111\u00f4ng n\u00ean ti\u1ec1n thu\u00ea t\u00e0u \u0111\u00e1y k\u00ednh ng\u1eafm san h\u00f4 gi\u00e1 s\u1ebd kh\u00f4ng cao.\u00a0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nT\u00e0u h\u1ecfa: Du kh\u00e1ch c\u00f3 th\u1ec3 mua v\u00e9 \u1edf b\u1ea5t c\u1ee9 ga n\u00e0o tr\u00ean c\u00e1c chuy\u1ebfn t\u00e0u Th\u1ed1ng Nh\u1ea5t, \u0111i\u1ec3m d\u1eebng ch\u00e2n l\u00e0 ga Th\u00e1p Ch\u00e0m. T\u1eeb \u0111\u00e2y du kh\u00e1ch b\u1eaft taxi v\u00e0o trung t\u00e2m th\u00e0nh ph\u1ed1 Phan Rang.",
+          "qas": [
+            {
+              "question": "Du l\u1ecbch t\u00e0u h\u1ecfa \u1edf Ninh Thu\u1eadn ?",
+              "id": "e4aaadfe-fbe8-451d-9af9-ecafda1aafd3",
+              "answers": [
+                {
+                  "answer_start": 10,
+                  "text": "Du kh\u00e1ch c\u00f3 th\u1ec3 mua v\u00e9 \u1edf b\u1ea5t c\u1ee9 ga n\u00e0o tr\u00ean c\u00e1c chuy\u1ebfn t\u00e0u Th\u1ed1ng Nh\u1ea5t, \u0111i\u1ec3m d\u1eebng ch\u00e2n l\u00e0 ga Th\u00e1p Ch\u00e0m. T\u1eeb \u0111\u00e2y du kh\u00e1ch b\u1eaft taxi v\u00e0o trung t\u00e2m th\u00e0nh ph\u1ed1 Phan Rang."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\n\u00d4 t\u00f4: N\u00ean ch\u1ecdn ph\u01b0\u01a1ng ti\u1ec7n n\u00e0y n\u1ebfu xu\u1ea5t ph\u00e1t t\u1eeb S\u00e0i G\u00f2n. Du kh\u00e1ch c\u00f3 th\u1ec3 mua v\u00e9 t\u1ea1i b\u1ebfn xe mi\u1ec1n \u0110\u00f4ng v\u1edbi gi\u00e1 150.000 \u0111\u1ed3ng, \u0111i\u1ec3m d\u1eebng l\u00e0 b\u1ebfn xe Phan Rang.",
+          "qas": [
+            {
+              "question": "Du l\u1ecbch \u00f4 t\u00f4 \u1edf Ninh Thu\u1eadn ?",
+              "id": "60f866c9-0936-4367-9ac8-42216fdb73fe",
+              "answers": [
+                {
+                  "answer_start": 7,
+                  "text": "N\u00ean ch\u1ecdn ph\u01b0\u01a1ng ti\u1ec7n n\u00e0y n\u1ebfu xu\u1ea5t ph\u00e1t t\u1eeb S\u00e0i G\u00f2n. Du kh\u00e1ch c\u00f3 th\u1ec3 mua v\u00e9 t\u1ea1i b\u1ebfn xe mi\u1ec1n \u0110\u00f4ng v\u1edbi gi\u00e1 150.000 \u0111\u1ed3ng, \u0111i\u1ec3m d\u1eebng l\u00e0 b\u1ebfn xe Phan Rang."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nM\u00e1y bay: Du kh\u00e1ch \u0111\u1eb7t v\u00e9 m\u00e1y bay t\u1eeb H\u00e0 N\u1ed9i ho\u1eb7c TP HCM v\u00e0 h\u1ea1 c\u00e1nh t\u1ea1i s\u00e2n bay Cam Ranh c\u00e1ch Phan Rang kho\u1ea3ng 60 km.",
+          "qas": [
+            {
+              "question": "Du l\u1ecbch b\u1eb1ng m\u00e1y bay \u1edf Ninh Thu\u1eadn ?",
+              "id": "91ba0011-ebd6-4a1d-ad8d-50976a4d58c9",
+              "answers": [
+                {
+                  "answer_start": 10,
+                  "text": "Du kh\u00e1ch \u0111\u1eb7t v\u00e9 m\u00e1y bay t\u1eeb H\u00e0 N\u1ed9i ho\u1eb7c TP HCM v\u00e0 h\u1ea1 c\u00e1nh t\u1ea1i s\u00e2n bay Cam Ranh c\u00e1ch Phan Rang kho\u1ea3ng 60 km."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nT\u1eeb Phan Rang b\u1ea1n c\u00f3 th\u1ec3 ch\u1ecdn trong 3 c\u00e1ch sau \u0111\u1ec3 \u0111\u1ebfn v\u1ecbnh V\u0129nh Hy (kho\u1ea3ng 42 km):",
+          "qas": [
+            {
+              "question": "C\u00f3 m\u1ea5y c\u00e1ch \u0111\u1ebfn v\u1ecbnh V\u0129nh Hy",
+              "id": "c867793f-d532-4555-8b92-6cb2b44117c7",
+              "answers": [
+                {
+                  "answer_start": 36,
+                  "text": "3 c\u00e1ch"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nDu kh\u00e1ch thu\u00ea xe \u0111\u00e3 bao g\u1ed3m 2 m\u0169 b\u1ea3o hi\u1ec3m, gi\u00e1 tham kh\u1ea3o g\u1ed3m: xe s\u1ed1 c\u00f3 gi\u00e1 130.000 \u0111\u1ed3ng/ ng\u00e0y (qua \u0111\u00eam ph\u1ee5 thu th\u00eam 50.000 \u0111\u1ed3ng) v\u00e0 xe tay ga gi\u00e1 150.000 \u0111\u1ed3ng/ ng\u00e0y (qua \u0111\u00eam ph\u1ee5 thu th\u00eam 60.000 \u0111\u1ed3ng).",
+          "qas": [
+            {
+              "question": "Gi\u00e1 thu\u00ea xe s\u1ed1 l\u00e0 bao nhi\u00eau ?",
+              "id": "cb85a67e-54d4-4399-bb2a-634e72befb93",
+              "answers": [
+                {
+                  "answer_start": 63,
+                  "text": "xe s\u1ed1 c\u00f3 gi\u00e1 130.000 \u0111\u1ed3ng/ ng\u00e0y"
+                }
+              ]
+            },
+            {
+              "question": "Gi\u00e1 thu\u00ea xe tay ga l\u00e0 bao nhi\u00eau ? ",
+              "id": "5c362f41-435b-4394-abe0-d87f473210da",
+              "answers": [
+                {
+                  "answer_start": 147,
+                  "text": "150.000 \u0111\u1ed3ng/ ng\u00e0y"
+                }
+              ]
+            },
+            {
+              "question": "Qua \u0111\u00eam xe s\u1ed1 ph\u1ee5 thu bao nhi\u00eau ?",
+              "id": "4c4f29a3-72e7-4c7d-a10d-0b7287bd92fb",
+              "answers": [
+                {
+                  "answer_start": -1,
+                  "text": "xe m\u00e1y qua \u0111\u00eam ph\u1ee5 thu th\u00eam 50.000 \u0111\u1ed3ng"
+                }
+              ]
+            },
+            {
+              "question": "Qua \u0111\u00eam xe tay ga ph\u1ee5 thu bao nhi\u00eau ?",
+              "id": "57f0ab78-915e-4057-a8d6-7e8405ad96e8",
+              "answers": [
+                {
+                  "answer_start": -1,
+                  "text": "xe tay ga qua \u0111\u00eam ph\u1ee5 thu th\u00eam 60.000 \u0111\u1ed3ng"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nT\u1eeb Phan Rang b\u1ea1n \u0111i qua c\u1ea7u Tri Th\u1ee7y, theo \u0111\u01b0\u1eddng t\u1ec9nh l\u1ed9 702 v\u1ec1 ph\u00eda \u0111\u00f4ng b\u1eafc Ninh Thu\u1eadn. Du kh\u00e1ch di chuy\u1ec3n d\u1ecdc theo nh\u1eefng cung \u0111\u01b0\u1eddng u\u1ed1n l\u01b0\u1ee3n v\u1edbi m\u1ed9t b\u00ean bi\u1ec3n, m\u1ed9t b\u00ean l\u00e0 cu\u1ed9c s\u1ed1ng y\u00ean b\u00ecnh c\u1ee7a nh\u1eefng ch\u00fa c\u1eeba \u0111ang g\u1eb7m c\u1ecf. V\u1ecbnh V\u0129nh Hy hi\u1ec7n ra tr\u01b0\u1edbc m\u1eaft \u0111\u1eb9p nh\u01b0 b\u1ee9c tranh th\u1ee7y m\u1eb7c v\u1edbi m\u00e0u n\u01b0\u1edbc xanh ng\u1eaft, \u0111i\u1ec3m xuy\u1ebft th\u00eam b\u1eb1ng nh\u1eefng chi\u1ebfc t\u00e0u c\u1ee7a ng\u01b0 d\u00e2n.",
+          "qas": [
+            {
+              "question": "T\u1eeb Phan Rang qua c\u1ea7u n\u00e0o \u0111\u1ebfn v\u1ecbnh V\u0129nh Hy ?",
+              "id": "16df7648-f61a-43b2-b666-e09954f84aac",
+              "answers": [
+                {
+                  "answer_start": 21,
+                  "text": "qua c\u1ea7u Tri Th\u1ee7y"
+                }
+              ]
+            },
+            {
+              "question": "T\u1eeb Phan Rang \u0111i \u0111\u01b0\u1eddng n\u00e0o \u0111\u1ebfn v\u1ecbnh V\u0129nh Hy ?",
+              "id": "5590308e-23d7-48fc-bbc3-c8f3b6927483",
+              "answers": [
+                {
+                  "answer_start": 39,
+                  "text": "theo \u0111\u01b0\u1eddng t\u1ec9nh l\u1ed9 702 v\u1ec1 ph\u00eda \u0111\u00f4ng b\u1eafc Ninh Thu\u1eadn"
+                }
+              ]
+            },
+            {
+              "question": "Quang c\u1ea3nh 2 b\u00ean \u0111\u01b0\u1eddng \u0111\u1ebfn V\u0129nh Hy nh\u01b0 th\u1ebf n\u00e0o ? ",
+              "id": "ec60951d-a82d-4e3f-a06d-0721fe56db18",
+              "answers": [
+                {
+                  "answer_start": 91,
+                  "text": "Du kh\u00e1ch di chuy\u1ec3n d\u1ecdc theo nh\u1eefng cung \u0111\u01b0\u1eddng u\u1ed1n l\u01b0\u1ee3n v\u1edbi m\u1ed9t b\u00ean bi\u1ec3n, m\u1ed9t b\u00ean l\u00e0 cu\u1ed9c s\u1ed1ng y\u00ean b\u00ecnh c\u1ee7a nh\u1eefng ch\u00fa c\u1eeba \u0111ang g\u1eb7m c\u1ecf. V\u1ecbnh V\u0129nh Hy hi\u1ec7n ra tr\u01b0\u1edbc m\u1eaft \u0111\u1eb9p nh\u01b0 b\u1ee9c tranh th\u1ee7y m\u1eb7c v\u1edbi m\u00e0u n\u01b0\u1edbc xanh ng\u1eaft, \u0111i\u1ec3m xuy\u1ebft th\u00eam b\u1eb1ng nh\u1eefng chi\u1ebfc t\u00e0u c\u1ee7a ng\u01b0 d\u00e2n."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nC\u00f2n m\u1ed9t l\u1ed1i \u0111i kh\u00e1c d\u1eabn \u0111\u1ebfn v\u1ecbnh V\u0129nh Hy \u0111\u00f3 l\u00e0 xu\u1ea5t ph\u00e1t t\u1eeb c\u1ea7u M\u1ef9 Thanh, th\u00e0nh ph\u1ed1 Cam Ranh, Kh\u00e1nh H\u00f2a theo \u0111\u01b0\u1eddng N\u01b0\u1edbc Ng\u1ecdt. \u0110i theo \u0111\u01b0\u1eddng n\u00e0y b\u1ea1n s\u1ebd kh\u00f4ng th\u1ea5y nh\u1eefng c\u00e1nh \u0111\u1ed3ng c\u1ecf thay v\u00e0o \u0111\u00f3 l\u00e0 nh\u1eefng \u0111\u1ed3i n\u00fai nhi\u1ec1u h\u00ecnh th\u00f9 c\u00f9ng h\u00e0ng d\u01b0\u01a1ng n\u01a1i nh\u1eefng b\u00e3i c\u00e1t tr\u1ea3i d\u00e0i.",
+          "qas": [
+            {
+              "question": "C\u00f2n l\u1ed1i kh\u00e1c \u0111\u1ebfn V\u0129nh Hy kh\u00f4ng ?",
+              "id": "8f490c0d-7333-4c71-884f-3a13584d107b",
+              "answers": [
+                {
+                  "answer_start": -1,
+                  "text": "C\u00f3"
+                }
+              ]
+            },
+            {
+              "question": "\u0110\u01b0\u1eddng kh\u00e1c \u0111\u1ebfn v\u1ecbnh V\u0129nh Hy \u0111i nh\u01b0 th\u1ebf n\u00e0o ?",
+              "id": "83b88245-c170-405e-8e89-6474be75e66e",
+              "answers": [
+                {
+                  "answer_start": 48,
+                  "text": "xu\u1ea5t ph\u00e1t t\u1eeb c\u1ea7u M\u1ef9 Thanh, th\u00e0nh ph\u1ed1 Cam Ranh, Kh\u00e1nh H\u00f2a theo \u0111\u01b0\u1eddng N\u01b0\u1edbc Ng\u1ecdt. "
+                }
+              ]
+            },
+            {
+              "question": "Quang c\u1ea3nh 2 b\u00ean l\u1ed1i \u0111i kh\u00e1c \u0111\u1ebfn V\u0129nh Hy nh\u01b0 th\u1ebf n\u00e0o ?",
+              "id": "88183979-de71-4e0c-8391-900997bb0d94",
+              "answers": [
+                {
+                  "answer_start": 127,
+                  "text": "\u0110i theo \u0111\u01b0\u1eddng n\u00e0y b\u1ea1n s\u1ebd kh\u00f4ng th\u1ea5y nh\u1eefng c\u00e1nh \u0111\u1ed3ng c\u1ecf thay v\u00e0o \u0111\u00f3 l\u00e0 nh\u1eefng \u0111\u1ed3i n\u00fai nhi\u1ec1u h\u00ecnh th\u00f9 c\u00f9ng h\u00e0ng d\u01b0\u01a1ng n\u01a1i nh\u1eefng b\u00e3i c\u00e1t tr\u1ea3i d\u00e0i."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nNgo\u00e0i vi\u1ec7c ti\u1ebft ki\u1ec7m so v\u1edbi \u0111i xe m\u00e1y th\u00ec bu\u00fdt gi\u00fap nh\u1eefng ng\u01b0\u1eddi kh\u00f4ng quen l\u00e1i xe \u0111\u01b0\u1eddng d\u00e0i an t\u00e2m. Xu\u1ea5t ph\u00e1t t\u1ea1i b\u1ebfn xe Phan Rang ho\u1eb7c b\u1ea1n c\u00f3 th\u1ec3 \u0111\u00f3n xe bu\u00fdt t\u1ea1i c\u00e1c tr\u1ea1m \u0111\u00f3n tr\u1ea3 kh\u00e1ch tr\u00ean \u0111\u01b0\u1eddng \u0111\u1ebfn V\u0129nh Hy. M\u1ea5t kho\u1ea3ng 1h15 ph\u00fat c\u00e1c b\u1ea1n s\u1ebd \u0111\u1ebfn v\u1ecbnh V\u0129nh Hy.",
+          "qas": [
+            {
+              "question": "C\u00f3 th\u1ec3 \u0111i xe bu\u00fdt \u0111\u1ebfn V\u0129nh Hy kh\u00f4ng ?",
+              "id": "38c6685d-fd7a-4aa9-abe6-3d581235b1b9",
+              "answers": [
+                {
+                  "answer_start": -1,
+                  "text": "C\u00f3"
+                }
+              ]
+            },
+            {
+              "question": "\u0110i xe bu\u00fdt \u0111\u1ebfn v\u1ecbnh V\u0129nh Hy m\u1ea5t kho\u1ea3ng bao l\u00e2u ?",
+              "id": "9de7ea6f-a3bc-493a-b261-2166a2e67487",
+              "answers": [
+                {
+                  "answer_start": 211,
+                  "text": "M\u1ea5t kho\u1ea3ng 1h15 ph\u00fat "
+                }
+              ]
+            },
+            {
+              "question": "\u0110\u00f3n xe bu\u00fdt \u1edf b\u1ebfn xe n\u00e0o t\u1edbi v\u1ecbnh V\u0129nh Hy ? ",
+              "id": "019e6c38-9ef5-4b2d-a613-eb3c5d84ee34",
+              "answers": [
+                {
+                  "answer_start": 115,
+                  "text": "b\u1ebfn xe Phan Rang"
+                }
+              ]
+            },
+            {
+              "question": "Ngo\u00e0i b\u1ebfn xe Phan Rang, c\u00f2n c\u00f3 th\u1ec3 \u0111\u00f3n xe bu\u00fdt \u1edf \u0111\u00e2u ?",
+              "id": "8a586aa8-e429-4f6b-b1aa-e075264585cc",
+              "answers": [
+                {
+                  "answer_start": 160,
+                  "text": "t\u1ea1i c\u00e1c tr\u1ea1m \u0111\u00f3n tr\u1ea3 kh\u00e1ch tr\u00ean \u0111\u01b0\u1eddng \u0111\u1ebfn V\u0129nh Hy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nT\u1ea1i Phan Rang c\u00f3 m\u1ed9t s\u1ed1 h\u00e3ng taxi uy t\u00edn \u0111\u1ec3 du kh\u00e1ch tham kh\u1ea3o nh\u01b0 Ng\u1ecdc Hoa, Ninh Thu\u1eadn, Mai Linh.",
+          "qas": [
+            {
+              "question": "T\u1ea1i Phan Rang c\u00f3 h\u00e3ng taxi n\u00e0o ? ",
+              "id": "1b1c83ce-254f-4e29-ab7c-9fef8224241c",
+              "answers": [
+                {
+                  "answer_start": 68,
+                  "text": "Ng\u1ecdc Hoa, Ninh Thu\u1eadn, Mai Linh."
+                }
+              ]
+            },
+            {
+              "question": "T\u1ea1i Phan Rang c\u00f3 taxi kh\u00f4ng ?",
+              "id": "765c712a-43a0-4c29-84c3-5a50d4b3773c",
+              "answers": [
+                {
+                  "answer_start": -1,
+                  "text": "C\u00f3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nV\u0129nh Hy c\u00f3 nhi\u1ec1u d\u1ecbch v\u1ee5 nh\u00e0 ngh\u1ec9 gi\u00e1 r\u1ebb t\u1eeb kho\u1ea3ng 200.000 \u0111\u1ed3ng m\u1ed9t ph\u00f2ng hai gi\u01b0\u1eddng.",
+          "qas": [
+            {
+              "question": "D\u1ecbch v\u1ee5 nh\u00e0 ngh\u1ec9 gi\u00e1 r\u1ebb \u1edf V\u0129nh Hy bao nhi\u00eau ?",
+              "id": "f91e5d36-42aa-484f-9979-41992ca59919",
+              "answers": [
+                {
+                  "answer_start": 45,
+                  "text": "kho\u1ea3ng 200.000 \u0111\u1ed3ng "
+                }
+              ]
+            },
+            {
+              "question": "M\u1ed9t ph\u00f2ng c\u00f3 bao nhi\u00eau gi\u01b0\u1eddng ? ",
+              "id": "4909588c-6d20-408f-8603-c4dfe75eaf18",
+              "answers": [
+                {
+                  "answer_start": 65,
+                  "text": "m\u1ed9t ph\u00f2ng hai gi\u01b0\u1eddng."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nC\u00e1c b\u1ea1n \u0111i ph\u01b0\u1ee3t c\u00f3 th\u1ec3 \u0111em theo l\u1ec1u tr\u1ea1i r\u1ed3i thu\u00ea t\u00e0u ra c\u00e1c b\u00e3i bi\u1ec3n c\u00e1t m\u1ecbn g\u1ea7n c\u1ea3ng \u0111\u1ec3 c\u1eafm l\u1ec1u ng\u1ee7 qua \u0111\u00eam.",
+          "qas": [
+            {
+              "question": "\u0110i ph\u01b0\u1ee3t \u1edf v\u1ecbnh V\u0129nh Hy n\u00ean \u0111em theo g\u00ec ?",
+              "id": "e5ae6c3f-3e28-4838-83d3-b62f98a5282f",
+              "answers": [
+                {
+                  "answer_start": 25,
+                  "text": "\u0111em theo l\u1ec1u tr\u1ea1i"
+                }
+              ]
+            },
+            {
+              "question": "C\u00f3 th\u1ec3 thu\u00ea t\u00e0u \u0111i \u0111\u00e2u ? ",
+              "id": "1f76690a-f01b-4b49-b0bb-a0af8e8567ad",
+              "answers": [
+                {
+                  "answer_start": 56,
+                  "text": "ra c\u00e1c b\u00e3i bi\u1ec3n c\u00e1t m\u1ecbn g\u1ea7n c\u1ea3ng"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nDu kh\u00e1ch t\u1edbi V\u0129nh Hy c\u00f3 th\u1ec3 thu\u00ea thuy\u1ec1n ng\u1eafm san h\u00f4 v\u00e0 l\u1eb7n bi\u1ec3n. T\u1ea1i b\u1ebfn thuy\u1ebfn c\u00f3 nhi\u1ec1u \u0111\u1ed9i cho c\u00e1c b\u1ea1n ch\u1ecdn, c\u00f3 hai c\u00e1ch sau: N\u1ebfu \u0111i t\u1eeb 2-8 ng\u01b0\u1eddi th\u00ec b\u1ea1n ph\u1ea3i gh\u00e9p chung v\u1edbi \u0111o\u00e0n kh\u00e1c \u0111\u1ec3 \u0111\u1ee7 thuy\u1ec1n, gi\u00e1 \u0111\u01b0\u1ee3c t\u00ednh \u0111\u1ea7u ng\u01b0\u1eddi kho\u1ea3ng 60.000 \u0111\u1ed3ng. C\u00f2n \u0111i nhi\u1ec1u ng\u01b0\u1eddi h\u01a1n b\u1ea1n c\u00f3 th\u1ec3 ch\u1ecdn h\u00ecnh th\u1ee9c thu\u00ea thuy\u1ec1n ri\u00eang v\u1edbi gi\u00e1 thu\u00ea nguy\u00ean t\u00e0u t\u1eeb 600.000 \u0111\u1ed3ng tr\u1edf l\u00ean.",
+          "qas": [
+            {
+              "question": "V\u1ecbnh V\u0129nh Hy c\u00f3 th\u1ec3 thu\u00ea thuy\u1ec1n l\u00e0m g\u00ec ?",
+              "id": "f8f45ebb-97d3-4448-81bc-bd3a5f4ae402",
+              "answers": [
+                {
+                  "answer_start": 41,
+                  "text": "ng\u1eafm san h\u00f4 v\u00e0 l\u1eb7n bi\u1ec3n"
+                }
+              ]
+            },
+            {
+              "question": "Thu\u00ea thuy\u1ec1n t\u1eeb 2-8 ng\u01b0\u1eddi th\u00ec \u0111\u01b0\u1ee3c kh\u00f4ng ?",
+              "id": "64c9414f-8fd9-4da4-9838-b03b5ed016d8",
+              "answers": [
+                {
+                  "answer_start": -1,
+                  "text": "\u0110\u01b0\u1ee3c"
+                }
+              ]
+            },
+            {
+              "question": "N\u1ebfu \u0111i t\u1eeb 2-8 ng\u01b0\u1eddi th\u00ec nh\u01b0 th\u1ebf n\u00e0o ?",
+              "id": "6c2229ac-168c-4f5f-bce5-19b83188f247",
+              "answers": [
+                {
+                  "answer_start": 129,
+                  "text": "N\u1ebfu \u0111i t\u1eeb 2-8 ng\u01b0\u1eddi th\u00ec b\u1ea1n ph\u1ea3i gh\u00e9p chung v\u1edbi \u0111o\u00e0n kh\u00e1c \u0111\u1ec3 \u0111\u1ee7 thuy\u1ec1n"
+                }
+              ]
+            },
+            {
+              "question": "Gi\u00e1 thu\u00ea thuy\u1ec1n khi \u0111i t\u1eeb 2-8 ng\u01b0\u1eddi ?",
+              "id": "fab2f111-e9aa-46fc-b8b3-bbe4e0deba50",
+              "answers": [
+                {
+                  "answer_start": 205,
+                  "text": "\u0111\u01b0\u1ee3c t\u00ednh \u0111\u1ea7u ng\u01b0\u1eddi kho\u1ea3ng 60.000 \u0111\u1ed3ng"
+                }
+              ]
+            },
+            {
+              "question": "Nhi\u1ec1u ng\u01b0\u1eddi th\u00ec thu\u00ea nh\u01b0 th\u1ebf n\u00e0o ?",
+              "id": "1b469fce-68ca-4cfa-92a3-cbe7a14032e5",
+              "answers": [
+                {
+                  "answer_start": 294,
+                  "text": "thu\u00ea thuy\u1ec1n ri\u00eang "
+                }
+              ]
+            },
+            {
+              "question": "Gi\u00e1 thu\u00ea thuy\u1ec1n ri\u00eang l\u00e0 bao nhi\u00eau ?",
+              "id": "cd063ca6-15fc-424b-bfad-09197fc0445b",
+              "answers": [
+                {
+                  "answer_start": 336,
+                  "text": "t\u1eeb 600.000 \u0111\u1ed3ng tr\u1edf l\u00ea"
+                }
+              ]
+            },
+            {
+              "question": "Gi\u00e1 thu\u00ea nguy\u00ean t\u00e0u l\u00e0 bao nhi\u00eau ?",
+              "id": "47ed4704-5549-4958-928d-cf6ec8c4e3ae",
+              "answers": [
+                {
+                  "answer_start": 336,
+                  "text": "t\u1eeb 600.000 \u0111\u1ed3ng tr\u1edf l\u00ean."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nLo\u1ea1i t\u00e0u \u0111\u00e1y k\u00ednh s\u1ebd \u0111\u01b0a c\u00e1c b\u1ea1n \u0111\u1ebfn khu v\u1ef1c b\u1ea3o t\u1ed3n c\u00f3 r\u1ea5t nhi\u1ec1u san h\u00f4, t\u1ea1i \u0111\u00e2y du kh\u00e1ch c\u00f3 th\u1ec3 ng\u1ed3i tr\u00ean thuy\u1ec1n tha h\u1ed3 ng\u1eafm c\u1ea3nh \u0111\u1eb9p. Sau \u0111\u00f3 t\u00e0u s\u1ebd \u0111\u01b0a b\u1ea1n \u0111\u1ebfn b\u00e3i t\u1eafm B\u00e0 \u0110i\u00ean ho\u1eb7c \u0111\u1ebfn B\u00e3i C\u00f3c \u0111\u1ec1u c\u00e1ch b\u1edd kho\u1ea3ng 30 ph\u00fat \u0111\u1ec3 t\u1eafm ho\u1eb7c l\u1eb7n bi\u1ec3n. B\u1ea1n c\u0169ng c\u00f3 th\u1ec3 th\u1eed s\u1ee9c leo l\u00ean nh\u1eefng h\u00f2n \u0111\u00e1 cao v\u1edbi nhi\u1ec1u h\u00ecnh th\u00f9 k\u1ef3 d\u1ecb.",
+          "qas": [
+            {
+              "question": "Lo\u00e0i t\u00e0u n\u00e0o c\u00f3 th\u1ec3 ng\u1eafm san h\u00f4 ?",
+              "id": "8eacebf6-6e47-40f8-9b04-f5b542e96e68",
+              "answers": [
+                {
+                  "answer_start": 1,
+                  "text": "Lo\u1ea1i t\u00e0u \u0111\u00e1y k\u00ednh"
+                }
+              ]
+            },
+            {
+              "question": "Ng\u1eafm san h\u00f4 \u1edf khu v\u1ef1c n\u00e0o ?",
+              "id": "65eda027-bdc4-4f87-aa1c-43cb370fbd8b",
+              "answers": [
+                {
+                  "answer_start": 38,
+                  "text": "khu v\u1ef1c b\u1ea3o t\u1ed3n c\u00f3 r\u1ea5t nhi\u1ec1u san h\u00f4"
+                }
+              ]
+            },
+            {
+              "question": "\u0110\u1ebfn b\u00e3i t\u1eafm n\u00e0o \u0111\u1ec3 t\u1eafm ho\u1eb7c l\u1eb7n bi\u1ec3n ?",
+              "id": "52089e6e-b025-40c2-b807-c622a9882873",
+              "answers": [
+                {
+                  "answer_start": 164,
+                  "text": "b\u00e3i t\u1eafm B\u00e0 \u0110i\u00ean ho\u1eb7c \u0111\u1ebfn B\u00e3i C\u00f3c"
+                }
+              ]
+            },
+            {
+              "question": "B\u00e3i t\u1eafm B\u00e0 \u0110i\u00ean \u0111i bao l\u00e2u th\u00ec t\u1edbi ?",
+              "id": "8425dd2c-0a60-47bb-8748-15e9c2e7ec30",
+              "answers": [
+                {
+                  "answer_start": 209,
+                  "text": "kho\u1ea3ng 30 ph\u00fat"
+                }
+              ]
+            },
+            {
+              "question": "B\u00e3i C\u00f3c \u0111i bao l\u00e2u th\u00ec t\u1edbi ?",
+              "id": "18280eca-a9da-4e05-8518-22fed2c2d034",
+              "answers": [
+                {
+                  "answer_start": 210,
+                  "text": "ho\u1ea3ng 30 ph\u00fat"
+                }
+              ]
+            },
+            {
+              "question": "\u0110\u1ebfn b\u00e3i t\u1eafm B\u00e0 \u0110i\u00ean ho\u1eb7c \u0111\u1ebfn B\u00e3i C\u00f3c ?",
+              "id": "1ca28f97-7e37-4557-9afa-6c98d32135f9",
+              "answers": [
+                {
+                  "answer_start": 224,
+                  "text": "\u0111\u1ec3 t\u1eafm ho\u1eb7c l\u1eb7n bi\u1ec3n"
+                }
+              ]
+            },
+            {
+              "question": "Ngo\u00e0i ra c\u00f3 th\u1ec3 l\u00e0m gi ?",
+              "id": "7afd23db-bb7b-4958-91bf-6e1e7ed04bfb",
+              "answers": [
+                {
+                  "answer_start": 262,
+                  "text": "th\u1eed s\u1ee9c leo l\u00ean nh\u1eefng h\u00f2n \u0111\u00e1 cao v\u1edbi nhi\u1ec1u h\u00ecnh th\u00f9 k\u1ef3 d\u1ecb."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nNho: do \u0111i\u1ec1u ki\u1ec7n th\u1ed5 nh\u01b0\u1ee1ng th\u00edch h\u1ee3p n\u00ean v\u00f9ng \u0111\u1ea5t Phan Rang c\u00f3 \u0111\u1eb7c s\u1ea3n \u0111\u1eb7c tr\u01b0ng r\u1ea5t gi\u00e1 tr\u1ecb l\u00e0 nho. R\u01b0\u1ee3u vang nho, m\u1eadt nho, m\u1ee9t nho, nho kh\u00f4... l\u00e0 nh\u1eefng \u0111\u1eb7c s\u1ea3n r\u1ea5t ri\u00eang c\u1ee7a m\u1ea3nh \u0111\u1ea5t n\u00e0y.",
+          "qas": [
+            {
+              "question": "\u0110\u1eb7c s\u1ea3n \u0111\u1eb7c tr\u01b0ng r\u1ea5t gi\u00e1 tr\u1ecb \u1edf Phan Rang l\u00e0 g\u00ec ?",
+              "id": "54762caf-2c5c-401d-96b1-7f12f351add6",
+              "answers": [
+                {
+                  "answer_start": 1,
+                  "text": "Nho"
+                }
+              ]
+            },
+            {
+              "question": "Do \u0111\u00e2u v\u00f9ng \u0111\u1ea5t Phan Rang th\u00edch h\u1ee3p tr\u1ed3ng nho ?",
+              "id": "0e2cd3dd-79f2-4adc-bd80-17e1c2088030",
+              "answers": [
+                {
+                  "answer_start": 6,
+                  "text": "do \u0111i\u1ec1u ki\u1ec7n th\u1ed5 nh\u01b0\u1ee1ng"
+                }
+              ]
+            },
+            {
+              "question": "C\u00e1c s\u1ea3n ph\u1ea9m l\u00e0m t\u1eeb nho l\u00e0 g\u00ec ? ",
+              "id": "8ee1885f-bd7e-4af9-be1a-27dcf0191d50",
+              "answers": [
+                {
+                  "answer_start": 104,
+                  "text": "R\u01b0\u1ee3u vang nho, m\u1eadt nho, m\u1ee9t nho, nho kh\u00f4..."
+                }
+              ]
+            },
+            {
+              "question": "\u0110\u1eb7c s\u1ea3n ri\u00eang c\u1ee7a Phan Rang l\u00e0m t\u1eeb nho l\u00e0 g\u00ec ?",
+              "id": "4d5dd282-05ba-46d2-8fda-c45d187e9b15",
+              "answers": [
+                {
+                  "answer_start": 104,
+                  "text": "R\u01b0\u1ee3u vang nho, m\u1eadt nho, m\u1ee9t nho, nho kh\u00f4..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nT\u1ecfi v\u00e0 t\u00e1o Phan Rang c\u0169ng r\u1ea5t ngon, t\u1ecfi ch\u1eafc, th\u01a1m, c\u00f2n t\u00e1o gi\u00f2n v\u00e0 ng\u1ecdt. Ngo\u00e0i ra, du kh\u00e1ch c\u00f2n c\u00f3 th\u1ec3 t\u00ecm th\u1ea5y c\u00e1c lo\u1ea1i h\u1ea3i s\u1ea3n kh\u00f4 v\u00e0 n\u01b0\u1edbc m\u1eafm.",
+          "qas": [
+            {
+              "question": "T\u1ecfi v\u00e0 t\u00e1o \u1edf Phan Rang nh\u01b0 th\u1ebf n\u00e0o ?",
+              "id": "a5928ff1-93c1-4582-a8fd-6476590c1169",
+              "answers": [
+                {
+                  "answer_start": 27,
+                  "text": "r\u1ea5t ngon, t\u1ecfi ch\u1eafc, th\u01a1m, c\u00f2n t\u00e1o gi\u00f2n v\u00e0 ng\u1ecdt"
+                }
+              ]
+            },
+            {
+              "question": "Ngo\u00e0i ra du kh\u00e1ch c\u00f2n c\u00f3 th\u1ec3 t\u00ecm th\u1ea5y g\u00ec n\u1eefa ?",
+              "id": "537be4df-fe50-4ee5-9fe8-ed2e2a116bc0",
+              "answers": [
+                {
+                  "answer_start": 85,
+                  "text": "du kh\u00e1ch c\u00f2n c\u00f3 th\u1ec3 t\u00ecm th\u1ea5y c\u00e1c lo\u1ea1i h\u1ea3i s\u1ea3n kh\u00f4 v\u00e0 n\u01b0\u1edbc m\u1eafm."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nN\u00f3i ri\u00eang v\u1ec1 h\u1ea3i s\u1ea3n t\u01b0\u01a1i s\u1ed1ng, Phan Rang c\u00f3 gh\u1eb9 xanh, cua Hu\u1ef3nh \u0110\u1ebf r\u1ea5t ng\u1ecdt th\u1ecbt v\u00e0 ngon, t\u00f4m h\u00f9m, m\u1ef1c t\u01b0\u01a1i, \u1ed1c... Ngo\u00e0i ra t\u00f4m, m\u1ef1c \u1edf Ninh Thu\u1eadn v\u1eeba t\u01b0\u01a1i l\u1ea1i kh\u00e1 ngon.",
+          "qas": [
+            {
+              "question": "H\u1ea3i s\u1ea3n \u1edf Phan Rang c\u00f3 g\u00ec ?",
+              "id": "a0a7fe95-1cf7-4f0c-8c10-94f7b99895a2",
+              "answers": [
+                {
+                  "answer_start": 43,
+                  "text": "c\u00f3 gh\u1eb9 xanh, cua Hu\u1ef3nh \u0110\u1ebf r\u1ea5t ng\u1ecdt th\u1ecbt v\u00e0 ngon, t\u00f4m h\u00f9m, m\u1ef1c t\u01b0\u01a1i, \u1ed1c... "
+                }
+              ]
+            },
+            {
+              "question": "T\u00f4m, m\u1ef1c \u1edf Ninh Thu\u1eadn nh\u01b0 th\u1ebf n\u00e0o ?",
+              "id": "44282e47-af67-4d69-a5d0-ec7d3709f05c",
+              "answers": [
+                {
+                  "answer_start": 117,
+                  "text": "Ngo\u00e0i ra t\u00f4m, m\u1ef1c \u1edf Ninh Thu\u1eadn v\u1eeba t\u01b0\u01a1i l\u1ea1i kh\u00e1 ngon."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nC\u00e1c s\u1ea3n ph\u1ea9m t\u1eeb th\u1ed5 c\u1ea9m v\u1edbi hoa v\u0103n \u0111\u1ed9c \u0111\u00e1o v\u00e0 tinh t\u1ebf, th\u1ed5 c\u1ea9m c\u1ee7a ng\u01b0\u1eddi Ch\u0103m \u1edf Ninh Thu\u1eadn nh\u01b0 v\u1ea3i, qu\u1ea7n \u00e1o, t\u00fai x\u00e1ch... l\u00e0 nh\u1eefng m\u00f3n qu\u00e0 r\u1ea5t gi\u00e1 tr\u1ecb.",
+          "qas": [
+            {
+              "question": "S\u1ea3n ph\u1ea9m t\u1eeb th\u1ed5 c\u1ea9m nh\u01b0 th\u1ebf n\u00e0o ? ",
+              "id": "8f7c7115-7ad0-4272-b567-a992208c871a",
+              "answers": [
+                {
+                  "answer_start": 29,
+                  "text": "hoa v\u0103n \u0111\u1ed9c \u0111\u00e1o v\u00e0 tinh t\u1ebf"
+                }
+              ]
+            },
+            {
+              "question": "Th\u1ed5 c\u1ea9m c\u1ee7a ng\u01b0\u1eddi n\u00e0o \u1edf Ninh Thu\u1eadn ?",
+              "id": "0946d93a-1ce4-4094-92b4-7520a0ffa455",
+              "answers": [
+                {
+                  "answer_start": 69,
+                  "text": "ng\u01b0\u1eddi Ch\u0103m"
+                }
+              ]
+            },
+            {
+              "question": " S\u1ea3n ph\u1ea9m th\u1ed5 c\u1ea9m g\u1ed3m c\u00e1c lo\u1ea1i g\u00ec ?",
+              "id": "b46d4575-4bbe-47ff-becc-2a565e4f17c0",
+              "answers": [
+                {
+                  "answer_start": 93,
+                  "text": "nh\u01b0 v\u1ea3i, qu\u1ea7n \u00e1o, t\u00fai x\u00e1ch... "
+                }
+              ]
+            },
+            {
+              "question": "C\u00f3 th\u1ec3 mua th\u1ed5 c\u1ea9m l\u00e0m g\u00ec ?",
+              "id": "7664f301-585a-40fe-bc1d-b9410e9cc4d9",
+              "answers": [
+                {
+                  "answer_start": 126,
+                  "text": "nh\u1eefng m\u00f3n qu\u00e0 r\u1ea5t gi\u00e1 tr\u1ecb."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nV\u00f2ng tay b\u1eb1ng \u0111\u00e1, \u1ed1c bi\u1ec3n, h\u00e0ng th\u1ee7 c\u00f4ng m\u1ef9 ngh\u1ec7 l\u00e0m t\u1eeb nguy\u00ean li\u1ec7u c\u1ee7a x\u1ee9 bi\u1ec3n Ninh Ch\u1eef, Phan Rang, Ninh Thu\u1eadn c\u0169ng r\u1ea5t tinh t\u1ebf v\u00e0 kh\u00e9o l\u00e9o. Nh\u1eefng \u0111\u1ed3 n\u00e0y c\u00f3 th\u1ec3 t\u00ecm \u1edf ch\u1ee3 Phan Rang.",
+          "qas": [
+            {
+              "question": "H\u00e0ng th\u1ee7 c\u00f4ng m\u1ef9 ngh\u1ec7 l\u00e0m t\u1eeb nguy\u00ean li\u1ec7u x\u1ee9 n\u00e0o ?",
+              "id": "19ed2bf3-d688-4152-b835-d690352a6f8c",
+              "answers": [
+                {
+                  "answer_start": 73,
+                  "text": "x\u1ee9 bi\u1ec3n Ninh Ch\u1eef, Phan Rang, Ninh Thu\u1eadn"
+                }
+              ]
+            },
+            {
+              "question": "C\u00e1c s\u1ea3n ph\u1ea9m t\u1eeb nguy\u00ean li\u1ec7u c\u1ee7a x\u1ee9 bi\u1ec3n l\u00e0 ?",
+              "id": "e91f2875-eefc-43a7-bb48-7321e47e28b4",
+              "answers": [
+                {
+                  "answer_start": 1,
+                  "text": "V\u00f2ng tay b\u1eb1ng \u0111\u00e1, \u1ed1c bi\u1ec3n, h\u00e0ng th\u1ee7 c\u00f4ng m\u1ef9 ngh\u1ec7 "
+                }
+              ]
+            },
+            {
+              "question": "V\u00f2ng tay b\u1eb1ng \u0111\u00e1, \u1ed1c bi\u1ec3n, h\u00e0ng th\u1ee7 c\u00f4ng m\u1ef9 ngh\u1ec7 nh\u01b0 th\u1ebf n\u00e0o ?",
+              "id": "57ec5d15-1274-45cb-af2a-8a158291e399",
+              "answers": [
+                {
+                  "answer_start": 118,
+                  "text": "r\u1ea5t tinh t\u1ebf v\u00e0 kh\u00e9o l\u00e9o."
+                }
+              ]
+            },
+            {
+              "question": "Nh\u1eefng v\u00f2ng tay b\u1eb1ng \u0111\u00e1, \u1ed1c bi\u1ec3n, h\u00e0ng th\u1ee7 c\u00f4ng m\u1ef9 ngh\u1ec7 t\u00ecm \u1edf \u0111\u00e2u ?",
+              "id": "7ff5773c-c99d-4f9f-9b6c-8a9debd26902",
+              "answers": [
+                {
+                  "answer_start": 166,
+                  "text": " \u1edf ch\u1ee3 Phan Rang."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nC\u00e1c lo\u1ea1i tr\u00e1i c\u00e2y du kh\u00e1ch t\u00ecm mua ngay t\u1ea1i v\u01b0\u1eddn c\u00e1ch trung t\u00e2m Phan Rang kho\u1ea3ng 5 km \u0111i v\u1ec1 h\u01b0\u1edbng v\u1ecbnh V\u0129nh Hy v\u00e0 \u0111\u1ed3i c\u00e1t Nam C\u01b0\u01a1ng. C\u00e1c lo\u1ea1i s\u1ea3n ph\u1ea9m t\u1eeb th\u1ed5 c\u1ea9m c\u00f3 th\u1ec3 mua t\u1ea1i L\u00e0ng d\u1ec7t th\u1ed5 c\u1ea9m M\u1ef9 Nghi\u1ec7p, c\u00e1ch Phan Rang kho\u1ea3ng 10 km.",
+          "qas": [
+            {
+              "question": "V\u01b0\u1eddn tr\u00e1i c\u00e2y c\u00e1ch trung t\u00e2m Phan Rang bao xa ?",
+              "id": "622af395-1e17-418a-a673-3c4725979df9",
+              "answers": [
+                {
+                  "answer_start": 75,
+                  "text": "kho\u1ea3ng 5 km "
+                }
+              ]
+            },
+            {
+              "question": "V\u01b0\u1eddn tr\u00e1i c\u00e2y c\u00e1ch trung t\u00e2m Phan Rang \u0111i theo h\u01b0\u1edbng n\u00e0o ?",
+              "id": "ed10d902-d7be-421c-8f38-beea8594be9c",
+              "answers": [
+                {
+                  "answer_start": 87,
+                  "text": "\u0111i v\u1ec1 h\u01b0\u1edbng v\u1ecbnh V\u0129nh Hy v\u00e0 \u0111\u1ed3i c\u00e1t Nam C\u01b0\u01a1ng"
+                }
+              ]
+            },
+            {
+              "question": "S\u1ea3n ph\u1ea9m t\u1eeb th\u1ed5 c\u1ea9m mua t\u1ea1i \u0111\u00e2u ?",
+              "id": "ca6a9e19-1f46-480c-9b2e-2415e75d9810",
+              "answers": [
+                {
+                  "answer_start": 174,
+                  "text": "t\u1ea1i L\u00e0ng d\u1ec7t th\u1ed5 c\u1ea9m M\u1ef9 Nghi\u1ec7p"
+                }
+              ]
+            },
+            {
+              "question": "L\u00e0ng d\u1ec7t th\u1ed5 c\u1ea9m M\u1ef9 Nghi\u1ec7p c\u00e1ch Phan Rang bao xa ? ",
+              "id": "cce91d4a-6ee1-43ef-90c4-05ddd89ee861",
+              "answers": [
+                {
+                  "answer_start": 221,
+                  "text": "kho\u1ea3ng 10 km."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nL\u01b0u \u00fd: Phan Rang l\u00e0 v\u00f9ng \u0111\u1ea5t c\u1ee7a n\u1eafng v\u00e0 gi\u00f3 n\u00ean b\u1ea1n n\u00ean \u0111em theo \u0111\u1ed3 m\u1eb7c nh\u1eb9, ch\u1ea5t li\u1ec7u cotton, m\u1ecfng v\u00e0 m\u00e1t, ngo\u00e0i \u0111\u1ed3 b\u01a1i b\u1ea1n n\u1eef nh\u1edb mang theo kem ch\u1ed1ng n\u1eafng v\u00e0 m\u0169 r\u1ed9ng v\u00e0nh.",
+          "qas": [
+            {
+              "question": "N\u00ean m\u1eb7c \u0111\u1ed3 nh\u01b0 th\u1ebf n\u00e0o khi \u0111\u1ebfn Phan Rang ?",
+              "id": "9e3efdf5-5f50-4d9b-b3ab-8ada8381dbb3",
+              "answers": [
+                {
+                  "answer_start": 54,
+                  "text": "n\u00ean \u0111em theo \u0111\u1ed3 m\u1eb7c nh\u1eb9, ch\u1ea5t li\u1ec7u cotton, m\u1ecfng v\u00e0 m\u00e1t"
+                }
+              ]
+            },
+            {
+              "question": "Ngo\u00e0i \u0111\u1ed3 b\u01a1i b\u1ea1n n\u1eef nh\u1edb mang theo g\u00ec ?",
+              "id": "169f4465-9d6a-4408-b14e-cb1fe27376f7",
+              "answers": [
+                {
+                  "answer_start": 144,
+                  "text": "kem ch\u1ed1ng n\u1eafng v\u00e0 m\u0169 r\u1ed9ng v\u00e0nh."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ninh Thu\u1eadn 2",
+      "paragraphs": [
+        {
+          "context": "\nN\u1eb1m \u1edf ph\u00eda Nam c\u1ee7a v\u1ecbnh V\u0129nh Hy, c\u00e1ch th\u00e0nh ph\u1ed1 Phan Rang ch\u1eebng 35 km, b\u00e3i Hang R\u00e1i gi\u1ed1ng nh\u01b0 \u201cm\u1ed9t n\u00e0ng c\u00f4ng ch\u00faa \u0111ang ng\u1ee7 y\u00ean\u201d gi\u1eefa c\u00e1c \u0111\u1ecba danh n\u1ed5i ti\u1ebfng thu\u1ed9c t\u1ec9nh Ninh Thu\u1eadn \u0111ang ch\u1edd ng\u01b0\u1eddi \u0111\u1ebfn \u201c\u0111\u00e1nh th\u1ee9c\u201d. B\u00e3i Hang R\u00e1i kh\u00f4ng ch\u1ec9 c\u00f3 \u0111\u1ecba th\u1ebf n\u00fai ch\u1eafn s\u00f3ng, ch\u1ea5t ch\u1ed3ng l\u00ean nhau t\u1ea1o n\u00ean nh\u1eefng hang \u0111\u1ed9ng \u0111\u1eb9p m\u1eaft m\u00e0 c\u00f2n l\u00e0 khu v\u1ef1c sinh s\u1ed1ng c\u1ee7a lo\u00e0i r\u00e1i c\u00e1. \u0110\u00f3 c\u0169ng ch\u00ednh l\u00e0 c\u1ed9i ngu\u1ed3n ra \u0111\u1eddi t\u00ean g\u1ecdi \u0111\u1eb7c bi\u1ec7t - Hang R\u00e1i. N\u00fai \u1edf \u0111\u00e2y kh\u00f4ng cao, hang kh\u00f4ng s\u00e2u nh\u01b0ng l\u00e0 ngu\u1ed3n c\u1ea3m h\u1ee9ng v\u00f4 t\u1eadn cho c\u00e1c tay s\u0103n \u1ea3nh b\u1edfi v\u1ebb \u0111\u1eb9p \u1ea5n t\u01b0\u1ee3ng gi\u1eefa m\u1ed9t b\u00ean l\u00e0 n\u00fai Ch\u00faa, m\u1ed9t b\u00ean l\u00e0 bi\u1ec3n xanh s\u00f3ng v\u1ed7 r\u00ec r\u00e0o v\u1edbi nh\u1eefng \u0111\u00e0n r\u00e1i c\u00e1 \u0111\u00f9a gi\u1ee1n tr\u00ean c\u00e1c m\u1ecfm \u0111\u00e1.",
+          "qas": [
+            {
+              "question": "Hang R\u00e1i \u1edf ph\u00eda n\u00e0o c\u1ee7a v\u1ecbnh V\u0129nh Hy ?",
+              "id": "b4a717e5-1f55-48fe-9d5a-1492f7f1c185",
+              "answers": [
+                {
+                  "answer_start": 7,
+                  "text": "ph\u00eda Nam "
+                }
+              ]
+            },
+            {
+              "question": "Hang R\u00e1i \u0111\u01b0\u1ee3c v\u00ed gi\u1ed1ng nh\u01b0 g\u00ec ?",
+              "id": "320cfe76-3169-4d53-b426-d26c062782c6",
+              "answers": [
+                {
+                  "answer_start": 91,
+                  "text": "nh\u01b0 \u201cm\u1ed9t n\u00e0ng c\u00f4ng ch\u00faa \u0111ang ng\u1ee7 y\u00ean\u201d gi\u1eefa c\u00e1c \u0111\u1ecba danh n\u1ed5i ti\u1ebfng thu\u1ed9c t\u1ec9nh Ninh Thu\u1eadn \u0111ang ch\u1edd ng\u01b0\u1eddi \u0111\u1ebfn \u201c\u0111\u00e1nh th\u1ee9c\u201d. "
+                }
+              ]
+            },
+            {
+              "question": "N\u00fai \u1edf Hang R\u00e1i nh\u01b0 th\u1ebf n\u00e0o ?",
+              "id": "2360a47a-6b77-46da-8eb3-0881eb59f1f3",
+              "answers": [
+                {
+                  "answer_start": 420,
+                  "text": "N\u00fai \u1edf \u0111\u00e2y kh\u00f4ng cao"
+                }
+              ]
+            },
+            {
+              "question": "Hang \u1edf Hang R\u00e1i c\u00f3 s\u00e2u kh\u00f4ng ?",
+              "id": "5b87701a-f864-4837-af71-4d3f4b37e3a3",
+              "answers": [
+                {
+                  "answer_start": 441,
+                  "text": "hang kh\u00f4ng s\u00e2u"
+                }
+              ]
+            },
+            {
+              "question": "N\u00fai v\u00e0 hang  \u1edf Hang R\u00e1i l\u00e0 ngu\u1ed3n c\u1ea3m h\u1ee9ng v\u00f4 t\u1eadn cho ai ?",
+              "id": "89cb925a-4ae1-4159-8fde-eb545fb249ec",
+              "answers": [
+                {
+                  "answer_start": 487,
+                  "text": "cho c\u00e1c tay s\u0103n \u1ea3nh "
+                }
+              ]
+            },
+            {
+              "question": "V\u1ebb \u0111\u1eb9p \u1ea5n t\u01b0\u1ee3ng c\u1ee7a Hang R\u00e1i l\u00e0 g\u00ec ?",
+              "id": "8a8e9948-62a8-4dbc-becf-2be97e9ef478",
+              "answers": [
+                {
+                  "answer_start": 527,
+                  "text": "gi\u1eefa m\u1ed9t b\u00ean l\u00e0 n\u00fai Ch\u00faa, m\u1ed9t b\u00ean l\u00e0 bi\u1ec3n xanh s\u00f3ng v\u1ed7 r\u00ec r\u00e0o v\u1edbi nh\u1eefng \u0111\u00e0n r\u00e1i c\u00e1 \u0111\u00f9a gi\u1ee1n tr\u00ean c\u00e1c m\u1ecfm \u0111\u00e1."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nB\u00ean c\u1ea1nh chi\u00eam ng\u01b0\u1ee1ng s\u1eafc c\u1ea3nh h\u00f9ng v\u0129 c\u1ee7a n\u00fai \u0111\u00e1, du kh\u00e1ch c\u00f2n \u0111\u01b0\u1ee3c ng\u00e2m m\u00ecnh trong l\u00e0n n\u01b0\u1edbc trong v\u1eaft c\u1ee7a b\u00e3i bi\u1ec3n nh\u1ecf b\u00ean c\u1ea1nh, ng\u1eafm v\u1ebb th\u01a1 m\u1ed9ng c\u1ee7a h\u1ed3 n\u01b0\u1edbc ng\u1ecdt t\u1eeb n\u00fai Ch\u00faa \u0111\u1ed5 xu\u1ed1ng v\u00e0 phi\u00eau c\u00f9ng d\u00f2ng ch\u1ea3y c\u1ee7a c\u00e1c con su\u1ed1i n\u1ed5i b\u1eadt tr\u00ean c\u00e1t, in b\u00f3ng nh\u1eefng h\u00e0ng d\u1eeba th\u1ea5p tho\u00e1ng sau r\u1eb7ng x\u01b0\u01a1ng r\u1ed3ng tr\u1ed5 hoa \u0111\u1ecf r\u1ef1c quanh n\u0103m.",
+          "qas": [
+            {
+              "question": "Ngo\u00e0i chi\u00eam ng\u01b0\u1ee1ng s\u1eafc c\u1ea3nh c\u1ee7a n\u00fai \u0111\u00e1, du kh\u00e1ch c\u00f2n \u0111\u01b0\u1ee3c l\u00e0m g\u00ec ?",
+              "id": "dba06c2e-62e4-4c8a-a9aa-0e2ce70ecbc6",
+              "answers": [
+                {
+                  "answer_start": 70,
+                  "text": "ng\u00e2m m\u00ecnh trong l\u00e0n n\u01b0\u1edbc trong v\u1eaft c\u1ee7a b\u00e3i bi\u1ec3n nh\u1ecf b\u00ean c\u1ea1nh, ng\u1eafm v\u1ebb th\u01a1 m\u1ed9ng c\u1ee7a h\u1ed3 n\u01b0\u1edbc ng\u1ecdt t\u1eeb n\u00fai Ch\u00faa \u0111\u1ed5 xu\u1ed1ng v\u00e0 phi\u00eau c\u00f9ng d\u00f2ng ch\u1ea3y c\u1ee7a c\u00e1c con su\u1ed1i n\u1ed5i b\u1eadt tr\u00ean c\u00e1t, in b\u00f3ng nh\u1eefng h\u00e0ng d\u1eeba th\u1ea5p tho\u00e1ng sau r\u1eb7ng x\u01b0\u01a1ng r\u1ed3ng tr\u1ed5 hoa \u0111\u1ecf r\u1ef1c quanh n\u0103m."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nHang R\u00e1i hoang s\u01a1 nh\u01b0ng c\u0169ng th\u1eadt y\u00ean b\u00ecnh. N\u1ebfu kh\u00e1ch l\u00e0 m\u1ed9t tay m\u00ea \u1ea3nh, ch\u1eafc ch\u1eafn s\u1ebd kh\u00f4ng ra v\u1ec1 tay kh\u00f4ng khi ch\u01b0a ch\u1ee5p \u0111\u01b0\u1ee3c c\u1ea3nh t\u01b0\u1ee3ng hi\u1ebfm c\u00f3 t\u1eeb tr\u00ean \u0111\u1ec9nh n\u00fai, b\u00f3ng ng\u01b0\u1eddi d\u00e2n du m\u1ee5c c\u00f9ng \u0111\u00e0n d\u00ea th\u01a1 th\u1ea9n d\u1ea1o ch\u01a1i in tr\u00ean nh\u1eefng v\u00e1ch \u0111\u00e1 cheo leo c\u1eb1n c\u1ed7i, \u0111\u1ed1i l\u1eadp v\u1edbi m\u00e0u xanh \u0111\u1ea7y s\u1ee9c s\u1ed1ng c\u1ee7a hoa l\u00e1 c\u1ecf c\u00e2y trong kh\u00f4ng gian bao la xanh c\u1ee7a bi\u1ec3n B\u00ecnh Ti\u00ean. \u0110\u1eebng qu\u00e1 m\u1ea3i m\u00ea ch\u1ee5p \u1ea3nh m\u00e0 qu\u00ean t\u1eadn h\u01b0\u1edfng kho\u1ea3ng kh\u1eafc thanh b\u00ecnh c\u00f9ng v\u1ebb \u0111\u1eb9p c\u1ee7a ng\u01b0\u1eddi v\u00e0 c\u1ea3nh t\u1ee5 h\u1ed9i.",
+          "qas": [
+            {
+              "question": "\u1ede Hang R\u00e1i m\u1ed9t tay m\u00ea \u1ea3nh c\u00f3 th\u1ec3 ch\u1ee5p \u0111\u01b0\u1ee3c g\u00ec ?",
+              "id": "4c9bb07a-dd1a-4596-8baf-84a0c80b790e",
+              "answers": [
+                {
+                  "answer_start": 118,
+                  "text": "ch\u1ee5p \u0111\u01b0\u1ee3c c\u1ea3nh t\u01b0\u1ee3ng hi\u1ebfm c\u00f3 t\u1eeb tr\u00ean \u0111\u1ec9nh n\u00fai, b\u00f3ng ng\u01b0\u1eddi d\u00e2n du m\u1ee5c c\u00f9ng \u0111\u00e0n d\u00ea th\u01a1 th\u1ea9n d\u1ea1o ch\u01a1i in tr\u00ean nh\u1eefng v\u00e1ch \u0111\u00e1 cheo leo c\u1eb1n c\u1ed7i"
+                }
+              ]
+            },
+            {
+              "question": "Hang R\u00e1i g\u1ea7n bi\u1ec3n n\u00e0o ?",
+              "id": "81d93324-6686-4b75-ad74-3e3fed71bd17",
+              "answers": [
+                {
+                  "answer_start": 342,
+                  "text": "bi\u1ec3n B\u00ecnh Ti\u00ean"
+                }
+              ]
+            },
+            {
+              "question": "\u0110\u1eebng m\u1ea3i m\u00ea ch\u1ee5p \u1ea3nh m\u00e0 qu\u00ean g\u00ec ?",
+              "id": "c137952a-0c22-4434-b3ec-b8cf10a4cffa",
+              "answers": [
+                {
+                  "answer_start": 391,
+                  "text": "t\u1eadn h\u01b0\u1edfng kho\u1ea3ng kh\u1eafc thanh b\u00ecnh c\u00f9ng v\u1ebb \u0111\u1eb9p c\u1ee7a ng\u01b0\u1eddi v\u00e0 c\u1ea3nh t\u1ee5 h\u1ed9i."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\n\u0110\u1ec3 tr\u1ea3i nghi\u1ec7m c\u1ea3m gi\u00e1c m\u1ea1o hi\u1ec3m tr\u00ean n\u00fai, kh\u00e1ch du l\u1ecbch c\u00f3 th\u1ec3 lu\u1ed3n l\u00e1ch v\u00e0o c\u00e1c hang nh\u1ecf, th\u1eadm ch\u00ed c\u1eafm tr\u1ea1i qua \u0111\u00eam \u0111\u1ec3 th\u1eed m\u1ed9t l\u1ea7n \u201cs\u1ed1ng trong \u0111\u1ed9ng\u201d xem sao. \u0110\u00eam xu\u1ed1ng nghe ti\u1ebfng s\u00f3ng v\u1ed7 \u00ec o\u1ea1p v\u00e0o v\u1ef1c n\u00fai, nghe ti\u1ebfng ng\u01b0\u1eddi vang v\u1ecdng m\u1ed3n m\u1ed9t trong hang hay c\u1ea3m nh\u1eadn c\u00e1i m\u00e1t r\u01b0\u1ee3i c\u1ee7a nh\u1eefng h\u1ed1c \u0111\u00e1 thi\u00ean t\u1ea1o nhi\u1ec1u tu\u1ed5i. C\u00f2n n\u1ebfu \u01b0a m\u1ea1o hi\u1ec3m trong l\u00f2ng bi\u1ec3n, h\u00e3y mang theo \u1ed1ng th\u1edf v\u00e0 k\u00ednh l\u1eb7n \u0111\u1ec3 ng\u1ee5p s\u00e2u xu\u1ed1ng l\u00e0n n\u01b0\u1edbc trong v\u1eaft v\u00e0 chi\u00eam ng\u01b0\u1ee1ng \u0111\u00e0n c\u00e1 s\u1eb7c s\u1ee1 b\u01a1i l\u1ed9i tung t\u0103ng trong r\u1eb7ng san h\u00f4.",
+          "qas": [
+            {
+              "question": "\u0110\u1ec3 tr\u1ea3i nghi\u1ec7m c\u1ea3m gi\u00e1c m\u1ea1o hi\u1ec3m tr\u00ean n\u00fai , kh\u00e1ch du l\u1ecbch n\u00ean l\u00e0m g\u00ec ?",
+              "id": "b75c63bc-17c1-4a12-b061-406b646e83bf",
+              "answers": [
+                {
+                  "answer_start": 58,
+                  "text": "c\u00f3 th\u1ec3 lu\u1ed3n l\u00e1ch v\u00e0o c\u00e1c hang nh\u1ecf, th\u1eadm ch\u00ed c\u1eafm tr\u1ea1i qua \u0111\u00eam \u0111\u1ec3 th\u1eed m\u1ed9t l\u1ea7n \u201cs\u1ed1ng trong \u0111\u1ed9ng\u201d xem sao."
+                }
+              ]
+            },
+            {
+              "question": "\u0110\u00eam tr\u00ean n\u00fai c\u00f3 th\u1ec3 nghe th\u1ea5y g\u00ec ?",
+              "id": "9c5fb284-2eee-473a-98d5-a1c5da4bbeca",
+              "answers": [
+                {
+                  "answer_start": 176,
+                  "text": "ti\u1ebfng s\u00f3ng v\u1ed7 \u00ec o\u1ea1p v\u00e0o v\u1ef1c n\u00fai, nghe ti\u1ebfng ng\u01b0\u1eddi vang v\u1ecdng m\u1ed3n m\u1ed9t trong hang hay c\u1ea3m nh\u1eadn c\u00e1i m\u00e1t r\u01b0\u1ee3i c\u1ee7a nh\u1eefng h\u1ed1c \u0111\u00e1 thi\u00ean t\u1ea1o nhi\u1ec1u tu\u1ed5i"
+                }
+              ]
+            },
+            {
+              "question": "N\u1ebfu \u01b0a m\u1ea1o hi\u1ec3m trong l\u00f2ng bi\u1ec3n th\u00ec sao ?",
+              "id": "f6b2b6d2-7ab0-42b5-b7ed-0d24313d15b6",
+              "answers": [
+                {
+                  "answer_start": 357,
+                  "text": "h\u00e3y mang theo \u1ed1ng th\u1edf v\u00e0 k\u00ednh l\u1eb7n \u0111\u1ec3 ng\u1ee5p s\u00e2u xu\u1ed1ng l\u00e0n n\u01b0\u1edbc trong v\u1eaft v\u00e0 chi\u00eam ng\u01b0\u1ee1ng \u0111\u00e0n c\u00e1 s\u1eb7c s\u1ee1 b\u01a1i l\u1ed9i tung t\u0103ng trong r\u1eb7ng san h\u00f4."
+                }
+              ]
+            },
+            {
+              "question": "Mang theo g\u00ec khi l\u1eb7n ?",
+              "id": "0f356187-fff8-4f59-8a86-7bb87b14fc14",
+              "answers": [
+                {
+                  "answer_start": 357,
+                  "text": "h\u00e3y mang theo \u1ed1ng th\u1edf v\u00e0 k\u00ednh l\u1eb7n"
+                }
+              ]
+            },
+            {
+              "question": "C\u00f3 th\u1ec3 chi\u00eam ng\u01b0\u1ee1ng g\u00ec khi l\u1eb7n ?",
+              "id": "f2d53852-aa6a-4c87-845f-7da576ba3a11",
+              "answers": [
+                {
+                  "answer_start": 444,
+                  "text": "\u0111\u00e0n c\u00e1 s\u1eb7c s\u1ee1 b\u01a1i l\u1ed9i tung t\u0103ng trong r\u1eb7ng san h\u00f4."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nNg\u01b0\u1eddi ta n\u00f3i Hang R\u00e1i l\u00e0 n\u01a1i c\u00f3 b\u00e3i san h\u00f4 \u0111\u1eb9p nh\u1ea5t v\u00f9ng, h\u01a1n c\u1ea3 b\u00e3i B\u00ecnh Ti\u00ean, b\u00e3i Th\u1ecbt... San h\u00f4 \u1edf \u0111\u00e2y k\u00e9o d\u00e0i c\u1ea3 c\u00e2y s\u1ed1, nhi\u1ec1u lo\u00e0i v\u00e0 nhi\u1ec1u s\u1eafc t\u1ea1o n\u00ean b\u1ee9c tranh mu\u00f4n m\u00e0u n\u1ed5i tr\u00ean bao la bi\u1ec3n xanh.",
+          "qas": [
+            {
+              "question": "Ng\u01b0\u1eddi ta n\u00f3i Hang R\u00e1i l\u00e0 g\u00ec ?",
+              "id": "051a4bb6-e273-4b05-9e01-00b084cd6987",
+              "answers": [
+                {
+                  "answer_start": 23,
+                  "text": "l\u00e0 n\u01a1i c\u00f3 b\u00e3i san h\u00f4 \u0111\u1eb9p nh\u1ea5t v\u00f9ng, h\u01a1n c\u1ea3 b\u00e3i B\u00ecnh Ti\u00ean, b\u00e3i Th\u1ecbt... "
+                }
+              ]
+            },
+            {
+              "question": "San h\u00f4 \u1edf \u0111\u00e2y k\u00e9o d\u00e0i nh\u01b0 th\u1ebf nao ?",
+              "id": "81f4af15-5afc-4963-8d15-657a07c6caa0",
+              "answers": [
+                {
+                  "answer_start": 105,
+                  "text": " k\u00e9o d\u00e0i c\u1ea3 c\u00e2y s\u1ed1"
+                }
+              ]
+            },
+            {
+              "question": "San h\u00f4 \u1edf \u0111\u00e2y nh\u01b0 th\u1ebf n\u00e0o ?",
+              "id": "bcd8d0b6-a027-4de4-b855-3f311dd26a48",
+              "answers": [
+                {
+                  "answer_start": 125,
+                  "text": "nhi\u1ec1u lo\u00e0i v\u00e0 nhi\u1ec1u s\u1eafc t\u1ea1o n\u00ean b\u1ee9c tranh mu\u00f4n m\u00e0u n\u1ed5i tr\u00ean bao la bi\u1ec3n xanh."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nKh\u00e1ch c\u0169ng c\u00f3 th\u1ec3 t\u1ef1 t\u1ea1o n\u00ean b\u1eefa ti\u1ec7c \u1ea9m th\u1ef1c mang \u0111\u1eadm phong c\u00e1ch Hang R\u00e1i c\u1ee7a ch\u00ednh m\u00ecnh. \u0110\u1eb7c s\u1ea3n \u1ed1c m\u1eb7t tr\u0103ng s\u1ebd kh\u00f4ng th\u1ec3 thi\u1ebfu trong b\u1eefa ti\u1ec7c n\u00e0y. N\u1ebfu kh\u00f4ng bi\u1ebft t\u00ecm \u1ed1c \u1edf \u0111\u00e2u, h\u00e3y c\u00f9ng trai l\u00e0ng \u0111i c\u1ea1y ch\u00fang trong c\u00e1c hang \u0111\u00e1 bu\u1ed5i x\u1ea9m x\u1ebf khi n\u01b0\u1edbc tri\u1ec1u r\u00fat nh\u1eb9. R\u1ed3i sau \u0111\u00f3 tr\u1edf v\u1ec1 th\u1ed5i l\u1eeda n\u1ea5u m\u00f3n ch\u00e1o \u1ed1c m\u1eb7t tr\u0103ng ngon ng\u1eady, b\u00f9i b\u00e9o, s\u1ef1c n\u1ee9c h\u01b0\u01a1ng th\u01a1m. Ngo\u00e0i ra, \u0111\u1eebng b\u1ecf l\u1ee1 tr\u00f2 \u201cth\u1ea3 c\u00e2u, s\u00e1t c\u00e1\u201d th\u00fa v\u1ecb \u1edf nh\u1eefng gh\u1ec1nh \u0111\u00e1 n\u01b0\u1edbc xanh bi\u1ebfc v\u00ec n\u00f3 s\u1ebd gi\u00fap \u0111\u00f3ng g\u00f3p v\u00e0o b\u1eefa ti\u1ec7c th\u1ecbnh so\u1ea1n m\u1ed9t m\u00f3n \u0103n kh\u00f4ng k\u00e9m h\u01b0\u01a1ng v\u1ecb bi\u1ec3n kh\u01a1i \u2013 c\u00e1 n\u01b0\u1edbng.",
+          "qas": [
+            {
+              "question": "Kh\u00e1ch c\u00f3 th\u1ec3 t\u1ef1 t\u1ea1o b\u1eefa ti\u1ec7c \u1ea9m th\u1ef1c nh\u01b0 th\u1ebf n\u00e0o ?",
+              "id": "c41ec245-1639-4d65-bed5-c9463d37dba6",
+              "answers": [
+                {
+                  "answer_start": 47,
+                  "text": "mang \u0111\u1eadm phong c\u00e1ch Hang R\u00e1i c\u1ee7a ch\u00ednh m\u00ecnh"
+                }
+              ]
+            },
+            {
+              "question": "\u0110\u1eb7c s\u1ea3n Hang R\u00e1i l\u00e0 g\u00ec ?",
+              "id": "daee6ab6-158c-44e6-8a2f-60cb3f8a9f52",
+              "answers": [
+                {
+                  "answer_start": 100,
+                  "text": "\u1ed1c m\u1eb7t tr\u0103ng"
+                }
+              ]
+            },
+            {
+              "question": "T\u00ecm \u1ed1c m\u1eb7t tr\u0103ng \u1edf \u0111\u00e2u ?",
+              "id": "23901355-21e7-42cd-bd83-1b03e15e1d32",
+              "answers": [
+                {
+                  "answer_start": 203,
+                  "text": "c\u1ea1y ch\u00fang trong c\u00e1c hang \u0111\u00e1 bu\u1ed5i x\u1ea9m x\u1ebf khi n\u01b0\u1edbc tri\u1ec1u r\u00fat nh\u1eb9"
+                }
+              ]
+            },
+            {
+              "question": "M\u00f3n ch\u00e1o \u1ed1c  \u1edf Hang R\u00e1i l\u00e0 g\u00ec?",
+              "id": "eaaac241-8720-423a-bb67-fec995f79097",
+              "answers": [
+                {
+                  "answer_start": 302,
+                  "text": "ch\u00e1o \u1ed1c m\u1eb7t tr\u0103ng"
+                }
+              ]
+            },
+            {
+              "question": "Ch\u00e1o \u1ed1c m\u1eb7t tr\u0103ng c\u00f3 h\u01b0\u01a1ng v\u1ecb nh\u01b0 th\u1ebf n\u00e0o ?",
+              "id": "0a973253-0ad1-4e5f-aa01-94f404da8fcf",
+              "answers": [
+                {
+                  "answer_start": 320,
+                  "text": "ngon ng\u1eady, b\u00f9i b\u00e9o, s\u1ef1c n\u1ee9c h\u01b0\u01a1ng th\u01a1m"
+                }
+              ]
+            },
+            {
+              "question": "Tr\u00f2 ch\u01a1i th\u00fa v\u1ecb \u1edf gh\u1ec1nh n\u01b0\u1edbc \u0111\u00e1 xanh l\u00e0 g\u00ec ?",
+              "id": "b5204cfa-2fe7-4c04-8dca-4149f68151e4",
+              "answers": [
+                {
+                  "answer_start": 381,
+                  "text": "tr\u00f2 \u201cth\u1ea3 c\u00e2u, s\u00e1t c\u00e1\u201d"
+                }
+              ]
+            },
+            {
+              "question": "M\u00f3n \u0103n kh\u00f4ng k\u00e9m h\u01b0\u01a1ng v\u1ecb bi\u1ec3n kh\u01a1i l\u00e0 g\u00ec ?",
+              "id": "9082b712-3ef7-440a-9ab3-013fb58b3469",
+              "answers": [
+                {
+                  "answer_start": 531,
+                  "text": "c\u00e1 n\u01b0\u1edbng."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nV\u00e0 sau khi \u0111\u00e3 th\u1ea5m m\u1ec7t nh\u1eefng tr\u00f2 ch\u01a1i v\u1edbi \u0111\u00e1, v\u1edbi bi\u1ec3n, ch\u1ec9 c\u1ea7n ng\u1ed3i m\u1ed9t g\u00f3c n\u00e0o \u0111\u00f3 h\u00f3ng gi\u00f3, nh\u00ecn ng\u1eafm nh\u1eefng con thuy\u1ec1n d\u1eadp d\u1ec1nh tr\u00ean s\u00f3ng, nh\u1eefng ru\u1ed9ng mu\u1ed1i tr\u1eafng x\u00f3a tuy\u1ec7t \u0111\u1eb9p hay nh\u1eefng chi\u1ebfc c\u1ea7u \u0111\u00e1 b\u00e1m r\u00eau phong n\u1ed1i t\u1eeb l\u00e0ng ch\u00e0i ra t\u1edbi bi\u1ec3n th\u00f4i c\u0169ng \u0111\u1ee7 l\u00e0m du kh\u00e1ch mu\u1ed1n th\u1eddi gian d\u1eebng l\u1ea1i.",
+          "qas": [
+            {
+              "question": "Sau khi th\u1ea5m m\u1ec7t, th\u00ec du kh\u00e1ch c\u00f3 th\u1ec3 l\u00e0m g\u00ec ?",
+              "id": "11db1800-ce5a-4aad-ad71-516abc576e75",
+              "answers": [
+                {
+                  "answer_start": 57,
+                  "text": "ch\u1ec9 c\u1ea7n ng\u1ed3i m\u1ed9t g\u00f3c n\u00e0o \u0111\u00f3 h\u00f3ng gi\u00f3, nh\u00ecn ng\u1eafm nh\u1eefng con thuy\u1ec1n d\u1eadp d\u1ec1nh tr\u00ean s\u00f3ng, nh\u1eefng ru\u1ed9ng mu\u1ed1i tr\u1eafng x\u00f3a tuy\u1ec7t \u0111\u1eb9p hay nh\u1eefng chi\u1ebfc c\u1ea7u \u0111\u00e1 b\u00e1m r\u00eau phong n\u1ed1i t\u1eeb l\u00e0ng ch\u00e0i ra t\u1edbi bi\u1ec3n th\u00f4i c\u0169ng \u0111\u1ee7 l\u00e0m du kh\u00e1ch mu\u1ed1n th\u1eddi gian d\u1eebng l\u1ea1i."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nN\u1ebfu b\u1ea1n \u0111i du l\u1ecbch b\u1ee5i v\u00e0 th\u00edch h\u00f2a m\u00ecnh v\u00e0o cu\u1ed9c s\u1ed1ng \u0111\u1ecba ph\u01b0\u01a1ng, c\u00f3 th\u1ec3 tr\u1ea3i nghi\u1ec7m nh\u1eefng c\u00f4ng vi\u1ec7c th\u01b0\u1eddng ng\u00e0y c\u1ee7a ng\u01b0\u1eddi d\u00e2n n\u01a1i \u0111\u00e2y nh\u01b0 \u0111\u00e1nh b\u1eaft c\u00e1, ch\u0103n th\u1ea3 d\u00ea c\u1eebu tr\u00ean n\u00fai hay tr\u1ed3ng l\u00faa trong thung l\u0169ng. \u0110\u1ec3 mua l\u00e0m qu\u00e0 kh\u00f4ng g\u00ec \u0111\u1eb7c tr\u01b0ng h\u01a1n h\u1ea3i s\u1ea3n t\u01b0\u01a1i s\u1ed1ng \u0111\u01b0\u1ee3c b\u00e1n ngay khi nh\u1eefng ng\u01b0 d\u00e2n \u1edf \u0111\u00e2y \u0111\u00e1nh b\u1eaft tr\u1edf v\u1ec1.",
+          "qas": [
+            {
+              "question": "N\u1ebfu \u0111i du l\u1ecbch b\u1ee5i v\u00e0 th\u00edch h\u00f2a m\u00ecnh v\u00e0o cu\u1ed9c s\u1ed1ng \u0111\u1ecba ph\u01b0\u01a1ng th\u00ec sao ?",
+              "id": "681ffc90-e00e-44c4-850f-c53cbcd7a3db",
+              "answers": [
+                {
+                  "answer_start": 67,
+                  "text": " c\u00f3 th\u1ec3 tr\u1ea3i nghi\u1ec7m nh\u1eefng c\u00f4ng vi\u1ec7c th\u01b0\u1eddng ng\u00e0y c\u1ee7a ng\u01b0\u1eddi d\u00e2n n\u01a1i \u0111\u00e2y "
+                }
+              ]
+            },
+            {
+              "question": "C\u00f4ng vi\u1ec7c th\u01b0\u1eddng ng\u00e0y c\u1ee7a ng\u01b0\u1eddi d\u00e2n du kh\u00e1ch c\u00f3 th\u1ec3 tr\u1ea3i nghi\u1ec7m l\u00e0 g\u00ec ?",
+              "id": "78f25e04-7369-47c2-8ffc-d1d626cac54e",
+              "answers": [
+                {
+                  "answer_start": 141,
+                  "text": "\u0111\u00e1nh b\u1eaft c\u00e1, ch\u0103n th\u1ea3 d\u00ea c\u1eebu tr\u00ean n\u00fai hay tr\u1ed3ng l\u00faa trong thung l\u0169ng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ninh Thu\u1eadn 3",
+      "paragraphs": [
+        {
+          "context": "\nN\u1eb1m c\u00e1ch th\u00e0nh ph\u1ed1 Phan Rang g\u1ea7n 10 km, ngay tr\u00ean \u0111\u01b0\u1eddng qu\u1ed1c l\u1ed9 1A, l\u00e0ng g\u1ed1m B\u00e0u Tr\u00fac \u1edf th\u1ecb tr\u1ea5n Ph\u01b0\u1edbc D\u00e2n, huy\u1ec7n Ninh Ph\u01b0\u1edbc, t\u1ec9nh Ninh Thu\u1eadn t\u1ef1 h\u00e0o l\u00e0 m\u1ed9t trong hai l\u00e0ng g\u1ed1m c\u1ed5 nh\u1ea5t \u0110\u00f4ng Nam \u00c1.",
+          "qas": [
+            {
+              "question": "L\u00e0ng g\u1ed1m B\u00e0u Tr\u00fac \u1edf th\u1ecb tr\u1ea5n n\u00e0o ?",
+              "id": "5d397cc5-3113-485b-969a-a0b91ddedf6c",
+              "answers": [
+                {
+                  "answer_start": 89,
+                  "text": "th\u1ecb tr\u1ea5n Ph\u01b0\u1edbc D\u00e2n, huy\u1ec7n Ninh Ph\u01b0\u1edbc, t\u1ec9nh Ninh Thu\u1eadn"
+                }
+              ]
+            },
+            {
+              "question": "L\u00e0ng g\u1ed1m B\u00e0u Tr\u00fac t\u1ef1 h\u00e0o l\u00e0 g\u00ec ?",
+              "id": "32188b48-45b8-4e7c-9941-be9ff48992e8",
+              "answers": [
+                {
+                  "answer_start": 150,
+                  "text": "l\u00e0 m\u1ed9t trong hai l\u00e0ng g\u1ed1m c\u1ed5 nh\u1ea5t \u0110\u00f4ng Nam \u00c1."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nCon \u0111\u01b0\u1eddng nh\u1ef1a d\u1eabn kh\u00e1ch b\u01b0\u1edbc ch\u00e2n v\u00e0o ng\u00f4i l\u00e0ng. \u0110\u1eddi s\u1ed1ng c\u1ee7a ng\u01b0\u1eddi d\u00e2n \u0111\u00e3 kh\u1ea5m kh\u00e1 h\u01a1n v\u1edbi nh\u1eefng ng\u00f4i nh\u00e0 \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng khang trang. H\u1ea7u h\u1ebft c\u00e1c gia \u0111\u00ecnh \u1edf \u0111\u1ea7u l\u00e0ng \u0111\u1ec1u kh\u00f4ng c\u00f2n l\u00e0m ngh\u1ec1, nh\u1eefng nh\u00e0\u00a0 l\u00e0m ngh\u1ec1 \u0111\u1ec1u n\u1eb1m ph\u00eda s\u00e2u b\u00ean trong.",
+          "qas": [
+            {
+              "question": "\u0110\u01b0\u1eddng d\u1eabn kh\u00e1ch v\u00e0o l\u00e0ng l\u00e0 \u0111\u01b0\u1eddng g\u00ec ?",
+              "id": "c93e9d22-bd24-42c1-8165-a24561a3a72c",
+              "answers": [
+                {
+                  "answer_start": 5,
+                  "text": "\u0111\u01b0\u1eddng nh\u1ef1a"
+                }
+              ]
+            },
+            {
+              "question": "\u0110\u1eddi s\u1ed1ng c\u1ee7a ng\u01b0\u1eddi d\u00e2n \u1edf L\u00e0ng g\u1ed1m B\u00e0u Tr\u00fac nh\u01b0 th\u1ebf n\u00e0o ?",
+              "id": "1a5ca97a-67fc-4ee2-a540-195557124063",
+              "answers": [
+                {
+                  "answer_start": 74,
+                  "text": "\u0111\u00e3 kh\u1ea5m kh\u00e1 h\u01a1n v\u1edbi nh\u1eefng ng\u00f4i nh\u00e0 \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng khang trang"
+                }
+              ]
+            },
+            {
+              "question": "C\u00e1c gia \u0111\u00ecnh \u1edf \u0111\u1ea7u l\u00e0ng c\u00f2n l\u00e0m ngh\u1ec1 kh\u00f4ng ?",
+              "id": "76224999-c27d-4c9a-82df-dbfb0443d397",
+              "answers": [
+                {
+                  "answer_start": 172,
+                  "text": "kh\u00f4ng "
+                }
+              ]
+            },
+            {
+              "question": "C\u00e1c gia \u0111\u00ecnh l\u00e0m ngh\u1ec1 \u1edf L\u00e0ng g\u1ed1m B\u00e0u Tr\u00fac \u1edf \u0111\u00e2u ?",
+              "id": "c802cbd1-d8bd-42df-8fc5-db7832332dd0",
+              "answers": [
+                {
+                  "answer_start": 192,
+                  "text": "nh\u1eefng nh\u00e0\u00a0 l\u00e0m ngh\u1ec1 \u0111\u1ec1u n\u1eb1m ph\u00eda s\u00e2u b\u00ean trong."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\n\u1ede c\u00e1c nh\u00e0 l\u00e0m ngh\u1ec1, gian ngo\u00e0i l\u00e0 ph\u00f2ng tr\u01b0ng b\u00e0y s\u1ea3n ph\u1ea9m, b\u00ean trong l\u00e0 n\u01a1i t\u1ea1o h\u00ecnh v\u00e0 nung \u0111\u1ea5t. Nh\u1eefng chi\u1ebfc b\u00ecnh hoa, lu \u0111\u1ef1ng n\u01b0\u1edbc, chi\u1ebfc \u0111\u0129a, c\u00e1i chum\u2026 - nh\u1eefng v\u1eadt d\u1ee5ng th\u01b0\u1eddng ng\u00e0y \u0111\u1ec1u \u0111\u01b0\u1ee3c nh\u1eefng \u0111\u00f4i b\u00e0n tay t\u00e0i hoa l\u00e0m ra t\u1eeb \u0111\u1ea5t s\u00e9t.",
+          "qas": [
+            {
+              "question": "\u1ede c\u00e1c nh\u00e0 l\u00e0m ngh\u1ec1, gian ngo\u00e0i d\u00f9ng \u0111\u1ec3 l\u00e0m g\u00ec ?",
+              "id": "9470a6e6-ac2f-479b-87d8-a05bb5cbc3d1",
+              "answers": [
+                {
+                  "answer_start": 35,
+                  "text": "ph\u00f2ng tr\u01b0ng b\u00e0y s\u1ea3n ph\u1ea9m"
+                }
+              ]
+            },
+            {
+              "question": "\u1ede c\u00e1c nh\u00e0 l\u00e0m ngh\u1ec1,  trong  d\u00f9ng \u0111\u1ec3 l\u00e0m g\u00ec ?\t",
+              "id": "db50087f-e22f-4eb0-afe9-b0db91be069a",
+              "answers": [
+                {
+                  "answer_start": 71,
+                  "text": "l\u00e0 n\u01a1i t\u1ea1o h\u00ecnh v\u00e0 nung \u0111\u1ea5t"
+                }
+              ]
+            },
+            {
+              "question": "Nh\u1eefng v\u1eadt d\u1ee5ng th\u01b0\u1eddng ng\u00e0y \u0111\u01b0\u1ee3c b\u00e0n tay t\u00e0i hoa l\u00e0m ra l\u00e0 g\u00ec ?",
+              "id": "3121fe17-7729-4009-8a56-83c17b49b6a2",
+              "answers": [
+                {
+                  "answer_start": 100,
+                  "text": "Nh\u1eefng chi\u1ebfc b\u00ecnh hoa, lu \u0111\u1ef1ng n\u01b0\u1edbc, chi\u1ebfc \u0111\u0129a, c\u00e1i chum\u2026 "
+                }
+              ]
+            },
+            {
+              "question": "Nh\u1eefng v\u1eadt d\u1ee5ng th\u01b0\u1eddng ng\u00e0y \u0111\u01b0\u1ee3c l\u00e0m ra t\u1eeb g\u00ec ?",
+              "id": "b4e97090-24ec-4e2f-a092-bcc0201fbdd8",
+              "answers": [
+                {
+                  "answer_start": 228,
+                  "text": "t\u1eeb \u0111\u1ea5t s\u00e9t."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nKh\u00f4ng c\u00f3 b\u00e0n xoay, ng\u01b0\u1eddi th\u1ee3 t\u1ef1 xoay quanh b\u00e0n \u0111\u1ec3 t\u1ea1o h\u00ecnh d\u00e1ng cho s\u1ea3n ph\u1ea9m.",
+          "qas": [
+            {
+              "question": "Kh\u00f4ng c\u00f3 b\u00e0n xoay, ng\u01b0\u1eddi th\u1ee3 l\u00e0m g\u00ec ?",
+              "id": "e0e3f8d1-4494-4928-9e15-7bbf55159d96",
+              "answers": [
+                {
+                  "answer_start": 30,
+                  "text": "t\u1ef1 xoay quanh b\u00e0n \u0111\u1ec3 t\u1ea1o h\u00ecnh d\u00e1ng cho s\u1ea3n ph\u1ea9m."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nG\u1ed1m B\u00e0u Tr\u00fac \u0111\u01b0\u1ee3c l\u00e0m t\u1eeb \u0111\u1ea5t s\u00e9t s\u00f4ng Quao tr\u1ed9n v\u1edbi c\u00e1t. \u0110\u1ea5t ch\u1ec9 \u0111\u01b0\u1ee3c l\u1ea5y m\u1ed9t n\u0103m m\u1ed9t l\u1ea7n, m\u1ed7i l\u1ea7n l\u1ea5y \u0111\u1ea5t k\u00e9o d\u00e0i n\u1eeda th\u00e1ng. \u0110\u1ea5t \u0111\u01b0\u1ee3c l\u1ea5y nhi\u1ec1u hay \u00edt t\u00f9y v\u00e0o kh\u1ea3 n\u0103ng c\u1ee7a ng\u01b0\u1eddi l\u1ea5y. T\u1edbi m\u00f9a l\u1ea5y \u0111\u1ea5t, h\u1ea7u nh\u01b0 m\u1ecdi ng\u01b0\u1eddi \u0111\u1ec1u \u0111em \u0111\u1ea5t v\u1ec1 tr\u1eef s\u1eb5n t\u1ea1i nh\u00e0 \u0111\u1ec3 d\u00f9ng trong c\u1ea3 m\u1ed9t n\u0103m. \u0110\u1ea5t s\u00e9t v\u00e0 c\u00e1t pha k\u00e8m v\u1edbi m\u1ed9t \u00edt n\u01b0\u1edbc, nh\u00e0o cho th\u1eadt m\u1ecbn, d\u00ednh l\u1ea1i v\u1edbi nhau v\u00e0 \u0111\u1eb7t l\u00ean b\u00e0n.",
+          "qas": [
+            {
+              "question": "G\u1ed1m B\u00e0u Tr\u00fac \u0111\u01b0\u1ee3c l\u00e0m t\u1eeb \u0111\u1ea5t s\u00e9t s\u00f4ng n\u00e0o ?",
+              "id": "ae63cec2-e5ea-4ed6-9f4c-0633cc057be2",
+              "answers": [
+                {
+                  "answer_start": 34,
+                  "text": "s\u00f4ng Quao"
+                }
+              ]
+            },
+            {
+              "question": "\u0110\u1ea5t s\u00e9t \u0111\u01b0\u1ee3c tr\u1ed9n v\u1edbi g\u00ec ?",
+              "id": "c287fa68-75bb-4ced-9bbb-ca45d344fde4",
+              "answers": [
+                {
+                  "answer_start": 53,
+                  "text": "c\u00e1t"
+                }
+              ]
+            },
+            {
+              "question": "\u0110\u1ea5t \u0111\u01b0\u1ee3c l\u1ea5y m\u1ea5y l\u1ea7n ?",
+              "id": "1d478965-4ec2-4504-82d4-a70181d05a87",
+              "answers": [
+                {
+                  "answer_start": 71,
+                  "text": "l\u1ea5y m\u1ed9t n\u0103m m\u1ed9t l\u1ea7n"
+                }
+              ]
+            },
+            {
+              "question": "M\u1ed7i l\u1ea7n l\u1ea5y \u0111\u1ea5t k\u00e9o d\u00e0i bao l\u00e2u ?",
+              "id": "9b6703e1-e171-46f6-9e0d-7f85143fd1ff",
+              "answers": [
+                {
+                  "answer_start": 92,
+                  "text": "m\u1ed7i l\u1ea7n l\u1ea5y \u0111\u1ea5t k\u00e9o d\u00e0i n\u1eeda th\u00e1ng"
+                }
+              ]
+            },
+            {
+              "question": "\u0110\u1ea5t l\u1ea5y nhi\u1ec1u hay \u00edt t\u00f9y v\u00e0o \u0111\u00e2u ?",
+              "id": "42716cd5-2663-469d-86a5-b8a7b639f90d",
+              "answers": [
+                {
+                  "answer_start": 161,
+                  "text": "kh\u1ea3 n\u0103ng c\u1ee7a ng\u01b0\u1eddi l\u1ea5y."
+                }
+              ]
+            },
+            {
+              "question": "T\u1edbi m\u00f9a l\u1ea5y \u0111\u1ea5t, m\u1ecdi ng\u01b0\u1eddi \u0111em \u0111\u1ea5t tr\u1eef t\u1ea1i \u0111\u00e2u ?",
+              "id": "f9fe1e46-3621-4653-b51e-e54b7cc26996",
+              "answers": [
+                {
+                  "answer_start": 247,
+                  "text": "nh\u00e0"
+                }
+              ]
+            },
+            {
+              "question": "\u0110\u1ea5t s\u00e9t v\u00e0 c\u00e1t \u0111\u01b0\u1ee3c pha nh\u01b0 th\u1ebf n\u00e0o ?",
+              "id": "c757f838-24fb-4816-adcc-05a460e1e97a",
+              "answers": [
+                {
+                  "answer_start": 292,
+                  "text": "pha k\u00e8m v\u1edbi m\u1ed9t \u00edt n\u01b0\u1edbc, nh\u00e0o cho th\u1eadt m\u1ecbn, d\u00ednh l\u1ea1i v\u1edbi nhau v\u00e0 \u0111\u1eb7t l\u00ean b\u00e0n."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nHi\u1ec7n ng\u01b0\u1eddi d\u00e2n \u1edf B\u00e0u Tr\u00fac v\u1eabn gi\u1eef c\u00e1ch l\u00e0m g\u1ed1m nguy\u00ean s\u01a1 c\u1ee7a m\u00ecnh t\u1eeb bao \u0111\u1eddi. Ng\u01b0\u1eddi l\u00e0ng kh\u00f4ng l\u00e0m b\u1eb1ng b\u00e0n xoay m\u00e0 ng\u01b0\u1eddi th\u1ee3 ph\u1ea3i xoay quanh s\u1ea3n ph\u1ea9m. Nh\u1eefng chi\u1ebfc l\u1ecd, chi\u1ebfc \u0111\u0129a d\u1ea7n hi\u1ec7n ra sau m\u1ed7i l\u1ea7n xoay v\u00f2ng v\u00e0 khi ng\u01b0\u1eddi th\u1ee3 d\u1eebng xoay c\u0169ng l\u00e0 l\u00fac s\u1ea3n ph\u1ea9m \u0111\u01b0\u1ee3c ho\u00e0n th\u00e0nh. \u0110\u01b0\u1ee3c l\u00e0m nhi\u1ec1u nh\u1ea5t l\u00e0 nh\u1eefng b\u1ee9c ph\u00f9 \u0111i\u00eau h\u00ecnh ng\u01b0\u1eddi ph\u1ee5 n\u1eef Ch\u0103m, h\u00ecnh nh\u1eefng v\u1ecb vua Ch\u0103m, v\u0169 n\u1eef v\u00e0 c\u00e1c v\u1eadt d\u1ee5ng h\u00e0ng ng\u00e0y.",
+          "qas": [
+            {
+              "question": "C\u00e1ch ng\u01b0\u1eddi d\u00e2n \u1edf B\u00e0u Tr\u00fac l\u00e0m g\u1ed1m ?",
+              "id": "cdbae3c4-f911-434c-804a-1aa4217f3bc7",
+              "answers": [
+                {
+                  "answer_start": 79,
+                  "text": "Ng\u01b0\u1eddi l\u00e0ng kh\u00f4ng l\u00e0m b\u1eb1ng b\u00e0n xoay m\u00e0 ng\u01b0\u1eddi th\u1ee3 ph\u1ea3i xoay quanh s\u1ea3n ph\u1ea9m."
+                }
+              ]
+            },
+            {
+              "question": "Nh\u1eefng b\u1ee9c ph\u00f9 \u0111i\u1ec1u h\u00ecnh g\u00ec ?",
+              "id": "326a128a-c375-4771-9288-55c946c04dd6",
+              "answers": [
+                {
+                  "answer_start": 325,
+                  "text": "ng\u01b0\u1eddi ph\u1ee5 n\u1eef Ch\u0103m, h\u00ecnh nh\u1eefng v\u1ecb vua Ch\u0103m, v\u0169 n\u1eef v\u00e0 c\u00e1c v\u1eadt d\u1ee5ng h\u00e0ng ng\u00e0y."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nNg\u01b0\u1eddi ta d\u00f9ng kh\u0103n th\u1ea5m n\u01b0\u1edbc t\u1ea1o b\u1ec1 m\u1eb7t nh\u1eb5n. C\u00e1c hoa v\u0103n trang tr\u00ed b\u1eb1ng nh\u1eefng v\u1ecf s\u00f2, con \u1ed1c ho\u1eb7c \u0111\u01b0\u1ee3c v\u1ebd b\u1eb1ng tay h\u00ecnh s\u00f3ng n\u01b0\u1edbc, h\u00ecnh r\u0103ng c\u01b0a, h\u00ecnh nh\u1eefng con thuy\u1ec1n, b\u00f4ng hoa \u0111\u01a1n gi\u1ea3n, ph\u1ea3n \u00e1nh cu\u1ed9c s\u1ed1ng c\u1ee7a ng\u01b0\u1eddi d\u00e2n su\u1ed1t bao \u0111\u1eddi.",
+          "qas": [
+            {
+              "question": "C\u00e1c hoa v\u0103n trang tr\u00ed b\u1eb1ng g\u00ec ?",
+              "id": "f5e9c8b7-0c9d-4d13-99a4-9eb931e0b86d",
+              "answers": [
+                {
+                  "answer_start": 74,
+                  "text": "nh\u1eefng v\u1ecf s\u00f2, con \u1ed1c "
+                }
+              ]
+            },
+            {
+              "question": "Hoa v\u0103n trang tr\u00ed v\u1ebd b\u1eb1ng g\u00ec ?",
+              "id": "5ee012c3-eda3-46d9-9888-978e50d14290",
+              "answers": [
+                {
+                  "answer_start": 104,
+                  "text": "v\u1ebd b\u1eb1ng tay h\u00ecnh s\u00f3ng n\u01b0\u1edbc, h\u00ecnh r\u0103ng c\u01b0a, h\u00ecnh nh\u1eefng con thuy\u1ec1n, b\u00f4ng hoa \u0111\u01a1n gi\u1ea3n"
+                }
+              ]
+            },
+            {
+              "question": "Hoa v\u0103n trang tr\u00ed ph\u1ea3n \u00e1nh g\u00ec ?",
+              "id": "80c6a0e8-afe8-4552-a24c-9d8c8551d6da",
+              "answers": [
+                {
+                  "answer_start": 198,
+                  "text": "cu\u1ed9c s\u1ed1ng c\u1ee7a ng\u01b0\u1eddi d\u00e2n su\u1ed1t bao \u0111\u1eddi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nKh\u00f4ng c\u1ea7n l\u00f2 nung, ng\u01b0\u1eddi th\u1ee3 B\u00e0u Tr\u00fac ch\u1ec9 d\u00f9ng r\u01a1m, c\u1ee7i kh\u00f4 ch\u1ea5t th\u00e0nh \u0111\u1ed1ng r\u1ed3i \u0111\u1ed1t. C\u00e1ch l\u00e0m n\u00e0y khi\u1ebfn cho nh\u1eefng b\u00ecnh n\u01b0\u1edbc gi\u1eef \u0111\u01b0\u1ee3c \u0111\u1ed9 m\u00e1t c\u1ee7a n\u01b0\u1edbc ch\u1ee9a b\u00ean trong. \u00a0",
+          "qas": [
+            {
+              "question": "Ng\u01b0\u1eddi th\u1ee3 B\u00e0u Tr\u00fac d\u00f9ng g\u00ec \u0111\u1ec3 \u0111\u1ed1t ?",
+              "id": "50bc1e55-0348-4427-b582-6aca0806fca4",
+              "answers": [
+                {
+                  "answer_start": 43,
+                  "text": "d\u00f9ng r\u01a1m, c\u1ee7i kh\u00f4"
+                }
+              ]
+            },
+            {
+              "question": "T\u00e1c d\u1ee5ng khi d\u00f9ng r\u01a1m v\u00e0 c\u1ee7i kh\u00f4 \u0111\u1ec3 \u0111\u1ed1t ?",
+              "id": "62672db8-2492-4078-9151-12ae53381fd5",
+              "answers": [
+                {
+                  "answer_start": 99,
+                  "text": "khi\u1ebfn cho nh\u1eefng b\u00ecnh n\u01b0\u1edbc gi\u1eef \u0111\u01b0\u1ee3c \u0111\u1ed9 m\u00e1t c\u1ee7a n\u01b0\u1edbc ch\u1ee9a b\u00ean trong. \u00a0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nC\u00e1c s\u1ea3n ph\u1ea9m l\u00e0m xong \u0111\u1ec1u mang m\u00e0u n\u00e2u \u0111\u1ecf t\u1ef1 nhi\u00ean c\u1ee7a \u0111\u1ea5t ho\u1eb7c v\u00e0ng \u0111\u1ecf, \u0111\u1ecf h\u1ed3ng, \u0111en x\u00e1m, v\u1ec7t n\u00e2u \u0111\u1ea7y m\u00e0u s\u1eafc \u0111\u1eb7c tr\u01b0ng c\u1ee7a n\u1ec1n v\u0103n h\u00f3a Champa.\u00a0",
+          "qas": [
+            {
+              "question": "C\u00e1c s\u1ea3n ph\u1ea9m l\u00e0m xong mang m\u00e0u g\u00ec ?",
+              "id": "477dee29-ca86-419d-9f93-43bd806d2a02",
+              "answers": [
+                {
+                  "answer_start": 36,
+                  "text": "n\u00e2u \u0111\u1ecf t\u1ef1 nhi\u00ean c\u1ee7a \u0111\u1ea5t ho\u1eb7c v\u00e0ng \u0111\u1ecf, \u0111\u1ecf h\u1ed3ng, \u0111en x\u00e1m, v\u1ec7t n\u00e2u \u0111\u1ea7y m\u00e0u s\u1eafc \u0111\u1eb7c tr\u01b0ng c\u1ee7a n\u1ec1n v\u0103n h\u00f3a Champa.\u00a0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\n\u00d4ng t\u1ed5 c\u1ee7a l\u00e0ng ngh\u1ec1 l\u00e0 P\u00f4 klong Chan. H\u00e0ng n\u0103m, ng\u01b0\u1eddi d\u00e2n \u0111\u1ecba ph\u01b0\u01a1ng v\u1eabn t\u1ed5 ch\u1ee9c c\u00fang l\u1ec5 t\u01b0\u1edfng nh\u1edb v\u1ecb t\u1ed5 s\u01b0 l\u00e0ng ngh\u1ec1 c\u1ee7a m\u00ecnh. V\u1edbi 400 h\u1ed9 d\u00e2n trong \u0111\u00f3 ng\u01b0\u1eddi l\u00e0m ngh\u1ec1 kh\u00f4ng c\u00f2n nhi\u1ec1u nh\u01b0ng ng\u01b0\u1eddi d\u00e2n B\u00e0u Tr\u00fac v\u1eabn c\u1ed1 g\u1eafng duy tr\u00ec l\u00e0ng ngh\u1ec1 cho \u0111\u1ebfn t\u1eadn h\u00f4m nay.",
+          "qas": [
+            {
+              "question": "\u00d4ng t\u1ed5 l\u00e0ng ngh\u1ec1 B\u00e0u Tr\u00fac l\u00e0 ai ?",
+              "id": "b6b329e9-3799-447e-830c-6a3709bca422",
+              "answers": [
+                {
+                  "answer_start": 25,
+                  "text": "P\u00f4 klong Chan."
+                }
+              ]
+            },
+            {
+              "question": "H\u00e0ng n\u0103m, ng\u01b0\u1eddi d\u00e2n \u0111\u1ecba ph\u01b0\u01a1ng l\u00e0m g\u00ec ?",
+              "id": "0218b276-66ff-4cf2-ae99-f5af1cd41133",
+              "answers": [
+                {
+                  "answer_start": 75,
+                  "text": "t\u1ed5 ch\u1ee9c c\u00fang l\u1ec5 t\u01b0\u1edfng nh\u1edb v\u1ecb t\u1ed5 s\u01b0 l\u00e0ng ngh\u1ec1 c\u1ee7a m\u00ecnh"
+                }
+              ]
+            },
+            {
+              "question": "C\u00f3 bao nhi\u00eau h\u1ed9 d\u00e2n \u1edf B\u00e0u Tr\u00fac ?",
+              "id": "dcc73516-dd15-4178-a1ba-49d94f7e3ddb",
+              "answers": [
+                {
+                  "answer_start": 134,
+                  "text": "400 h\u1ed9 d\u00e2n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nC\u00e1c c\u00f4ng ty du l\u1ecbch th\u01b0\u1eddng xuy\u00ean \u0111\u01b0a kh\u00e1ch \u0111\u1ebfn tham quan v\u00e0 t\u00ecm hi\u1ec3u th\u00eam v\u1ec1 l\u00e0ng g\u1ed1m gi\u00e0u truy\u1ec1n th\u1ed1ng n\u00e0y. Du kh\u00e1ch \u0111\u1ebfn \u0111\u00e2y c\u00f3 th\u1ec3 t\u1ef1 tay l\u00e0m cho m\u00ecnh nh\u1eefng chi\u1ebfc c\u1ed1c hay chi\u1ebfc \u0111\u0129a, r\u1ed3i t\u1ef1 tay m\u00ecnh v\u1ebd hoa v\u0103n v\u00e0 nung tr\u00ean l\u1eeda. C\u1ea3m gi\u00e1c th\u1eadt th\u00fa v\u1ecb khi \u0111\u01b0\u1ee3c t\u1eadn tay n\u1eafm \u0111\u1ea5t v\u00e0 l\u00e0m cho ri\u00eang m\u00ecnh nh\u1eefng s\u1ea3n ph\u1ea9m.",
+          "qas": [
+            {
+              "question": "Du kh\u00e1ch \u0111\u1ebfn \u0111\u00e2y c\u00f3 th\u1ec3 l\u00e0m g\u00ec ?",
+              "id": "39a4c6ab-2955-4ac9-bf49-9af7988b16f2",
+              "answers": [
+                {
+                  "answer_start": 134,
+                  "text": "t\u1ef1 tay l\u00e0m cho m\u00ecnh nh\u1eefng chi\u1ebfc c\u1ed1c hay chi\u1ebfc \u0111\u0129a, r\u1ed3i t\u1ef1 tay m\u00ecnh v\u1ebd hoa v\u0103n v\u00e0 nung tr\u00ean l\u1eeda"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "\nTh\u00e1p Ch\u0103m thu nh\u1ecf l\u00e0 m\u1ed9t trong nh\u1eefng m\u00f3n qu\u00e0 c\u1ee7a m\u1ea3nh \u0111\u1ea5t n\u00e0y.",
+          "qas": [
+            {
+              "question": "M\u00f3n qu\u00e0 c\u1ee7a m\u1ea3nh \u0111\u1ea5t n\u00e0y l\u00e0 g\u00ec ?",
+              "id": "a928f477-73b1-417a-b36c-1b64d84ba8a9",
+              "answers": [
+                {
+                  "answer_start": 1,
+                  "text": "Th\u00e1p Ch\u0103m thu nh\u1ecf "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
