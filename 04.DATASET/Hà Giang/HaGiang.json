@@ -1,0 +1,999 @@
+{
+    "data": [
+      {
+        "title": "Hà Giang",
+        "paragraphs": [
+          {
+            "context": "Hà Giang là tỉnh địa đầu của Tổ quốc, phía Đông giáp tỉnh Cao Bằng, phía Tây giáp tỉnh Yên Bái và Lào Cai, phía Nam giáp tỉnh Tuyên Quang, phía Bắc giáp Trung Quốc. Các cung đường Hà Giang quanh co, cheo leo vốn đầy thách thức cho người lái xe. Thế nhưng khi bạn phóng tầm mắt xung quanh, căng thẳng nhường lại chỗ cho cảm giác thư thái khi chiêm ngưỡng vẻ đẹp cao nguyên.Là tỉnh miền núi cao nên khí hậu ở Hà Giang lạnh rõ rệt so với vùng thấp và trung du kế cận. Nhiệt độ trung bình năm khoảng 21-23 độ C. Nét nổi bật của khí hậu là độ ẩm cao trong năm, mưa nhiều và kéo dài.",
+            "qas": [
+              {
+                "question": "Hà Giang phía Đông giáp tỉnh nào ? ",
+                "id": "d7f26e0e-9620-47e5-9700-44d99d159d7a",
+                "answers": [
+                  {
+                    "answer_start": 48,
+                    "text": "giáp tỉnh Cao Bằng"
+                  }
+                ]
+              },
+              {
+                "question": "Hà Giang phía Tây giáp tỉnh nào ?",
+                "id": "d4389504-a1ce-4d4e-9162-4d1a4dcdc743",
+                "answers": [
+                  {
+                    "answer_start": 77,
+                    "text": "giáp tỉnh Yên Bái và Lào Cai"
+                  }
+                ]
+              },
+              {
+                "question": "Hà Giang phía Nam giáp tỉnh nào ?",
+                "id": "3fb82c96-b3a5-4627-a8c5-19bb66ee2f01",
+                "answers": [
+                  {
+                    "answer_start": 121,
+                    "text": "tỉnh Tuyên Quang"
+                  }
+                ]
+              },
+              {
+                "question": "Hà Giang phía Bắc giáp tỉnh nào ?",
+                "id": "5b8958c3-41c7-4a0d-8be4-3785b01d1129",
+                "answers": [
+                  {
+                    "answer_start": 139,
+                    "text": "phía Bắc giáp Trung Quốc."
+                  }
+                ]
+              },
+              {
+                "question": "Vì sao các cung đường ở Hà Giang thách thức cho người lái xe ?",
+                "id": "49b6286f-d13e-4902-9a65-6de84849a32b",
+                "answers": [
+                  {
+                    "answer_start": 165,
+                    "text": "Các cung đường Hà Giang quanh co, cheo leo"
+                  }
+                ]
+              },
+              {
+                "question": "Khí hậu ở Hà Giang so với các vùng thấp và trung du kế cận như thế nào ?",
+                "id": "f5eccf82-d9e2-42e8-b116-f45a4ff57869",
+                "answers": [
+                  {
+                    "answer_start": 416,
+                    "text": "lạnh rõ rệt"
+                  }
+                ]
+              },
+              {
+                "question": "Nhiệt độ trung bình năm ở Hà Giang là bao nhiêu ?",
+                "id": "b93458a7-7219-4150-bdc1-25c0a38681d3",
+                "answers": [
+                  {
+                    "answer_start": 489,
+                    "text": "khoảng 21-23 độ C"
+                  }
+                ]
+              },
+              {
+                "question": "Nét nổi bật của khí hậu ở Hà Giang là gì ?",
+                "id": "a48e0a0e-bf65-4b9b-8ef4-c4ad5dbcbcb3",
+                "answers": [
+                  {
+                    "answer_start": 535,
+                    "text": "độ ẩm cao trong năm, mưa nhiều và kéo dài."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Bạn có thể du lịch Hà Giang vào bất kỳ mùa nào trong năm. Người ta thường đến Hà Giang vào mùa thu lúa chín vàng. Thời gian đẹp nhất là tháng 10, 11 và 12, khi hoa tam giác mạch hay những cánh đồng cải khoe sắc. Còn mùa xuân, hoa mơ, hoa mận nở trắng rừng khiến bạn như đang bồng bềnh trên mây.Tháng 5, những thửa ruộng lấp loáng mùa nước đổ. Tháng 6 và tháng 7, nhiều người bỏ lỡ Hà Giang vì những cơn mưa hè réo rắt bất chợt. Nhưng cũng nhờ sự ẩm ướt này, núi rừng nơi đây lại khoác lên mình một màu xanh mướt say đắm lòng người.",
+            "qas": [
+              {
+                "question": "Bạn có thể du lịch Hà Giang vào mùa nào ?",
+                "id": "a0f6da40-08eb-44ee-9715-96503ac535c5",
+                "answers": [
+                  {
+                    "answer_start": 32,
+                    "text": "bất kỳ mùa nào trong năm"
+                  }
+                ]
+              },
+              {
+                "question": "Người ta thường đến Hà Giang khi nào ?",
+                "id": "d04be5af-94e6-4337-9e1f-86b0295f00d5",
+                "answers": [
+                  {
+                    "answer_start": 87,
+                    "text": "vào mùa thu lúa chín vàng"
+                  }
+                ]
+              },
+              {
+                "question": "Thời gian đẹp nhất ở Hà Giang là khi nào ?",
+                "id": "9eab36ea-3603-4f38-b006-c08a2fb988c2",
+                "answers": [
+                  {
+                    "answer_start": 133,
+                    "text": "là tháng 10, 11 và 12, khi hoa tam giác mạch hay những cánh đồng cải khoe sắc"
+                  }
+                ]
+              },
+              {
+                "question": "Mùa xuân ở Hà Giang như thế nào ?",
+                "id": "a63a5c9a-75e2-4a0b-af36-0240484e5b92",
+                "answers": [
+                  {
+                    "answer_start": 216,
+                    "text": "mùa xuân, hoa mơ, hoa mận nở trắng rừng khiến bạn như đang bồng bềnh trên mây"
+                  }
+                ]
+              },
+              {
+                "question": "Tháng 5 ở Hà Giang có gì đặc biệt? ",
+                "id": "ff9fa4dd-479a-40a8-813a-0bcc4e6e1332",
+                "answers": [
+                  {
+                    "answer_start": 303,
+                    "text": "những thửa ruộng lấp loáng mùa nước đổ."
+                  }
+                ]
+              },
+              {
+                "question": "Tháng 6 và Tháng 7 nhiều người bỏ lỡ gì ở Hà Giang ?",
+                "id": "5f837076-565d-4ef0-a6ce-447d6f22723d",
+                "answers": [
+                  {
+                    "answer_start": 393,
+                    "text": "những cơn mưa hè réo rắt bất chợt"
+                  }
+                ]
+              },
+              {
+                "question": "Nhờ sự ẩm ướt của những cơn mưa hè thì núi rừng Hà Giang như thế nào ?",
+                "id": "4d6a87d5-ce58-4c47-b7bf-d64c7d33ab17",
+                "answers": [
+                  {
+                    "answer_start": 458,
+                    "text": "núi rừng nơi đây lại khoác lên mình một màu xanh mướt say đắm lòng người."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Đến Hà Giang từ các tỉnh miền Bắc rất dễ dàng vì có nhiều nhà xe chạy thẳng. Ngược lại với những du khách ở xa trong miền Nam hoặc miền Trung thì nên bắt đầu hành trình từ Hà Nội. Từ Hà Nội, hầu như giờ nào cũng có xe khách xuất phát từ các bến xe Mỹ Đình, Lương Yên, Yên Nghĩa, Gia Lâm.",
+            "qas": [
+              {
+                "question": "Đi Hà Giang từ các tỉnh nào thì dễ ?",
+                "id": "9acee401-4b16-4416-9a0d-e65bc943d644",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Đến Hà Giang từ các tỉnh miền Bắc rất dễ dàng vì có nhiều nhà xe chạy thẳng"
+                  }
+                ]
+              },
+              {
+                "question": "Các du khách ở xa trong miền Nam hoặc miền trung thì nên bắt đầu từ đâu ?",
+                "id": "494dce87-36bb-4a7c-a78a-9f0423c617a5",
+                "answers": [
+                  {
+                    "answer_start": 146,
+                    "text": "nên bắt đầu hành trình từ Hà Nội."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Du khách có thể chọn xe giường nằm hoặc xe limousine chất lượng cao, tùy theo tài chính. Tuy vậy, bạn nên di chuyển bằng xe khách đêm để tiết kiệm được thời gian, giữ sức cho chuyến hành trình khám phá dài. Giá vé xe từ Hà Nội đến Hà Giang và ngược lại dao động 200.000 - 300.000 đồng một lượt. Khi đến TP Hà Giang, bạn có thể thuê xe máy tự túc du ngoạn với giá 150.000 - 300.000 đồng một xe trong ngày. Ngược lại nếu không đủ thời gian và sức khỏe, hoặc đoàn có người già và trẻ nhỏ thì bạn nên thuê ô tô dịch vụ 7 - 16 chỗ.",
+            "qas": [
+              {
+                "question": "Tùy theo tài chính du khách có thể chọn loại xe nào ?",
+                "id": "1f2a7d89-e756-440b-9a8c-ac2189aeaad8",
+                "answers": [
+                  {
+                    "answer_start": 21,
+                    "text": "xe giường nằm hoặc xe limousine chất lượng cao"
+                  }
+                ]
+              },
+              {
+                "question": "Để tiết kiệm thời gian cho chuyến hành trình khám phá dài thì bạn nên di chuyển như thế nào ?",
+                "id": "882bebb3-0da8-4139-8e35-1fd7e8ad2e69",
+                "answers": [
+                  {
+                    "answer_start": 98,
+                    "text": "bạn nên di chuyển bằng xe khách đêm để tiết kiệm được thời gian, giữ sức cho chuyến hành trình khám phá dài"
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé từ Hà Nội đến Hà Giang là bao nhiêu ?",
+                "id": "b3f184b1-1d7d-4179-8362-a5ac86714b74",
+                "answers": [
+                  {
+                    "answer_start": 253,
+                    "text": "dao động 200.000 - 300.000 đồng một lượt."
+                  }
+                ]
+              },
+              {
+                "question": "Khi đến TP Hà Giang có thể thuê xe máy không ?",
+                "id": "ddcd1598-fb0b-45d8-878d-118a0b85ee3e",
+                "answers": [
+                  {
+                    "answer_start": -1,
+                    "text": "Có"
+                  }
+                ]
+              },
+              {
+                "question": "Giá thuê xe máy ở TP Hà Giang là bao nhiêu ?",
+                "id": "6563ed8e-8f50-479c-899c-f9fba632cbea",
+                "answers": [
+                  {
+                    "answer_start": 359,
+                    "text": "giá 150.000 - 300.000 đồng một xe trong ngày"
+                  }
+                ]
+              },
+              {
+                "question": "Nêu không đủ thời gian và sức khỏe , hoặc đoàn người có người già và trẻ nhỏ thì nên thế nào ?",
+                "id": "307e9a34-f004-4885-b963-9ee83a6e17f7",
+                "answers": [
+                  {
+                    "answer_start": 497,
+                    "text": "thuê ô tô dịch vụ 7 - 16 chỗ."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Những gia đình, cặp đôi muốn lưu trú tại khu nghỉ dưỡng cao cấp, riêng biệt có thể đến với P'apiu ở xã Yên Định, huyện Bắc Mê. Tại đây, du khách được đắm chìm trong sắc màu vùng cao bởi con đường thổ cẩm dài nhất Việt Nam, lưu trú trong những biệt thự, villa mang thiết kế nhà trình tường của người H'Mong. Giá một đêm nghỉ khoảng 10.000.000 đồng.",
+            "qas": [
+              {
+                "question": "Những gia đình, cặp đôi muốn lưu trú tại khu nghỉ dưỡng thì nên đến đâu ?",
+                "id": "c76f3e48-b734-4a86-a915-bafe0d34fba2",
+                "answers": [
+                  {
+                    "answer_start": 91,
+                    "text": "P'apiu ở xã Yên Định, huyện Bắc Mê"
+                  }
+                ]
+              },
+              {
+                "question": "Tại P'apiu ở xã Yên Định, huyện Bắc Mê có con đường gì dài nhất Việt Nam ?",
+                "id": "a389044f-5084-4e76-890d-ced5665a6b52",
+                "answers": [
+                  {
+                    "answer_start": 186,
+                    "text": "con đường thổ cẩm "
+                  }
+                ]
+              },
+              {
+                "question": "Những biệt thự, villa ở P'apiu ở xã Yên Định, huyện Bắc Mê mang thiết kế của ai ?",
+                "id": "c773ee12-981d-4f91-b7c6-81548d183e44",
+                "answers": [
+                  {
+                    "answer_start": 293,
+                    "text": "người H'Mong"
+                  }
+                ]
+              },
+              {
+                "question": "Giá một đêm nghỉ ở P'apiu ở xã Yên Định, huyện Bắc Mê khoảng bao nhiêu ?",
+                "id": "700d72c8-b63e-4e88-b6a3-815dc607b0f9",
+                "answers": [
+                  {
+                    "answer_start": 324,
+                    "text": "khoảng 10.000.000 đồng"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Với những du khách yêu thích sự mới lạ, H'Mong Village với thiết kế hình quẩy tấu là một gợi ý. Khu nghỉ dưỡng nằm trên những ngọn đồi ở Tráng Kìm, Quản Bạ, mặt hướng về dòng sông Miện và những dãy núi hùng vĩ phía xa. Du khách có thể lựa chọn ở phòng cộng đồng, giá 400.000 đồng một đêm hoặc ở bungalow quẩy tấu 2.400.000 đồng một đêm.",
+            "qas": [
+              {
+                "question": "Du khách yêu thích sự mới lạ thì nên đến đâu ? ",
+                "id": "00e029d4-37fb-42f9-be5b-6838dceabe71",
+                "answers": [
+                  {
+                    "answer_start": 40,
+                    "text": "H'Mong Village"
+                  }
+                ]
+              },
+              {
+                "question": "Thiết kế ở H'Mong Village có gì mới lạ ?",
+                "id": "55aaa487-673a-45c0-b8ad-794dddd0dc35",
+                "answers": [
+                  {
+                    "answer_start": 59,
+                    "text": "thiết kế hình quẩy tấu "
+                  }
+                ]
+              },
+              {
+                "question": "H'Mong Village nằm ở đâu ?",
+                "id": "cda528c7-c872-41c0-af42-a92e578673ec",
+                "answers": [
+                  {
+                    "answer_start": 111,
+                    "text": "nằm trên những ngọn đồi ở Tráng Kìm, Quản Bạ"
+                  }
+                ]
+              },
+              {
+                "question": "H'Mong Village mặt hướng về sông gì ?",
+                "id": "afa43a40-e105-4f77-bad7-6aa5aacd455c",
+                "answers": [
+                  {
+                    "answer_start": 157,
+                    "text": "mặt hướng về dòng sông Miện và những dãy núi hùng vĩ phía xa"
+                  }
+                ]
+              },
+              {
+                "question": "Giá phòng cộng đồng ở H'Mong Village là bao nhiêu ?",
+                "id": "14595f07-7a7c-4738-8fe2-5f59576b476f",
+                "answers": [
+                  {
+                    "answer_start": 263,
+                    "text": "giá 400.000 đồng một đêm"
+                  }
+                ]
+              },
+              {
+                "question": "Giá phòng bungalow quẩy tấu ở H'Mong Village là bao nhiêu ?",
+                "id": "8fe5039d-8ac0-4477-a781-7b9d7a7d298a",
+                "answers": [
+                  {
+                    "answer_start": 313,
+                    "text": "2.400.000 đồng một đêm."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Với lựa chọn gần gũi với cộng đồng, chi phí thấp hơn, du khách có thể lưu trú tại các homestay, trong đó ở Hoàng Su Phì có Hoang Su Phi Lodge và Kinh Homestay, sát bên những ruộng bậc thang ở thôn Nậm Hồng; Hồ Thầu Eco Village xã Hồ Thầu với khu nghỉ nhà trình tường lợp mái lá.Ngoài ra, bạn có thể ở Chúng Pủa - Auberge de MeoVac (Mèo Vạc) với ngôi nhà đất đậm chất địa phương hay Bụi homestay là nhà sàn ở Đồng Văn. Ở Đồng Văn còn có nhà cổ Hoàng Thân giá 100.000 đồng một người; Ong Vàng Mèo Vạc giá chỉ 230.000 đồng một đêm. Ở bản Lô Lô Chải gần cột cờ Lũng Cú có homestay Lo Lo Ancient House.",
+            "qas": [
+              {
+                "question": "Để chọn gần gũi với cộng đồng , chi phí thấp thì du khách nên chọn lưu trú ở đâu ?",
+                "id": "8e8ea590-019f-4fc0-bc09-52aeff50d60c",
+                "answers": [
+                  {
+                    "answer_start": 78,
+                    "text": "tại các homestay, trong đó ở Hoàng Su Phì có Hoang Su Phi Lodge và Kinh Homestay,"
+                  }
+                ]
+              },
+              {
+                "question": "Các homestay bình dân, chi phí thấp ở Hoàng Lù Phì là gì ?",
+                "id": "32f50d2b-1bdb-4256-b844-8a34550e5b08",
+                "answers": [
+                  {
+                    "answer_start": 123,
+                    "text": "Hoang Su Phi Lodge và Kinh Homestay"
+                  }
+                ]
+              },
+              {
+                "question": "Hoang Su Phi Lodge và Kinh Homestay nằm ở đâu ?",
+                "id": "768e9f46-759e-4f91-987f-d6e0273e27a0",
+                "answers": [
+                  {
+                    "answer_start": 160,
+                    "text": "sát bên những ruộng bậc thang ở thôn Nậm Hồng; Hồ Thầu Eco Village xã Hồ Thầu với khu nghỉ nhà trình tường lợp mái lá"
+                  }
+                ]
+              },
+              {
+                "question": "Ở Chung Pủa thì nên chọn homestay nào ?",
+                "id": "82bd9035-d5ec-400b-8c2b-1f002013a4da",
+                "answers": [
+                  {
+                    "answer_start": 313,
+                    "text": "Auberge de MeoVac (Mèo Vạc)"
+                  }
+                ]
+              },
+              {
+                "question": "Auberge de MeoVac (Mèo Vạc) mang đập chất gì ?",
+                "id": "a5fa100c-4c39-46b5-b4fe-5802659815a8",
+                "answers": [
+                  {
+                    "answer_start": 345,
+                    "text": "ngôi nhà đất đậm chất địa phương"
+                  }
+                ]
+              },
+              {
+                "question": "Bụi homestay là loại nhà gì ?",
+                "id": "0ab525e2-350c-435c-b42b-95089a6d9064",
+                "answers": [
+                  {
+                    "answer_start": 395,
+                    "text": "là nhà sàn ở Đồng Văn"
+                  }
+                ]
+              },
+              {
+                "question": "Ở Lũng Cú có homestay gì ?",
+                "id": "1969f85d-19fd-48a4-9347-a5595eb9095a",
+                "answers": [
+                  {
+                    "answer_start": 568,
+                    "text": "homestay Lo Lo Ancient House."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Vì các điểm du lịch ở Hà Giang cách xa nhau, bạn nên chọn hành trình ít nhất là 3 ngày 2 đêm mới có đủ thời gian 'cưỡi ngựa xem hoa'. Hành trình 3 ngày 4 đêm được nhiều du khách gợi ý, hoặc dư dả hơn là 5 ngày.Để kịp dự chợ phiên Đồng Văn vào sáng chủ nhật, bạn hãy khởi hành từ Hà Nội từ tối thứ 6. 8h sáng ngày hôm sau bạn có thể lên đường tới Đồng Văn và chụp ảnh ven đường, khi không khí buổi sớm còn dễ chịu. Đường từ TP Hà Giang tới Đồng Văn nên chia làm các chặng dừng để vừa đi vừa tận hưởng hơn là chạy một mạch.",
+            "qas": [
+              {
+                "question": "Hành trình du lịch Hà Giang ít nhất là bao lâu ?",
+                "id": "9a376b65-d15d-4b72-8132-41da642c6ec7",
+                "answers": [
+                  {
+                    "answer_start": 80,
+                    "text": "3 ngày 2 đêm"
+                  }
+                ]
+              },
+              {
+                "question": "Vì sao khi du lịch Hà Giang nên đi ít nhất 3 ngày 2 đêm ?",
+                "id": "ea0ec179-4032-49f2-ad30-7dfd0f36baf2",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Vì các điểm du lịch ở Hà Giang cách xa nhau"
+                  }
+                ]
+              },
+              {
+                "question": "Ngoài ra , hành trình nào được các du khách đi trước gợi ý ?",
+                "id": "80e30c8b-ba0c-4f9e-a536-31dc4e1ec154",
+                "answers": [
+                  {
+                    "answer_start": 134,
+                    "text": "Hành trình 3 ngày 4 đêm được nhiều du khách gợi ý, hoặc dư dả hơn là 5 ngày"
+                  }
+                ]
+              },
+              {
+                "question": "Để kịp dự chợ phiên Đồng Văn vào sáng chủ nhật, bạn nên làm gì ?",
+                "id": "a132405a-cd69-4f8b-882a-660a54dac0b0",
+                "answers": [
+                  {
+                    "answer_start": 258,
+                    "text": "bạn hãy khởi hành từ Hà Nội từ tối thứ 6"
+                  }
+                ]
+              },
+              {
+                "question": "Khi đi từ Hà Giang đến Đồng Văn nên chia như thế nào ?",
+                "id": "80f1f0bd-e719-4ad7-af4b-8710f3df52dc",
+                "answers": [
+                  {
+                    "answer_start": 452,
+                    "text": "chia làm các chặng dừng để vừa đi vừa tận hưởng hơn là chạy một mạch."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Từ thành phố, điểm đầu tiên là cột mốc Km 0, sau đó di chuyển đến Quản Bạ chừng 40 km. Ở đây có cổng trời là điểm check-in nổi tiếng, nhưng nếu đi vào mùa đông, có khả năng gặp mây mù. Nếu trời quang, bạn có thể chụp ảnh, ngắm đồng ruộng bên dưới. Từ đây có thể nhìn thấy hồ Nặm Đăm, thuộc thôn Nặm Đăm là thôn homestay của người Dao nổi tiếng tại Quản Bạ. Ngoài cổng trời, bạn cũng có thể ghé thăm Núi Đôi Cô Tiên cách đó không xa.",
+            "qas": [
+              {
+                "question": "Từ thành phố , điểm đầu tiên là gì ?",
+                "id": "8c1b4b23-d2dd-4155-a2f5-7c422516391e",
+                "answers": [
+                  {
+                    "answer_start": 66,
+                    "text": "Quản Bạ"
+                  }
+                ]
+              },
+              {
+                "question": "Di chuyển từ thành phố đến Quản Bạ như thế nào ?",
+                "id": "6fa61fc1-891c-4e93-90d2-42fcd5720557",
+                "answers": [
+                  {
+                    "answer_start": -1,
+                    "text": "từ thành phố, điểm đầu tiên là cột mốc Km 0, sau đó di chuyển đến Quản Bạ chừng 40 km."
+                  }
+                ]
+              },
+              {
+                "question": "Ở Quản Bạ có địa điểm check-in nào nổi tiếng ?",
+                "id": "28116aee-949a-4e52-b4f1-0bf1c26222c7",
+                "answers": [
+                  {
+                    "answer_start": 96,
+                    "text": "cổng trời"
+                  }
+                ]
+              },
+              {
+                "question": "Khi đi vào mùa nào có khả năng gặp mây mù ?",
+                "id": "76b164f5-041b-42c3-8ddb-822a462f637b",
+                "answers": [
+                  {
+                    "answer_start": 151,
+                    "text": "mùa đông"
+                  }
+                ]
+              },
+              {
+                "question": "Khi đi vào mùa đông có khả năng gặp gì ?",
+                "id": "acff78ea-58b1-4c10-b2aa-97e3b17378ec",
+                "answers": [
+                  {
+                    "answer_start": 177,
+                    "text": "mây mù"
+                  }
+                ]
+              },
+              {
+                "question": "Nếu trời quang bạn có thể làm gì ?",
+                "id": "b8f29156-aa67-4021-b4ef-cab6e4cd3ff4",
+                "answers": [
+                  {
+                    "answer_start": 185,
+                    "text": "Nếu trời quang, bạn có thể chụp ảnh, ngắm đồng ruộng bên dưới"
+                  }
+                ]
+              },
+              {
+                "question": "Từ Quản Bạ bạn có thể nhìn thấy gì ?",
+                "id": "b51bb826-cbd6-44c0-a5ce-49e22800aa77",
+                "answers": [
+                  {
+                    "answer_start": 248,
+                    "text": "Từ đây có thể nhìn thấy hồ Nặm Đăm, thuộc thôn Nặm Đăm"
+                  }
+                ]
+              },
+              {
+                "question": "Hồ Nặm Đăm là gì ?",
+                "id": "1949f389-521b-4c24-9f4c-793766131d57",
+                "answers": [
+                  {
+                    "answer_start": 303,
+                    "text": "là thôn homestay của người Dao nổi tiếng tại Quản Bạ"
+                  }
+                ]
+              },
+              {
+                "question": "Ngoài cổng trời bạn có thể ghé thăm gì nữa ?",
+                "id": "af84029b-4d96-411b-b9b5-815f9baca13a",
+                "answers": [
+                  {
+                    "answer_start": 399,
+                    "text": "Núi Đôi Cô Tiên cách đó không xa."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Lưu ý, khi đi tới cầu Cán Tỷ có 2 lối rẽ, lối lên dốc sẽ tiết kiệm cho bạn 20 km, nhưng cũng khó khăn hơn và đòi hỏi phải là tay lái cứng. Hãy tính toán thời gian để đến đến Yên Minh và ăn trưa tại đó.Đây là tuyến đường nhiều cảnh đẹp và các điểm du lịch được nhiều người biết tới. Đó là Dốc Thẩm Mã hay Đèo 9 Khoanh, điểm check-in biểu tượng của Hà Giang. Tại đây, bạn dễ gặp những người bạn ngoại quốc, những nhà nhiếp ảnh phong cảnh, và đặc biệt là các em bé Mông gùi đầy hoa cỏ.",
+            "qas": [
+              {
+                "question": "Chặng thứ 2 đi từ Quản Bạ sẽ đến đâu ?",
+                "id": "aaf1a741-9358-4db6-a789-391e97ed4d57",
+                "answers": [
+                  {
+                    "answer_start": -1,
+                    "text": "Thị trấn Yên Minh"
+                  }
+                ]
+              },
+              {
+                "question": "Nên lưu ý như thế nào khi đến cầu Cán Tỷ ?",
+                "id": "9e6252c1-2f44-457f-ad42-de2210a13e19",
+                "answers": [
+                  {
+                    "answer_start": 29,
+                    "text": "có 2 lối rẽ, lối lên dốc sẽ tiết kiệm cho bạn 20 km"
+                  }
+                ]
+              },
+              {
+                "question": "Nên tính toán và đến Yên Minh vào buổi nào ?",
+                "id": "ca42127b-9fa8-4070-8aaf-1a56dde27d9e",
+                "answers": [
+                  {
+                    "answer_start": -1,
+                    "text": "buổi trưa"
+                  }
+                ]
+              },
+              {
+                "question": "Tuyến đường được nhiều người biết đến và có nhiều cảnh đẹp là gì ?",
+                "id": "a1310d4f-6815-42ac-9355-a3f5c139bd4d",
+                "answers": [
+                  {
+                    "answer_start": 288,
+                    "text": "Dốc Thẩm Mã hay Đèo 9 Khoanh"
+                  }
+                ]
+              },
+              {
+                "question": "Đâu là điểm check-in biểu tượng của Hà Giang ?",
+                "id": "dd9e178a-d72a-42f9-956b-664bbb01d654",
+                "answers": [
+                  {
+                    "answer_start": 288,
+                    "text": "Dốc Thẩm Mã hay Đèo 9 Khoanh"
+                  }
+                ]
+              },
+              {
+                "question": "Tại Dốc Thẩm Mã hay Đèo 9 Khoanh bạn có thể gặp ai ?",
+                "id": "f797d970-1419-4742-8018-60a98cc69d25",
+                "answers": [
+                  {
+                    "answer_start": 357,
+                    "text": "Tại đây, bạn dễ gặp những người bạn ngoại quốc, những nhà nhiếp ảnh phong cảnh, và đặc biệt là các em bé Mông gùi đầy hoa cỏ."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Hãy dành chút thời gian buổi sáng để đi chợ phiên, nét đặc trưng vùng mà miền xuôi không nơi nào có. Chợ sầm uất với nhiều mặt hàng, từ những thứ thông dụng của người Kinh như đồ điện tử, rau quả, quần áo... đến các đặc sản dân tộc như vải lanh, thổ cẩm, bánh tam giác mạch, thắng cố... Nếu bạn mua quà về, nhớ chọn những thứ dễ mang như gia vị hay vải lanh.Ngoài chợ phiên, ở Đồng Văn bạn cũng có thể ghé Dinh Vua Mèo. Khuôn viên khu di tích rộng gần 3 ha nằm trong thung lũng xã Sà Phìn. Dinh Vua Mèo được xây dựng từ đầu thế kỷ 20, mô phỏng theo kiến trúc Trung Quốc (đời Mãn Thanh) với những đường cong, nét lượn, trạm trổ tinh xảo. Vé vào cửa 20.000 đồng một lượt.",
+            "qas": [
+              {
+                "question": "Nét đặc trưng ở Đồng Văn là gì ?",
+                "id": "a1bb3601-e4ce-441a-8e65-297b829d631b",
+                "answers": [
+                  {
+                    "answer_start": 40,
+                    "text": "chợ phiên, nét đặc trưng vùng mà miền xuôi không nơi nào có"
+                  }
+                ]
+              },
+              {
+                "question": "Vì sao đây là nét đặc trung ở Đồng Văn ?",
+                "id": "b795d3ce-dbc7-4971-ac5a-557c57cb384b",
+                "answers": [
+                  {
+                    "answer_start": 101,
+                    "text": "Chợ sầm uất với nhiều mặt hàng, từ những thứ thông dụng của người Kinh như đồ điện tử, rau quả, quần áo... "
+                  }
+                ]
+              },
+              {
+                "question": "Đặc sản dân tộc ở Đồng Văn là gì ?",
+                "id": "aa773a54-30ac-4678-8e1a-8929c451941c",
+                "answers": [
+                  {
+                    "answer_start": 236,
+                    "text": "vải lanh, thổ cẩm, bánh tam giác mạch, thắng cố... "
+                  }
+                ]
+              },
+              {
+                "question": "Ngoài chợ phiên, ở Đồng Văn bạn có thể ghé đâu ?",
+                "id": "1174421a-4780-4673-b2de-4b505143289c",
+                "answers": [
+                  {
+                    "answer_start": 405,
+                    "text": " Dinh Vua Mèo"
+                  }
+                ]
+              },
+              {
+                "question": "Khuôn viên Dinh Vua Mèo có di tích rộng bao nhiêu ?",
+                "id": "7a3f435e-7e4e-4c79-9aa7-6e2dea00e5eb",
+                "answers": [
+                  {
+                    "answer_start": 452,
+                    "text": "3 ha"
+                  }
+                ]
+              },
+              {
+                "question": "Dinh Vua Mèo nằm ở đâu ?",
+                "id": "fd29b3c4-77f8-4d52-9630-13c74b940142",
+                "answers": [
+                  {
+                    "answer_start": 461,
+                    "text": "trong thung lũng xã Sà Phìn."
+                  }
+                ]
+              },
+              {
+                "question": "Dinh Vua Mèo được xây dừng năm nào ?",
+                "id": "cc3ea44b-8d17-4430-b32c-ca156223f4e0",
+                "answers": [
+                  {
+                    "answer_start": 517,
+                    "text": "từ đầu thế kỷ 20"
+                  }
+                ]
+              },
+              {
+                "question": "Dinh Vua Mèo mô phỏng theo kiến trúc ở đâu ?",
+                "id": "b95d002b-871f-4b55-9fda-3170d31c7ed2",
+                "answers": [
+                  {
+                    "answer_start": 559,
+                    "text": "Trung Quốc (đời Mãn Thanh)"
+                  }
+                ]
+              },
+              {
+                "question": "Dinh Vua Mèo có những nét kiến trúc như thế nào ?",
+                "id": "c2708a68-ea82-4ed7-ae81-c4275e7bbd93",
+                "answers": [
+                  {
+                    "answer_start": 590,
+                    "text": "những đường cong, nét lượn, trạm trổ tinh xảo."
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé tham quan Dinh Vua Mèo là bao nhiêu ?",
+                "id": "347c796e-d7c2-4ddd-aa10-bd0e94f140fa",
+                "answers": [
+                  {
+                    "answer_start": 637,
+                    "text": "Vé vào cửa 20.000 đồng một lượt."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Nếu không đi chợ phiên hay dinh Vua Mèo, bạn có thể xuất phát từ 6h30 từ Đồng Văn sang Lũng Cú để tham quan cột cờ ngay trong buổi sáng. Quãng đường này dài 25 km, phải đi qua nhiều đoạn xấu có đá dăm, cua dốc, ổ gà,... Thời gian di chuyển khoảng 1 tiếng rưỡi. Đến nơi, du khách leo bộ đến cột cờ và nhìn ngắm núi rừng nơi địa đầu tổ quôc. Nếu thư thả, quán cà phê Cực Bắc cũng là một lựa chọn để nghỉ chân.",
+            "qas": [
+              {
+                "question": "Nếu không đi chợ phiên hay dinh Vua Mèo bạn có thể đi đâu ?",
+                "id": "88a7ccc2-14f1-4b5a-8b07-9fc3701d8ce0",
+                "answers": [
+                  {
+                    "answer_start": 41,
+                    "text": "bạn có thể xuất phát từ 6h30 từ Đồng Văn sang Lũng Cú để tham quan cột cờ ngay trong buổi sáng"
+                  }
+                ]
+              },
+              {
+                "question": "Quãng đường đến Lũng Cú dài bao nhiêu ?",
+                "id": "143209ea-7910-487a-9616-1b1115b7df4e",
+                "answers": [
+                  {
+                    "answer_start": 157,
+                    "text": "25 km"
+                  }
+                ]
+              },
+              {
+                "question": "Đường xá khi đi đến Lũng Cú từ Đồng Văn như thế nào ?",
+                "id": "7f4f2006-cea0-49d0-8565-20c44dc4ad1c",
+                "answers": [
+                  {
+                    "answer_start": 164,
+                    "text": "phải đi qua nhiều đoạn xấu có đá dăm, cua dốc, ổ gà,... "
+                  }
+                ]
+              },
+              {
+                "question": "Thời gian di chuyển từ Đồng Văn đến Lũng Cú là bao lâu ?",
+                "id": "09515e88-11c7-4a33-b220-8531a2fc0412",
+                "answers": [
+                  {
+                    "answer_start": 240,
+                    "text": "khoảng 1 tiếng rưỡi"
+                  }
+                ]
+              },
+              {
+                "question": "Khi đến Lũng Cú quý khách có thể làm gì ?",
+                "id": "ca15bdb3-0bee-43c2-a53a-a827ecc87391",
+                "answers": [
+                  {
+                    "answer_start": 270,
+                    "text": "du khách leo bộ đến cột cờ và nhìn ngắm núi rừng nơi địa đầu tổ quôc"
+                  }
+                ]
+              },
+              {
+                "question": "Quán cà phê nào có thể lựa chọn để nghỉ chân khi đến Lủng Cú ?",
+                "id": "0247f52a-b97f-4ab1-9dad-280d1e8f4f55",
+                "answers": [
+                  {
+                    "answer_start": 353,
+                    "text": "quán cà phê Cực Bắc "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Khoảng 9h30, bạn di chuyển ngược lại đường cũ về Đồng Văn, sau đó đi theo hướng Mèo Vạc đến sông Nho Quế. Đường xe máy đi xuống bến thuyền rất dốc, có nơi đang xây dựng nên cần người cứng tay lái. Nếu không tự tin, bạn có thể thuê dịch vụ xe ôm của người địa phương với giá 150.000 đồng hai chiều.Đường khó đi, nhiều đoạn gập ghềnh nhưng vẻ đẹp của dòng sông xanh ngọc sẽ phần nào xua tan mệt nhọc của du khách. Len lỏi hết con đường vòng vèo ôm lấy vách núi , bạn sẽ đến với bến thuyền. Giá đi thuyền trên sông Nho Quế là 100.000 đồng một người, hành trình dài khoảng 40 phút. Thuyền thường dừng lại ở trước Hẻm Tu Sản, nơi có cảnh đẹp nhất để khách chụp ảnh.",
+            "qas": [
+              {
+                "question": "Khi nào bạn nên di chuyển ngược đường cũ về Đồng Văn ?",
+                "id": "51a9a09a-af4e-4d63-a5a5-8331868868a2",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Khoảng 9h30"
+                  }
+                ]
+              },
+              {
+                "question": "Đi theo hướng nào đến sông Nho Quế ?",
+                "id": "279e6029-2cc6-4c38-a61a-e0c24cb6ac1e",
+                "answers": [
+                  {
+                    "answer_start": 66,
+                    "text": "đi theo hướng Mèo Vạc"
+                  }
+                ]
+              },
+              {
+                "question": "Đường xe máy đi xuống bến thuyền như thế nào ?",
+                "id": "508d6b7b-bae3-4842-b9bb-21f25cf54d00",
+                "answers": [
+                  {
+                    "answer_start": 139,
+                    "text": "rất dốc, có nơi đang xây dựng nên cần người cứng tay lái."
+                  }
+                ]
+              },
+              {
+                "question": "Nếu không tự tin đi xe máy , bạn có thể chọn dịch vụ nào ?",
+                "id": "2b97675b-bae9-4f90-b37d-c8fb12a76703",
+                "answers": [
+                  {
+                    "answer_start": 215,
+                    "text": "bạn có thể thuê dịch vụ xe ôm của người địa phương"
+                  }
+                ]
+              },
+              {
+                "question": "Giá thuê dịch vụ xe ôm của người địa phương là bao nhiêu ?",
+                "id": "43f7ffbc-44be-45bd-b534-911391e552ac",
+                "answers": [
+                  {
+                    "answer_start": 270,
+                    "text": "giá 150.000 đồng hai chiều"
+                  }
+                ]
+              },
+              {
+                "question": "Dù đường khó đi nhưng điều gì sẽ xua tan mệt nhọc của du khách ?",
+                "id": "3c079b03-1456-46d7-af98-3598aa2a0b88",
+                "answers": [
+                  {
+                    "answer_start": 338,
+                    "text": "vẻ đẹp của dòng sông xanh ngọc "
+                  }
+                ]
+              },
+              {
+                "question": "Giá đi thuyền trên sông Nho Quế là bao nhiêu ? ",
+                "id": "0609dc9d-1c16-47c6-87c9-9f4324e799d1",
+                "answers": [
+                  {
+                    "answer_start": 523,
+                    "text": "100.000 đồng một người"
+                  }
+                ]
+              },
+              {
+                "question": "Hành trình đi thuyền trên sông Nho Quế là bao lâu ?",
+                "id": "261f4497-d503-4993-9c00-2bf453895412",
+                "answers": [
+                  {
+                    "answer_start": 562,
+                    "text": "khoảng 40 phút"
+                  }
+                ]
+              },
+              {
+                "question": "Thuyền dừng lại ở đâu ?",
+                "id": "271812f6-8103-4345-84bd-7284d74f066e",
+                "answers": [
+                  {
+                    "answer_start": 603,
+                    "text": "trước Hẻm Tu Sản"
+                  }
+                ]
+              },
+              {
+                "question": "Khi dừng ở trước Hẻm Tu Sản, du khách có thể làm gì ?",
+                "id": "2edb57a1-e30d-4cf0-8523-686d9cccc202",
+                "answers": [
+                  {
+                    "answer_start": 621,
+                    "text": "nơi có cảnh đẹp nhất để khách chụp ảnh."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Khoảng 14h30, bạn di chuyển về phía Mèo Vạc để thăm đèo Mã Pì Lèng. Đường đèo dù uốn lượn nhưng rộng và bằng phẳng, một bên là núi, một bên là vực.Bao quanh đèo là trời, mây và núi non nên du khách có thể thong thả ngắm cảnh, chụp ảnh. Ở chân đèo, bạn ghé thăm Bảo tàng con đường Hạnh Phúc, tìm hiểu về lịch sử xây dựng đầy khó khăn của quốc lộ 4C, từ thành phố Hà Giang đi Đồng Văn, Mèo Vạc.",
+            "qas": [
+              {
+                "question": "Bạn nên thăm đèo Mã Pì Lèng lúc mấy giờ ?",
+                "id": "4fe6d2e0-e3d8-4986-93cc-e69e58385644",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Khoảng 14h30"
+                  }
+                ]
+              },
+              {
+                "question": "Từ sông Nho Quế di chuyển về phía nào để thăm đèo Mã Pì Lèng ?",
+                "id": "115214a8-12de-4ad2-a7ae-d62f020217c4",
+                "answers": [
+                  {
+                    "answer_start": 18,
+                    "text": "di chuyển về phía Mèo Vạc"
+                  }
+                ]
+              },
+              {
+                "question": "Đường khi di chuyển thăm đèo Mã Pì Lèng như thế nào ?",
+                "id": "17d4acab-bdaf-4475-a192-1f2eb98ec8fc",
+                "answers": [
+                  {
+                    "answer_start": 68,
+                    "text": "Đường đèo dù uốn lượn nhưng rộng và bằng phẳng, một bên là núi, một bên là vực"
+                  }
+                ]
+              },s
+              {
+                "question": "Bao quanh đèo là khung cảnh gì ?",
+                "id": "aa15e7ca-42a6-49bb-9039-0c6a3a53b6fe",
+                "answers": [
+                  {
+                    "answer_start": 147,
+                    "text": "Bao quanh đèo là trời, mây và núi non nên du khách có thể thong thả ngắm cảnh, chụp ảnh."
+                  }
+                ]
+              },
+              {
+                "question": "Ở chân đèo bạn có thể ghé thăm đâu ?",
+                "id": "2a1b6c46-106c-4d10-8f13-f553774a827a",
+                "answers": [
+                  {
+                    "answer_start": 261,
+                    "text": "Bảo tàng con đường Hạnh Phúc"
+                  }
+                ]
+              },
+              {
+                "question": "Khi ghé thăm Bảo tàng con đường Hạnh Phúc bạn có thể tìm hiểu gì ?",
+                "id": "f514e552-b112-4068-a74b-207dcf596df5",
+                "answers": [
+                  {
+                    "answer_start": 291,
+                    "text": "tìm hiểu về lịch sử xây dựng đầy khó khăn của quốc lộ 4C, từ thành phố Hà Giang đi Đồng Văn, Mèo Vạc."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
