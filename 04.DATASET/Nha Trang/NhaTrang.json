@@ -1,0 +1,1784 @@
+{
+    "data": [
+      {
+        "title": "Nha Trang",
+        "paragraphs": [
+          {
+            "context": "Nha Trang, thành phố biển nằm tại vị trí trung tâm tỉnh Khánh Hòa, từ lâu đã là một trong những điểm du lịch hút khách nhất Việt Nam. Được thiên nhiên ban tặng những bãi biển, vùng vịnh đẹp cùng nhiều đảo lớn nhỏ, thành phố còn sở hữu nhiều danh lam thắng cảnh, điểm tham quan, vui chơi và cơ sở nghỉ dưỡng.Ngoài vui chơi trên biển, du khách có thể tham quan đảo khỉ, tháp bà Ponagar và thưởng thức món ngon của miền biển.",
+            "qas": [
+              {
+                "question": "Nha Trang là thành phố thuộc tỉnh nào ?",
+                "id": "0705a682-ec2e-4a56-a11c-ef652990c6c1",
+                "answers": [
+                  {
+                    "answer_start": 51,
+                    "text": "tỉnh Khánh Hòa"
+                  }
+                ]
+              },
+              {
+                "question": "Nha Trang tại ví trí nào của tỉnh Khánh Hòa ?",
+                "id": "a69a6adb-3e39-456e-9642-23780708cbd1",
+                "answers": [
+                  {
+                    "answer_start": 11,
+                    "text": "thành phố biển nằm tại vị trí trung tâm tỉnh Khánh Hòa"
+                  }
+                ]
+              },
+              {
+                "question": "Thiên nhiên đã ban tặng cho Nha Trang điều gì ?",
+                "id": "aac29217-393d-44d7-bc4e-6001cf8cae2d",
+                "answers": [
+                  {
+                    "answer_start": 139,
+                    "text": "thiên nhiên ban tặng những bãi biển, vùng vịnh đẹp cùng nhiều đảo lớn nhỏ, thành phố còn sở hữu nhiều danh lam thắng cảnh, điểm tham quan, vui chơi và cơ sở nghỉ dưỡng"
+                  }
+                ]
+              },
+              {
+                "question": "Ngoài vui chơi biển ở Nhà Trang, du khách còn có thể than quan gì ?",
+                "id": "3c0da870-ee32-4ed3-a4c4-fb7628f34f28",
+                "answers": [
+                  {
+                    "answer_start": 307,
+                    "text": "Ngoài vui chơi trên biển, du khách có thể tham quan đảo khỉ, tháp bà Ponagar và thưởng thức món ngon của miền biển."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Nha Trang mùa nào đẹp? Khí hậu ở Nha Trang tương đối ôn hòa, với mùa khô kéo dài từ tháng 1 đến tháng 8, không có mùa đông lạnh. Do đó du khách có thể tới đây du lịch quanh năm. Từ tháng 4 đến hết tháng 6, trời nắng và nóng nhiều hơn, nhưng không quá oi bức.Tháng 9 trời bắt đầu có mưa rải rác, nên không ảnh hưởng quá nhiều đến hoạt động vui chơi của du khách. Từ tháng 10 đến tháng 12, trời mưa nhiều hơn, có thể kèm theo không khí lạnh. Đây không còn là mùa cao điểm của du lịch nội địa tại Nha Trang, nên phù hợp với những du khách muốn nghỉ dưỡng yên tĩnh.",
+            "qas": [
+              {
+                "question": "Khí hậu ở Nha Trang là khí hậu như thế nào ?",
+                "id": "a20a5c6a-4248-45f1-b27f-3f5e57f5129d",
+                "answers": [
+                  {
+                    "answer_start": 23,
+                    "text": "Khí hậu ở Nha Trang tương đối ôn hòa"
+                  }
+                ]
+              },
+              {
+                "question": "Mùa khô ở Nha Trang kéo dài từ tháng nào đến tháng nào ? ",
+                "id": "adf2943f-cc99-4fd9-9255-6241d1c1baca",
+                "answers": [
+                  {
+                    "answer_start": 65,
+                    "text": "mùa khô kéo dài từ tháng 1 đến tháng 8"
+                  }
+                ]
+              },
+              {
+                "question": "Nha Trang có mùa đông lạnh không ?",
+                "id": "7764c81e-568a-4553-80d5-3a205be0caad",
+                "answers": [
+                  {
+                    "answer_start": 105,
+                    "text": "không có mùa đông lạnh"
+                  }
+                ]
+              },
+              {
+                "question": "Thời tiết ở Nha Trang từ tháng 4 đến tháng 6 như thế nào ?",
+                "id": "912d5fb4-89d1-4929-94ad-cf5c8a2e7adf",
+                "answers": [
+                  {
+                    "answer_start": 178,
+                    "text": "Từ tháng 4 đến hết tháng 6, trời nắng và nóng nhiều hơn, nhưng không quá oi bức."
+                  }
+                ]
+              },
+              {
+                "question": "Thời tiết ở Nha Trang  tháng 9 như thế nào ?\t",
+                "id": "f254547c-0dfc-4b75-a49c-6c2ad737d2e5",
+                "answers": [
+                  {
+                    "answer_start": 258,
+                    "text": "Tháng 9 trời bắt đầu có mưa rải rác, nên không ảnh hưởng quá nhiều đến hoạt động vui chơi của du khách"
+                  }
+                ]
+              },
+              {
+                "question": "Thời tiết ở Nha Trang từ tháng 10 đến tháng 12 như thế nào ?\t",
+                "id": "a456f91c-6d7b-4f6a-a3cf-b13a1c9cd317",
+                "answers": [
+                  {
+                    "answer_start": 388,
+                    "text": "trời mưa nhiều hơn, có thể kèm theo không khí lạnh"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Di chuyển: Hiện nay, các hãng hàng không Việt Nam như Vietnam Airlines, Vietjet Air, Jetstar, đều khai thác chuyến bay từ Hà Nội, TP HCM đến Nha Trang, qua sân bay Cam Ranh. Bamboo Airways có chuyến bay từ Hà Nội. Giá vé dao động từ 1.400.000 đồng đến 2.500.000 đồng.Sân bay Cam Ranh cách trung tâm thành phố khoảng 35 km. Ở đây có các hãng xe taxi đón khách với giá khoảng 300.000 đồng một chuyến. Ngoài ra du khách có thể sử dụng xe bus, tuyến số 18, giá 50.000 đồng một lượt.Thành phố Nha Trang không quá lớn, trục đường chính chạy dọc theo bãi biển, vì vậy du khách nên thuê xe máy để tham quan, đặc biệt khi muốn thưởng thức ẩm thực của người địa phương. Xe máy có giá thuê khoảng 100.000 - 150.000 đồng. Thông thường ở các khách sạn sẽ cung cấp dịch vụ này.",
+            "qas": [
+              {
+                "question": "Có các hãng hàng không nào có thể di chuyển từ Hà Nội hay TP HCM đến Nha Trang ?",
+                "id": "a0dede7d-8f3c-41f4-8064-0aa0724c9768",
+                "answers": [
+                  {
+                    "answer_start": 21,
+                    "text": "các hãng hàng không Việt Nam như Vietnam Airlines, Vietjet Air, Jetstar"
+                  }
+                ]
+              },
+              {
+                "question": "Các chuyến bay từ Hà Nội, TP HCM đến Nha Trang xuống sân bay nào ?",
+                "id": "2c744a67-f539-41a8-bb75-6fc1a6abed2a",
+                "answers": [
+                  {
+                    "answer_start": 152,
+                    "text": "qua sân bay Cam Ranh"
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé máy bay dao động khoảng bao nhiêu ?",
+                "id": "5a8de0d2-4d40-4a42-b172-5f92a61e7d97",
+                "answers": [
+                  {
+                    "answer_start": 214,
+                    "text": "Giá vé dao động từ 1.400.000 đồng đến 2.500.000 đồng"
+                  }
+                ]
+              },
+              {
+                "question": "Sân bay Cam Ranh cách trung tâm thành phố khoảng bao xa ?",
+                "id": "010e1f5c-9e82-48a7-9819-9098498e2d66",
+                "answers": [
+                  {
+                    "answer_start": 267,
+                    "text": "Sân bay Cam Ranh cách trung tâm thành phố khoảng 35 km"
+                  }
+                ]
+              },
+              {
+                "question": "Các hãng taxi đón khách với giá khoảng bao nhiêu một chuyến ?",
+                "id": "ab02d884-66a9-4c17-80ff-e147a8f40ef6",
+                "answers": [
+                  {
+                    "answer_start": 332,
+                    "text": "các hãng xe taxi đón khách với giá khoảng 300.000 đồng một chuyến"
+                  }
+                ]
+              },
+              {
+                "question": "Nếu chọn di chuyển bằng xe bus, thì chọn tuyến nào ?",
+                "id": "fc4ebd80-6be3-432d-b426-eb2b10c59692",
+                "answers": [
+                  {
+                    "answer_start": 439,
+                    "text": " tuyến số 18"
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé xe bus bao nhiêu một lượt ?",
+                "id": "9feb1f6f-638a-40c7-b197-aed90cefcb77",
+                "answers": [
+                  {
+                    "answer_start": 453,
+                    "text": "giá 50.000 đồng một lượt"
+                  }
+                ]
+              },
+              {
+                "question": "Vì sao du khách có thể dùng xe máy để tham quan thành phố Nha Trang ?",
+                "id": "87bfc455-4ca1-417e-8fa4-25fab983cdcd",
+                "answers": [
+                  {
+                    "answer_start": 478,
+                    "text": "Thành phố Nha Trang không quá lớn, trục đường chính chạy dọc theo bãi biển"
+                  }
+                ]
+              },
+              {
+                "question": "Xe máy có giá thuê bao nhiêu ở Nha Trang ?",
+                "id": "528a7f0b-7239-4b7b-a7fb-57285ab982d2",
+                "answers": [
+                  {
+                    "answer_start": 660,
+                    "text": "Xe máy có giá thuê khoảng 100.000 - 150.000 đồng."
+                  }
+                ]
+              },
+              {
+                "question": "Ta có thể thuê xe máy ở đâu khi đến Nha Trang ?",
+                "id": "8d9dd928-6934-4e41-b61f-8cb0e67ce26f",
+                "answers": [
+                  {
+                    "answer_start": 710,
+                    "text": "Thông thường ở các khách sạn sẽ cung cấp dịch vụ này."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Khách sạn, resort: Trần Phú là trục đường chạy dọc bãi biển, ở đây có nhiều khách sạn cho du khách lựa chọn. Một số khách sạn gợi ý là Mường Thanh, Novotel, InterContinental Nha Trang, Sheraton Nha Trang, Lodge... Với ưu điểm gần biển, gần trung tâm, các khách sạn trên trục đường này có giá từ 900.000 đồng một đêm. Cao cấp hơn là 2 - 3 triệu đồng một đêm.Để tiết kiệm chi phí, du khách có thể tìm khách sạn, homestay sau Trần Phú. Cụ thể là đường Nguyễn Thị Minh Khai, Hùng Vương hay Nguyễn Thiện Thuật.Với du khách yêu thích du lịch nghỉ dưỡng, với không gian riêng tư, không gần trung tâm thì Amiana resort trên đường Phạm Văn Đồng; Vinpearl Resort, Hòn Tre hay MerPerle là sự lựa chọn phù hợp.",
+            "qas": [
+              {
+                "question": "Đường nào ở Nha Trang có nhiều khách sạn ?",
+                "id": "f90634ac-7aac-4198-b101-c31fbaaea347",
+                "answers": [
+                  {
+                    "answer_start": 19,
+                    "text": "Trần Phú là trục đường chạy dọc bãi biển, ở đây có nhiều khách sạn cho du khách lựa chọn"
+                  }
+                ]
+              },
+              {
+                "question": "Một số khách sạn được gợi ý ở Nha Trang là gì ?",
+                "id": "37abe5e1-e66a-42c9-b752-27aa61d4a970",
+                "answers": [
+                  {
+                    "answer_start": 109,
+                    "text": "Một số khách sạn gợi ý là Mường Thanh, Novotel, InterContinental Nha Trang, Sheraton Nha Trang, Lodge..."
+                  }
+                ]
+              },
+              {
+                "question": "Các khách sạn ở Nha Trang có giá như thế nào ?",
+                "id": "473c9ce8-b501-4847-810c-94beed80117b",
+                "answers": [
+                  {
+                    "answer_start": 288,
+                    "text": "giá từ 900.000 đồng một đêm."
+                  }
+                ]
+              },
+              {
+                "question": "Ưu điểm của các khách sạn được gợi ý ở Nha Trang là gì ?",
+                "id": "a5dcb6b6-4c0d-4e49-8263-bb0d30c22f54",
+                "answers": [
+                  {
+                    "answer_start": 214,
+                    "text": "Với ưu điểm gần biển, gần trung tâm"
+                  }
+                ]
+              },
+              {
+                "question": "Khách sạn cao cấp hơn có giá khoảng bao nhiêu ?",
+                "id": "cf15b536-8adc-4329-aae3-b8f2f16f0687",
+                "answers": [
+                  {
+                    "answer_start": 332,
+                    "text": "2 - 3 triệu đồng một đêm."
+                  }
+                ]
+              },
+              {
+                "question": "Ngoài đường Trần Phú , thì nên chọn khách sạn , homestay ở đường nào để tiết kiệm chi phí ?",
+                "id": "853d761d-a79f-4b93-93bc-e3b2ba549f8b",
+                "answers": [
+                  {
+                    "answer_start": 443,
+                    "text": "đường Nguyễn Thị Minh Khai, Hùng Vương hay Nguyễn Thiện Thuật"
+                  }
+                ]
+              },
+              {
+                "question": "Với du khách thích du lịch nghỉ dưỡng thì nên chọn khách sạn nào ?",
+                "id": "2e9952ca-5755-4f09-a1f0-c942ea6a2174",
+                "answers": [
+                  {
+                    "answer_start": 505,
+                    "text": "Với du khách yêu thích du lịch nghỉ dưỡng, với không gian riêng tư, không gần trung tâm thì Amiana resort trên đường Phạm Văn Đồng; Vinpearl Resort, Hòn Tre hay MerPerle là sự lựa chọn phù hợp."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Bãi biển Nha Trang chạy dài theo dọc thành phố, chỉ cần đi bộ từ đường Trần Phú là có thể đến biển. Tuy nhiên điểm tập trung đông người tắm nhất là ở khu vực quanh tháp Trầm Hương. Bãi biển của thành phố được nhiều du khách đánh giá là trong, sạch, cát vàng mịn.Đảo trong vịnh Nha Trang mang những vẻ đẹp riêng, với làng chài, bãi tắm đôi hoang sơ vương quốc của loài khỉ hay rạn san hô nhiều màu sắc.",
+            "qas": [
+              {
+                "question": "Bãi biển ở Nha Trang như thế nào ?",
+                "id": "726a98dc-d2da-42c8-ab47-25503ad073fe",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Bãi biển Nha Trang chạy dài theo dọc thành phố, chỉ cần đi bộ từ đường Trần Phú là có thể đến biển"
+                  }
+                ]
+              },
+              {
+                "question": "Điểm tập trung đồng người tắm nhất ở Nha Trang là ở đâu ?",
+                "id": "62424dc7-140f-4a53-9ee8-48ee48bc76cf",
+                "answers": [
+                  {
+                    "answer_start": 148,
+                    "text": "ở khu vực quanh tháp Trầm Hương"
+                  }
+                ]
+              },
+              {
+                "question": "BIển Nha Trang được du khách đánh giá như thế nào ?",
+                "id": "dd756490-b2d1-4239-9608-f9cb1a6d0fdf",
+                "answers": [
+                  {
+                    "answer_start": 181,
+                    "text": "Bãi biển của thành phố được nhiều du khách đánh giá là trong, sạch, cát vàng mịn"
+                  }
+                ]
+              },
+              {
+                "question": "Đảo trong vịnh Nha Trang mang vẻ đẹp gì ?",
+                "id": "a353c2f6-cf8a-4f00-aada-78f6581a286e",
+                "answers": [
+                  {
+                    "answer_start": 262,
+                    "text": "Đảo trong vịnh Nha Trang mang những vẻ đẹp riêng, với làng chài, bãi tắm đôi hoang sơ vương quốc của loài khỉ hay rạn san hô nhiều màu sắc."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Hòn Miễu được biết đến là một trong những đảo đẹp nhất vùng vịnh, nằm gần đất liền. Ở đây có bãi Tranh trải dài gần 500 m, với một bên là cát trắng mịn, một bên là bãi cạn với nhiều sỏi nhỏ. Nước biển ở đây trong xanh, đặc biệt dốc thoải, thích hợp để bơi lội. Bãi Tranh cũng là tụ điểm của hàng loạt trò chơi, môn thể thao biển như đi mô tô nước, dù bay, phao chuối, flyboard...Ở đây, du khách đừng quên tham quan , với thiết kế con tàu khổng lồ. Bên trong là tầng hầm với 4 bể cá. Đây là khu vực tham quan chính, tập trung hàng trăm sinh vật biển như một đại dương thu nhỏ. Ở tầng 2, 3 là nhà hàng và nơi bán đồ lưu niệm. Hòn Tằm cách đất liền khoảng 7 km về phía đông nam của thành phố. Đây là hòn đảo sở hữu thảm rừng xanh, bãi cát dài sóng êm, đặc biệt thích hợp với những du khách yêu thích du lịch nghỉ dưỡng.",
+            "qas": [
+              {
+                "question": "Đảo đẹp nhất vùng vịnh ở Nha Trang tên gì ?",
+                "id": "6e9264bf-ccda-4cc2-81c8-143a0cbc8eb7",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Hòn Miễu được biết đến là một trong những đảo đẹp nhất vùng vịnh, nằm gần đất liền"
+                  }
+                ]
+              },
+              {
+                "question": "Ở Hòn Miễu có bãi nào ?",
+                "id": "5b045505-93ab-4880-a780-ba280607b83d",
+                "answers": [
+                  {
+                    "answer_start": 93,
+                    "text": "bãi Tranh "
+                  }
+                ]
+              },
+              {
+                "question": "Bãi Tranh trải dài bao nhiêu m ?",
+                "id": "d959e7e1-e8eb-4979-ac75-6d1b4d3d03dc",
+                "answers": [
+                  {
+                    "answer_start": 103,
+                    "text": "trải dài gần 500 m"
+                  }
+                ]
+              },
+              {
+                "question": "Bãi Tranh trải dài với những thứ gì ?",
+                "id": "7a10d2f0-cdb2-403b-9383-a72db6c67011",
+                "answers": [
+                  {
+                    "answer_start": 123,
+                    "text": "với một bên là cát trắng mịn, một bên là bãi cạn với nhiều sỏi nhỏ. "
+                  }
+                ]
+              },
+              {
+                "question": "Vì sao bãi Tranh thích hợp để bơi lội ?",
+                "id": "f66db40c-5f8d-419e-8a1f-7f67d7a47da7",
+                "answers": [
+                  {
+                    "answer_start": 191,
+                    "text": "Nước biển ở đây trong xanh, đặc biệt dốc thoải"
+                  }
+                ]
+              },
+              {
+                "question": "Bãi Tranh còn là tụ điểm của các hoạt động gì ?",
+                "id": "0f09df01-9934-44a9-80bc-96d82dfc304e",
+                "answers": [
+                  {
+                    "answer_start": 261,
+                    "text": "Bãi Tranh cũng là tụ điểm của hàng loạt trò chơi, môn thể thao biển như đi mô tô nước, dù bay, phao chuối, flyboard..."
+                  }
+                ]
+              },
+              {
+                "question": "Khi đến bãi Tranh, du khách đừng quên tham quan gì ?",
+                "id": "8332ba5c-9fd7-47b4-9859-ed57dcab532c",
+                "answers": [
+                  {
+                    "answer_start": 421,
+                    "text": "thiết kế con tàu khổng lồ"
+                  }
+                ]
+              },
+              {
+                "question": "Bên trong thiết kế con tàu khổng lồ có mấy bể cá ?",
+                "id": "d3d8694b-8504-4a9c-918f-8058e95077e6",
+                "answers": [
+                  {
+                    "answer_start": 448,
+                    "text": "Bên trong là tầng hầm với 4 bể cá"
+                  }
+                ]
+              },
+              {
+                "question": "Vì sao tầng hầm là khu vực tham quan chính ?",
+                "id": "3e9d2d79-faf7-4a47-b538-70713e074c2b",
+                "answers": [
+                  {
+                    "answer_start": 515,
+                    "text": "tập trung hàng trăm sinh vật biển như một đại dương thu nhỏ"
+                  }
+                ]
+              },
+              {
+                "question": "Ở tầng 2 và tầng 3 có gì ?",
+                "id": "28247b9f-5297-41e0-a7b9-654373cfb75e",
+                "answers": [
+                  {
+                    "answer_start": 576,
+                    "text": "Ở tầng 2, 3 là nhà hàng và nơi bán đồ lưu niệm"
+                  }
+                ]
+              },
+              {
+                "question": "Hòm Tắm cách đất liền bao xa ?",
+                "id": "d86a2826-444c-4097-be1f-495e79e5d75d",
+                "answers": [
+                  {
+                    "answer_start": 645,
+                    "text": " khoảng 7 km "
+                  }
+                ]
+              },
+              {
+                "question": "Hòn Tắm nằm ở phía nào của thành phố ?",
+                "id": "10db43a8-4ff0-44f1-86ed-eecfa6f2554f",
+                "answers": [
+                  {
+                    "answer_start": 661,
+                    "text": "phía đông nam của thành phố"
+                  }
+                ]
+              },
+              {
+                "question": "Hòn Tắm sở hữu gì thích hợp với khách du lịch yêu thích nghỉ dưỡng ?",
+                "id": "fcf77acb-0ba6-465f-987d-2ed9e2f9ff76",
+                "answers": [
+                  {
+                    "answer_start": 690,
+                    "text": "Đây là hòn đảo sở hữu thảm rừng xanh, bãi cát dài sóng êm, đặc biệt thích hợp với những du khách yêu thích du lịch nghỉ dưỡng."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Các hòn đảo ở Nha trang: Hòn Chồng ở đường Phạm Văn Đồng, cách trung tâm thành phố khoảng 3 km về hướng Đông Bắc. Nơi đây là một quần thể khối đá lớn với đủ loại hình thù, xếp chồng lên nhau chạy từ bờ cao xuống biển. Địa điểm du lịch này cũng là một trong những nơi đẹp nhất để ngắm nhìn thành phố biển, không khí trong lành, yên tĩnh. Hòn Mun là điểm đến đẹp nhất để lặn, ngắm san hô cách cảng cầu đá 12 km. Với sự giao thoa của 2 dòng hải lưu nóng, đảo có khoảng 2.000 loài san hô cùng nhiều sinh vật biển nhiệt đới. Tham gia tour lặn biển ở độ sâu từ 6 - 8 m, du khách sẽ được chiêm ngưỡng thế giới đại dương muôn màu sắc và chạm tay vào nhiều loài sao, cá biển...Đảo Yến - Hòn Nội cách cảng 25 km, nổi tiếng với vẻ đẹp hoang sơ, yên bình. Ở đây có bãi tắm đôi, cùng một bờ cát trắng, mịn với 2 bên là nước biển xanh trong. Du khách có thể nhìn ngắm toàn bộ cảnh biển từ đỉnh núi Du Hạ, với khoảng 200 bậc thang.Đảo Khỉ - Hòn Lao là điểm tham quan đặc biệt, với khoảng 1.500 con khỉ sinh sống trong rừng. Đi dạo đảo, du khách có thể bắt gặp chúng ở bất cứ đâu. Hầu hết các con khỉ ở đây đều thân thiện với người, tuy nhiên du khách cần lưu ý vì chúng thường lại gần để lấy cắp đồ ăn. Trên đảo cũng có khu vực biểu diễn xiếc với các khung giờ 9h30, 10h30 và 15h15.",
+            "qas": [
+              {
+                "question": "Hòn Chồng nằm ở đường nào ở Nha Trang ?",
+                "id": "1e423f2d-ffbf-498c-90fa-14485b93d699",
+                "answers": [
+                  {
+                    "answer_start": 35,
+                    "text": "ở đường Phạm Văn Đồng"
+                  }
+                ]
+              },
+              {
+                "question": "Hòn Chồng cách trung tâm thành phố bao xa ?",
+                "id": "7698ad0a-3923-4bef-a647-8342e5b6e972",
+                "answers": [
+                  {
+                    "answer_start": 83,
+                    "text": "khoảng 3 km"
+                  }
+                ]
+              },
+              {
+                "question": "Hòn Chồng nằm ở phía nào của thành phố ?",
+                "id": "50e2f837-50cc-458d-87f5-b6c2c62317f6",
+                "answers": [
+                  {
+                    "answer_start": 98,
+                    "text": "hướng Đông Bắc"
+                  }
+                ]
+              },
+              {
+                "question": "Hòn Chồng là một quần thể khối đá như thế nào ?",
+                "id": "b578597f-b04c-4ef4-b418-20df7acb30cd",
+                "answers": [
+                  {
+                    "answer_start": 114,
+                    "text": "Nơi đây là một quần thể khối đá lớn với đủ loại hình thù, xếp chồng lên nhau chạy từ bờ cao xuống biển"
+                  }
+                ]
+              },
+              {
+                "question": "Hòn Chồng được xem là địa điểm du lịch như thế nào ?",
+                "id": "303b5e37-4420-4159-919f-77d7c2edbfcf",
+                "answers": [
+                  {
+                    "answer_start": 218,
+                    "text": "Địa điểm du lịch này cũng là một trong những nơi đẹp nhất để ngắm nhìn thành phố biển, không khí trong lành, yên tĩnh"
+                  }
+                ]
+              },
+              {
+                "question": "Hòn Mun là đảo thích hợp với hoạt động nào ?",
+                "id": "fbb5b346-7e70-40c3-98a0-41014051c774",
+                "answers": [
+                  {
+                    "answer_start": 337,
+                    "text": "Hòn Mun là điểm đến đẹp nhất để lặn, ngắm san hô"
+                  }
+                ]
+              },
+              {
+                "question": "Hòn Mun cách cảng cầu đá bao xa ?",
+                "id": "19cf461b-cffc-4ea1-872c-f0f528e70324",
+                "answers": [
+                  {
+                    "answer_start": 385,
+                    "text": " cách cảng cầu đá 12 km"
+                  }
+                ]
+              },
+              {
+                "question": "Đảo Hòn Mun có bao nhiêu loài san hô ?",
+                "id": "fd4e20c7-8dbe-40d7-8609-770cb9cfaf74",
+                "answers": [
+                  {
+                    "answer_start": 452,
+                    "text": "đảo có khoảng 2.000 loài san hô cùng nhiều sinh vật biển nhiệt đới"
+                  }
+                ]
+              },
+              {
+                "question": "Nhờ đâu Hòn Mun có nhiều san hô đến vậy ?",
+                "id": "95681504-72d2-4df0-b12a-42e2a38b5f3a",
+                "answers": [
+                  {
+                    "answer_start": 414,
+                    "text": "sự giao thoa của 2 dòng hải lưu nóng"
+                  }
+                ]
+              },
+              {
+                "question": "Tour lặn ở Hòn Mun thường ở độ sâu bao nhiêu ?",
+                "id": "2f3b350b-a27a-4424-820a-7259845c3dbb",
+                "answers": [
+                  {
+                    "answer_start": 529,
+                    "text": "tour lặn biển ở độ sâu từ 6 - 8 m"
+                  }
+                ]
+              },
+              {
+                "question": "Khi tham gia tour lặn , du khách có thể chiêm ngưỡng gì ?",
+                "id": "fe870ca8-37d3-4657-b738-caa2cff73add",
+                "answers": [
+                  {
+                    "answer_start": 564,
+                    "text": "du khách sẽ được chiêm ngưỡng thế giới đại dương muôn màu sắc và chạm tay vào nhiều loài sao, cá biển..."
+                  }
+                ]
+              },
+              {
+                "question": "Đảo Yên - Hòn Nội cách cảng bao xa ?",
+                "id": "624195c0-9ad3-4623-b7cd-4a51a54d58c1",
+                "answers": [
+                  {
+                    "answer_start": 668,
+                    "text": "Đảo Yến - Hòn Nội cách cảng 25 km"
+                  }
+                ]
+              },
+              {
+                "question": "Đảo Yên - Hòn Nội nổi tiếng với điều gì ?",
+                "id": "a9855059-d9a0-42f4-ac0d-3656ca9e273c",
+                "answers": [
+                  {
+                    "answer_start": 703,
+                    "text": "nổi tiếng với vẻ đẹp hoang sơ, yên bình."
+                  }
+                ]
+              },
+              {
+                "question": "Ở Đảo Yên - Hòn Nội bãi tắm như thế nào ?",
+                "id": "4d4d3098-c35f-4b44-9a03-2f50ce66828e",
+                "answers": [
+                  {
+                    "answer_start": 744,
+                    "text": "Ở đây có bãi tắm đôi, cùng một bờ cát trắng, mịn với 2 bên là nước biển xanh trong"
+                  }
+                ]
+              },
+              {
+                "question": "Ở Đảo Yên - Hòn Nội du khách có thể nhìn ngắm đỉnh núi nào ?",
+                "id": "3a1e6d62-dc8a-451c-978f-1a7a4312b52a",
+                "answers": [
+                  {
+                    "answer_start": 828,
+                    "text": "Du khách có thể nhìn ngắm toàn bộ cảnh biển từ đỉnh núi Du Hạ"
+                  }
+                ]
+              },
+              {
+                "question": "Núi Du Dạ có khoảng bao nhiêu bậc thang ?",
+                "id": "b6561295-e435-4b9e-9a04-920fe85ea2b3",
+                "answers": [
+                  {
+                    "answer_start": 895,
+                    "text": "khoảng 200 bậc thang"
+                  }
+                ]
+              },
+              {
+                "question": "Đảo Khỉ - Hòn Lao có khoảng bao nhiêu con khỉ ?",
+                "id": "9b6b7df2-e59a-4945-94d3-8322eeb14a73",
+                "answers": [
+                  {
+                    "answer_start": 966,
+                    "text": "khoảng 1.500 con khỉ sinh sống trong rừng"
+                  }
+                ]
+              },
+              {
+                "question": "Chúng ta có thể nhìn thấy khỉ ở đâu khi tham quan Đảo Khỉ - Hòn Lao ?",
+                "id": "4ab2b3b7-503c-4e8f-be06-cf090504620f",
+                "answers": [
+                  {
+                    "answer_start": 1009,
+                    "text": "Đi dạo đảo, du khách có thể bắt gặp chúng ở bất cứ đâu"
+                  }
+                ]
+              },
+              {
+                "question": "Du khách cần lưu ý gì về khỉ ở Đảo Khỉ - Hòn Lao ?",
+                "id": "768cffbf-978e-47a3-934b-af3ab0884702",
+                "answers": [
+                  {
+                    "answer_start": 1149,
+                    "text": "chúng thường lại gần để lấy cắp đồ ăn"
+                  }
+                ]
+              },
+              {
+                "question": "Trên Đảo Khỉ - Hòn Lao có biểu diễn xiếc lúc mấy giờ ?",
+                "id": "e3e42696-a6ef-49eb-b6ff-eb499514116e",
+                "answers": [
+                  {
+                    "answer_start": 1205,
+                    "text": "khu vực biểu diễn xiếc với các khung giờ 9h30, 10h30 và 15h15."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Đảo Hòn Một thu hút du khách bởi vẻ đẹp thanh bình của làng chài trên biển, với những ngôi nhà ngói phủ rêu xanh và thuyền bè nhấp nhô trên biển. Ở đây, du khách sẽ được tận hưởng không khí biển trong lành và quan sát nhịp sống của ngư dân. Trên đảo cũng có nhiều hoạt động khác như lặn nông ngắm san hô, trò chơi mô tô nước, thúng đáy kính, cano dù kéo...Du khách đi theo đoàn đông có thể tự thuê cano với giá khoảng 1.300.000 đồng để tham quan các đảo ở đây. Một số hòn đảo có thu phí tham quan như Hòn Mun giá 22.000 đồng, đảo Khỉ bán vé người lớn là 144.000 đồng và trẻ em 72.000 đồng.Tuy nhiên, để tiết kiệm chi phí và thời gian, du khách nên đặt các tour đảo. Tour tắm biển và các trò chơi ở Hòn Mun - bãi Tranh, hoặc Hòn Tằm giá 450.000 - 600.000 đồng. Tour lặn biển hòn Mun giá 600.000 đồng. Ngoài tham quan đảo, trong các tour thường kết hợp tắm bùn, ăn trưa tại làng chài...",
+            "qas": [
+              {
+                "question": "Đảo Hòn Một thu hút khách bởi điều gì ?",
+                "id": "79014129-4c06-42fd-915f-673f001a999b",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Đảo Hòn Một thu hút du khách bởi vẻ đẹp thanh bình của làng chài trên biển, với những ngôi nhà ngói phủ rêu xanh và thuyền bè nhấp nhô trên biển."
+                  }
+                ]
+              },
+              {
+                "question": "Ở Đảo Hòn Một, di khách sẽ được tận hưởng điều gì ?",
+                "id": "8fe25367-7e70-4bb6-9dab-18c77516b5b0",
+                "answers": [
+                  {
+                    "answer_start": 146,
+                    "text": "Ở đây, du khách sẽ được tận hưởng không khí biển trong lành và quan sát nhịp sống của ngư dân"
+                  }
+                ]
+              },
+              {
+                "question": "Trên Đảo Hòn Một có những hoạt động gì ?",
+                "id": "f0ab0782-f63e-4d75-b380-9f14b9af7897",
+                "answers": [
+                  {
+                    "answer_start": 241,
+                    "text": "Trên đảo cũng có nhiều hoạt động khác như lặn nông ngắm san hô, trò chơi mô tô nước, thúng đáy kính, cano dù kéo..."
+                  }
+                ]
+              },
+              {
+                "question": "Du khách đi đoàn có thể thuê cano giá bao nhiêu ?",
+                "id": "fd998518-cf04-4361-95d9-e36811418b25",
+                "answers": [
+                  {
+                    "answer_start": 407,
+                    "text": "giá khoảng 1.300.000 đồng"
+                  }
+                ]
+              },
+              {
+                "question": "Các hòn đảo nào thu phí tham quan ?",
+                "id": "b26bbc6c-ee82-4610-858f-b8f1b245fc43",
+                "answers": [
+                  {
+                    "answer_start": 461,
+                    "text": "Một số hòn đảo có thu phí tham quan như Hòn Mun giá 22.000 đồng, đảo Khỉ bán vé người lớn là 144.000 đồng và trẻ em 72.000 đồng."
+                  }
+                ]
+              },
+              {
+                "question": "Để tiết kiệm thì du khách nên làm gì ?",
+                "id": "376715bc-604c-47d6-a66c-573d56162d4a",
+                "answers": [
+                  {
+                    "answer_start": 600,
+                    "text": "để tiết kiệm chi phí và thời gian, du khách nên đặt các tour đảo"
+                  }
+                ]
+              },
+              {
+                "question": "Tour tắm biển và các trò chơi có giá bao nhiêu ?",
+                "id": "190c332f-d895-42b5-a471-54c2e922519f",
+                "answers": [
+                  {
+                    "answer_start": 666,
+                    "text": "Tour tắm biển và các trò chơi ở Hòn Mun - bãi Tranh, hoặc Hòn Tằm giá 450.000 - 600.000 đồng"
+                  }
+                ]
+              },
+              {
+                "question": "Tour lặn có giá bao nhiêu ?",
+                "id": "5ed6f13d-cb7b-494f-8a06-0ea4d10530d9",
+                "answers": [
+                  {
+                    "answer_start": 760,
+                    "text": "Tour lặn biển hòn Mun giá 600.000 đồng."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Bảo tàng Hải dương học là một phần của Viện Hải dương học Nha Trang, thành lập năm 1923, tọa lạc tại số 1 Cầu Đá. Trong bảo tàng bao gồm khu nuôi thuần hóa sinh vật biển, khu tai biến thiên nhiên, rừng ngập mặn nhân tạo, khu mẫu sinh vật biển lớn, các thiết bị nghiên cứu hải dương và tài nguyên phi vật thể.Tại đây, du khách sẽ được chiêm ngưỡng hơn 20.000 mẫu vật của các loài sinh vật biển và nước ngọt. Một số sinh vật được nuôi thả trong bể kính như cá mặt quỷ, cá mao tiên, hải quỳ ống... thể hiện sự đa dạng của hệ sinh thái biển Việt Nam. Đặc biệt, bảo tàng còn trưng bày bộ xương cá voi dài 18 m và tiêu bản bò biển Dugong, mắc lưới ngư dân tại Phú Quốc năm 2003.Vé vào cửa bảo tàng là 40.000 đồng một người lớn, 20.000 đồng đối với sinh viên và 10.000 đồng với học sinh.",
+            "qas": [
+              {
+                "question": "Bảo tàng Hải Dương học là 1 phần của nơi nào ?",
+                "id": "4bd2c4aa-85e9-42cd-a2dc-f0129d945ec9",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Bảo tàng Hải dương học là một phần của Viện Hải dương học Nha Trang"
+                  }
+                ]
+              },
+              {
+                "question": "Bảo tàng Hải Dương thành lập năm nào ?",
+                "id": "1f383117-8044-4c97-a98b-687b09cbdbad",
+                "answers": [
+                  {
+                    "answer_start": 69,
+                    "text": "thành lập năm 1923"
+                  }
+                ]
+              },
+              {
+                "question": "Bảo tàng Hải Dương tọa lạc ở đâu ?",
+                "id": "63166645-8641-4177-807c-2b0ef71bb36f",
+                "answers": [
+                  {
+                    "answer_start": 89,
+                    "text": "tọa lạc tại số 1 Cầu Đá"
+                  }
+                ]
+              },
+              {
+                "question": "Trong Bảo tàng Hải Dương gồm các khu nào ?",
+                "id": "054c0418-fd79-4083-819f-ac12073450e4",
+                "answers": [
+                  {
+                    "answer_start": 114,
+                    "text": "Trong bảo tàng bao gồm khu nuôi thuần hóa sinh vật biển, khu tai biến thiên nhiên, rừng ngập mặn nhân tạo, khu mẫu sinh vật biển lớn, các thiết bị nghiên cứu hải dương và tài nguyên phi vật thể."
+                  }
+                ]
+              },
+              {
+                "question": "Tại Bảo tàng Hải Dương du khách sẽ được chiêm ngưỡng gì ?",
+                "id": "f17b048e-f631-4f48-a8cf-e19a71209019",
+                "answers": [
+                  {
+                    "answer_start": 308,
+                    "text": "Tại đây, du khách sẽ được chiêm ngưỡng hơn 20.000 mẫu vật của các loài sinh vật biển và nước ngọt. "
+                  }
+                ]
+              },
+              {
+                "question": "Một số sinh vật được nuôi thả trong bể kính tại Bảo tàng Hải Dương là gì ?",
+                "id": "aadd4876-be8b-4b5c-86a3-87ee344af8d8",
+                "answers": [
+                  {
+                    "answer_start": 450,
+                    "text": " như cá mặt quỷ, cá mao tiên, hải quỳ ống... "
+                  }
+                ]
+              },
+              {
+                "question": "Bảo tàng Hải Dương còn trưng bày điều gì đặc biệt ?",
+                "id": "c3615c26-cfed-4cdc-b214-dd62e661326a",
+                "answers": [
+                  {
+                    "answer_start": 547,
+                    "text": "Đặc biệt, bảo tàng còn trưng bày bộ xương cá voi dài 18 m và tiêu bản bò biển Dugong"
+                  }
+                ]
+              },
+              {
+                "question": "Vé vào cửa Bảo tàng Hải Dương cho người lớn bao nhiêu ?",
+                "id": "5eaea66c-1f04-4d45-8de8-897d6431c395",
+                "answers": [
+                  {
+                    "answer_start": 695,
+                    "text": "40.000 đồng một người lớn"
+                  }
+                ]
+              },
+              {
+                "question": "Vé vào cửa Bảo tàng Hải Dương cho sinh viên bao nhiêu ?",
+                "id": "102c77ac-00bc-44f4-a0fb-11f64877ca0f",
+                "answers": [
+                  {
+                    "answer_start": 722,
+                    "text": "20.000 đồng đối với sinh viên"
+                  }
+                ]
+              },
+              {
+                "question": "Vé vào cửa Bảo tàng Hải Dương cho học sinh bao nhiêu ?",
+                "id": "c5f54242-8fb3-4b6e-bbd7-7436c4185587",
+                "answers": [
+                  {
+                    "answer_start": 755,
+                    "text": "10.000 đồng với học sinh."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Tháp bà Ponagar: Đây là ngôi đền Chăm Pa nằm trên đỉnh ngọn đồi cao khoảng 10 m so với mực nước biển, ở cửa sông Cái, nay thuộc phường Vĩnh Phước. Đây là một trong những di sản văn hóa Chăm Pa lớn nhất trên cả nước.Kiến trúc gồm 3 tầng, đi từ dưới lên trên theo bậc thang đá. Trong đó, khu vực Tháp cổng nay không còn nữa. Ở tầng giữa hay khu tiền đỉnh Mandapa là nơi dành cho khách nghỉ ngơi và chuẩn bị lễ vật. Ở đây có 4 hàng cột hình bát giác, gồm 12 cột nhỏ bên ngoài và 10 cột lớn phía trong.Men theo những bậc thang dốc đứng, du khách sẽ đến với khu đền tháp, bao gồm 6 Kalan (đền tháp) màu đỏ gạch, trong đó 2 tháp đã bị phá hủy chỉ còn lại nền móng. Các tháp được xây dựng một kiểu nhưng khác nhau về kích thước, trong đó tháp đông bắc là cao nhất, khoảng 23 m. Bốn góc mái là ba tầng mái thu nhỏ trang trí nhiều linh vật như voi, thiên nga, dê... Xung quanh khu đền tháp có nhiều cây xanh để du khách ngồi nghỉ ngơi và hóng mát.Ngoài hành hương và chụp ảnh với những tòa tháp cổ nguy nga, du khách có thể ngắm cảnh thuyền bè tấp nập trên sông.",
+            "qas": [
+              {
+                "question": "Tháp bà Ponagar là ngôi đền của người nào ?",
+                "id": "f1a8f8e0-80e0-4fc1-9a07-af66497ef2f5",
+                "answers": [
+                  {
+                    "answer_start": 32,
+                    "text": " Chăm Pa"
+                  }
+                ]
+              },
+              {
+                "question": "Tháp bà Ponagar nằm trên ngọn đồi cao bao nhiêu ?",
+                "id": "6f8738db-aa03-4cb7-b27b-425439191894",
+                "answers": [
+                  {
+                    "answer_start": 41,
+                    "text": "nằm trên đỉnh ngọn đồi cao khoảng 10 m so với mực nước biển"
+                  }
+                ]
+              },
+              {
+                "question": "Tháp bà Ponagar nằm ở cửa sông nào ?",
+                "id": "b69d3c4e-e95a-431b-ae33-df4681fc2068",
+                "answers": [
+                  {
+                    "answer_start": 102,
+                    "text": "ở cửa sông Cái"
+                  }
+                ]
+              },
+              {
+                "question": "Tháp bà Ponagar thuộc phường nào ở Nha Trang ?",
+                "id": "ee0c5e0c-9e07-4d43-98fa-19d1d4d86ba2",
+                "answers": [
+                  {
+                    "answer_start": 122,
+                    "text": "thuộc phường Vĩnh Phước."
+                  }
+                ]
+              },
+              {
+                "question": "Tháp bà Ponagar được xem là di sản gì ?",
+                "id": "124b1a1d-acff-4337-b2c5-d16d0ff72aa7",
+                "answers": [
+                  {
+                    "answer_start": 147,
+                    "text": "Đây là một trong những di sản văn hóa Chăm Pa lớn nhất trên cả nước"
+                  }
+                ]
+              },
+              {
+                "question": "Kiến trúc Tháp bà Ponagar gồm mấy tầng ?",
+                "id": "86f85b8e-d702-4d5d-a706-b0f0df65410f",
+                "answers": [
+                  {
+                    "answer_start": 225,
+                    "text": "gồm 3 tầng"
+                  }
+                ]
+              },
+              {
+                "question": "Tầng giữa Tháp bà Ponagar còn được gọi là gì ?",
+                "id": "3daa74d3-5fa2-421b-9d81-9e5d27c49447",
+                "answers": [
+                  {
+                    "answer_start": 339,
+                    "text": "khu tiền đỉnh Mandapa"
+                  }
+                ]
+              },
+              {
+                "question": "Tầng giữa Tháp bà Ponagar dùng để làm gì ?",
+                "id": "06def08a-79b0-44fd-a09e-11c9b73aaa79",
+                "answers": [
+                  {
+                    "answer_start": 361,
+                    "text": "là nơi dành cho khách nghỉ ngơi và chuẩn bị lễ vật"
+                  }
+                ]
+              },
+              {
+                "question": "Ở tầng giữa Tháp bà Ponagar có mấy cột hình bát giác ?",
+                "id": "64fa224d-de4f-4053-b630-e977fcc45937",
+                "answers": [
+                  {
+                    "answer_start": 419,
+                    "text": "có 4 hàng cột hình bát giác,"
+                  }
+                ]
+              },
+              {
+                "question": "Ở tầng giữa Tháp bà Ponagar có bao nhiêu cột nhỏ bên ngoài ?",
+                "id": "0ceee2b4-3819-4b86-a378-39107de626cd",
+                "answers": [
+                  {
+                    "answer_start": 448,
+                    "text": "gồm 12 cột nhỏ bên ngoài"
+                  }
+                ]
+              },
+              {
+                "question": "Ở tầng giữa Tháp bà Ponagar có bao nhiêu cột lớn bên trong ?",
+                "id": "8522e990-d9c8-494f-9ead-4098df41ffe9",
+                "answers": [
+                  {
+                    "answer_start": 476,
+                    "text": "10 cột lớn phía trong"
+                  }
+                ]
+              },
+              {
+                "question": "Men theo những bậc thang dốc đứng du khách sẽ đến đâu ?",
+                "id": "078c3970-fbae-45d9-8982-86e796652dbf",
+                "answers": [
+                  {
+                    "answer_start": 533,
+                    "text": "du khách sẽ đến với khu đền tháp"
+                  }
+                ]
+              },
+              {
+                "question": "Khu đền Tháp bà Ponagar gồm những gì ?",
+                "id": "e8cdb2fc-8feb-4be9-86a7-173ad94d99f0",
+                "answers": [
+                  {
+                    "answer_start": 567,
+                    "text": "bao gồm 6 Kalan (đền tháp) màu đỏ gạch, trong đó 2 tháp đã bị phá hủy chỉ còn lại nền móng."
+                  }
+                ]
+              },
+              {
+                "question": "Các tháp xây dựng một kiểu nhưng khác nhau về điều gì ?",
+                "id": "a9fabad5-5bdc-4ce5-a547-34c50fe52ce0",
+                "answers": [
+                  {
+                    "answer_start": 659,
+                    "text": "Các tháp được xây dựng một kiểu nhưng khác nhau về kích thước, trong đó tháp đông bắc là cao nhất, khoảng 23 m."
+                  }
+                ]
+              },
+              {
+                "question": "Bốn góc mái Tháp bà Ponagar là gì ?",
+                "id": "4ab16362-fb90-46ec-9c80-5c773d7dce03",
+                "answers": [
+                  {
+                    "answer_start": 771,
+                    "text": "Bốn góc mái là ba tầng mái thu nhỏ trang trí nhiều linh vật như voi, thiên nga, dê..."
+                  }
+                ]
+              },
+              {
+                "question": "Xung quanh khu Tháp bà Ponagar có gì ?",
+                "id": "c0998968-5e88-48e8-b0e1-48affa12c8f5",
+                "answers": [
+                  {
+                    "answer_start": 857,
+                    "text": "Xung quanh khu đền tháp có nhiều cây xanh để du khách ngồi nghỉ ngơi và hóng mát.Ngoài hành hương và chụp ảnh với những tòa tháp cổ nguy nga, du khách có thể ngắm cảnh thuyền bè tấp nập trên sông."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Núi Cô Tiên: Du khách đến TP Nha Trang, đi theo hướng đường Phạm Văn Đồng về phía bắc, đến khu vực Đường Đệ sẽ thấy núi Cô Tiên ở phường Vĩnh Hòa, được tạo thành từ ba đỉnh núi liền kề nhau, cao từ 200 m đến hơn 300 m. Điểm đến cách trung tâm thành phố khoảng 10 km, thường xuyên được người dân phố biển leo để rèn luyện sức khỏe hoặc cắm trại.Đường lên núi Cô Tiên không quá khó, trẻ nhỏ cũng có thể theo người lớn leo, thời gian tầm 30-45 phút, xuất phát từ chân núi đến chỗ cắm trại trên đỉnh số một. Thời gian leo núi để đón bình minh từ 5h30 và ngắm hoàng hôn từ 15h30. Nếu đi xe máy, bạn gửi xe ở nhà dân khu vực đường Ngô Văn Sở, giá 5.000 đồng/xe máy. Tại đây có cho thuê lều, đèn pin...",
+            "qas": [
+              {
+                "question": "Núi Cô Tiên nằm ở phía nào của TP Nha Trang ?",
+                "id": "33baa7e8-e5e3-43ed-b1d8-573e063c55fd",
+                "answers": [
+                  {
+                    "answer_start": 74,
+                    "text": "về phía bắc"
+                  }
+                ]
+              },
+              {
+                "question": "Từ TP Nha Trang , đi đường nào đến Núi Cô Tiên ?",
+                "id": "21c6f85b-029d-48ec-ab26-49a414c37275",
+                "answers": [
+                  {
+                    "answer_start": 54,
+                    "text": "đường Phạm Văn Đồng "
+                  }
+                ]
+              },
+              {
+                "question": "Núi Cô Tiên nằm ở phường nào ?",
+                "id": "319bbd14-12d5-4c55-b654-11f2d7fb4509",
+                "answers": [
+                  {
+                    "answer_start": 128,
+                    "text": "ở phường Vĩnh Hòa"
+                  }
+                ]
+              },
+              {
+                "question": "Núi Cô Tiên được tạo nên tư gì ?",
+                "id": "da76e412-c46c-4d58-a8f0-43edaf14f091",
+                "answers": [
+                  {
+                    "answer_start": 147,
+                    "text": "được tạo thành từ ba đỉnh núi liền kề nhau"
+                  }
+                ]
+              },
+              {
+                "question": "Ba đỉnh núi liền kề cao khoảng bao nhiêu m ?",
+                "id": "7f17e9c7-4566-4c37-8e21-63f890adfc21",
+                "answers": [
+                  {
+                    "answer_start": 191,
+                    "text": "cao từ 200 m đến hơn 300 m"
+                  }
+                ]
+              },
+              {
+                "question": "Núi Cô Tiên cách trung tâm TP Nha Trang bao xa ?",
+                "id": "7592dfa3-f0c6-41f8-82ea-4d1d9bcb789f",
+                "answers": [
+                  {
+                    "answer_start": 228,
+                    "text": "cách trung tâm thành phố khoảng 10 km"
+                  }
+                ]
+              },
+              {
+                "question": "Núi Cô Tiên thường được người dân phổ biến điều gì ?",
+                "id": "4b014ae3-00fd-494c-9260-1d3ac8a51c08",
+                "answers": [
+                  {
+                    "answer_start": 267,
+                    "text": "thường xuyên được người dân phố biển leo để rèn luyện sức khỏe hoặc cắm trại"
+                  }
+                ]
+              },
+              {
+                "question": "Đường lên Núi Cô Tiên như thế nào ?",
+                "id": "371ee057-20aa-4f7c-84d3-08d8f2a0484f",
+                "answers": [
+                  {
+                    "answer_start": 344,
+                    "text": "Đường lên núi Cô Tiên không quá khó, trẻ nhỏ cũng có thể theo người lớn leo"
+                  }
+                ]
+              },
+              {
+                "question": "Thời gian leo Núi Cô Tiên mất bao lâu ?",
+                "id": "2a318a96-f171-4f7e-8d0e-af9589dffc95",
+                "answers": [
+                  {
+                    "answer_start": 421,
+                    "text": "thời gian tầm 30-45 phút"
+                  }
+                ]
+              },
+              {
+                "question": "Thời gian leo Núi Cô Tiên ngắm bình minh là lúc nào ?",
+                "id": "e22f6338-2fa9-4f13-9733-3ed0b1fc4c22",
+                "answers": [
+                  {
+                    "answer_start": 539,
+                    "text": "từ 5h30"
+                  }
+                ]
+              },
+              {
+                "question": "Thời gian leo Núi Cô Tiên ngắm hoàng hôn từ lúc nào ?",
+                "id": "66811dad-4b2a-415c-b339-a52ca0fdf31d",
+                "answers": [
+                  {
+                    "answer_start": 565,
+                    "text": "từ 15h30."
+                  }
+                ]
+              },
+              {
+                "question": "Nếu đi xe máy , gửi xe ở đâu ?",
+                "id": "9195257b-6c9b-412e-9468-d31a87ecc2d9",
+                "answers": [
+                  {
+                    "answer_start": 594,
+                    "text": "gửi xe ở nhà dân khu vực đường Ngô Văn Sở"
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé gửi xe máy ở Núi Cô Tiên là bao nhiêu ?",
+                "id": "0c284c72-6cbf-4c6f-9e75-84d1eeba26e9",
+                "answers": [
+                  {
+                    "answer_start": 637,
+                    "text": "giá 5.000 đồng/xe máy"
+                  }
+                ]
+              },
+              {
+                "question": "Tại Núi Cô Tiên có cho thuê gì ?",
+                "id": "b9cf0f42-0461-4e05-96c8-a582e60e9bc7",
+                "answers": [
+                  {
+                    "answer_start": 660,
+                    "text": "Tại đây có cho thuê lều, đèn pin..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Công viên VinWonders Nha Trang: Đây là khu vui chơi giải trí, nghỉ dưỡng nằm trên đảo Hòn Tre, với tổng diện tích 200.000 m2, kết nối với đất liền bởi hệ thống cáp treo hiện đại. Khu vui chơi chia thành trong nhà, ngoài trời, công viên nước, thủy cung, khu biểu diễn nghệ thuật, lâu đài phim đại dương và khu ẩm thực.Ở đây, du khách có nhiều lựa chọn là vui chơi ở công viên nước hay trải nghiệm cảm giác mạnh với các trò chơi như tháp rơi tự do, đu quay cảm giác mạnh, tàu lượn cao tốc... Với gia đình có trẻ em, đừng quên ghé thăm lâu đài phim hay pháo đài kẹo ngọt.Cuối ngày, du khách có thể cùng gia đình trải nghiệm vòng quay với chiều cao 120 m, để chiêm ngưỡng trọn bộ cảnh quan kỳ vĩ của vịnh Nha Trang.Giá vé vào cửa và cáp treo 2 chiều dành cho người lớn là 880.000 đồng, trẻ em từ 1 m đến 1,4 m có giá vé là 660.000 đồng. Khách hàng trên 60 tuổi được ưu đãi vé 530.000 đồng.",
+            "qas": [
+              {
+                "question": "Công viên VinWonders là khu hoạt động gì ?",
+                "id": "f2918750-e75c-4ca2-96c4-5c2181f9c804",
+                "answers": [
+                  {
+                    "answer_start": 32,
+                    "text": "Đây là khu vui chơi giải trí, nghỉ dưỡng"
+                  }
+                ]
+              },
+              {
+                "question": "Công viên VinWonders nằm trên đảo nào ?",
+                "id": "ea1da26e-5670-4fa0-b41d-482002239f6e",
+                "answers": [
+                  {
+                    "answer_start": 73,
+                    "text": "nằm trên đảo Hòn Tre"
+                  }
+                ]
+              },
+              {
+                "question": "Tổng diện tích Công viên VinWonders Nha Trang là bao nhiêu ?",
+                "id": "d5859e4f-bfa4-45c3-ad75-fcd07263135d",
+                "answers": [
+                  {
+                    "answer_start": 99,
+                    "text": "tổng diện tích 200.000 m2"
+                  }
+                ]
+              },
+              {
+                "question": "Công viên VinWonders Nha Trang kết nối với đất liền bởi hệ thống gì ?",
+                "id": "535be18c-6f2b-45ff-b1cb-fa43340291af",
+                "answers": [
+                  {
+                    "answer_start": 126,
+                    "text": "kết nối với đất liền bởi hệ thống cáp treo hiện đại."
+                  }
+                ]
+              },
+              {
+                "question": "Công viên VinWonders Nha Trang chia thành các khu gì ?",
+                "id": "b67e6c46-fb40-4357-9b6c-bf631580d60a",
+                "answers": [
+                  {
+                    "answer_start": 179,
+                    "text": "Khu vui chơi chia thành trong nhà, ngoài trời, công viên nước, thủy cung, khu biểu diễn nghệ thuật, lâu đài phim đại dương và khu ẩm thực"
+                  }
+                ]
+              },
+              {
+                "question": "Ở Công viên VinWonders Nha Trang , quý khách có thể lựa chọn gì ?",
+                "id": "9a93bc3d-7c45-45d7-b8e3-f6fcf9fdffb4",
+                "answers": [
+                  {
+                    "answer_start": 317,
+                    "text": "Ở đây, du khách có nhiều lựa chọn là vui chơi ở công viên nước hay trải nghiệm cảm giác mạnh với các trò chơi như tháp rơi tự do, đu quay cảm giác mạnh, tàu lượn cao tốc... "
+                  }
+                ]
+              },
+              {
+                "question": "Với gia đình có trẻ em, du khách nên ghé đâu ở Công viên VinWonders Nha Trang ?",
+                "id": "b2c4fe52-90a7-434f-8350-e57c7f2634c5",
+                "answers": [
+                  {
+                    "answer_start": 490,
+                    "text": "Với gia đình có trẻ em, đừng quên ghé thăm lâu đài phim hay pháo đài kẹo ngọt"
+                  }
+                ]
+              },
+              {
+                "question": "Vòng quay ở Công viên VinWonders Nha Trang cao bao nhiêu ?",
+                "id": "0eb178d0-b04a-459e-beb3-de24dc8391a6",
+                "answers": [
+                  {
+                    "answer_start": 640,
+                    "text": " cao 120 m"
+                  }
+                ]
+              },
+              {
+                "question": "Du khách có thể chơi vòng quay ở Công viên VinWonders Nha Trang để chiêm ngưỡng gì ?",
+                "id": "8a823266-634e-44b8-991a-22530b8274fb",
+                "answers": [
+                  {
+                    "answer_start": 652,
+                    "text": "để chiêm ngưỡng trọn bộ cảnh quan kỳ vĩ của vịnh Nha Trang"
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé vào cửa và cáp treo 2 chiều cho người lớn ở Công viên VinWonders Nha Trang là bao nhiêu ?",
+                "id": "eee0afcf-6acc-4ee3-bbf0-b103624bd503",
+                "answers": [
+                  {
+                    "answer_start": 746,
+                    "text": "dành cho người lớn là 880.000 đồng"
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé vào cửa và cáp treo 2 chiều cho trẻ em từ 1 m đến 1,4 m ở Công viên VinWonders Nha Trang là bao nhiêu ?",
+                "id": "d832d69b-4500-43fe-a4df-1a92cb7d6ace",
+                "answers": [
+                  {
+                    "answer_start": 782,
+                    "text": "trẻ em từ 1 m đến 1,4 m có giá vé là 660.000 đồng"
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé vào cửa và cáp treo 2 chiều cho khách hàng trên 60 tuổi ở Công viên VinWonders Nha Trang là bao nhiêu ?",
+                "id": "083b0713-a2bb-4de0-b7bb-997d243fd296",
+                "answers": [
+                  {
+                    "answer_start": 833,
+                    "text": "Khách hàng trên 60 tuổi được ưu đãi vé 530.000 đồng."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Khách sạn phù hợp cho gia đình: với một gia đình thì diện tích là một tiêu chí được đặt lên hàng đầu mỗi khi lên kế hoạch du lịch. Không gian hoàn toàn thoải mái và thoáng đãng vừa đủ cho tất cả các thành viên trong gia đình có thể sum vầy nhưng vẫn có không gian riêng. Các trang thiết bị, dụng cụ vệ sinh được trang bị tại gia. Có phòng sinh hoạt chung, khu vực ăn uống của cả gia đình và phòng bếp cho các bà nội trợ mỗi khi “nhớ nghề”. Nhiều phòng ngủ chắc chắn sẽ là lựa chọn tuyệt vời để đảm bảo không gian riêng tư và không gian sinh hoạt cho cả gia đình. White Lion Hotel Nha Trang và Khách sạn V Nha Trang là những nơi đáp ứng được các tiêu chí đó",
+            "qas": [
+              {
+                "question": "Với một gia đình thì đâu là tiêu chí được đặt lên hàng đầu ?",
+                "id": "2b055013-6488-45b1-b374-396d05e9cfcd",
+                "answers": [
+                  {
+                    "answer_start": 32,
+                    "text": "với một gia đình thì diện tích là một tiêu chí được đặt lên hàng đầu mỗi khi lên kế hoạch du lịch"
+                  }
+                ]
+              },
+              {
+                "question": "Khách sạn phù hợp cho gia đình ở Nha Trang có không gian như thế nào ?",
+                "id": "19f72ca3-2367-4105-b692-184eabd30675",
+                "answers": [
+                  {
+                    "answer_start": 131,
+                    "text": "Không gian hoàn toàn thoải mái và thoáng đãng vừa đủ cho tất cả các thành viên trong gia đình có thể sum vầy nhưng vẫn có không gian riêng"
+                  }
+                ]
+              },
+              {
+                "question": "Các trang thiết bị trong khách sạn phù hợp cho gia đình ở Nha Trang như thế nào ?",
+                "id": "403bcc2f-508f-4f78-b7e7-66bc8e301342",
+                "answers": [
+                  {
+                    "answer_start": 271,
+                    "text": "Các trang thiết bị, dụng cụ vệ sinh được trang bị tại gia"
+                  }
+                ]
+              },
+              {
+                "question": "Phòng sinh hoạt chung ở khách sạn phù hợp cho gia đình ở Nha Trang như thế nào ?",
+                "id": "058bb45a-fb64-48fc-a46d-a97e3bf41507",
+                "answers": [
+                  {
+                    "answer_start": 330,
+                    "text": "Có phòng sinh hoạt chung, khu vực ăn uống của cả gia đình và phòng bếp cho các bà nội trợ mỗi khi “nhớ nghề”. Nhiều phòng ngủ chắc chắn sẽ là lựa chọn tuyệt vời để đảm bảo không gian riêng tư và không gian sinh hoạt cho cả gia đình"
+                  }
+                ]
+              },
+              {
+                "question": "Khách sạn phù hợp cho gia đình ở Nha Trang là khách sạn nào ?",
+                "id": "40aed78d-9b3a-41bf-b24b-c9b31cae799d",
+                "answers": [
+                  {
+                    "answer_start": 563,
+                    "text": "White Lion Hotel Nha Trang và Khách sạn V Nha Trang"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Đảo Hòn Tằm: Đảo Hòn Tằm chỉ cách thành phố Nha Trang 7 km về phía Đông Nam và rất dễ dàng di chuyển ra vào đảo. Hãy tưởng tượng bạn sẽ cảm thấy như thế nào khi nằm dựa lưng trên chiếc ghế tre đặt trên bờ cát trắng sạch, đẹp và mịn. Tận hưởng từng hơi thở của biển, của cây cối và khung cảnh bình yên đến lạ tại Hòn Tằm.Thật không có gì sai khi người ta mệnh danh Hòn Tằm là “đảo xanh” tại Nha Trang. Không chỉ làm say đắm du khách bằng biển xanh cát trắng và rừng nhiệt đới xanh tươi, tại đây còn níu chân du khách bằng các trò chơi cảm giác mạnh, bạn sẽ được dịp nô đùa với nước bằng các hoạt động sau:chơi golf trên đảo, cưỡi motor nước, lượn dù kéo, flyboard (ván bay), chèo thuyền kayak,... nằm ở khu giải trí Sparkling Waves và khu Sunset Villas. Và đáng kể đến là hoạt động lặn ngắm san hô và đi bộ dưới biển cực độc đáo. Nước biển trong xanh, nên mò ngọc trai luôn là hoạt động thú vị và được nhiều lựa chọn khi đến Hòn Tằm nhất.Đặc biệt, Cầu Gỗ Hòn Tằm là một địa điểm check-in yêu thích của giới trẻ khi đến đây. Đến Nha Trang mà không check in ở cây cầu này thì uổng lắm đấy! Cây cầu là nơi thuyền cập bến, phong cảnh đẹp chỗ lý tưởng cho ra đời hàng trăm tấm hình sống ảo chất lừ. Bật mí cho các bạn đây là địa điểm chụp ảnh cưới yêu thích số một Nha Trang đó nha!",
+            "qas": [
+              {
+                "question": "Đảo Hòn Tằm cách thành phố Nha Trang bao xa ?",
+                "id": "550af343-7fbc-46db-b569-c7d9ff77a321",
+                "answers": [
+                  {
+                    "answer_start": 13,
+                    "text": "Đảo Hòn Tằm chỉ cách thành phố Nha Trang 7 km "
+                  }
+                ]
+              },
+              {
+                "question": "Đảo Hòn Tằm nằm ở phía nào của thành phố Nha Trang ?",
+                "id": "31f5ad15-7430-4f32-8b40-95f56b110a5c",
+                "answers": [
+                  {
+                    "answer_start": 62,
+                    "text": "phía Đông Nam"
+                  }
+                ]
+              },
+              {
+                "question": "Khung cảnh yên bình tại Đảo Hòn Tằm như thế nào ?",
+                "id": "9525a0e4-700f-42d5-8cfb-25f9381d7069",
+                "answers": [
+                  {
+                    "answer_start": 113,
+                    "text": "Hãy tưởng tượng bạn sẽ cảm thấy như thế nào khi nằm dựa lưng trên chiếc ghế tre đặt trên bờ cát trắng sạch, đẹp và mịn. Tận hưởng từng hơi thở của biển, của cây cối và khung cảnh bình yên đến lạ "
+                  }
+                ]
+              },
+              {
+                "question": "Đảo Hòn Tằm được mệnh danh là gì ?",
+                "id": "a235d20d-27ac-4f60-9d32-00b0f6c727df",
+                "answers": [
+                  {
+                    "answer_start": 345,
+                    "text": "người ta mệnh danh Hòn Tằm là “đảo xanh” tại Nha Trang"
+                  }
+                ]
+              },
+              {
+                "question": "Đảo Hòn Tằm say đắm khách du lịch với điều gì ?",
+                "id": "5a2f856f-63a0-4073-acbd-75b31daa4f57",
+                "answers": [
+                  {
+                    "answer_start": 401,
+                    "text": "Không chỉ làm say đắm du khách bằng biển xanh cát trắng và rừng nhiệt đới xanh tươi, tại đây còn níu chân du khách bằng các trò chơi cảm giác mạnh, bạn sẽ được dịp nô đùa với nước"
+                  }
+                ]
+              },
+              {
+                "question": "Các hoạt động trên đảo Đảo Hòn Tằm là gì ?",
+                "id": "099e74ae-189a-41f3-b798-6122204f771d",
+                "answers": [
+                  {
+                    "answer_start": 604,
+                    "text": "chơi golf trên đảo, cưỡi motor nước, lượn dù kéo, flyboard (ván bay), chèo thuyền kayak,..."
+                  }
+                ]
+              },
+              {
+                "question": "Các hoạt động vui chơi trên Đảo Hòn Tằm nằm ở khu giải trí nào ?",
+                "id": "e165c06c-73fb-4a2a-9c62-e923894ec832",
+                "answers": [
+                  {
+                    "answer_start": 702,
+                    "text": "khu giải trí Sparkling Waves và khu Sunset Villas"
+                  }
+                ]
+              },
+              {
+                "question": "Đảo Hòn Tằm ngoài các khu vui chơi con có gì ?",
+                "id": "549d9f2b-6879-4de7-92fd-9ac423839c40",
+                "answers": [
+                  {
+                    "answer_start": 753,
+                    "text": "Và đáng kể đến là hoạt động lặn ngắm san hô và đi bộ dưới biển cực độc đáo."
+                  }
+                ]
+              },
+              {
+                "question": "Hoạt động thú vị và được lựa chọn nhiều khi đến Đảo Hòn Tằm là gì ?",
+                "id": "62afcd9b-71c8-4b06-8fe0-c8003d59a245",
+                "answers": [
+                  {
+                    "answer_start": 855,
+                    "text": "mò ngọc trai "
+                  }
+                ]
+              },
+              {
+                "question": "Cầu nào là địa chỉ check-in nổi tiếng ở Đảo Hòn Tằm ?",
+                "id": "e9b1dbf6-3c72-4299-8e02-396949ed5edf",
+                "answers": [
+                  {
+                    "answer_start": 947,
+                    "text": "Cầu Gỗ Hòn Tằm"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Vịnh Ninh Vân: Vịnh nằm cách thành phố biển Nha Trang khoảng 60 km, thuộc địa bàn xã Ninh Vân, thị xã Ninh Hòa, tỉnh Khánh Hòa. Khác biệt với không khí náo nhiệt tại thành phố Nha Trang, Vinh Ninh Vân mang trong mình vẻ đẹp của người con gái hiền dịu, nhẹ nhàng. Xung quanh bao phủ bởi mây trời và nước biển trong rất hoang sơ và thanh bình. Những bãi cát trắng mịn chen lẫn với các rừng cây và các mõm đá nhấp nhô, xa xa lại có lác đác vài ba căn nhà của cư dân làng chài. Tất cả mọi thứ hòa vào nhau, tạo thành một bức tranh vừa hùng vĩ vừa nên thơ.Tại đây thích hợp cho những chuyến đi nghỉ dưỡng ngắn ngày, những chuyến đi với mục đích tìm về chốn hoang sơ để tạm gác lại sự ồn ào náo nhiệt và xô bồ của thế giới ngoài kia. Traveloka gợi ý cho bạn một điểm nghỉ dưỡng cực kỳ yên bình tại vịnh Ninh Vân - L'Alya Ninh Van Bay.",
+            "qas": [
+              {
+                "question": "Vịnh Ninh Vân cách thành phố biển Nha Trang bao xa ?",
+                "id": "dbeb2be2-a46f-4f39-a9d6-873fb0c07098",
+                "answers": [
+                  {
+                    "answer_start": 54,
+                    "text": "khoảng 60 km"
+                  }
+                ]
+              },
+              {
+                "question": "Vịnh Ninh Vân thuộc xã nào ?",
+                "id": "249e1d8d-8445-4f26-970e-a932209dd480",
+                "answers": [
+                  {
+                    "answer_start": 68,
+                    "text": "thuộc địa bàn xã Ninh Vân, thị xã Ninh Hòa, tỉnh Khánh Hòa"
+                  }
+                ]
+              },
+              {
+                "question": "Vịnh Ninh Vân mang vẻ đẹp gì ?",
+                "id": "6dcd6dfe-473b-4a50-9c19-f5803fb37385",
+                "answers": [
+                  {
+                    "answer_start": 187,
+                    "text": "Vinh Ninh Vân mang trong mình vẻ đẹp của người con gái hiền dịu, nhẹ nhàng. "
+                  }
+                ]
+              },
+              {
+                "question": "Xung quanh Vịnh Ninh Vân bao phũ bởi gì ?",
+                "id": "45c56fc2-9c43-4462-951f-064e01202089",
+                "answers": [
+                  {
+                    "answer_start": 263,
+                    "text": "Xung quanh bao phủ bởi mây trời và nước biển trong rất hoang sơ và thanh bình. Những bãi cát trắng mịn chen lẫn với các rừng cây và các mõm đá nhấp nhô, xa xa lại có lác đác vài ba căn nhà của cư dân làng chài."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Hang Heo: Hang Heo thuộc địa phận thôn Lương Sơn, xã Vĩnh Lương cách trung tâm thành phố Nha Trang khoảng 16 km về phía Bắc. Để di chuyển được tới hang Heo ở Nha Trang cũng không hề khó chút nào. Men theo con đường Phạm Văn Đồng, đi hết dốc cuối cùng, chưa tới cảng cá Vĩnh Lương thấy một quán nước mía bên đường là đến. Đi bộ vào bên trong khoảng 200 m sẽ bắt gặp một bãi đá có hình dạng rất đẹp cong vòng theo bờ biển, dài khoảng gần cây số.Một trong những thứ hấp dẫn tại Nha Trang, không thể không kể đến hệ thống hang động.Tên gọi hang Heo dung dị theo những người dân nơi đây kể lại xuất phát từ tích cũ, đó là ngày trước những người dân làng chài ở đây đi biển về, thường thấy heo rừng trên núi Cô Tiên chạy xuống. Đây là một bãi đá tự nhiên có màu sẫm với hình thù gai góc. Nơi đây vừa có biển, vừa có vách đá, vừa có cây leo xanh ngắt xen kẽ với nhau tạo nên cảnh quan hùng vĩ.Tên gọi hang Heo dung dị theo những người dân nơi đây kể lại xuất phát từ tích cũ, đó là ngày trước những người dân làng chài ở đây đi biển về, thường thấy heo rừng trên núi Cô Tiên chạy xuống. Đây là một bãi đá tự nhiên có màu sẫm với hình thù gai góc. Nơi đây vừa có biển, vừa có vách đá, vừa có cây leo xanh ngắt xen kẽ với nhau tạo nên cảnh quan hùng vĩ.",
+            "qas": [
+              {
+                "question": "Hang Heo thuộc địa phận thôn nào ?",
+                "id": "2778861f-db36-4ef1-acd5-6173cc2b390a",
+                "answers": [
+                  {
+                    "answer_start": 10,
+                    "text": "Hang Heo thuộc địa phận thôn Lương Sơn, xã Vĩnh Lương "
+                  }
+                ]
+              },
+              {
+                "question": "Hang Heo cách thành phố Nha Trang bao xa ?",
+                "id": "41089bba-7cc4-4253-ae1b-04b2d4b6ab41",
+                "answers": [
+                  {
+                    "answer_start": 99,
+                    "text": "khoảng 16 km "
+                  }
+                ]
+              },
+              {
+                "question": "Hang Heo nằm ở hướng nào của thành phố Nha Trang ?",
+                "id": "07b4a2c0-3d80-4277-8d88-b8ceb321aa1c",
+                "answers": [
+                  {
+                    "answer_start": 115,
+                    "text": "phía Bắc"
+                  }
+                ]
+              },
+              {
+                "question": "Để di chuyển đến Hang Heo thì nên đi như thế nào ?",
+                "id": "b7891a73-f2a8-49db-90e0-d7864854cff1",
+                "answers": [
+                  {
+                    "answer_start": 196,
+                    "text": "Men theo con đường Phạm Văn Đồng, đi hết dốc cuối cùng, chưa tới cảng cá Vĩnh Lương thấy một quán nước mía bên đường là đến"
+                  }
+                ]
+              },
+              {
+                "question": "Khi gặp quán nước trong lúc đi đến Hang Heo thì đi bộ vào trong khoảng bao xa ?",
+                "id": "712e771d-0dc9-441b-841e-1a14bdb42ce2",
+                "answers": [
+                  {
+                    "answer_start": 341,
+                    "text": "khoảng 200 m "
+                  }
+                ]
+              },
+              {
+                "question": "Hang Heo có bãi đá như thế nào ?",
+                "id": "078f5d72-204a-442c-8050-55d0af39c795",
+                "answers": [
+                  {
+                    "answer_start": 365,
+                    "text": "một bãi đá có hình dạng rất đẹp cong vòng theo bờ biển, dài khoảng gần cây số"
+                  }
+                ]
+              },
+              {
+                "question": "Vì sao được gọi là Hang Heo ?",
+                "id": "1d979f45-9659-4067-80da-10d8cd17e374",
+                "answers": [
+                  {
+                    "answer_start": 528,
+                    "text": "Tên gọi hang Heo dung dị theo những người dân nơi đây kể lại xuất phát từ tích cũ, đó là ngày trước những người dân làng chài ở đây đi biển về, thường thấy heo rừng trên núi Cô Tiên chạy xuống"
+                  }
+                ]
+              },
+              {
+                "question": "Hang Heo có gì ?",
+                "id": "55bb89a6-bad0-4c04-b676-bfa0d3ddd358",
+                "answers": [
+                  {
+                    "answer_start": 782,
+                    "text": "Nơi đây vừa có biển, vừa có vách đá, vừa có cây leo xanh ngắt xen kẽ với nhau tạo nên cảnh quan hùng vĩ."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Cảng Hòn Rớ: Một khi đã đến với biển cả thì sẽ thật tiếc nuối nếu bạn không một lần ghé thăm cảng Hòn Rớ - một nơi tề tựu đủ những âm thanh và hình ảnh của người dân chài. Hòn Rớ thuộc xã Phước Đồng, cách trung tâm TP Nha Trang (Khánh Hòa) khoảng 7 km về hướng đông nam. Đến đây, du khách không chỉ được ngắm nhìn cuộc sống nhộn nhịp của làng chài, của những tàu thuyền cập bến mà còn có thể lựa mua được nhiều món hải sản tươi ngon, mới đánh bắt về.Cảng cá Hòn Rớ nằm cách trung tâm thành phố khoảng 7 km, thuộc địa phận xã Phước Đồng, cách Bãi Dài 20 km. Đây được xem là cảng cá lớn nhất khu vực Nam Trung Bộ nên tập trung rất nhiều tàu bè lớn nhỏ. Lưu ý là bạn nên đến đây vào sáng sớm để vừa có thể đón cảnh bình minh tuyệt đẹp vừa hòa bình vào không khí nhộn nhịp của cảng cá.",
+            "qas": [
+              {
+                "question": "Cảng Hòn Rớ là một nơi như thế nào ?",
+                "id": "95ec1b47-ed3d-4254-881e-922b4ff83edc",
+                "answers": [
+                  {
+                    "answer_start": 107,
+                    "text": "một nơi tề tựu đủ những âm thanh và hình ảnh của người dân chài."
+                  }
+                ]
+              },
+              {
+                "question": "Cảng Hòn Rớ thuộc xã nào ?",
+                "id": "93a413f6-66af-497a-91b4-880c33d2de0d",
+                "answers": [
+                  {
+                    "answer_start": 172,
+                    "text": "Hòn Rớ thuộc xã Phước Đồng"
+                  }
+                ]
+              },
+              {
+                "question": "Cảng Hòn Rớ cách TP Nha Trang bao xa ?",
+                "id": "b6eb82d4-b86e-4e1d-ba03-be63ab397470",
+                "answers": [
+                  {
+                    "answer_start": 240,
+                    "text": "khoảng 7 km "
+                  }
+                ]
+              },
+              {
+                "question": "Cảng Hòn Rớ nằm ở hướng nào của TP Nha Trang ?",
+                "id": "31bc65b2-f7f5-4084-9b21-590ce43099d3",
+                "answers": [
+                  {
+                    "answer_start": 255,
+                    "text": "hướng đông nam"
+                  }
+                ]
+              },
+              {
+                "question": "Khi đến Cảng Hòn Rớ du khách sẽ được ngắm nhìn gì ?",
+                "id": "07cb7ab5-5236-4c19-b192-a769ec2163b9",
+                "answers": [
+                  {
+                    "answer_start": 304,
+                    "text": "ngắm nhìn cuộc sống nhộn nhịp của làng chài, của những tàu thuyền cập bến"
+                  }
+                ]
+              },
+              {
+                "question": "Cảng Hòn Rớ cách bãi Dài bao xa ?",
+                "id": "8529b166-1d15-40ac-b209-94460ec76e79",
+                "answers": [
+                  {
+                    "answer_start": 550,
+                    "text": "20 km"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Nhà Thờ Đá: Nhà thờ toạ lạc trên đỉnh đồi Hoàng Lân, đầu đường Nguyễn Trãi giao với đường Thái Nguyên (Ngã 6). Một địa điểm không nên bỏ qua khi đến Nha Trang chính là Nhà thờ Nha Trang hay còn gọi lại nhà thờ Núi. Nhà thờ được giới nhiếp ảnh săn lùng bởi kiến trúc gothic đặc trưng không khác gì các nhà thờ tại Châu Âu. Người người vào đây đều mê mẩn với mái vòm rộng, những ô cửa hình hoa hồng.Lưu ý khi đến chụp ảnh, bạn nên ăn mặc kín đáo và giữ yên lặng nhé! Giá vé tham quan nhà thờ: miễn phí, vào tự do.",
+            "qas": [
+              {
+                "question": "Nhà Thờ Đá trên đỉnh đồi nào ?",
+                "id": "74886a5b-73dd-450f-bcd4-ab54a2b3a091",
+                "answers": [
+                  {
+                    "answer_start": 12,
+                    "text": "Nhà thờ toạ lạc trên đỉnh đồi Hoàng Lân"
+                  }
+                ]
+              },
+              {
+                "question": "Nhà Thờ Đá nằm trên đường nào ?",
+                "id": "efe2d0d3-09d0-45b8-9ea7-915c46df2983",
+                "answers": [
+                  {
+                    "answer_start": 53,
+                    "text": "đầu đường Nguyễn Trãi giao với đường Thái Nguyên (Ngã 6)"
+                  }
+                ]
+              },
+              {
+                "question": "Kiến trúc Nhà Thờ Đá như thế nào ?",
+                "id": "180af584-df76-4086-a317-50452a5fa085",
+                "answers": [
+                  {
+                    "answer_start": 256,
+                    "text": "kiến trúc gothic đặc trưng không khác gì các nhà thờ tại Châu Âu"
+                  }
+                ]
+              },
+              {
+                "question": "Lưu ý khi chụp ảnh tại Nhà Thờ Đá ?",
+                "id": "88ad08d0-1383-4755-a804-87959b57d592",
+                "answers": [
+                  {
+                    "answer_start": 397,
+                    "text": "Lưu ý khi đến chụp ảnh, bạn nên ăn mặc kín đáo và giữ yên lặng nhé"
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé tham quan Nhà Thờ Đá là bao nhiêu ?",
+                "id": "22ab947d-bafa-448c-b277-07a263f62e96",
+                "answers": [
+                  {
+                    "answer_start": 491,
+                    "text": "miễn phí, vào tự do."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Ga Nha Trang: Từng được mệnh danh là nhà ga đẹp thứ nhì Đông Dương, chỉ sau ga Đà Lạt. Nhờ kiến trúc đẹp mắt, màu sắc trông rất Tây mà nhiều bạn trẻ đến đây không thể không giơ máy lên làm vài bức ảnh lưu lại làm kỉ niệm. Cầu sắt: Địa chỉ: 17 Thái Nguyên, Phước Tân, Thành phố Nha Trang, Khánh Hòa. Được xây dựng từ thời Pháp thuộc nên cầu Sắt mang chất hoài cổ, nhiều bạn trẻ chọn cây cầu này để chụp ảnh cũng vì lý do đó. Cầu Sắt bắc qua sông Cái, đoạn gần khu tắm bùn Thác Bà, view ở đây đủ đẹp để bạn có thể vừa ngắm cảnh vừa có những bức ảnh cực đẹp để check – in Nha Trang nhé.",
+            "qas": [
+              {
+                "question": "Ga Nha Trang từng được mệnh danh là gì ?",
+                "id": "d804b3cc-1bff-40ef-896a-4b7a3f5dede7",
+                "answers": [
+                  {
+                    "answer_start": 14,
+                    "text": "Từng được mệnh danh là nhà ga đẹp thứ nhì Đông Dương"
+                  }
+                ]
+              },
+              {
+                "question": "Ga Nha Trang có kiến trúc như thế nào ?",
+                "id": "2e120ef1-354e-49ad-8683-2d8e777de489",
+                "answers": [
+                  {
+                    "answer_start": 87,
+                    "text": "Nhờ kiến trúc đẹp mắt, màu sắc trông rất Tây"
+                  }
+                ]
+              },
+              {
+                "question": "Cầu sắt có địa chỉ là gì ?",
+                "id": "e5c303fd-0f87-4856-9106-ea9cb120bb63",
+                "answers": [
+                  {
+                    "answer_start": 240,
+                    "text": "17 Thái Nguyên, Phước Tân, Thành phố Nha Trang, Khánh Hòa. "
+                  }
+                ]
+              },
+              {
+                "question": "Cầu Sắt được xây dựng từ thời nào ?",
+                "id": "6daa7a2b-844f-41e2-87d7-228a6928e89d",
+                "answers": [
+                  {
+                    "answer_start": 299,
+                    "text": "Được xây dựng từ thời Pháp thuộc"
+                  }
+                ]
+              },
+              {
+                "question": "Cầu Sắt mang chất gì ?",
+                "id": "f09ff742-1e56-4a40-a2c8-186f3450b92d",
+                "answers": [
+                  {
+                    "answer_start": 344,
+                    "text": "mang chất hoài cổ, nhiều bạn trẻ chọn cây cầu này để chụp ảnh cũng vì lý do đó. "
+                  }
+                ]
+              },
+              {
+                "question": "Cầu Sắt bắt qua sông gì ?",
+                "id": "6c50425a-a1ae-42c0-ad93-39c3e0099c90",
+                "answers": [
+                  {
+                    "answer_start": 424,
+                    "text": "Cầu Sắt bắc qua sông Cái, đoạn gần khu tắm bùn Thác Bà"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
