@@ -1,1388 +1,1334 @@
 {
-    "data": [
-      {
-        "title": "SaPa",
-        "paragraphs": [
-          {
-            "context": "Sa Pa mùa nào đẹp: Nằm dưới chân dãy Hoàng Liên Sơn hùng vĩ và chỉ cách Hà Nội 5 - 6 giờ di chuyển bằng đường cao tốc, Sa Pa là điểm đến lý tưởng quanh năm. Ngoài những thửa ruộng bậc thang vào mùa lúa chín, Sa Pa còn hút khách nhờ vẻ đẹp của nhiều điểm đến khác.Sa Pa có khí hậu mát mẻ nên phù hợp với những chuyến du lịch quanh năm. Bạn chỉ cần tránh mùa mưa bão từ tháng 6 đến đầu tháng 8, bởi thời tiết cực đoan có thể gây lũ ống, lũ quét, sạt lở...Từ tháng 2 đến tháng 5, mùa xuân Sa Pa rực rỡ với trăm hoa khoe sắc như mai anh đào, đào, mận... Mùa hè từ tháng 6 đến tháng 8 là thời điểm khách du lịch đến Sa Pa để trốn nóng, ngắm những thửa ruộng bậc thang xanh mát.Mùa thu kéo dài từ tháng 9 đến tháng 11, Sa Pa quyến rũ trong màu vàng óng ả của lúa chín và trời dần trở lạnh. Mùa đông đến từ tháng 12 đến tháng 2 năm sau, nếu may mắn bạn có thể săn tuyết, băng giá trên những đỉnh núi.",
-            "qas": [
-              {
-                "question": "Sa Pa nằm dưới chân dãy núi nào ?",
-                "id": "da1119e8-6b91-4009-9677-917616da879d",
-                "answers": [
-                  {
-                    "answer_start": 33,
-                    "text": "dãy Hoàng Liên Sơn hùng vĩ "
-                  }
-                ]
-              },
-              {
-                "question": "Di chuyển từ Hà Nội đi Sa Pa mất bao nhiêu thời gian ?",
-                "id": "10e7d8e4-6471-4faa-84c6-67c895fcdbcf",
-                "answers": [
-                  {
-                    "answer_start": 79,
-                    "text": "5 - 6 giờ di chuyển bằng đường cao tốc"
-                  }
-                ]
-              },
-              {
-                "question": "Sa Pa hút khách du lịch bởi điều gì ?",
-                "id": "1b9779c7-5395-4229-b418-764e55037656",
-                "answers": [
-                  {
-                    "answer_start": 163,
-                    "text": "những thửa ruộng bậc thang vào mùa lúa chín"
-                  }
-                ]
-              },
-              {
-                "question": "Sa Pa có khí hậu như thế nào ?",
-                "id": "fe8ba546-a6cd-436d-97c0-f3a713cd6b71",
-                "answers": [
-                  {
-                    "answer_start": 263,
-                    "text": "Sa Pa có khí hậu mát mẻ"
-                  }
-                ]
-              },
-              {
-                "question": "Bạn nên tránh đi Sa Pa vào khoảng thời gian nào ?",
-                "id": "16f45a44-7d2d-4d89-9a61-1ddf5a7d7451",
-                "answers": [
-                  {
-                    "answer_start": 365,
-                    "text": "từ tháng 6 đến đầu tháng 8"
-                  }
-                ]
-              },
-              {
-                "question": "Vì sao nên tránh đi Sa Pa từ tháng 6 đến tháng 8 ?",
-                "id": "686e4a7e-a5d5-4492-9dbc-346b7c0e075d",
-                "answers": [
-                  {
-                    "answer_start": 393,
-                    "text": "bởi thời tiết cực đoan có thể gây lũ ống, lũ quét, sạt lở..."
-                  }
-                ]
-              },
-              {
-                "question": "Mùa xuân ở Sa Pa bắt đầu từ tháng nào ?",
-                "id": "f91f1d42-db61-4008-818c-2df7600d32bb",
-                "answers": [
-                  {
-                    "answer_start": 453,
-                    "text": "Từ tháng 2 đến tháng 5"
-                  }
-                ]
-              },
-              {
-                "question": "Mùa xuân ở Sa Pa được miêu tả như thế nào ?",
-                "id": "3943c894-60c5-4052-83a3-785b342b035d",
-                "answers": [
-                  {
-                    "answer_start": 477,
-                    "text": "mùa xuân Sa Pa rực rỡ với trăm hoa khoe sắc như mai anh đào, đào, mận... "
-                  }
-                ]
-              },
-              {
-                "question": "Mùa hè ở Sa Pa bắt đầu từ tháng nào ?",
-                "id": "c3782c40-5979-42b7-82d0-4ca86c522a25",
-                "answers": [
-                  {
-                    "answer_start": 557,
-                    "text": "từ tháng 6 đến tháng 8"
-                  }
-                ]
-              },
-              {
-                "question": "Khi đi du lịch vào mùa hè , bạn có thể nhìn ngắm gì ở Sa Pa ?",
-                "id": "39b6c630-bd31-4d6e-a500-fe09394bf785",
-                "answers": [
-                  {
-                    "answer_start": 631,
-                    "text": "ngắm những thửa ruộng bậc thang xanh mát"
-                  }
-                ]
-              },
-              {
-                "question": "Mua ở Sa Pa thu kéo dài từ tháng nào đến tháng nào ?",
-                "id": "216abb32-7b2d-451e-bf1d-7149b39fde46",
-                "answers": [
-                  {
-                    "answer_start": 688,
-                    "text": "từ tháng 9 đến tháng 11"
-                  }
-                ]
-              },
-              {
-                "question": "Mùa thu ở Sa Pa quyến rũ như thế nào ?",
-                "id": "36a42f96-24f1-449b-8cff-8449fac203ab",
-                "answers": [
-                  {
-                    "answer_start": 713,
-                    "text": "Sa Pa quyến rũ trong màu vàng óng ả của lúa chín và trời dần trở lạnh. "
-                  }
-                ]
-              },
-              {
-                "question": "Mùa đông ở Sa Pa từ tháng nào đến tháng nào ?",
-                "id": "045376a5-d4f1-47fa-ad81-02394dd6aec3",
-                "answers": [
-                  {
-                    "answer_start": 797,
-                    "text": "từ tháng 12 đến tháng 2 năm sau"
-                  }
-                ]
-              },
-              {
-                "question": "Nếu đi du lịch vào mùa đông ở Sa Pa , du khách có thể nhìn ngắm gì ?",
-                "id": "5480d97f-846a-4e73-b6a4-b8542bdb2d59",
-                "answers": [
-                  {
-                    "answer_start": 830,
-                    "text": "nếu may mắn bạn có thể săn tuyết, băng giá trên những đỉnh núi."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Di chuyển: Bạn có thể đặt xe limousine Hà Nội - Sa Pa hoặc xe khách từ bến Mỹ Đình với giá 230.000 - 350.000 đồng một người, tùy hạng ghế. Thời gian di chuyển khoảng 5 - 6 tiếng.Nếu đi tàu hỏa chạy, bạn chọn chuyến Hà Nội - Lào Cai, sau khoảng 7 - 9 tiếng di chuyển phải đón tiếp xe bus hoặc bắt taxi lên trung tâm Sa Pa. Giá vé tàu từ 160.000 đến 800.000 đồng tùy hạng ghế và loại tàu.Nếu tự lái ôtô, bạn đi cao tốc Nội Bài - Lào Cai, tiếp đó rẽ sang đường 4D để lên Sa Pa. Đường dễ đi, nhưng bạn cần chú ý quan sát biển báo, chạy đúng tốc độ. Vào những dịp trời mưa lạnh, nhiều sương mù và đường trơn, bạn nên kiểm tra kỹ lốp xe, hệ thống phanh, đèn... trước khi khởi hành. Thời gian chạy xe khoảng 5 - 6 tiếng. Hãy khởi hành từ Hà Nội muộn nhất khoảng 12h30, để khi đến đèo lên Sa Pa, trời không quá tối.Ở Sa Pa, bạn có thể thuê xe máy để di chuyển tự do hơn. Tuy nhiên đường Sa Pa nhiều đèo dốc, hãy nhớ kiểm tra kỹ xe và hạn chế thuê xe ga. Giá thuê xe 100.000 - 200.000 đồng một ngày",
-            "qas": [
-              {
-                "question": "Bạn có thể di chuyển từ Hà Nội - Sa Pa bằng xe khách hay không ?",
-                "id": "f55dee49-b396-442a-86f1-f2da29d62470",
-                "answers": [
-                  {
-                    "answer_start": -1,
-                    "text": "Có thể "
-                  }
-                ]
-              },
-              {
-                "question": "Giá vé xe khách từ Mỹ Đình đến Sa Pa là bao nhiêu ?",
-                "id": "6b769dfb-ab9e-42d5-8e01-e1c447271824",
-                "answers": [
-                  {
-                    "answer_start": 87,
-                    "text": "giá 230.000 - 350.000 đồng một người, tùy hạng ghế"
-                  }
-                ]
-              },
-              {
-                "question": "Ngoài xe khách thì bạn có thể chọn loại xe nào ?",
-                "id": "d046fe95-0ac6-4d6b-b739-c70dfce85f5a",
-                "answers": [
-                  {
-                    "answer_start": 11,
-                    "text": "Bạn có thể đặt xe limousine"
-                  }
-                ]
-              },
-              {
-                "question": "Thời gian di chuyển khi đi xe khách hoặc xe limousine là bao lâu ?",
-                "id": "3a4b191e-ad1a-4d41-819b-5cc66e3508af",
-                "answers": [
-                  {
-                    "answer_start": 159,
-                    "text": "khoảng 5 - 6 tiếng"
-                  }
-                ]
-              },
-              {
-                "question": "Có thể đi tàu hỏa từ Hà Nội đến Sa Pa hay không ?",
-                "id": "d7c2b515-4eb0-4b7a-b94a-200267627f3c",
-                "answers": [
-                  {
-                    "answer_start": -1,
-                    "text": "Có thể "
-                  }
-                ]
-              },
-              {
-                "question": "Đi tàu hỏa đến Sa Pa thì di chuyển như thế  nào ?",
-                "id": "705d2ccc-2cb3-4095-b91d-30ebe3984d5c",
-                "answers": [
-                  {
-                    "answer_start": 199,
-                    "text": "bạn chọn chuyến Hà Nội - Lào Cai, sau khoảng 7 - 9 tiếng di chuyển phải đón tiếp xe bus hoặc bắt taxi lên trung tâm Sa Pa"
-                  }
-                ]
-              },
-              {
-                "question": "Giá vé tàu hỏa là bao nhiêu ?",
-                "id": "93048643-d486-4c40-93d5-5506f5b358f7",
-                "answers": [
-                  {
-                    "answer_start": 333,
-                    "text": "từ 160.000 đến 800.000 đồng tùy hạng ghế và loại tàu"
-                  }
-                ]
-              },
-              {
-                "question": "Bạn có thể tự lái ô tô đến Sa Pa hay không ?",
-                "id": "b5e8ebfb-0196-49ce-b3fb-2e460f92bc61",
-                "answers": [
-                  {
-                    "answer_start": 15,
-                    "text": "có thể "
-                  }
-                ]
-              },
-              {
-                "question": "Thời gian đi ô tô từ Hà Nội đến Sa Pa là bao lâu ?",
-                "id": "035419de-7a64-499c-b32f-c93f270323a5",
-                "answers": [
-                  {
-                    "answer_start": 159,
-                    "text": "khoảng 5 - 6 tiếng"
-                  }
-                ]
-              },
-              {
-                "question": "Nếu đi ô tô từ Hà Nội đến Sa Pa thì nên đi như thế nào ?",
-                "id": "4b98493b-8a83-4f1e-8c40-85d68ae0a3ad",
-                "answers": [
-                  {
-                    "answer_start": 406,
-                    "text": "đi cao tốc Nội Bài - Lào Cai, tiếp đó rẽ sang đường 4D để lên Sa Pa"
-                  }
-                ]
-              },
-              {
-                "question": "Đường đi ở cao tốc Nội Bài - Lào Cai như thế nào ?",
-                "id": "bd146fac-9634-4dd6-87fe-d438f51c013e",
-                "answers": [
-                  {
-                    "answer_start": 475,
-                    "text": "Đường dễ đi, nhưng bạn cần chú ý quan sát biển báo, chạy đúng tốc độ"
-                  }
-                ]
-              },
-              {
-                "question": "Nên lưu ý điều gì khi đi ô tô từ Hà Nội đến Sa Pa ?",
-                "id": "0a65cf38-b36f-461a-bc32-a41876e231d0",
-                "answers": [
-                  {
-                    "answer_start": 545,
-                    "text": "Vào những dịp trời mưa lạnh, nhiều sương mù và đường trơn, bạn nên kiểm tra kỹ lốp xe, hệ thống phanh, đèn... trước khi khởi hành."
-                  }
-                ]
-              },
-              {
-                "question": "Nếu đi ô tô nên khởi hành muộn nhất lúc nào ?",
-                "id": "b6513d31-931c-4d4b-9ad7-a95beabcb780",
-                "answers": [
-                  {
-                    "answer_start": 748,
-                    "text": "khoảng 12h30"
-                  }
-                ]
-              },
-              {
-                "question": "Vì sao nên khởi hành muộn nhất lúc 12h30 ?",
-                "id": "9c6ac735-5cf0-47ac-9a89-dda1152d3f1a",
-                "answers": [
-                  {
-                    "answer_start": 762,
-                    "text": "để khi đến đèo lên Sa Pa, trời không quá tối"
-                  }
-                ]
-              },
-              {
-                "question": "Bạn có thể thuê xe máy ở Sa Pa không ?",
-                "id": "8526fb61-02cd-4c6c-bfac-f0b8067f4abb",
-                "answers": [
-                  {
-                    "answer_start": -1,
-                    "text": "Có thể "
-                  }
-                ]
-              },
-              {
-                "question": "Giá thuê xe máy ở Sa Pa là bao nhiêu ?",
-                "id": "5177d38a-1093-4c5c-af17-e56639e59896",
-                "answers": [
-                  {
-                    "answer_start": 946,
-                    "text": "Giá thuê xe 100.000 - 200.000 đồng một ngày"
-                  }
-                ]
-              },
-              {
-                "question": "Bạn nên lưu ý gì khi thuê xe máy ở Sa Pa ?",
-                "id": "2d50fcd7-7139-43ca-90d6-36de16527029",
-                "answers": [
-                  {
-                    "answer_start": 873,
-                    "text": "đường Sa Pa nhiều đèo dốc, hãy nhớ kiểm tra kỹ xe và hạn chế thuê xe ga"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Khách sạn, homestay: Sa Pa có đủ loại hình lưu trú cho bạn chọn từ nhà nghỉ, homestay ở bản, hostel, khách sạn giá rẻ, cho tới các khách sạn 4-5 sao, resort cao cấp nằm biệt lập. Resort ở Sa Pa có những nơi đáng chú ý là Topas Ecolodge, Sapa Jade Hill, Hôtel de la Coupole - MGallery, Silk Path Grand...Nếu chọn homestay, hostel hãy tìm tới các bản như Cát Cát, Lao Chải, Tả Van để được tận hưởng không gian thanh bình của núi rừng Tây Bắc. Giá phòng dorm từ 100.000 đồng một người, giá phòng đôi dạng bungalow từ 500.000 đồng.Một số homestay được yêu thích là Eco Palms House, Heaven Sapa, Viettrekking, Phơri's House, Sapa Heavenly, Rock Garden, Coóng, Vườn mây, Mộng...",
-            "qas": [
-              {
-                "question": "Có những loại hình lưu trú nào ở Sa Pa ?",
-                "id": "957aeb27-9155-496b-a0d2-b74604f05cbf",
-                "answers": [
-                  {
-                    "answer_start": 67,
-                    "text": "nhà nghỉ, homestay ở bản, hostel, khách sạn giá rẻ, cho tới các khách sạn 4-5 sao, resort cao cấp nằm biệt lập"
-                  }
-                ]
-              },
-              {
-                "question": "Resort đáng chú ý ở Sa Pa là những chỗ nào ? ",
-                "id": "3e26b3a2-f434-4ae0-9bd6-08ad69caf4f3",
-                "answers": [
-                  {
-                    "answer_start": 221,
-                    "text": "Topas Ecolodge, Sapa Jade Hill, Hôtel de la Coupole - MGallery, Silk Path Grand..."
-                  }
-                ]
-              },
-              {
-                "question": "Nếu chọn homestay, hostel thì nên tìm đến các bản nào ?",
-                "id": "418f43a7-11b4-4308-a3bf-68d92f09d265",
-                "answers": [
-                  {
-                    "answer_start": 353,
-                    "text": "Cát Cát, Lao Chải, Tả Van để được tận hưởng không gian thanh bình của núi rừng Tây Bắc."
-                  }
-                ]
-              },
-              {
-                "question": "Giá phòng dorm là bao nhiêu ?",
-                "id": "e4184e30-20d0-4069-a0ad-26091a2c49cb",
-                "answers": [
-                  {
-                    "answer_start": 456,
-                    "text": "từ 100.000 đồng một người"
-                  }
-                ]
-              },
-              {
-                "question": "Giá phòng đôi dạng bungalow là bao nhiêu ?",
-                "id": "9d797e58-3a2e-4382-9eca-647c3fe7a788",
-                "answers": [
-                  {
-                    "answer_start": 511,
-                    "text": "từ 500.000 đồng"
-                  }
-                ]
-              },
-              {
-                "question": "Một vài homestay được yêu thích là gì ?",
-                "id": "86060d1b-777e-4e4a-b063-ddee0de4c45f",
-                "answers": [
-                  {
-                    "answer_start": 558,
-                    "text": "là Eco Palms House, Heaven Sapa, Viettrekking, Phơri's House, Sapa Heavenly, Rock Garden, Coóng, Vườn mây, Mộng..."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Chơi gì ở sapa? Bạn có thể dành khoảng 3 ngày 2 đêm để khám phá những điểm đến nổi tiếng tại Sa Pa. Núi Hàm Rồng Với phong cảnh thần tiên và mờ ảo, núi Hàm Rồng đông đảo du khách. Chỗ thấp nhất của núi là 1.450m, và đỉnh cao nhất hơn 1.800m. Từ trên đỉnh núi, bạn có thể phóng tầm mắt ngắm nhìn hầu hết các điểm du lịch nổi tiếng của thị trấn Sa Pa như thung lũng Mường Hoa, bản Tả Van, bản Cát Cát...Núi Hàm Rồng thích hợp để tổ chức một buổi leo núi dã ngoại, kết hợp ăn uống và mua sắm, ngắm cảnh vì trên đường lên núi có vô số hàng quán cùng với các vườn hoa đẹp. Giá tham quan khu du lịch núi Hàm Rồng là 70.000 đồng với người lớn và 30.000 đồng với trẻ em.",
-            "qas": [
-              {
-                "question": "Nên dành khoảng thời gian thế nào để khám phá những điểm nổi tiếng ở Sa Pa",
-                "id": "4ea9e595-080c-4339-898c-dbdca623af16",
-                "answers": [
-                  {
-                    "answer_start": 32,
-                    "text": "khoảng 3 ngày 2 đêm"
-                  }
-                ]
-              },
-              {
-                "question": "Núi Hàm Rồng có phong cảnh như thế nào ?",
-                "id": "2390146e-b06b-4c40-a0b8-1ea4a35ea089",
-                "answers": [
-                  {
-                    "answer_start": 100,
-                    "text": "Núi Hàm Rồng Với phong cảnh thần tiên và mờ ảo, núi Hàm Rồng đông đảo du khách"
-                  }
-                ]
-              },
-              {
-                "question": "Chỗ thấp nhất của núi Hàm Rồng cao bao nhiêu ?",
-                "id": "c8d79373-af90-4f53-98c9-546266dc8e40",
-                "answers": [
-                  {
-                    "answer_start": 205,
-                    "text": "1.450m"
-                  }
-                ]
-              },
-              {
-                "question": "Đỉnh cao nhất của núi Hàm Rồng cao bao nhiêu ?",
-                "id": "c681286c-159c-42c4-a7d0-ff180ff5cf7c",
-                "answers": [
-                  {
-                    "answer_start": 230,
-                    "text": "hơn 1.800m"
-                  }
-                ]
-              },
-              {
-                "question": "Trên đỉnh núi Hàm Rồng , du khách có thể ngắm gì ?",
-                "id": "9c80184a-8850-486d-9d03-99ade46959f1",
-                "answers": [
-                  {
-                    "answer_start": 242,
-                    "text": "Từ trên đỉnh núi, bạn có thể phóng tầm mắt ngắm nhìn hầu hết các điểm du lịch nổi tiếng của thị trấn Sa Pa như thung lũng Mường Hoa, bản Tả Van, bản Cát Cát..."
-                  }
-                ]
-              },
-              {
-                "question": "Núi Hàm Rồng thích hợp để du lịch như thế nào ?",
-                "id": "48c738da-a854-4e10-9956-087e46e0787d",
-                "answers": [
-                  {
-                    "answer_start": 401,
-                    "text": "Núi Hàm Rồng thích hợp để tổ chức một buổi leo núi dã ngoại, kết hợp ăn uống và mua sắm, ngắm cảnh vì trên đường lên núi có vô số hàng quán cùng với các vườn hoa đẹp."
-                  }
-                ]
-              },
-              {
-                "question": "Giá vé tham quan khu du lịch núi Hàm Rồng cho người lớn là bao nhiêu ?",
-                "id": "70d6873c-3470-4d94-a883-f30190a875f0",
-                "answers": [
-                  {
-                    "answer_start": 610,
-                    "text": "70.000 đồng "
-                  }
-                ]
-              },
-              {
-                "question": "Giá vé tham quan khu du lịch núi Hàm Rồng cho trẻ em là bao nhiêu ?",
-                "id": "92fd6989-6839-48d1-b6f7-1dcfab382881",
-                "answers": [
-                  {
-                    "answer_start": 639,
-                    "text": "30.000 đồng"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Nhà thờ đá Sa Pa: Sau khi đi núi Hàm Rồng, bạn trở về trung tâm thị trấn cách đó không xa để ghé vào nhà thờ Đá Sa Pa. Đây là công trình biểu tượng của phố núi được khởi công năm 1895. Nhà thờ được xây theo hình thập giá mang phong cách Gothic, thể hiện ở mái nhà, tháp chuông, vòm cuốn... đều là hình chóp tạo nên nét bay bổng thanh thoát cho công trình.",
-            "qas": [
-              {
-                "question": "Sau khi đi núi Hàm Rồng, bạn nên ghé đâu ?",
-                "id": "42d9425b-2223-4630-9179-4884f5003723",
-                "answers": [
-                  {
-                    "answer_start": 18,
-                    "text": "Sau khi đi núi Hàm Rồng, bạn trở về trung tâm thị trấn cách đó không xa để ghé vào nhà thờ Đá Sa Pa"
-                  }
-                ]
-              },
-              {
-                "question": "Nhà thờ đá Sa Pa được xem là của phố núi ?",
-                "id": "cad8dad9-4f6a-415a-b9bf-d34108f74ad9",
-                "answers": [
-                  {
-                    "answer_start": 123,
-                    "text": "là công trình biểu tượng của phố núi "
-                  }
-                ]
-              },
-              {
-                "question": "Nhà thờ đá Sa Pa được khởi công năm nào ?",
-                "id": "6ba9321b-4770-47e6-bdf5-de9161964b14",
-                "answers": [
-                  {
-                    "answer_start": 175,
-                    "text": "năm 1895"
-                  }
-                ]
-              },
-              {
-                "question": "Nhà thờ đá Sa Pa được xây dựng như thế nào ?",
-                "id": "02a766e0-3bad-4b10-aa3e-47d5565ac42e",
-                "answers": [
-                  {
-                    "answer_start": 185,
-                    "text": "Nhà thờ được xây theo hình thập giá mang phong cách Gothic, thể hiện ở mái nhà, tháp chuông, vòm cuốn... đều là hình chóp tạo nên nét bay bổng thanh thoát cho công trình."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Bản Cát Cát nằm cách trung tâm Sa Pa 2 km nên bạn có thể chọn trekking hoặc xe máy đều được. Đây là một bản làng người Mông yên bình, còn bảo tồn nhiều phong tục và các nghề thủ công truyền thống như dệt vải, chạm trổ bạc, chế tác trang sức...Con đường đến bản khá đẹp, bạn sẽ đi qua những đoạn đường cua tay áo uốn lượn, hai bên là các thửa ruộng bậc thang lấp ló các mái nhà dân tộc. Đi qua cây cầu Si là tới trung tâm bản Cát Cát, nơi hội tụ của ba dòng suối: suối Tiên Sa, suối Vàng và suối Bạc. Tham quan bản, ngoài tìm hiểu đời sống người Mông, bạn còn có cơ hội mua các sản phẩm thủ công làm quà, thưởng thức những sản vật địa phương. Vé vào thăm bản Cát Cát là 50.000 đồng một người.",
-            "qas": [
-              {
-                "question": "Bản Cát Cát cách trung tâm Sa Pa bao xa ?",
-                "id": "472d6dd0-2222-4d2e-805b-a83069eed203",
-                "answers": [
-                  {
-                    "answer_start": 37,
-                    "text": "2 km "
-                  }
-                ]
-              },
-              {
-                "question": "Bạn có thể chọn đi đến bản Cát Cát bằng gì ?",
-                "id": "303dee95-1675-4f29-8738-9e71e75ec26d",
-                "answers": [
-                  {
-                    "answer_start": 46,
-                    "text": "bạn có thể chọn trekking hoặc xe máy đều được"
-                  }
-                ]
-              },
-              {
-                "question": "Bản Cát Cát là bản làng của người dân tộc nào ?",
-                "id": "5f94c3cf-e442-4693-bc15-758375e39ea2",
-                "answers": [
-                  {
-                    "answer_start": 113,
-                    "text": "người Mông"
-                  }
-                ]
-              },
-              {
-                "question": "Bản Cát Cát còn bảo tồn nhiều phong tục gì ?",
-                "id": "f3dfe66a-0321-4378-9b13-712913e828f5",
-                "answers": [
-                  {
-                    "answer_start": 146,
-                    "text": "nhiều phong tục và các nghề thủ công truyền thống như dệt vải, chạm trổ bạc, chế tác trang sức..."
-                  }
-                ]
-              },
-              {
-                "question": "Con đường đến bản Cát Cát như thế nào ?",
-                "id": "5c5e7e24-15b5-4d9d-addf-606f3919a1bc",
-                "answers": [
-                  {
-                    "answer_start": 243,
-                    "text": "Con đường đến bản khá đẹp, bạn sẽ đi qua những đoạn đường cua tay áo uốn lượn, hai bên là các thửa ruộng bậc thang lấp ló các mái nhà dân tộc."
-                  }
-                ]
-              },
-              {
-                "question": "Trước khi vào bản thì đi qua cây cầu gì ?",
-                "id": "b4c6b0af-59d1-498a-9343-cb9b3061bdbd",
-                "answers": [
-                  {
-                    "answer_start": 393,
-                    "text": "cây cầu Si"
-                  }
-                ]
-              },
-              {
-                "question": "Tên 3 dòng suối ở bản Cát Cát là gì ?",
-                "id": "cbedc67b-d3b7-488a-bc75-183df86b917b",
-                "answers": [
-                  {
-                    "answer_start": 463,
-                    "text": "suối Tiên Sa, suối Vàng và suối Bạc"
-                  }
-                ]
-              },
-              {
-                "question": "Khi tham quan bản, bạn có thể trải nghiệm gì ?",
-                "id": "23a8d7c3-48f1-4b98-a64f-fc33d4907db7",
-                "answers": [
-                  {
-                    "answer_start": 515,
-                    "text": "ngoài tìm hiểu đời sống người Mông, bạn còn có cơ hội mua các sản phẩm thủ công làm quà, thưởng thức những sản vật địa phương"
-                  }
-                ]
-              },
-              {
-                "question": "Vé vào thăm bản Cát Cát là bao nhiêu ?",
-                "id": "1874bb94-c32f-4116-9c84-89cac4b2d6c2",
-                "answers": [
-                  {
-                    "answer_start": 669,
-                    "text": "50.000 đồng một người."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Lao Chải - Tả Van: Từ thị trấn bạn đi theo con đường dài 10 km tới Tả Van bằng xe máy, taxi hoặc trekking. Đường vào Lao Chải - Tả Van nhỏ hẹp, hai bên phủ một màu xanh mát của ruộng bậc thang lúa và ngô. Tuy không còn hoang sơ, hẻo lánh, Lao Chải - Tả Van vẫn là một bản làng yên bình với nhiều dân tộc cư trú như Mông, Dao, Giáy...Ấn tượng nhất ở đây ngoài đời sống dân tộc địa phương còn là những thửa ruộng bậc thang trải rộng khắp các sườn đồi núi. Cuối hè là thời điểm lúa chín nhuộm vàng cả một vùng sơn cước. Vì thế nếu bạn có nhiều thời gian hãy dành một ngày ở đây để trải nghiệm nếp sống bản địa. Vé vào bản 70.000 đồng một người",
-            "qas": [
-              {
-                "question": "Bản Lao Chải - Tả Van cách thị trấn bao xa ?",
-                "id": "b6a818e2-a352-438d-989e-699de74f625f",
-                "answers": [
-                  {
-                    "answer_start": 57,
-                    "text": "10 km"
-                  }
-                ]
-              },
-              {
-                "question": "Bạn có thể đi đến bản Lao Chải - Tả Van bằng gì ?",
-                "id": "d99a72d9-2fb8-4d82-bed5-f02759dd1d1f",
-                "answers": [
-                  {
-                    "answer_start": 74,
-                    "text": "bằng xe máy, taxi hoặc trekking"
-                  }
-                ]
-              },
-              {
-                "question": "Đường vào bản Lao Chải - Tả Van như thế nào ?",
-                "id": "2cffde9e-3c99-4fef-8112-cd3cd3e7c58c",
-                "answers": [
-                  {
-                    "answer_start": 135,
-                    "text": "nhỏ hẹp, hai bên phủ một màu xanh mát của ruộng bậc thang lúa và ngô"
-                  }
-                ]
-              },
-              {
-                "question": "Tại bản Lao Chải - Tả Van có dân tộc nào sinh sống ?",
-                "id": "f5a091fd-e9ce-4992-a11f-fd28229bd7f6",
-                "answers": [
-                  {
-                    "answer_start": 315,
-                    "text": "Mông, Dao, Giáy..."
-                  }
-                ]
-              },
-              {
-                "question": "Ấn tưởng ở Lao Chải - Tả Van là gì ?",
-                "id": "a8c11da5-4fdc-4f65-aea4-4b3f9b23822b",
-                "answers": [
-                  {
-                    "answer_start": 333,
-                    "text": "Ấn tượng nhất ở đây ngoài đời sống dân tộc địa phương còn là những thửa ruộng bậc thang trải rộng khắp các sườn đồi núi. "
-                  }
-                ]
-              },
-              {
-                "question": "Giá vé vào Lao Chải - Tả Van bao nhiêu ?",
-                "id": "59186402-d470-4c79-9704-f4278bfec27d",
-                "answers": [
-                  {
-                    "answer_start": 619,
-                    "text": "70.000 đồng một người"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Đỉnh Fansipan: Để tới đỉnh Fansipan mà không mất quá nhiều sức lực, hãy đi cáp treo và tàu leo núi. Buổi sáng bạn xếp hàng mua vé tại ga tàu hỏa leo núi ở đối diện quảng trường thị trấn Sa Pa. Giá vé cáp treo 715.000 đồng một người lớn, 525.000 đồng một trẻ em, vé tàu hỏa leo núi 99.000 đồng một người.Để tới đỉnh Fansipan bạn đi theo lộ trình tàu hỏa leo núi rồi cáp treo, sau đó một lượt đi tàu hỏa nữa hoặc đi bộ leo 600 bậc thang. Mỗi lượt tàu kéo dài khoảng 6-7 phút, mỗi lượt cáp treo chừng 30 phút. Những người thích đi bộ có thể thong thả leo bậc thang, tham quan quần thể tâm linh trên Fansipan có Kim Sơn Bảo Thắng Tự, tháp 11 tầng, tượng đồng Quan Thế Âm Bồ Tát, đại tượng phật A Di Đà bằng đồng lớn nhất Việt Nam...Ngoài ra, tại trạm dừng của cáp treo và tàu hỏa leo núi đều có các gian hàng bán đồ lưu niệm, nhà hàng... phục vụ nhu cầu mua sắm, ăn uống của du khách. Lưu ý: nên đi giày đế thấp, mang theo áo khoác, áo mưa, hoặc ô đề phòng tiết trời trên đỉnh núi lạnh đột ngột và nhiều sương mây.",
-            "qas": [
-              {
-                "question": "Nếu muốn đi đỉnh Fansipan mà không mất quá nhiều sức thì nên đi như thế nào ?",
-                "id": "3ac317f1-511b-4dce-8ad5-2e00b4e0b737",
-                "answers": [
-                  {
-                    "answer_start": 68,
-                    "text": "hãy đi cáp treo và tàu leo núi."
-                  }
-                ]
-              },
-              {
-                "question": "Nếu đi đỉnh Fansipan thì buổi sáng nên làm gì ?",
-                "id": "13fd3354-8329-4f49-a406-7223dad44819",
-                "answers": [
-                  {
-                    "answer_start": 100,
-                    "text": "Buổi sáng bạn xếp hàng mua vé tại ga tàu hỏa leo núi ở đối diện quảng trường thị trấn Sa Pa. "
-                  }
-                ]
-              },
-              {
-                "question": "Giá vé cáp treo cho người lớn là bao nhiêu ?",
-                "id": "c902ce59-2e99-44e8-b67d-0840df09a03d",
-                "answers": [
-                  {
-                    "answer_start": 209,
-                    "text": "715.000 đồng"
-                  }
-                ]
-              },
-              {
-                "question": "Giá vé cáp treo cho trẻ em là bao nhiêu ?",
-                "id": "e9293c9e-7dba-4a5d-9310-2e6f2ab5a447",
-                "answers": [
-                  {
-                    "answer_start": 237,
-                    "text": "525.000 đồng"
-                  }
-                ]
-              },
-              {
-                "question": "Vé tàu hỏa leo núi là bao nhiêu ?",
-                "id": "67fe19dd-8293-4d94-a52e-b8ed18266251",
-                "answers": [
-                  {
-                    "answer_start": 281,
-                    "text": "99.000 đồng"
-                  }
-                ]
-              },
-              {
-                "question": "Lộ trình đến đỉnh Fansipan là gì ?",
-                "id": "c56a2711-26c2-4d75-a859-39325c40ae9a",
-                "answers": [
-                  {
-                    "answer_start": 335,
-                    "text": " lộ trình tàu hỏa leo núi rồi cáp treo, sau đó một lượt đi tàu hỏa nữa hoặc đi bộ leo 600 bậc thang"
-                  }
-                ]
-              },
-              {
-                "question": "Mỗi lượt tàu kéo dài bao lâu ?",
-                "id": "e4f9f8de-5793-4c9b-b279-3e4036d984b3",
-                "answers": [
-                  {
-                    "answer_start": 457,
-                    "text": "khoảng 6-7 phút"
-                  }
-                ]
-              },
-              {
-                "question": "Mỗi lượt cáp treo kéo dài bao lâu ?",
-                "id": "63a75bf3-4b3e-412d-bdea-8e9ca4b988cf",
-                "answers": [
-                  {
-                    "answer_start": 492,
-                    "text": "chừng 30 phút"
-                  }
-                ]
-              },
-              {
-                "question": "Những người thích đi bộ có thể tham quan gì ?",
-                "id": "ffc2c68d-ef5b-4ae5-84ea-a891d9e2fe3d",
-                "answers": [
-                  {
-                    "answer_start": 507,
-                    "text": "Những người thích đi bộ có thể thong thả leo bậc thang, tham quan quần thể tâm linh trên Fansipan có Kim Sơn Bảo Thắng Tự, tháp 11 tầng, tượng đồng Quan Thế Âm Bồ Tát, đại tượng phật A Di Đà bằng đồng lớn nhất Việt Nam..."
-                  }
-                ]
-              },
-              {
-                "question": "Tại trạm dừng của cáp treo và tàu hỏa leo núi có gì ?",
-                "id": "c26c010c-4849-458c-bf0f-f2403f6ae82d",
-                "answers": [
-                  {
-                    "answer_start": 784,
-                    "text": "đều có các gian hàng bán đồ lưu niệm, nhà hàng... phục vụ nhu cầu mua sắm, ăn uống của du khách"
-                  }
-                ]
-              },
-              {
-                "question": "Đi Sa Pa nên lưu ý gì ?",
-                "id": "0ccb4b54-5e7e-4d17-a116-fea87a0e5a40",
-                "answers": [
-                  {
-                    "answer_start": 888,
-                    "text": "nên đi giày đế thấp, mang theo áo khoác, áo mưa, hoặc ô đề phòng tiết trời trên đỉnh núi lạnh đột ngột và nhiều sương mây."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Swing Sa Pa: Tổ hợp check-in này tọa lạc ở số 87 Nguyễn Chí Thanh, gần trung tâm thị trấn, cách nhà thờ Đá hướng cáp treo khoảng 2 km.Với nhiều công trình như tượng chàng và nàng, bàn tay đá khổng lồ, tượng Phật, nấc thang lên thiên đường, xích đu... nơi này trở thành địa điểm có vô vàn góc chụp tạo nên những bức hình độc đáo.Lưu ý, trước khi đi nên chuẩn bị trang phục chụp hình, hoặc bạn phải thuê tại chỗ với giá 50.000 đồng một bộ, nên sạc đầy pin máy ảnh, điện thoại. Nếu du lịch theo nhóm, bạn có thể tổ chức cắm trại hoặc tiệc dã ngoại nhỏ ngay ở đây. Giá vé vào cửa 80.000 đồng một người.",
-            "qas": [
-              {
-                "question": "Swing Sa Pa tọa lạc ở đâu ?",
-                "id": "fb57d495-e85e-472b-988e-fe258bd73dcf",
-                "answers": [
-                  {
-                    "answer_start": 43,
-                    "text": "số 87 Nguyễn Chí Thanh, gần trung tâm thị trấn"
-                  }
-                ]
-              },
-              {
-                "question": "Swing Sa Pa cách nhà thờ Đá bao xa ?",
-                "id": "62778082-4d2b-4a60-98f7-612ae9677dda",
-                "answers": [
-                  {
-                    "answer_start": 122,
-                    "text": "khoảng 2 km"
-                  }
-                ]
-              },
-              {
-                "question": "Swing Sa Pa gồm công trình kiến trúc nào ?",
-                "id": "e8beb4ae-7355-4185-b614-bcb7bc9eb475",
-                "answers": [
-                  {
-                    "answer_start": 159,
-                    "text": "tượng chàng và nàng, bàn tay đá khổng lồ, tượng Phật, nấc thang lên thiên đường, xích đu... "
-                  }
-                ]
-              },
-              {
-                "question": "Swing Sa Pa được xem là địa điểm như thế nào ?",
-                "id": "9e75fab3-6023-4b87-9ba0-fc9afa52bf52",
-                "answers": [
-                  {
-                    "answer_start": 269,
-                    "text": "địa điểm có vô vàn góc chụp tạo nên những bức hình độc đáo"
-                  }
-                ]
-              },
-              {
-                "question": "Ở Swing Sa Pa có cho thuê trang phục giá bao nhiêu ?",
-                "id": "2b9d0750-135c-4c92-9541-447dbc767ca1",
-                "answers": [
-                  {
-                    "answer_start": 418,
-                    "text": "50.000 đồng một bộ"
-                  }
-                ]
-              },
-              {
-                "question": "Lưu ý khi tham quan Swing Sa Pa là gì ?",
-                "id": "45682ad9-026a-445e-934c-0d4edb92070c",
-                "answers": [
-                  {
-                    "answer_start": -1,
-                    "text": "nên sạc đầy pin máy ảnh, điện thoại , chuẩn bị trang phục khi chụp hình"
-                  }
-                ]
-              },
-              {
-                "question": "Nếu đi du lịch Swing Sa Pa theo nhóm thì nên làm gì ?",
-                "id": "6288f364-5137-4749-9f91-408bc811c614",
-                "answers": [
-                  {
-                    "answer_start": 498,
-                    "text": "bạn có thể tổ chức cắm trại hoặc tiệc dã ngoại nhỏ ngay ở đây"
-                  }
-                ]
-              },
-              {
-                "question": "Giá vé vào cửa Swing Sa Pa là bao nhiêu ?",
-                "id": "7e2a8d85-7f4b-41c6-ae39-b2d880b36bbd",
-                "answers": [
-                  {
-                    "answer_start": 576,
-                    "text": "80.000 đồng một người."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Hồ Séo Mý Tỷ: Để tới được hồ Séo Mý Tỷ, thuộc xã Tả Van, bạn phải băng qua con đường dài 20 km nhiều sỏi đá lớn nhỏ nên khá thử thách với các tay lái yếu. Hồ được tạo nên do ngăn đập xây dựng thủy điện Séo Mý Tỷ và cũng là hồ nhân tạo cao nhất Việt Nam. Nhìn từ trên cao, hồ như dải lụa bên sườn dãy Hoàng Liên Sơn. Tới đây, bạn có thể xin phép những người đi đánh cá ngồi cùng thuyền, bè để ngắm cảnh hồ và tìm hiểu nghề nuôi cá hồi của người dân nơi đây.",
-            "qas": [
-              {
-                "question": "Hồ Séo Mý Tỷ thuộc xã nào ?",
-                "id": "eaf3884a-9ea5-434f-a692-cce210b3282d",
-                "answers": [
-                  {
-                    "answer_start": 46,
-                    "text": "xã Tả Van"
-                  }
-                ]
-              },
-              {
-                "question": "Đường đi từ thị trấn Sa Pa đến Hồ Séo Mý Tỷ dài bao xa ?",
-                "id": "2b3d44e4-ac0e-4d5f-9687-43306a7134a3",
-                "answers": [
-                  {
-                    "answer_start": 89,
-                    "text": "20 km"
-                  }
-                ]
-              },
-              {
-                "question": "Vì sao đường đi đến Hồ Séo Mý Tỷ thách thức người tay lái yếu ?",
-                "id": "fb8afebf-e201-497d-948e-d3a70b4e4b6d",
-                "answers": [
-                  {
-                    "answer_start": 79,
-                    "text": "đường dài 20 km nhiều sỏi đá lớn nhỏ"
-                  }
-                ]
-              },
-              {
-                "question": "Hồ Séo Mý Tỷ được tạo nên do đâu ?",
-                "id": "1e7e0822-97cf-4653-87d6-f3c89aeeac1e",
-                "answers": [
-                  {
-                    "answer_start": 171,
-                    "text": "do ngăn đập xây dựng thủy điện Séo Mý Tỷ"
-                  }
-                ]
-              },
-              {
-                "question": "Hồ Séo Mý Tỷ được gọi là hồ gì của Việt Nam ?",
-                "id": "b5f4c718-5479-47eb-a4dd-dc3e94fc7d3a",
-                "answers": [
-                  {
-                    "answer_start": 220,
-                    "text": "là hồ nhân tạo cao nhất Việt Nam."
-                  }
-                ]
-              },
-              {
-                "question": "Nhìn từ trên cao, Hồ Séo Mý Tỷ trông như thế nào ?",
-                "id": "31f31b2a-7ef4-469d-be3b-14acca19a8b4",
-                "answers": [
-                  {
-                    "answer_start": 254,
-                    "text": "Nhìn từ trên cao, hồ như dải lụa bên sườn dãy Hoàng Liên Sơn"
-                  }
-                ]
-              },
-              {
-                "question": "Hồ Séo Mý Tỷ nằm bên cạnh sườn dãy núi nào ?",
-                "id": "2bb98cb2-223f-4756-9314-e7f0b17060b3",
-                "answers": [
-                  {
-                    "answer_start": 296,
-                    "text": "dãy Hoàng Liên Sơn"
-                  }
-                ]
-              },
-              {
-                "question": "Tới Hồ Séo Mý Tỷ có hoạt động gì đặc biệt ?",
-                "id": "42912fe1-5d37-457f-b599-87f825ab38ee",
-                "answers": [
-                  {
-                    "answer_start": 316,
-                    "text": "Tới đây, bạn có thể xin phép những người đi đánh cá ngồi cùng thuyền, bè để ngắm cảnh hồ và tìm hiểu nghề nuôi cá hồi của người dân nơi đây."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Cổng Trời: Từ trung tâm Sa Pa chạy men theo QL 4D khoảng 15 km, tới đoạn cao nhất của đèo Ô Quy Hồ bạn sẽ tới Cổng Trời. Đứng từ đây, bạn có thể ngắm nhìn toàn cảnh thung lũng rộng lớn phía dưới, những thửa ruộng bậc thang xen lẫn các cung đường quanh co uốn lượn. Hiện ở đây có khá nhiều công trình mới được xây lên như nhà hàng, quán cà phê, khách sạn... Cổng Trời thu vé 80.000 đồng một người, kèm một đồ uống.",
-            "qas": [
-              {
-                "question": "Từ trung tâm Sa Pa đến Cổng Trời bao xa ?",
-                "id": "86ee04ec-028b-474e-9937-742ec7143bf3",
-                "answers": [
-                  {
-                    "answer_start": 50,
-                    "text": "khoảng 15 km"
-                  }
-                ]
-              },
-              {
-                "question": "Đi đường nào từ trung tâm Sa Pa tới Cổng Trời ?",
-                "id": "9cc898d9-f403-4c70-a2a1-9483682714f0",
-                "answers": [
-                  {
-                    "answer_start": 30,
-                    "text": "chạy men theo QL 4D"
-                  }
-                ]
-              },
-              {
-                "question": "Đoạn cao nhất trên đường từ Sa Pa đến Cổng Trời là gì ?",
-                "id": "d4d873b6-4ef2-4f8a-a590-26b7de50b854",
-                "answers": [
-                  {
-                    "answer_start": 64,
-                    "text": "tới đoạn cao nhất của đèo Ô Quy Hồ"
-                  }
-                ]
-              },
-              {
-                "question": "Đứng ở Cổng Trời , bạn có thể ngắm nhìn gì ?",
-                "id": "a3f329c9-68c7-4ae4-b0e0-02116b535bf5",
-                "answers": [
-                  {
-                    "answer_start": 134,
-                    "text": "bạn có thể ngắm nhìn toàn cảnh thung lũng rộng lớn phía dưới, những thửa ruộng bậc thang xen lẫn các cung đường quanh co uốn lượn. "
-                  }
-                ]
-              },
-              {
-                "question": "Gần Cổng Trời có các cồng trình mới gì ?",
-                "id": "0e90fae8-5384-4ce6-bf5d-1cca9e563ea2",
-                "answers": [
-                  {
-                    "answer_start": 317,
-                    "text": "như nhà hàng, quán cà phê, khách sạn... "
-                  }
-                ]
-              },
-              {
-                "question": "Vé vào Cổng Trời có giá bao nhiêu tiền ?",
-                "id": "f4e217f6-389f-4e66-b44f-9c71bd6a7ced",
-                "answers": [
-                  {
-                    "answer_start": 374,
-                    "text": "80.000 đồng một người"
-                  }
-                ]
-              },
-              {
-                "question": "Giá vé đã bao gồm vé vào cổng và còn thêm gì nữa ?",
-                "id": "c3956854-9d3e-4afe-97b3-854a41d6e95d",
-                "answers": [
-                  {
-                    "answer_start": 397,
-                    "text": "kèm một đồ uống."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Đèo Ô Quy Hồ: Ô Quy Hồ được mệnh danh là Vua của những cung đèo với một bên là thung lũng sâu, một bên vách núi cheo leo. Ô Quy Hồ kéo dài khoảng 50 km nối liền hai tỉnh Lào Cai - Lai Châu. Gợi ý cho những bạn muốn chụp ảnh đẹp trên đường đèo này là đến vào thời điểm hoàng hôn, khoảng 17 - 17h30. Khi mặt trời dần nấp sau dãy núi, toàn bộ cung đèo được phủ một sắc vàng đẹp mơ màng. Tuy nhiên, thời tiết Sa Pa thay đổi rất nhanh, có thể chỉ 10 phút sau khi nắng và hoàng hôn xuống thì mây đen đã bao phủ.Dọc đường đèo tới các thác Bạc, thác Tình Yêu có nhiều lán hàng bán đặc sản địa phương, đồ ăn, thức uống, cung cấp chỗ ngồi cho khách nghỉ chân. Đi đèo Ô Quy Hồ bạn nên mang theo áo mưa và áo khoác dày, đi xe máy số, nhớ đội mũ bảo hiểm và chú ý quan sát mỗi đoạn cua.",
-            "qas": [
-              {
-                "question": "Đèo Ô Quy Hồ được mệnh danh là gì ?",
-                "id": "5cc2ab84-a637-480e-9941-eaf1cba15f0e",
-                "answers": [
-                  {
-                    "answer_start": 23,
-                    "text": "được mệnh danh là Vua của những cung đèo với một bên là thung lũng sâu, một bên vách núi cheo leo"
-                  }
-                ]
-              },
-              {
-                "question": "Đèo Ô Quy Hồ kéo dài khoảng bao nhiêu km ?",
-                "id": "fde1aeb4-c6d8-430c-85ce-a4061bddba5c",
-                "answers": [
-                  {
-                    "answer_start": 139,
-                    "text": "khoảng 50 km "
-                  }
-                ]
-              },
-              {
-                "question": "Đèo Ô Quy Hồ nối dài 2 tỉnh nào ?",
-                "id": "8c5d6cf7-a470-481d-845d-e2ef72a4db00",
-                "answers": [
-                  {
-                    "answer_start": 170,
-                    "text": "Lào Cai - Lai Châu"
-                  }
-                ]
-              },
-              {
-                "question": "Nếu bạn muốn chụp ảnh ở Đèo Ô Quy Hồ thì nên chọn thời điểm nào ?",
-                "id": "bde95ded-9f80-41f4-a0c6-7687359fd0e9",
-                "answers": [
-                  {
-                    "answer_start": 268,
-                    "text": "hoàng hôn, khoảng 17 - 17h30."
-                  }
-                ]
-              },
-              {
-                "question": "Hoàng hôn ở Đèo Ô Quy Hồ được miêu tả như thế nào ?",
-                "id": "5b88c224-3bda-4c1e-91d3-ba98bd86d266",
-                "answers": [
-                  {
-                    "answer_start": 298,
-                    "text": "Khi mặt trời dần nấp sau dãy núi, toàn bộ cung đèo được phủ một sắc vàng đẹp mơ màng."
-                  }
-                ]
-              },
-              {
-                "question": "Các thác nổi tiếng khi tới Đèo Ô Quy Hồ là gì ?",
-                "id": "283403db-3747-4e67-93d3-a7407a6a6ae9",
-                "answers": [
-                  {
-                    "answer_start": 523,
-                    "text": "các thác Bạc, thác Tình Yêu"
-                  }
-                ]
-              },
-              {
-                "question": "Dọc đường có nhiều lán hàng bán không ?",
-                "id": "63dc55bf-a38f-418d-97e5-700c571e8dff",
-                "answers": [
-                  {
-                    "answer_start": 551,
-                    "text": "có nhiều lán hàng bán đặc sản địa phương, đồ ăn, thức uống, cung cấp chỗ ngồi cho khách nghỉ chân"
-                  }
-                ]
-              },
-              {
-                "question": "Đi Đèo Ô Quy Hồ bạn nên mang theo gì ?",
-                "id": "53c9b3be-26cf-4442-9248-74afb6cd6c8f",
-                "answers": [
-                  {
-                    "answer_start": 670,
-                    "text": "nên mang theo áo mưa và áo khoác dày"
-                  }
-                ]
-              },
-              {
-                "question": "Nếu đi xe máy đến Đèo Ô Quy Hồ thì cần lưu ý gì ?",
-                "id": "713d1558-7c12-403f-9281-17427e87edd5",
-                "answers": [
-                  {
-                    "answer_start": 708,
-                    "text": "đi xe máy số, nhớ đội mũ bảo hiểm và chú ý quan sát mỗi đoạn cua."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Thác Bạc - Thác Tình Yêu: Nằm trên trục đường đèo Ô Quy Hồ, cách đỉnh đèo 3 km, thác Bạc và thác Tình Yêu cũng là điểm dừng chân không thể bỏ qua của nhiều bạn trẻ. Thác Bạc có bậc thang lên đỉnh thác nhưng càng lên sẽ càng lạnh và nước chảy mạnh, cần chú ý tránh trơn trượt. Thác Tình Yêu tuy đường từ cổng vào thác 1,5 km và phải đi bộ nhưng đường đi rừng thơ mộng. Vé vào thác Bạc 20.000 đồng một người, vé thác Tình Yêu 75.000 đồng một người.",
-            "qas": [
-              {
-                "question": "Thác Bạc - Thác Tình Yêu cách đỉnh đèo Ô Quy Hồ bao xa ?",
-                "id": "20df7c6f-d65a-4155-95e3-e910fdad4af2",
-                "answers": [
-                  {
-                    "answer_start": 74,
-                    "text": "3 km"
-                  }
-                ]
-              },
-              {
-                "question": "Thác Bạc có những gì ?",
-                "id": "578423db-48c3-4168-a25b-44b298b38afc",
-                "answers": [
-                  {
-                    "answer_start": 165,
-                    "text": "Thác Bạc có bậc thang lên đỉnh thác nhưng càng lên sẽ càng lạnh và nước chảy mạnh, cần chú ý tránh trơn trượt"
-                  }
-                ]
-              },
-              {
-                "question": "Thác Tình Yêu có đường vào cổng dài bao nhiêu km ?",
-                "id": "25df3b26-5614-43da-9ce2-505c175cce81",
-                "answers": [
-                  {
-                    "answer_start": 317,
-                    "text": "1,5 km"
-                  }
-                ]
-              },
-              {
-                "question": "Đi vào Thác Tình Yêu bằng gì ?",
-                "id": "dafd5bc9-44d5-43dd-93af-3f2f3d7ee0e4",
-                "answers": [
-                  {
-                    "answer_start": 327,
-                    "text": "phải đi bộ"
-                  }
-                ]
-              },
-              {
-                "question": "Vé vào thác Bạc có giá bao nhiêu ?",
-                "id": "92366ca6-d8c8-4b01-9de8-d04f3b2fc5a4",
-                "answers": [
-                  {
-                    "answer_start": 384,
-                    "text": "20.000 đồng một người"
-                  }
-                ]
-              },
-              {
-                "question": "Vé vào thác Tình Yêu có giá bao nhiêu ?",
-                "id": "3776af76-f992-4b05-bdb1-217d85c896c3",
-                "answers": [
-                  {
-                    "answer_start": 424,
-                    "text": "75.000 đồng một người."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Ăn uống: Đến Sa Pa phải ăn đồ nướng, bởi đây là món ăn có mặt khắp nơi và nhiều loại từ các xiên thịt lợn, gà, rau củ cuốn cho tới trứng, ngô, khoai, cơm lam. Giá đồ nướng chỉ từ 20.000 - 100.000 đồng mỗi loại. Ngoài ra, cá hồi, cá tầm nấu lẩu hoặc ăn sống cũng rất được ưa chuộng. Một nồi lẩu giá 300.000 - 600.000 đồng phù hợp cho 3 - 6 người ăn.Những quán ăn đặc sản du khách có thể tham khảo là thắng cố A Quỳnh (đường Thạch Sơn), các món lẩu cá ở Hotpot Center (đường Xuân Viên), phở cốn sủi ông Há (468 Điện Biên Phủ). Với những du khách trẻ, yêu thích món ăn và không gian trẻ trung nên đến với Mị nướng (đường Điện Biên Phủ) chuyên về các món nướng than hay Tiệm gà Túk Túk với sườn cay nướng tảng, gà lắc phô mai... và H'Mong Pizza ở Pi's Boutique.Ở trung tâm thị xã cũng có rất nhiều quán cà phê để du khách lựa chọn. Tuy nhiên nếu bạn muốn tìm một không gian yên tĩnh, có view thung lũng hoặc núi rừng có thể đến với Coóng Cafe (cùng trong homestay Coóng ở đường đi bản Cát Cát), Vietrekking (đường Hoàng Liên), Gem Valley Cafe (bản Cát Cát).",
-            "qas": [
-              {
-                "question": "Đến Sa Pa thì phải ăn món ăn chế biến như nào ?",
-                "id": "d584b9f4-6c24-41b7-a9d6-063e5784196d",
-                "answers": [
-                  {
-                    "answer_start": 19,
-                    "text": "phải ăn đồ nướng"
-                  }
-                ]
-              },
-              {
-                "question": "Vì sao đến Sa Pa nên ăn đồ nướng ?",
-                "id": "d6b50633-d45c-4315-a3c8-fa6ca9126e2d",
-                "answers": [
-                  {
-                    "answer_start": 37,
-                    "text": "bởi đây là món ăn có mặt khắp nơi và nhiều loại từ các xiên thịt lợn, gà, rau củ cuốn cho tới trứng, ngô, khoai, cơm lam."
-                  }
-                ]
-              },
-              {
-                "question": "Giá đồ nướng ở Sa Pa khoảng bao nhiêu ?",
-                "id": "42a746cd-0df9-4a02-a9aa-3cfaf55b5601",
-                "answers": [
-                  {
-                    "answer_start": 172,
-                    "text": "chỉ từ 20.000 - 100.000 đồng mỗi loại"
-                  }
-                ]
-              },
-              {
-                "question": "Ngoài đồ nướng, thì món nào còn rất được du khách ưu chuộng ở Sa Pa ?",
-                "id": "6f9f7e9b-a298-4d24-84c7-f0d301768691",
-                "answers": [
-                  {
-                    "answer_start": 221,
-                    "text": "cá hồi, cá tầm nấu lẩu hoặc ăn sống cũng rất được ưa chuộng"
-                  }
-                ]
-              },
-              {
-                "question": "Một nồi lẩu giá bao nhiêu ở Sa Pa ?",
-                "id": "72371a4f-5669-4873-8874-00842b44010f",
-                "answers": [
-                  {
-                    "answer_start": 298,
-                    "text": "300.000 - 600.000 đồng"
-                  }
-                ]
-              },
-              {
-                "question": "Một nồi lẩu phù hợp cho bao nhiêu người ăn ?",
-                "id": "77979345-b0a7-4d3a-bd36-c817307fedc0",
-                "answers": [
-                  {
-                    "answer_start": 333,
-                    "text": "3 - 6 người ăn"
-                  }
-                ]
-              },
-              {
-                "question": "Một số quán ăn đặc sản ở Sa Pa là gì ?",
-                "id": "4ab151d0-f528-49c4-9e23-5acb5e4b11e8",
-                "answers": [
-                  {
-                    "answer_start": 399,
-                    "text": "thắng cố A Quỳnh (đường Thạch Sơn), các món lẩu cá ở Hotpot Center (đường Xuân Viên), phở cốn sủi ông Há (468 Điện Biên Phủ)"
-                  }
-                ]
-              },
-              {
-                "question": "Với du khách trẻ yêu thích không gian trẻ trung thì nên đến đâu ?",
-                "id": "b2ff23e5-ceda-4eb7-9e85-d9e380b3d914",
-                "answers": [
-                  {
-                    "answer_start": 602,
-                    "text": "Mị nướng (đường Điện Biên Phủ) chuyên về các món nướng than hay Tiệm gà Túk Túk với sườn cay nướng tảng, gà lắc phô mai... và H'Mong Pizza ở Pi's Boutique"
-                  }
-                ]
-              },
-              {
-                "question": "Ở trung tâm thị xã của Sa Pa có nhiều quán gì ?",
-                "id": "accb9ce8-c4bf-4819-bf47-2faad74f1000",
-                "answers": [
-                  {
-                    "answer_start": 757,
-                    "text": "Ở trung tâm thị xã cũng có rất nhiều quán cà phê để du khách lựa chọn."
-                  }
-                ]
-              },
-              {
-                "question": "Nếu muốn tìm quán cà phê có không gian yên tĩnh, view thung lũng ở Sa Pa thì nên đến đâu ?",
-                "id": "e18efa10-06ed-4cfa-9b05-93ef5e84e06d",
-                "answers": [
-                  {
-                    "answer_start": 928,
-                    "text": "Coóng Cafe (cùng trong homestay Coóng ở đường đi bản Cát Cát), Vietrekking (đường Hoàng Liên), Gem Valley Cafe (bản Cát Cát)."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Là một đất nước nhiệt đới, những vùng cao nguyên với khí hậu ôn đới luôn là những địa điểm du lịch “sốt” ở Việt Nam, và Sapa là một trong số đó. Thị trấn sương mù này từ lâu vốn đã được mệnh danh là vùng đất mê hoặc đối với những người yêu thích khung cảnh thiên nhiên hùng vĩ.Tọa lạc trên một sườn núi cao 1.500 – 1.600 mét trên mực nước biển, Sapa là một thị trấn nhỏ của tỉnh Lào Cai, cách trung tâm tỉnh 40 km và cách Hà Nội 376 km. Với vị trí thuận lợi như thế, Sapa sở hữu khí hậu nhiệt đới với bốn mùa đa dạng, và đặc biệt là một trong những nơi hiếm hoi ở Việt Nam có tuyết rơi vào mùa đông.Kết hợp cùng cảnh sắc thiên nhiên hùng vĩ, trữ tình, văn hóa các dân tộc đa dạng, con người chân thành và hiếu khách, Sapa là điểm đến tuyệt vời dù bạn có là một du khách mê khám phá hay đang tìm kiếm một chốn nghỉ dưỡng hoàn hảo",
-            "qas": [
-              {
-                "question": "Sa Pa còn được gọi là gì ?",
-                "id": "2d512758-b459-4d60-93f1-ca832e240399",
-                "answers": [
-                  {
-                    "answer_start": 145,
-                    "text": "Thị trấn sương mù"
-                  }
-                ]
-              },
-              {
-                "question": "Sa Pa được mệnh danh là cùng đất gì ?",
-                "id": "b987de50-340d-444b-9402-1ae60846b23e",
-                "answers": [
-                  {
-                    "answer_start": 181,
-                    "text": "được mệnh danh là vùng đất mê hoặc đối với những người yêu thích khung cảnh thiên nhiên hùng vĩ."
-                  }
-                ]
-              },
-              {
-                "question": "Sa Pa tọa lạc trên sườn núi cao bao nhiêu ?",
-                "id": "eaf1d4b7-9dfd-4b24-b8fb-5ba3d3c6f01a",
-                "answers": [
-                  {
-                    "answer_start": 303,
-                    "text": "cao 1.500 – 1.600 mét trên mực nước biển"
-                  }
-                ]
-              },
-              {
-                "question": "Sa Pa cách trung tâm tỉnh Lào Cai bao xa ?",
-                "id": "6f8a4af1-a151-459f-8fd5-040d77f48e85",
-                "answers": [
-                  {
-                    "answer_start": 408,
-                    "text": "40 km"
-                  }
-                ]
-              },
-              {
-                "question": "Sa Pa cách Hà Nội bao xa ?",
-                "id": "c12df1dc-5942-433b-ba6d-87c92e25b7bc",
-                "answers": [
-                  {
-                    "answer_start": 429,
-                    "text": "376 km"
-                  }
-                ]
-              },
-              {
-                "question": "Sa Pa có khí nhậu như thế nào ?",
-                "id": "4f704a03-4cc8-4934-8c0a-9e8e1278b705",
-                "answers": [
-                  {
-                    "answer_start": 437,
-                    "text": "Với vị trí thuận lợi như thế, Sapa sở hữu khí hậu nhiệt đới với bốn mùa đa dạng"
-                  }
-                ]
-              },
-              {
-                "question": "Sa Pa có tuyết rơi vào mùa đông không ?",
-                "id": "5617dc6d-9a7f-45bc-8f91-616527064c02",
-                "answers": [
-                  {
-                    "answer_start": -1,
-                    "text": "Có. Sa Pa là một trong những nơi hiếm hoi ở Việt Nam có tuyết rơi vào mùa đông"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Những lưu ý cần bỏ túi khi du lịch Sapa tự túc: Sapa luôn đông đúc khách du lịch, đặc biệt là vào các mùa hoa, hoặc cao điểm du lịch mùa đông – xuân. Bạn nên đặt trước khách sạn để tránh tình trạng đội giá, hiếm phòng trong dịp này.Trước khi mua hàng hoặc sử dụng các dịch vụ du lịch, bạn cần hỏi giá trước, và trả giá để tránh bị nói thách.Nên chuẩn bị sẵn nếu muốn mua các món quà lưu niệm, đồ trang trí giá trị nhỏ. Nếu đưa tiền chẵn có thể người bán sẽ đề nghị đổi tiền thừa bằng hàng hóa.Các địa điểm du lịch Sapa thường nhiều đồi dốc, phải đi bộ nhiều, bạn nên lựa chọn trang phục thoải mái, giày thể thao hoặc giày đế mềm êm ái.Nếu thấy các cô gái dân tộc và muốn chụp hình chung thì bạn nên hỏi trước vì đôi khi bạn sẽ phải trả phí.Nhiệt độ trung bình của Sapa khá thấp, đặc biệt là vào ban đêm nên bạn cần chuẩn bị đầy đủ áo khoác, khăn choàng, vớ, găng, nón len để giữ ấm.",
-            "qas": []
-          }
-        ]
-      }
-    ]
-  }
+  "data": [
+    {
+      "title": "SaPa",
+      "paragraphs": [
+        {
+          "context": "Sa Pa mùa nào đẹp: Nằm dưới chân dãy Hoàng Liên Sơn hùng vĩ và chỉ cách Hà Nội 5 - 6 giờ di chuyển bằng đường cao tốc, Sa Pa là điểm đến lý tưởng quanh năm. Ngoài những thửa ruộng bậc thang vào mùa lúa chín, Sa Pa còn hút khách nhờ vẻ đẹp của nhiều điểm đến khác.Sa Pa có khí hậu mát mẻ nên phù hợp với những chuyến du lịch quanh năm. Bạn chỉ cần tránh mùa mưa bão từ tháng 6 đến đầu tháng 8, bởi thời tiết cực đoan có thể gây lũ ống, lũ quét, sạt lở...Từ tháng 2 đến tháng 5, mùa xuân Sa Pa rực rỡ với trăm hoa khoe sắc như mai anh đào, đào, mận... Mùa hè từ tháng 6 đến tháng 8 là thời điểm khách du lịch đến Sa Pa để trốn nóng, ngắm những thửa ruộng bậc thang xanh mát.Mùa thu kéo dài từ tháng 9 đến tháng 11, Sa Pa quyến rũ trong màu vàng óng ả của lúa chín và trời dần trở lạnh. Mùa đông đến từ tháng 12 đến tháng 2 năm sau, nếu may mắn bạn có thể săn tuyết, băng giá trên những đỉnh núi.",
+          "qas": [
+            {
+              "question": "Sa Pa nằm dưới chân dãy núi nào ?",
+              "id": "da1119e8-6b91-4009-9677-917616da879d",
+              "answers": [
+                {
+                  "answer_start": 33,
+                  "text": "dãy Hoàng Liên Sơn hùng vĩ "
+                }
+              ]
+            },
+            {
+              "question": "Di chuyển từ Hà Nội đi Sa Pa mất bao nhiêu thời gian ?",
+              "id": "10e7d8e4-6471-4faa-84c6-67c895fcdbcf",
+              "answers": [
+                {
+                  "answer_start": 79,
+                  "text": "5 - 6 giờ di chuyển bằng đường cao tốc"
+                }
+              ]
+            },
+            {
+              "question": "Sa Pa hút khách du lịch bởi điều gì ?",
+              "id": "1b9779c7-5395-4229-b418-764e55037656",
+              "answers": [
+                {
+                  "answer_start": 163,
+                  "text": "những thửa ruộng bậc thang vào mùa lúa chín"
+                }
+              ]
+            },
+            {
+              "question": "Sa Pa có khí hậu như thế nào ?",
+              "id": "fe8ba546-a6cd-436d-97c0-f3a713cd6b71",
+              "answers": [
+                {
+                  "answer_start": 263,
+                  "text": "Sa Pa có khí hậu mát mẻ"
+                }
+              ]
+            },
+            {
+              "question": "Bạn nên tránh đi Sa Pa vào khoảng thời gian nào ?",
+              "id": "16f45a44-7d2d-4d89-9a61-1ddf5a7d7451",
+              "answers": [
+                {
+                  "answer_start": 365,
+                  "text": "từ tháng 6 đến đầu tháng 8"
+                }
+              ]
+            },
+            {
+              "question": "Vì sao nên tránh đi Sa Pa từ tháng 6 đến tháng 8 ?",
+              "id": "686e4a7e-a5d5-4492-9dbc-346b7c0e075d",
+              "answers": [
+                {
+                  "answer_start": 393,
+                  "text": "bởi thời tiết cực đoan có thể gây lũ ống, lũ quét, sạt lở..."
+                }
+              ]
+            },
+            {
+              "question": "Mùa xuân ở Sa Pa bắt đầu từ tháng nào ?",
+              "id": "f91f1d42-db61-4008-818c-2df7600d32bb",
+              "answers": [
+                {
+                  "answer_start": 453,
+                  "text": "Từ tháng 2 đến tháng 5"
+                }
+              ]
+            },
+            {
+              "question": "Mùa xuân ở Sa Pa được miêu tả như thế nào ?",
+              "id": "3943c894-60c5-4052-83a3-785b342b035d",
+              "answers": [
+                {
+                  "answer_start": 477,
+                  "text": "mùa xuân Sa Pa rực rỡ với trăm hoa khoe sắc như mai anh đào, đào, mận... "
+                }
+              ]
+            },
+            {
+              "question": "Mùa hè ở Sa Pa bắt đầu từ tháng nào ?",
+              "id": "c3782c40-5979-42b7-82d0-4ca86c522a25",
+              "answers": [
+                {
+                  "answer_start": 557,
+                  "text": "từ tháng 6 đến tháng 8"
+                }
+              ]
+            },
+            {
+              "question": "Khi đi du lịch vào mùa hè , bạn có thể nhìn ngắm gì ở Sa Pa ?",
+              "id": "39b6c630-bd31-4d6e-a500-fe09394bf785",
+              "answers": [
+                {
+                  "answer_start": 631,
+                  "text": "ngắm những thửa ruộng bậc thang xanh mát"
+                }
+              ]
+            },
+            {
+              "question": "Mua ở Sa Pa thu kéo dài từ tháng nào đến tháng nào ?",
+              "id": "216abb32-7b2d-451e-bf1d-7149b39fde46",
+              "answers": [
+                {
+                  "answer_start": 688,
+                  "text": "từ tháng 9 đến tháng 11"
+                }
+              ]
+            },
+            {
+              "question": "Mùa thu ở Sa Pa quyến rũ như thế nào ?",
+              "id": "36a42f96-24f1-449b-8cff-8449fac203ab",
+              "answers": [
+                {
+                  "answer_start": 713,
+                  "text": "Sa Pa quyến rũ trong màu vàng óng ả của lúa chín và trời dần trở lạnh. "
+                }
+              ]
+            },
+            {
+              "question": "Mùa đông ở Sa Pa từ tháng nào đến tháng nào ?",
+              "id": "045376a5-d4f1-47fa-ad81-02394dd6aec3",
+              "answers": [
+                {
+                  "answer_start": 797,
+                  "text": "từ tháng 12 đến tháng 2 năm sau"
+                }
+              ]
+            },
+            {
+              "question": "Nếu đi du lịch vào mùa đông ở Sa Pa , du khách có thể nhìn ngắm gì ?",
+              "id": "5480d97f-846a-4e73-b6a4-b8542bdb2d59",
+              "answers": [
+                {
+                  "answer_start": 830,
+                  "text": "nếu may mắn bạn có thể săn tuyết, băng giá trên những đỉnh núi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Di chuyển: Bạn có thể đặt xe limousine Hà Nội - Sa Pa hoặc xe khách từ bến Mỹ Đình với giá 230.000 - 350.000 đồng một người, tùy hạng ghế. Thời gian di chuyển khoảng 5 - 6 tiếng.Nếu đi tàu hỏa chạy, bạn chọn chuyến Hà Nội - Lào Cai, sau khoảng 7 - 9 tiếng di chuyển phải đón tiếp xe bus hoặc bắt taxi lên trung tâm Sa Pa. Giá vé tàu từ 160.000 đến 800.000 đồng tùy hạng ghế và loại tàu.Nếu tự lái ôtô, bạn đi cao tốc Nội Bài - Lào Cai, tiếp đó rẽ sang đường 4D để lên Sa Pa. Đường dễ đi, nhưng bạn cần chú ý quan sát biển báo, chạy đúng tốc độ. Vào những dịp trời mưa lạnh, nhiều sương mù và đường trơn, bạn nên kiểm tra kỹ lốp xe, hệ thống phanh, đèn... trước khi khởi hành. Thời gian chạy xe khoảng 5 - 6 tiếng. Hãy khởi hành từ Hà Nội muộn nhất khoảng 12h30, để khi đến đèo lên Sa Pa, trời không quá tối.Ở Sa Pa, bạn có thể thuê xe máy để di chuyển tự do hơn. Tuy nhiên đường Sa Pa nhiều đèo dốc, hãy nhớ kiểm tra kỹ xe và hạn chế thuê xe ga. Giá thuê xe 100.000 - 200.000 đồng một ngày",
+          "qas": [
+            {
+              "question": "Giá vé xe khách từ Mỹ Đình đến Sa Pa là bao nhiêu ?",
+              "id": "6b769dfb-ab9e-42d5-8e01-e1c447271824",
+              "answers": [
+                {
+                  "answer_start": 87,
+                  "text": "giá 230.000 - 350.000 đồng một người, tùy hạng ghế"
+                }
+              ]
+            },
+            {
+              "question": "Ngoài xe khách thì bạn có thể chọn loại xe nào ?",
+              "id": "d046fe95-0ac6-4d6b-b739-c70dfce85f5a",
+              "answers": [
+                {
+                  "answer_start": 11,
+                  "text": "Bạn có thể đặt xe limousine"
+                }
+              ]
+            },
+            {
+              "question": "Thời gian di chuyển khi đi xe khách hoặc xe limousine là bao lâu ?",
+              "id": "3a4b191e-ad1a-4d41-819b-5cc66e3508af",
+              "answers": [
+                {
+                  "answer_start": 159,
+                  "text": "khoảng 5 - 6 tiếng"
+                }
+              ]
+            },
+            {
+              "question": "Đi tàu hỏa đến Sa Pa thì di chuyển như thế  nào ?",
+              "id": "705d2ccc-2cb3-4095-b91d-30ebe3984d5c",
+              "answers": [
+                {
+                  "answer_start": 199,
+                  "text": "bạn chọn chuyến Hà Nội - Lào Cai, sau khoảng 7 - 9 tiếng di chuyển phải đón tiếp xe bus hoặc bắt taxi lên trung tâm Sa Pa"
+                }
+              ]
+            },
+            {
+              "question": "Giá vé tàu hỏa là bao nhiêu ?",
+              "id": "93048643-d486-4c40-93d5-5506f5b358f7",
+              "answers": [
+                {
+                  "answer_start": 333,
+                  "text": "từ 160.000 đến 800.000 đồng tùy hạng ghế và loại tàu"
+                }
+              ]
+            },
+            {
+              "question": "Thời gian đi ô tô từ Hà Nội đến Sa Pa là bao lâu ?",
+              "id": "035419de-7a64-499c-b32f-c93f270323a5",
+              "answers": [
+                {
+                  "answer_start": 159,
+                  "text": "khoảng 5 - 6 tiếng"
+                }
+              ]
+            },
+            {
+              "question": "Nếu đi ô tô từ Hà Nội đến Sa Pa thì nên đi như thế nào ?",
+              "id": "4b98493b-8a83-4f1e-8c40-85d68ae0a3ad",
+              "answers": [
+                {
+                  "answer_start": 406,
+                  "text": "đi cao tốc Nội Bài - Lào Cai, tiếp đó rẽ sang đường 4D để lên Sa Pa"
+                }
+              ]
+            },
+            {
+              "question": "Đường đi ở cao tốc Nội Bài - Lào Cai như thế nào ?",
+              "id": "bd146fac-9634-4dd6-87fe-d438f51c013e",
+              "answers": [
+                {
+                  "answer_start": 475,
+                  "text": "Đường dễ đi, nhưng bạn cần chú ý quan sát biển báo, chạy đúng tốc độ"
+                }
+              ]
+            },
+            {
+              "question": "Nên lưu ý điều gì khi đi ô tô từ Hà Nội đến Sa Pa ?",
+              "id": "0a65cf38-b36f-461a-bc32-a41876e231d0",
+              "answers": [
+                {
+                  "answer_start": 545,
+                  "text": "Vào những dịp trời mưa lạnh, nhiều sương mù và đường trơn, bạn nên kiểm tra kỹ lốp xe, hệ thống phanh, đèn... trước khi khởi hành."
+                }
+              ]
+            },
+            {
+              "question": "Nếu đi ô tô nên khởi hành muộn nhất lúc nào ?",
+              "id": "b6513d31-931c-4d4b-9ad7-a95beabcb780",
+              "answers": [
+                {
+                  "answer_start": 748,
+                  "text": "khoảng 12h30"
+                }
+              ]
+            },
+            {
+              "question": "Vì sao nên khởi hành muộn nhất lúc 12h30 ?",
+              "id": "9c6ac735-5cf0-47ac-9a89-dda1152d3f1a",
+              "answers": [
+                {
+                  "answer_start": 762,
+                  "text": "để khi đến đèo lên Sa Pa, trời không quá tối"
+                }
+              ]
+            },
+            {
+              "question": "Giá thuê xe máy ở Sa Pa là bao nhiêu ?",
+              "id": "5177d38a-1093-4c5c-af17-e56639e59896",
+              "answers": [
+                {
+                  "answer_start": 946,
+                  "text": "Giá thuê xe 100.000 - 200.000 đồng một ngày"
+                }
+              ]
+            },
+            {
+              "question": "Bạn nên lưu ý gì khi thuê xe máy ở Sa Pa ?",
+              "id": "2d50fcd7-7139-43ca-90d6-36de16527029",
+              "answers": [
+                {
+                  "answer_start": 873,
+                  "text": "đường Sa Pa nhiều đèo dốc, hãy nhớ kiểm tra kỹ xe và hạn chế thuê xe ga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Khách sạn, homestay: Sa Pa có đủ loại hình lưu trú cho bạn chọn từ nhà nghỉ, homestay ở bản, hostel, khách sạn giá rẻ, cho tới các khách sạn 4-5 sao, resort cao cấp nằm biệt lập. Resort ở Sa Pa có những nơi đáng chú ý là Topas Ecolodge, Sapa Jade Hill, Hôtel de la Coupole - MGallery, Silk Path Grand...Nếu chọn homestay, hostel hãy tìm tới các bản như Cát Cát, Lao Chải, Tả Van để được tận hưởng không gian thanh bình của núi rừng Tây Bắc. Giá phòng dorm từ 100.000 đồng một người, giá phòng đôi dạng bungalow từ 500.000 đồng.Một số homestay được yêu thích là Eco Palms House, Heaven Sapa, Viettrekking, Phơri's House, Sapa Heavenly, Rock Garden, Coóng, Vườn mây, Mộng...",
+          "qas": [
+            {
+              "question": "Có những loại hình lưu trú nào ở Sa Pa ?",
+              "id": "957aeb27-9155-496b-a0d2-b74604f05cbf",
+              "answers": [
+                {
+                  "answer_start": 67,
+                  "text": "nhà nghỉ, homestay ở bản, hostel, khách sạn giá rẻ, cho tới các khách sạn 4-5 sao, resort cao cấp nằm biệt lập"
+                }
+              ]
+            },
+            {
+              "question": "Resort đáng chú ý ở Sa Pa là những chỗ nào ? ",
+              "id": "3e26b3a2-f434-4ae0-9bd6-08ad69caf4f3",
+              "answers": [
+                {
+                  "answer_start": 221,
+                  "text": "Topas Ecolodge, Sapa Jade Hill, Hôtel de la Coupole - MGallery, Silk Path Grand..."
+                }
+              ]
+            },
+            {
+              "question": "Nếu chọn homestay, hostel thì nên tìm đến các bản nào ?",
+              "id": "418f43a7-11b4-4308-a3bf-68d92f09d265",
+              "answers": [
+                {
+                  "answer_start": 353,
+                  "text": "Cát Cát, Lao Chải, Tả Van để được tận hưởng không gian thanh bình của núi rừng Tây Bắc."
+                }
+              ]
+            },
+            {
+              "question": "Giá phòng dorm là bao nhiêu ?",
+              "id": "e4184e30-20d0-4069-a0ad-26091a2c49cb",
+              "answers": [
+                {
+                  "answer_start": 456,
+                  "text": "từ 100.000 đồng một người"
+                }
+              ]
+            },
+            {
+              "question": "Giá phòng đôi dạng bungalow là bao nhiêu ?",
+              "id": "9d797e58-3a2e-4382-9eca-647c3fe7a788",
+              "answers": [
+                {
+                  "answer_start": 511,
+                  "text": "từ 500.000 đồng"
+                }
+              ]
+            },
+            {
+              "question": "Một vài homestay được yêu thích là gì ?",
+              "id": "86060d1b-777e-4e4a-b063-ddee0de4c45f",
+              "answers": [
+                {
+                  "answer_start": 558,
+                  "text": "là Eco Palms House, Heaven Sapa, Viettrekking, Phơri's House, Sapa Heavenly, Rock Garden, Coóng, Vườn mây, Mộng..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Chơi gì ở sapa? Bạn có thể dành khoảng 3 ngày 2 đêm để khám phá những điểm đến nổi tiếng tại Sa Pa. Núi Hàm Rồng Với phong cảnh thần tiên và mờ ảo, núi Hàm Rồng đông đảo du khách. Chỗ thấp nhất của núi là 1.450m, và đỉnh cao nhất hơn 1.800m. Từ trên đỉnh núi, bạn có thể phóng tầm mắt ngắm nhìn hầu hết các điểm du lịch nổi tiếng của thị trấn Sa Pa như thung lũng Mường Hoa, bản Tả Van, bản Cát Cát...Núi Hàm Rồng thích hợp để tổ chức một buổi leo núi dã ngoại, kết hợp ăn uống và mua sắm, ngắm cảnh vì trên đường lên núi có vô số hàng quán cùng với các vườn hoa đẹp. Giá tham quan khu du lịch núi Hàm Rồng là 70.000 đồng với người lớn và 30.000 đồng với trẻ em.",
+          "qas": [
+            {
+              "question": "Nên dành khoảng thời gian thế nào để khám phá những điểm nổi tiếng ở Sa Pa",
+              "id": "4ea9e595-080c-4339-898c-dbdca623af16",
+              "answers": [
+                {
+                  "answer_start": 32,
+                  "text": "khoảng 3 ngày 2 đêm"
+                }
+              ]
+            },
+            {
+              "question": "Núi Hàm Rồng có phong cảnh như thế nào ?",
+              "id": "2390146e-b06b-4c40-a0b8-1ea4a35ea089",
+              "answers": [
+                {
+                  "answer_start": 100,
+                  "text": "Núi Hàm Rồng Với phong cảnh thần tiên và mờ ảo, núi Hàm Rồng đông đảo du khách"
+                }
+              ]
+            },
+            {
+              "question": "Chỗ thấp nhất của núi Hàm Rồng cao bao nhiêu ?",
+              "id": "c8d79373-af90-4f53-98c9-546266dc8e40",
+              "answers": [
+                {
+                  "answer_start": 205,
+                  "text": "1.450m"
+                }
+              ]
+            },
+            {
+              "question": "Đỉnh cao nhất của núi Hàm Rồng cao bao nhiêu ?",
+              "id": "c681286c-159c-42c4-a7d0-ff180ff5cf7c",
+              "answers": [
+                {
+                  "answer_start": 230,
+                  "text": "hơn 1.800m"
+                }
+              ]
+            },
+            {
+              "question": "Trên đỉnh núi Hàm Rồng , du khách có thể ngắm gì ?",
+              "id": "9c80184a-8850-486d-9d03-99ade46959f1",
+              "answers": [
+                {
+                  "answer_start": 242,
+                  "text": "Từ trên đỉnh núi, bạn có thể phóng tầm mắt ngắm nhìn hầu hết các điểm du lịch nổi tiếng của thị trấn Sa Pa như thung lũng Mường Hoa, bản Tả Van, bản Cát Cát..."
+                }
+              ]
+            },
+            {
+              "question": "Núi Hàm Rồng thích hợp để du lịch như thế nào ?",
+              "id": "48c738da-a854-4e10-9956-087e46e0787d",
+              "answers": [
+                {
+                  "answer_start": 401,
+                  "text": "Núi Hàm Rồng thích hợp để tổ chức một buổi leo núi dã ngoại, kết hợp ăn uống và mua sắm, ngắm cảnh vì trên đường lên núi có vô số hàng quán cùng với các vườn hoa đẹp."
+                }
+              ]
+            },
+            {
+              "question": "Giá vé tham quan khu du lịch núi Hàm Rồng cho người lớn là bao nhiêu ?",
+              "id": "70d6873c-3470-4d94-a883-f30190a875f0",
+              "answers": [
+                {
+                  "answer_start": 610,
+                  "text": "70.000 đồng "
+                }
+              ]
+            },
+            {
+              "question": "Giá vé tham quan khu du lịch núi Hàm Rồng cho trẻ em là bao nhiêu ?",
+              "id": "92fd6989-6839-48d1-b6f7-1dcfab382881",
+              "answers": [
+                {
+                  "answer_start": 639,
+                  "text": "30.000 đồng"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Nhà thờ đá Sa Pa: Sau khi đi núi Hàm Rồng, bạn trở về trung tâm thị trấn cách đó không xa để ghé vào nhà thờ Đá Sa Pa. Đây là công trình biểu tượng của phố núi được khởi công năm 1895. Nhà thờ được xây theo hình thập giá mang phong cách Gothic, thể hiện ở mái nhà, tháp chuông, vòm cuốn... đều là hình chóp tạo nên nét bay bổng thanh thoát cho công trình.",
+          "qas": [
+            {
+              "question": "Sau khi đi núi Hàm Rồng, bạn nên ghé đâu ?",
+              "id": "42d9425b-2223-4630-9179-4884f5003723",
+              "answers": [
+                {
+                  "answer_start": 18,
+                  "text": "Sau khi đi núi Hàm Rồng, bạn trở về trung tâm thị trấn cách đó không xa để ghé vào nhà thờ Đá Sa Pa"
+                }
+              ]
+            },
+            {
+              "question": "Nhà thờ đá Sa Pa được xem là của phố núi ?",
+              "id": "cad8dad9-4f6a-415a-b9bf-d34108f74ad9",
+              "answers": [
+                {
+                  "answer_start": 123,
+                  "text": "là công trình biểu tượng của phố núi "
+                }
+              ]
+            },
+            {
+              "question": "Nhà thờ đá Sa Pa được khởi công năm nào ?",
+              "id": "6ba9321b-4770-47e6-bdf5-de9161964b14",
+              "answers": [
+                {
+                  "answer_start": 175,
+                  "text": "năm 1895"
+                }
+              ]
+            },
+            {
+              "question": "Nhà thờ đá Sa Pa được xây dựng như thế nào ?",
+              "id": "02a766e0-3bad-4b10-aa3e-47d5565ac42e",
+              "answers": [
+                {
+                  "answer_start": 185,
+                  "text": "Nhà thờ được xây theo hình thập giá mang phong cách Gothic, thể hiện ở mái nhà, tháp chuông, vòm cuốn... đều là hình chóp tạo nên nét bay bổng thanh thoát cho công trình."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Bản Cát Cát nằm cách trung tâm Sa Pa 2 km nên bạn có thể chọn trekking hoặc xe máy đều được. Đây là một bản làng người Mông yên bình, còn bảo tồn nhiều phong tục và các nghề thủ công truyền thống như dệt vải, chạm trổ bạc, chế tác trang sức...Con đường đến bản khá đẹp, bạn sẽ đi qua những đoạn đường cua tay áo uốn lượn, hai bên là các thửa ruộng bậc thang lấp ló các mái nhà dân tộc. Đi qua cây cầu Si là tới trung tâm bản Cát Cát, nơi hội tụ của ba dòng suối: suối Tiên Sa, suối Vàng và suối Bạc. Tham quan bản, ngoài tìm hiểu đời sống người Mông, bạn còn có cơ hội mua các sản phẩm thủ công làm quà, thưởng thức những sản vật địa phương. Vé vào thăm bản Cát Cát là 50.000 đồng một người.",
+          "qas": [
+            {
+              "question": "Bản Cát Cát cách trung tâm Sa Pa bao xa ?",
+              "id": "472d6dd0-2222-4d2e-805b-a83069eed203",
+              "answers": [
+                {
+                  "answer_start": 37,
+                  "text": "2 km "
+                }
+              ]
+            },
+            {
+              "question": "Bạn có thể chọn đi đến bản Cát Cát bằng gì ?",
+              "id": "303dee95-1675-4f29-8738-9e71e75ec26d",
+              "answers": [
+                {
+                  "answer_start": 46,
+                  "text": "bạn có thể chọn trekking hoặc xe máy đều được"
+                }
+              ]
+            },
+            {
+              "question": "Bản Cát Cát là bản làng của người dân tộc nào ?",
+              "id": "5f94c3cf-e442-4693-bc15-758375e39ea2",
+              "answers": [
+                {
+                  "answer_start": 113,
+                  "text": "người Mông"
+                }
+              ]
+            },
+            {
+              "question": "Bản Cát Cát còn bảo tồn nhiều phong tục gì ?",
+              "id": "f3dfe66a-0321-4378-9b13-712913e828f5",
+              "answers": [
+                {
+                  "answer_start": 146,
+                  "text": "nhiều phong tục và các nghề thủ công truyền thống như dệt vải, chạm trổ bạc, chế tác trang sức..."
+                }
+              ]
+            },
+            {
+              "question": "Con đường đến bản Cát Cát như thế nào ?",
+              "id": "5c5e7e24-15b5-4d9d-addf-606f3919a1bc",
+              "answers": [
+                {
+                  "answer_start": 243,
+                  "text": "Con đường đến bản khá đẹp, bạn sẽ đi qua những đoạn đường cua tay áo uốn lượn, hai bên là các thửa ruộng bậc thang lấp ló các mái nhà dân tộc."
+                }
+              ]
+            },
+            {
+              "question": "Trước khi vào bản thì đi qua cây cầu gì ?",
+              "id": "b4c6b0af-59d1-498a-9343-cb9b3061bdbd",
+              "answers": [
+                {
+                  "answer_start": 393,
+                  "text": "cây cầu Si"
+                }
+              ]
+            },
+            {
+              "question": "Tên 3 dòng suối ở bản Cát Cát là gì ?",
+              "id": "cbedc67b-d3b7-488a-bc75-183df86b917b",
+              "answers": [
+                {
+                  "answer_start": 463,
+                  "text": "suối Tiên Sa, suối Vàng và suối Bạc"
+                }
+              ]
+            },
+            {
+              "question": "Khi tham quan bản, bạn có thể trải nghiệm gì ?",
+              "id": "23a8d7c3-48f1-4b98-a64f-fc33d4907db7",
+              "answers": [
+                {
+                  "answer_start": 515,
+                  "text": "ngoài tìm hiểu đời sống người Mông, bạn còn có cơ hội mua các sản phẩm thủ công làm quà, thưởng thức những sản vật địa phương"
+                }
+              ]
+            },
+            {
+              "question": "Vé vào thăm bản Cát Cát là bao nhiêu ?",
+              "id": "1874bb94-c32f-4116-9c84-89cac4b2d6c2",
+              "answers": [
+                {
+                  "answer_start": 669,
+                  "text": "50.000 đồng một người."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Lao Chải - Tả Van: Từ thị trấn bạn đi theo con đường dài 10 km tới Tả Van bằng xe máy, taxi hoặc trekking. Đường vào Lao Chải - Tả Van nhỏ hẹp, hai bên phủ một màu xanh mát của ruộng bậc thang lúa và ngô. Tuy không còn hoang sơ, hẻo lánh, Lao Chải - Tả Van vẫn là một bản làng yên bình với nhiều dân tộc cư trú như Mông, Dao, Giáy...Ấn tượng nhất ở đây ngoài đời sống dân tộc địa phương còn là những thửa ruộng bậc thang trải rộng khắp các sườn đồi núi. Cuối hè là thời điểm lúa chín nhuộm vàng cả một vùng sơn cước. Vì thế nếu bạn có nhiều thời gian hãy dành một ngày ở đây để trải nghiệm nếp sống bản địa. Vé vào bản 70.000 đồng một người",
+          "qas": [
+            {
+              "question": "Bản Lao Chải - Tả Van cách thị trấn bao xa ?",
+              "id": "b6a818e2-a352-438d-989e-699de74f625f",
+              "answers": [
+                {
+                  "answer_start": 57,
+                  "text": "10 km"
+                }
+              ]
+            },
+            {
+              "question": "Bạn có thể đi đến bản Lao Chải - Tả Van bằng gì ?",
+              "id": "d99a72d9-2fb8-4d82-bed5-f02759dd1d1f",
+              "answers": [
+                {
+                  "answer_start": 74,
+                  "text": "bằng xe máy, taxi hoặc trekking"
+                }
+              ]
+            },
+            {
+              "question": "Đường vào bản Lao Chải - Tả Van như thế nào ?",
+              "id": "2cffde9e-3c99-4fef-8112-cd3cd3e7c58c",
+              "answers": [
+                {
+                  "answer_start": 135,
+                  "text": "nhỏ hẹp, hai bên phủ một màu xanh mát của ruộng bậc thang lúa và ngô"
+                }
+              ]
+            },
+            {
+              "question": "Tại bản Lao Chải - Tả Van có dân tộc nào sinh sống ?",
+              "id": "f5a091fd-e9ce-4992-a11f-fd28229bd7f6",
+              "answers": [
+                {
+                  "answer_start": 315,
+                  "text": "Mông, Dao, Giáy..."
+                }
+              ]
+            },
+            {
+              "question": "Ấn tưởng ở Lao Chải - Tả Van là gì ?",
+              "id": "a8c11da5-4fdc-4f65-aea4-4b3f9b23822b",
+              "answers": [
+                {
+                  "answer_start": 333,
+                  "text": "Ấn tượng nhất ở đây ngoài đời sống dân tộc địa phương còn là những thửa ruộng bậc thang trải rộng khắp các sườn đồi núi. "
+                }
+              ]
+            },
+            {
+              "question": "Giá vé vào Lao Chải - Tả Van bao nhiêu ?",
+              "id": "59186402-d470-4c79-9704-f4278bfec27d",
+              "answers": [
+                {
+                  "answer_start": 619,
+                  "text": "70.000 đồng một người"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Đỉnh Fansipan: Để tới đỉnh Fansipan mà không mất quá nhiều sức lực, hãy đi cáp treo và tàu leo núi. Buổi sáng bạn xếp hàng mua vé tại ga tàu hỏa leo núi ở đối diện quảng trường thị trấn Sa Pa. Giá vé cáp treo 715.000 đồng một người lớn, 525.000 đồng một trẻ em, vé tàu hỏa leo núi 99.000 đồng một người.Để tới đỉnh Fansipan bạn đi theo lộ trình tàu hỏa leo núi rồi cáp treo, sau đó một lượt đi tàu hỏa nữa hoặc đi bộ leo 600 bậc thang. Mỗi lượt tàu kéo dài khoảng 6-7 phút, mỗi lượt cáp treo chừng 30 phút. Những người thích đi bộ có thể thong thả leo bậc thang, tham quan quần thể tâm linh trên Fansipan có Kim Sơn Bảo Thắng Tự, tháp 11 tầng, tượng đồng Quan Thế Âm Bồ Tát, đại tượng phật A Di Đà bằng đồng lớn nhất Việt Nam...Ngoài ra, tại trạm dừng của cáp treo và tàu hỏa leo núi đều có các gian hàng bán đồ lưu niệm, nhà hàng... phục vụ nhu cầu mua sắm, ăn uống của du khách. Lưu ý: nên đi giày đế thấp, mang theo áo khoác, áo mưa, hoặc ô đề phòng tiết trời trên đỉnh núi lạnh đột ngột và nhiều sương mây.",
+          "qas": [
+            {
+              "question": "Nếu muốn đi đỉnh Fansipan mà không mất quá nhiều sức thì nên đi như thế nào ?",
+              "id": "3ac317f1-511b-4dce-8ad5-2e00b4e0b737",
+              "answers": [
+                {
+                  "answer_start": 68,
+                  "text": "hãy đi cáp treo và tàu leo núi."
+                }
+              ]
+            },
+            {
+              "question": "Nếu đi đỉnh Fansipan thì buổi sáng nên làm gì ?",
+              "id": "13fd3354-8329-4f49-a406-7223dad44819",
+              "answers": [
+                {
+                  "answer_start": 100,
+                  "text": "Buổi sáng bạn xếp hàng mua vé tại ga tàu hỏa leo núi ở đối diện quảng trường thị trấn Sa Pa. "
+                }
+              ]
+            },
+            {
+              "question": "Giá vé cáp treo cho người lớn là bao nhiêu ?",
+              "id": "c902ce59-2e99-44e8-b67d-0840df09a03d",
+              "answers": [
+                {
+                  "answer_start": 209,
+                  "text": "715.000 đồng"
+                }
+              ]
+            },
+            {
+              "question": "Giá vé cáp treo cho trẻ em là bao nhiêu ?",
+              "id": "e9293c9e-7dba-4a5d-9310-2e6f2ab5a447",
+              "answers": [
+                {
+                  "answer_start": 237,
+                  "text": "525.000 đồng"
+                }
+              ]
+            },
+            {
+              "question": "Vé tàu hỏa leo núi là bao nhiêu ?",
+              "id": "67fe19dd-8293-4d94-a52e-b8ed18266251",
+              "answers": [
+                {
+                  "answer_start": 281,
+                  "text": "99.000 đồng"
+                }
+              ]
+            },
+            {
+              "question": "Lộ trình đến đỉnh Fansipan là gì ?",
+              "id": "c56a2711-26c2-4d75-a859-39325c40ae9a",
+              "answers": [
+                {
+                  "answer_start": 335,
+                  "text": " lộ trình tàu hỏa leo núi rồi cáp treo, sau đó một lượt đi tàu hỏa nữa hoặc đi bộ leo 600 bậc thang"
+                }
+              ]
+            },
+            {
+              "question": "Mỗi lượt tàu kéo dài bao lâu ?",
+              "id": "e4f9f8de-5793-4c9b-b279-3e4036d984b3",
+              "answers": [
+                {
+                  "answer_start": 457,
+                  "text": "khoảng 6-7 phút"
+                }
+              ]
+            },
+            {
+              "question": "Mỗi lượt cáp treo kéo dài bao lâu ?",
+              "id": "63a75bf3-4b3e-412d-bdea-8e9ca4b988cf",
+              "answers": [
+                {
+                  "answer_start": 492,
+                  "text": "chừng 30 phút"
+                }
+              ]
+            },
+            {
+              "question": "Những người thích đi bộ có thể tham quan gì ?",
+              "id": "ffc2c68d-ef5b-4ae5-84ea-a891d9e2fe3d",
+              "answers": [
+                {
+                  "answer_start": 507,
+                  "text": "Những người thích đi bộ có thể thong thả leo bậc thang, tham quan quần thể tâm linh trên Fansipan có Kim Sơn Bảo Thắng Tự, tháp 11 tầng, tượng đồng Quan Thế Âm Bồ Tát, đại tượng phật A Di Đà bằng đồng lớn nhất Việt Nam..."
+                }
+              ]
+            },
+            {
+              "question": "Tại trạm dừng của cáp treo và tàu hỏa leo núi có gì ?",
+              "id": "c26c010c-4849-458c-bf0f-f2403f6ae82d",
+              "answers": [
+                {
+                  "answer_start": 784,
+                  "text": "đều có các gian hàng bán đồ lưu niệm, nhà hàng... phục vụ nhu cầu mua sắm, ăn uống của du khách"
+                }
+              ]
+            },
+            {
+              "question": "Đi Sa Pa nên lưu ý gì ?",
+              "id": "0ccb4b54-5e7e-4d17-a116-fea87a0e5a40",
+              "answers": [
+                {
+                  "answer_start": 888,
+                  "text": "nên đi giày đế thấp, mang theo áo khoác, áo mưa, hoặc ô đề phòng tiết trời trên đỉnh núi lạnh đột ngột và nhiều sương mây."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Swing Sa Pa: Tổ hợp check-in này tọa lạc ở số 87 Nguyễn Chí Thanh, gần trung tâm thị trấn, cách nhà thờ Đá hướng cáp treo khoảng 2 km.Với nhiều công trình như tượng chàng và nàng, bàn tay đá khổng lồ, tượng Phật, nấc thang lên thiên đường, xích đu... nơi này trở thành địa điểm có vô vàn góc chụp tạo nên những bức hình độc đáo.Lưu ý, trước khi đi nên chuẩn bị trang phục chụp hình, hoặc bạn phải thuê tại chỗ với giá 50.000 đồng một bộ, nên sạc đầy pin máy ảnh, điện thoại. Nếu du lịch theo nhóm, bạn có thể tổ chức cắm trại hoặc tiệc dã ngoại nhỏ ngay ở đây. Giá vé vào cửa 80.000 đồng một người.",
+          "qas": [
+            {
+              "question": "Swing Sa Pa tọa lạc ở đâu ?",
+              "id": "fb57d495-e85e-472b-988e-fe258bd73dcf",
+              "answers": [
+                {
+                  "answer_start": 43,
+                  "text": "số 87 Nguyễn Chí Thanh, gần trung tâm thị trấn"
+                }
+              ]
+            },
+            {
+              "question": "Swing Sa Pa cách nhà thờ Đá bao xa ?",
+              "id": "62778082-4d2b-4a60-98f7-612ae9677dda",
+              "answers": [
+                {
+                  "answer_start": 122,
+                  "text": "khoảng 2 km"
+                }
+              ]
+            },
+            {
+              "question": "Swing Sa Pa gồm công trình kiến trúc nào ?",
+              "id": "e8beb4ae-7355-4185-b614-bcb7bc9eb475",
+              "answers": [
+                {
+                  "answer_start": 159,
+                  "text": "tượng chàng và nàng, bàn tay đá khổng lồ, tượng Phật, nấc thang lên thiên đường, xích đu... "
+                }
+              ]
+            },
+            {
+              "question": "Swing Sa Pa được xem là địa điểm như thế nào ?",
+              "id": "9e75fab3-6023-4b87-9ba0-fc9afa52bf52",
+              "answers": [
+                {
+                  "answer_start": 269,
+                  "text": "địa điểm có vô vàn góc chụp tạo nên những bức hình độc đáo"
+                }
+              ]
+            },
+            {
+              "question": "Ở Swing Sa Pa có cho thuê trang phục giá bao nhiêu ?",
+              "id": "2b9d0750-135c-4c92-9541-447dbc767ca1",
+              "answers": [
+                {
+                  "answer_start": 418,
+                  "text": "50.000 đồng một bộ"
+                }
+              ]
+            },
+            {
+              "question": "Nếu đi du lịch Swing Sa Pa theo nhóm thì nên làm gì ?",
+              "id": "6288f364-5137-4749-9f91-408bc811c614",
+              "answers": [
+                {
+                  "answer_start": 498,
+                  "text": "bạn có thể tổ chức cắm trại hoặc tiệc dã ngoại nhỏ ngay ở đây"
+                }
+              ]
+            },
+            {
+              "question": "Giá vé vào cửa Swing Sa Pa là bao nhiêu ?",
+              "id": "7e2a8d85-7f4b-41c6-ae39-b2d880b36bbd",
+              "answers": [
+                {
+                  "answer_start": 576,
+                  "text": "80.000 đồng một người."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Hồ Séo Mý Tỷ: Để tới được hồ Séo Mý Tỷ, thuộc xã Tả Van, bạn phải băng qua con đường dài 20 km nhiều sỏi đá lớn nhỏ nên khá thử thách với các tay lái yếu. Hồ được tạo nên do ngăn đập xây dựng thủy điện Séo Mý Tỷ và cũng là hồ nhân tạo cao nhất Việt Nam. Nhìn từ trên cao, hồ như dải lụa bên sườn dãy Hoàng Liên Sơn. Tới đây, bạn có thể xin phép những người đi đánh cá ngồi cùng thuyền, bè để ngắm cảnh hồ và tìm hiểu nghề nuôi cá hồi của người dân nơi đây.",
+          "qas": [
+            {
+              "question": "Hồ Séo Mý Tỷ thuộc xã nào ?",
+              "id": "eaf3884a-9ea5-434f-a692-cce210b3282d",
+              "answers": [
+                {
+                  "answer_start": 46,
+                  "text": "xã Tả Van"
+                }
+              ]
+            },
+            {
+              "question": "Đường đi từ thị trấn Sa Pa đến Hồ Séo Mý Tỷ dài bao xa ?",
+              "id": "2b3d44e4-ac0e-4d5f-9687-43306a7134a3",
+              "answers": [
+                {
+                  "answer_start": 89,
+                  "text": "20 km"
+                }
+              ]
+            },
+            {
+              "question": "Vì sao đường đi đến Hồ Séo Mý Tỷ thách thức người tay lái yếu ?",
+              "id": "fb8afebf-e201-497d-948e-d3a70b4e4b6d",
+              "answers": [
+                {
+                  "answer_start": 79,
+                  "text": "đường dài 20 km nhiều sỏi đá lớn nhỏ"
+                }
+              ]
+            },
+            {
+              "question": "Hồ Séo Mý Tỷ được tạo nên do đâu ?",
+              "id": "1e7e0822-97cf-4653-87d6-f3c89aeeac1e",
+              "answers": [
+                {
+                  "answer_start": 171,
+                  "text": "do ngăn đập xây dựng thủy điện Séo Mý Tỷ"
+                }
+              ]
+            },
+            {
+              "question": "Hồ Séo Mý Tỷ được gọi là hồ gì của Việt Nam ?",
+              "id": "b5f4c718-5479-47eb-a4dd-dc3e94fc7d3a",
+              "answers": [
+                {
+                  "answer_start": 220,
+                  "text": "là hồ nhân tạo cao nhất Việt Nam."
+                }
+              ]
+            },
+            {
+              "question": "Nhìn từ trên cao, Hồ Séo Mý Tỷ trông như thế nào ?",
+              "id": "31f31b2a-7ef4-469d-be3b-14acca19a8b4",
+              "answers": [
+                {
+                  "answer_start": 254,
+                  "text": "Nhìn từ trên cao, hồ như dải lụa bên sườn dãy Hoàng Liên Sơn"
+                }
+              ]
+            },
+            {
+              "question": "Hồ Séo Mý Tỷ nằm bên cạnh sườn dãy núi nào ?",
+              "id": "2bb98cb2-223f-4756-9314-e7f0b17060b3",
+              "answers": [
+                {
+                  "answer_start": 296,
+                  "text": "dãy Hoàng Liên Sơn"
+                }
+              ]
+            },
+            {
+              "question": "Tới Hồ Séo Mý Tỷ có hoạt động gì đặc biệt ?",
+              "id": "42912fe1-5d37-457f-b599-87f825ab38ee",
+              "answers": [
+                {
+                  "answer_start": 316,
+                  "text": "Tới đây, bạn có thể xin phép những người đi đánh cá ngồi cùng thuyền, bè để ngắm cảnh hồ và tìm hiểu nghề nuôi cá hồi của người dân nơi đây."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Cổng Trời: Từ trung tâm Sa Pa chạy men theo QL 4D khoảng 15 km, tới đoạn cao nhất của đèo Ô Quy Hồ bạn sẽ tới Cổng Trời. Đứng từ đây, bạn có thể ngắm nhìn toàn cảnh thung lũng rộng lớn phía dưới, những thửa ruộng bậc thang xen lẫn các cung đường quanh co uốn lượn. Hiện ở đây có khá nhiều công trình mới được xây lên như nhà hàng, quán cà phê, khách sạn... Cổng Trời thu vé 80.000 đồng một người, kèm một đồ uống.",
+          "qas": [
+            {
+              "question": "Từ trung tâm Sa Pa đến Cổng Trời bao xa ?",
+              "id": "86ee04ec-028b-474e-9937-742ec7143bf3",
+              "answers": [
+                {
+                  "answer_start": 50,
+                  "text": "khoảng 15 km"
+                }
+              ]
+            },
+            {
+              "question": "Đi đường nào từ trung tâm Sa Pa tới Cổng Trời ?",
+              "id": "9cc898d9-f403-4c70-a2a1-9483682714f0",
+              "answers": [
+                {
+                  "answer_start": 30,
+                  "text": "chạy men theo QL 4D"
+                }
+              ]
+            },
+            {
+              "question": "Đoạn cao nhất trên đường từ Sa Pa đến Cổng Trời là gì ?",
+              "id": "d4d873b6-4ef2-4f8a-a590-26b7de50b854",
+              "answers": [
+                {
+                  "answer_start": 64,
+                  "text": "tới đoạn cao nhất của đèo Ô Quy Hồ"
+                }
+              ]
+            },
+            {
+              "question": "Đứng ở Cổng Trời , bạn có thể ngắm nhìn gì ?",
+              "id": "a3f329c9-68c7-4ae4-b0e0-02116b535bf5",
+              "answers": [
+                {
+                  "answer_start": 134,
+                  "text": "bạn có thể ngắm nhìn toàn cảnh thung lũng rộng lớn phía dưới, những thửa ruộng bậc thang xen lẫn các cung đường quanh co uốn lượn. "
+                }
+              ]
+            },
+            {
+              "question": "Gần Cổng Trời có các cồng trình mới gì ?",
+              "id": "0e90fae8-5384-4ce6-bf5d-1cca9e563ea2",
+              "answers": [
+                {
+                  "answer_start": 317,
+                  "text": "như nhà hàng, quán cà phê, khách sạn... "
+                }
+              ]
+            },
+            {
+              "question": "Vé vào Cổng Trời có giá bao nhiêu tiền ?",
+              "id": "f4e217f6-389f-4e66-b44f-9c71bd6a7ced",
+              "answers": [
+                {
+                  "answer_start": 374,
+                  "text": "80.000 đồng một người"
+                }
+              ]
+            },
+            {
+              "question": "Giá vé đã bao gồm vé vào cổng và còn thêm gì nữa ?",
+              "id": "c3956854-9d3e-4afe-97b3-854a41d6e95d",
+              "answers": [
+                {
+                  "answer_start": 397,
+                  "text": "kèm một đồ uống."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Đèo Ô Quy Hồ: Ô Quy Hồ được mệnh danh là Vua của những cung đèo với một bên là thung lũng sâu, một bên vách núi cheo leo. Ô Quy Hồ kéo dài khoảng 50 km nối liền hai tỉnh Lào Cai - Lai Châu. Gợi ý cho những bạn muốn chụp ảnh đẹp trên đường đèo này là đến vào thời điểm hoàng hôn, khoảng 17 - 17h30. Khi mặt trời dần nấp sau dãy núi, toàn bộ cung đèo được phủ một sắc vàng đẹp mơ màng. Tuy nhiên, thời tiết Sa Pa thay đổi rất nhanh, có thể chỉ 10 phút sau khi nắng và hoàng hôn xuống thì mây đen đã bao phủ.Dọc đường đèo tới các thác Bạc, thác Tình Yêu có nhiều lán hàng bán đặc sản địa phương, đồ ăn, thức uống, cung cấp chỗ ngồi cho khách nghỉ chân. Đi đèo Ô Quy Hồ bạn nên mang theo áo mưa và áo khoác dày, đi xe máy số, nhớ đội mũ bảo hiểm và chú ý quan sát mỗi đoạn cua.",
+          "qas": [
+            {
+              "question": "Đèo Ô Quy Hồ được mệnh danh là gì ?",
+              "id": "5cc2ab84-a637-480e-9941-eaf1cba15f0e",
+              "answers": [
+                {
+                  "answer_start": 23,
+                  "text": "được mệnh danh là Vua của những cung đèo với một bên là thung lũng sâu, một bên vách núi cheo leo"
+                }
+              ]
+            },
+            {
+              "question": "Đèo Ô Quy Hồ kéo dài khoảng bao nhiêu km ?",
+              "id": "fde1aeb4-c6d8-430c-85ce-a4061bddba5c",
+              "answers": [
+                {
+                  "answer_start": 139,
+                  "text": "khoảng 50 km "
+                }
+              ]
+            },
+            {
+              "question": "Đèo Ô Quy Hồ nối dài 2 tỉnh nào ?",
+              "id": "8c5d6cf7-a470-481d-845d-e2ef72a4db00",
+              "answers": [
+                {
+                  "answer_start": 170,
+                  "text": "Lào Cai - Lai Châu"
+                }
+              ]
+            },
+            {
+              "question": "Nếu bạn muốn chụp ảnh ở Đèo Ô Quy Hồ thì nên chọn thời điểm nào ?",
+              "id": "bde95ded-9f80-41f4-a0c6-7687359fd0e9",
+              "answers": [
+                {
+                  "answer_start": 268,
+                  "text": "hoàng hôn, khoảng 17 - 17h30."
+                }
+              ]
+            },
+            {
+              "question": "Hoàng hôn ở Đèo Ô Quy Hồ được miêu tả như thế nào ?",
+              "id": "5b88c224-3bda-4c1e-91d3-ba98bd86d266",
+              "answers": [
+                {
+                  "answer_start": 298,
+                  "text": "Khi mặt trời dần nấp sau dãy núi, toàn bộ cung đèo được phủ một sắc vàng đẹp mơ màng."
+                }
+              ]
+            },
+            {
+              "question": "Các thác nổi tiếng khi tới Đèo Ô Quy Hồ là gì ?",
+              "id": "283403db-3747-4e67-93d3-a7407a6a6ae9",
+              "answers": [
+                {
+                  "answer_start": 523,
+                  "text": "các thác Bạc, thác Tình Yêu"
+                }
+              ]
+            },
+            {
+              "question": "Dọc đường có nhiều lán hàng bán không ?",
+              "id": "63dc55bf-a38f-418d-97e5-700c571e8dff",
+              "answers": [
+                {
+                  "answer_start": 551,
+                  "text": "có nhiều lán hàng bán đặc sản địa phương, đồ ăn, thức uống, cung cấp chỗ ngồi cho khách nghỉ chân"
+                }
+              ]
+            },
+            {
+              "question": "Đi Đèo Ô Quy Hồ bạn nên mang theo gì ?",
+              "id": "53c9b3be-26cf-4442-9248-74afb6cd6c8f",
+              "answers": [
+                {
+                  "answer_start": 670,
+                  "text": "nên mang theo áo mưa và áo khoác dày"
+                }
+              ]
+            },
+            {
+              "question": "Nếu đi xe máy đến Đèo Ô Quy Hồ thì cần lưu ý gì ?",
+              "id": "713d1558-7c12-403f-9281-17427e87edd5",
+              "answers": [
+                {
+                  "answer_start": 708,
+                  "text": "đi xe máy số, nhớ đội mũ bảo hiểm và chú ý quan sát mỗi đoạn cua."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Thác Bạc - Thác Tình Yêu: Nằm trên trục đường đèo Ô Quy Hồ, cách đỉnh đèo 3 km, thác Bạc và thác Tình Yêu cũng là điểm dừng chân không thể bỏ qua của nhiều bạn trẻ. Thác Bạc có bậc thang lên đỉnh thác nhưng càng lên sẽ càng lạnh và nước chảy mạnh, cần chú ý tránh trơn trượt. Thác Tình Yêu tuy đường từ cổng vào thác 1,5 km và phải đi bộ nhưng đường đi rừng thơ mộng. Vé vào thác Bạc 20.000 đồng một người, vé thác Tình Yêu 75.000 đồng một người.",
+          "qas": [
+            {
+              "question": "Thác Bạc - Thác Tình Yêu cách đỉnh đèo Ô Quy Hồ bao xa ?",
+              "id": "20df7c6f-d65a-4155-95e3-e910fdad4af2",
+              "answers": [
+                {
+                  "answer_start": 74,
+                  "text": "3 km"
+                }
+              ]
+            },
+            {
+              "question": "Thác Bạc có những gì ?",
+              "id": "578423db-48c3-4168-a25b-44b298b38afc",
+              "answers": [
+                {
+                  "answer_start": 165,
+                  "text": "Thác Bạc có bậc thang lên đỉnh thác nhưng càng lên sẽ càng lạnh và nước chảy mạnh, cần chú ý tránh trơn trượt"
+                }
+              ]
+            },
+            {
+              "question": "Thác Tình Yêu có đường vào cổng dài bao nhiêu km ?",
+              "id": "25df3b26-5614-43da-9ce2-505c175cce81",
+              "answers": [
+                {
+                  "answer_start": 317,
+                  "text": "1,5 km"
+                }
+              ]
+            },
+            {
+              "question": "Đi vào Thác Tình Yêu bằng gì ?",
+              "id": "dafd5bc9-44d5-43dd-93af-3f2f3d7ee0e4",
+              "answers": [
+                {
+                  "answer_start": 327,
+                  "text": "phải đi bộ"
+                }
+              ]
+            },
+            {
+              "question": "Vé vào thác Bạc có giá bao nhiêu ?",
+              "id": "92366ca6-d8c8-4b01-9de8-d04f3b2fc5a4",
+              "answers": [
+                {
+                  "answer_start": 384,
+                  "text": "20.000 đồng một người"
+                }
+              ]
+            },
+            {
+              "question": "Vé vào thác Tình Yêu có giá bao nhiêu ?",
+              "id": "3776af76-f992-4b05-bdb1-217d85c896c3",
+              "answers": [
+                {
+                  "answer_start": 424,
+                  "text": "75.000 đồng một người."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Ăn uống: Đến Sa Pa phải ăn đồ nướng, bởi đây là món ăn có mặt khắp nơi và nhiều loại từ các xiên thịt lợn, gà, rau củ cuốn cho tới trứng, ngô, khoai, cơm lam. Giá đồ nướng chỉ từ 20.000 - 100.000 đồng mỗi loại. Ngoài ra, cá hồi, cá tầm nấu lẩu hoặc ăn sống cũng rất được ưa chuộng. Một nồi lẩu giá 300.000 - 600.000 đồng phù hợp cho 3 - 6 người ăn.Những quán ăn đặc sản du khách có thể tham khảo là thắng cố A Quỳnh (đường Thạch Sơn), các món lẩu cá ở Hotpot Center (đường Xuân Viên), phở cốn sủi ông Há (468 Điện Biên Phủ). Với những du khách trẻ, yêu thích món ăn và không gian trẻ trung nên đến với Mị nướng (đường Điện Biên Phủ) chuyên về các món nướng than hay Tiệm gà Túk Túk với sườn cay nướng tảng, gà lắc phô mai... và H'Mong Pizza ở Pi's Boutique.Ở trung tâm thị xã cũng có rất nhiều quán cà phê để du khách lựa chọn. Tuy nhiên nếu bạn muốn tìm một không gian yên tĩnh, có view thung lũng hoặc núi rừng có thể đến với Coóng Cafe (cùng trong homestay Coóng ở đường đi bản Cát Cát), Vietrekking (đường Hoàng Liên), Gem Valley Cafe (bản Cát Cát).",
+          "qas": [
+            {
+              "question": "Đến Sa Pa thì phải ăn món ăn chế biến như nào ?",
+              "id": "d584b9f4-6c24-41b7-a9d6-063e5784196d",
+              "answers": [
+                {
+                  "answer_start": 19,
+                  "text": "phải ăn đồ nướng"
+                }
+              ]
+            },
+            {
+              "question": "Vì sao đến Sa Pa nên ăn đồ nướng ?",
+              "id": "d6b50633-d45c-4315-a3c8-fa6ca9126e2d",
+              "answers": [
+                {
+                  "answer_start": 37,
+                  "text": "bởi đây là món ăn có mặt khắp nơi và nhiều loại từ các xiên thịt lợn, gà, rau củ cuốn cho tới trứng, ngô, khoai, cơm lam."
+                }
+              ]
+            },
+            {
+              "question": "Giá đồ nướng ở Sa Pa khoảng bao nhiêu ?",
+              "id": "42a746cd-0df9-4a02-a9aa-3cfaf55b5601",
+              "answers": [
+                {
+                  "answer_start": 172,
+                  "text": "chỉ từ 20.000 - 100.000 đồng mỗi loại"
+                }
+              ]
+            },
+            {
+              "question": "Ngoài đồ nướng, thì món nào còn rất được du khách ưu chuộng ở Sa Pa ?",
+              "id": "6f9f7e9b-a298-4d24-84c7-f0d301768691",
+              "answers": [
+                {
+                  "answer_start": 221,
+                  "text": "cá hồi, cá tầm nấu lẩu hoặc ăn sống cũng rất được ưa chuộng"
+                }
+              ]
+            },
+            {
+              "question": "Một nồi lẩu giá bao nhiêu ở Sa Pa ?",
+              "id": "72371a4f-5669-4873-8874-00842b44010f",
+              "answers": [
+                {
+                  "answer_start": 298,
+                  "text": "300.000 - 600.000 đồng"
+                }
+              ]
+            },
+            {
+              "question": "Một nồi lẩu phù hợp cho bao nhiêu người ăn ?",
+              "id": "77979345-b0a7-4d3a-bd36-c817307fedc0",
+              "answers": [
+                {
+                  "answer_start": 333,
+                  "text": "3 - 6 người ăn"
+                }
+              ]
+            },
+            {
+              "question": "Một số quán ăn đặc sản ở Sa Pa là gì ?",
+              "id": "4ab151d0-f528-49c4-9e23-5acb5e4b11e8",
+              "answers": [
+                {
+                  "answer_start": 399,
+                  "text": "thắng cố A Quỳnh (đường Thạch Sơn), các món lẩu cá ở Hotpot Center (đường Xuân Viên), phở cốn sủi ông Há (468 Điện Biên Phủ)"
+                }
+              ]
+            },
+            {
+              "question": "Với du khách trẻ yêu thích không gian trẻ trung thì nên đến đâu ?",
+              "id": "b2ff23e5-ceda-4eb7-9e85-d9e380b3d914",
+              "answers": [
+                {
+                  "answer_start": 602,
+                  "text": "Mị nướng (đường Điện Biên Phủ) chuyên về các món nướng than hay Tiệm gà Túk Túk với sườn cay nướng tảng, gà lắc phô mai... và H'Mong Pizza ở Pi's Boutique"
+                }
+              ]
+            },
+            {
+              "question": "Ở trung tâm thị xã của Sa Pa có nhiều quán gì ?",
+              "id": "accb9ce8-c4bf-4819-bf47-2faad74f1000",
+              "answers": [
+                {
+                  "answer_start": 757,
+                  "text": "Ở trung tâm thị xã cũng có rất nhiều quán cà phê để du khách lựa chọn."
+                }
+              ]
+            },
+            {
+              "question": "Nếu muốn tìm quán cà phê có không gian yên tĩnh, view thung lũng ở Sa Pa thì nên đến đâu ?",
+              "id": "e18efa10-06ed-4cfa-9b05-93ef5e84e06d",
+              "answers": [
+                {
+                  "answer_start": 928,
+                  "text": "Coóng Cafe (cùng trong homestay Coóng ở đường đi bản Cát Cát), Vietrekking (đường Hoàng Liên), Gem Valley Cafe (bản Cát Cát)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Là một đất nước nhiệt đới, những vùng cao nguyên với khí hậu ôn đới luôn là những địa điểm du lịch “sốt” ở Việt Nam, và Sapa là một trong số đó. Thị trấn sương mù này từ lâu vốn đã được mệnh danh là vùng đất mê hoặc đối với những người yêu thích khung cảnh thiên nhiên hùng vĩ.Tọa lạc trên một sườn núi cao 1.500 – 1.600 mét trên mực nước biển, Sapa là một thị trấn nhỏ của tỉnh Lào Cai, cách trung tâm tỉnh 40 km và cách Hà Nội 376 km. Với vị trí thuận lợi như thế, Sapa sở hữu khí hậu nhiệt đới với bốn mùa đa dạng, và đặc biệt là một trong những nơi hiếm hoi ở Việt Nam có tuyết rơi vào mùa đông.Kết hợp cùng cảnh sắc thiên nhiên hùng vĩ, trữ tình, văn hóa các dân tộc đa dạng, con người chân thành và hiếu khách, Sapa là điểm đến tuyệt vời dù bạn có là một du khách mê khám phá hay đang tìm kiếm một chốn nghỉ dưỡng hoàn hảo",
+          "qas": [
+            {
+              "question": "Sa Pa còn được gọi là gì ?",
+              "id": "2d512758-b459-4d60-93f1-ca832e240399",
+              "answers": [
+                {
+                  "answer_start": 145,
+                  "text": "Thị trấn sương mù"
+                }
+              ]
+            },
+            {
+              "question": "Sa Pa được mệnh danh là cùng đất gì ?",
+              "id": "b987de50-340d-444b-9402-1ae60846b23e",
+              "answers": [
+                {
+                  "answer_start": 181,
+                  "text": "được mệnh danh là vùng đất mê hoặc đối với những người yêu thích khung cảnh thiên nhiên hùng vĩ."
+                }
+              ]
+            },
+            {
+              "question": "Sa Pa tọa lạc trên sườn núi cao bao nhiêu ?",
+              "id": "eaf1d4b7-9dfd-4b24-b8fb-5ba3d3c6f01a",
+              "answers": [
+                {
+                  "answer_start": 303,
+                  "text": "cao 1.500 – 1.600 mét trên mực nước biển"
+                }
+              ]
+            },
+            {
+              "question": "Sa Pa cách trung tâm tỉnh Lào Cai bao xa ?",
+              "id": "6f8a4af1-a151-459f-8fd5-040d77f48e85",
+              "answers": [
+                {
+                  "answer_start": 408,
+                  "text": "40 km"
+                }
+              ]
+            },
+            {
+              "question": "Sa Pa cách Hà Nội bao xa ?",
+              "id": "c12df1dc-5942-433b-ba6d-87c92e25b7bc",
+              "answers": [
+                {
+                  "answer_start": 429,
+                  "text": "376 km"
+                }
+              ]
+            },
+            {
+              "question": "Sa Pa có khí nhậu như thế nào ?",
+              "id": "4f704a03-4cc8-4934-8c0a-9e8e1278b705",
+              "answers": [
+                {
+                  "answer_start": 437,
+                  "text": "Với vị trí thuận lợi như thế, Sapa sở hữu khí hậu nhiệt đới với bốn mùa đa dạng"
+                }
+              ]
+            },
+            {
+              "question": "Sa Pa có tuyết rơi hay không ?",
+              "id": "23753b6c-8fab-40a4-b903-39e79d806d40",
+              "answers": [
+                {
+                  "answer_start": 521,
+                  "text": "đặc biệt là một trong những nơi hiếm hoi ở Việt Nam có tuyết rơi vào mùa đông."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
