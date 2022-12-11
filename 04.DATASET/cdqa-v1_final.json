@@ -446,7 +446,7 @@
               "id": "63cff737-6062-4581-958a-533b2135ff21",
               "answers": [
                 {
-                  "answer_start": -1,
+                  "answer_start": 39,
                   "text": "bán đảo Sơn Trà sở hữu cánh rừng nguyên sinh rộng lớn và nhiều bãi tắm đẹp như Tiên Sa, Đá Đen, bãi Bụt... "
                 }
               ]
@@ -551,8 +551,8 @@
               "id": "74d6335d-dfbe-42d4-9169-829a2f6ac2fe",
               "answers": [
                 {
-                  "answer_start": -1,
-                  "text": "Bán đảo là nơi sinh sống của hàng trăm loài động vật."
+                  "answer_start": 0,
+                  "text": "Bán đảo cũng là nơi sinh sống của hàng trăm loài động vật."
                 }
               ]
             },
@@ -4856,7 +4856,7 @@
               "id": "8d2992e9-2ec8-4068-81b5-ee804e272f85",
               "answers": [
                 {
-                  "answer_start": -1,
+                  "answer_start": 206,
                   "text": "Là khu dự trữ sinh quyển mới của thế giới"
                 }
               ]
@@ -4911,7 +4911,7 @@
               "id": "18b20b95-e88e-42c4-bef1-610448774d7b",
               "answers": [
                 {
-                  "answer_start": -1,
+                  "answer_start": 144,
                   "text": "Từ tháng 9 đến tháng 11"
                 }
               ]
@@ -4942,16 +4942,6 @@
           "context": "Có nhiều phương tiện để tới Ninh Thuận. Nếu đi tàu hỏa, bạn xuống ga Tháp Chàm. Nếu đi máy bay, sân bay gần nhất là Cam Ranh (Khánh Hòa), cách TP Phan Rang - Tháp Chàm gần 70 km. Các phương tiện khác như ôtô hay xe máy có thể di chuyển thuận lợi trên quốc lộ 1 hoặc đường ven biển. ",
           "qas": [
             {
-              "question": "Bạn có thể dùng phương tiện nào để đi đến Ninh Thuận ?",
-              "id": "d7b43488-ea1e-4ec3-940c-3391599274d7",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "tàu hỏa, máy bay, ô tô hay xe máy"
-                }
-              ]
-            },
-            {
               "question": "Nếu đi bằng tàu hỏa tới Ninh Thuận, thì xuống ga nào ?",
               "id": "6c6e0a2c-8184-4c32-813f-8b1336b7d6a5",
               "answers": [
@@ -4966,8 +4956,8 @@
               "id": "8e72d427-8b39-4142-8771-1aad3378cd42",
               "answers": [
                 {
-                  "answer_start": -1,
-                  "text": "sân bay Cam Ranh (Khánh Hòa)"
+                  "answer_start": 116,
+                  "text": "Cam Ranh (Khánh Hòa)"
                 }
               ]
             },
@@ -5072,16 +5062,6 @@
           "context": "Tuy nhiên, Ninh Thuận lại có một khu nghỉ đẳng cấp 6 sao là Amanoi thuộc khu vực vịnh Vĩnh Hy, với giá phòng từ 20 triệu đồng một đêm. Ngoài ra, nếu thích hòa mình với thiên nhiên, bạn có thể đến khu du lịch Tanyoli và ngủ qua đêm trong những chiếc lều Mông Cổ.",
           "qas": [
             {
-              "question": "Ninh Thuận có khu nghỉ đẳng cấp 6 sao không ?",
-              "id": "be431171-7a02-4eec-879f-23bb9b657dbb",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "Có"
-                }
-              ]
-            },
-            {
               "question": "Ninh Thuận có khu nghỉ đẳng cấp 6 sao tên gì ?",
               "id": "8e166051-8449-448f-a68b-42991b0bac17",
               "answers": [
@@ -5143,16 +5123,6 @@
                 {
                   "answer_start": 0,
                   "text": "Vườn quốc gia Núi Chúa"
-                }
-              ]
-            },
-            {
-              "question": "Ninh Thuận có vườn quốc gia không ?",
-              "id": "1e9d8b64-c928-4550-a42b-58a1ffefc187",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "Có. Vườn quốc gia Núi Chúa"
                 }
               ]
             }
@@ -5301,7 +5271,7 @@
               "id": "af2942f2-f036-4560-b3b2-90fd0cfce248",
               "answers": [
                 {
-                  "answer_start": -1,
+                  "answer_start": 87,
                   "text": "Có địa thế núi chắn sóng, chồng lên nhau tạo nên những hang động đẹp mắt "
                 }
               ]
@@ -5425,16 +5395,6 @@
                   "text": "Tới làng, du khách có dịp trổ tài làm gốm hoặc mua gốm về làm quà lưu niệm"
                 }
               ]
-            },
-            {
-              "question": "Quà lưu niệm ở đây có giá như thế nào ?",
-              "id": "592d9698-4d41-4b79-bfaa-3689c976e53f",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "Từ 30.000 - 100.000 đồng"
-                }
-              ]
             }
           ]
         },
@@ -5456,7 +5416,7 @@
               "id": "5862b021-0e89-4bc3-ae75-e5b9b329b219",
               "answers": [
                 {
-                  "answer_start": -1,
+                  "answer_start": 24,
                   "text": "được người Chăm xây dựng"
                 }
               ]
@@ -5656,8 +5616,8 @@
               "id": "08168b7a-b911-46fb-af24-4f696cc5dd40",
               "answers": [
                 {
-                  "answer_start": -1,
-                  "text": "khi lên tới đỉnh hải đăng bạn sẽ được chiêm ngưỡng khung cảnh thiên nhiên hùng vĩ."
+                  "answer_start": 286,
+                  "text": "khung cảnh thiên nhiên hùng vĩ."
                 }
               ]
             },
@@ -6015,26 +5975,6 @@
                   "text": "150.000 đồng/ ngày"
                 }
               ]
-            },
-            {
-              "question": "Qua đêm xe số phụ thu bao nhiêu ?",
-              "id": "4c4f29a3-72e7-4c7d-a10d-0b7287bd92fb",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "xe máy qua đêm phụ thu thêm 50.000 đồng"
-                }
-              ]
-            },
-            {
-              "question": "Qua đêm xe tay ga phụ thu bao nhiêu ?",
-              "id": "57f0ab78-915e-4057-a8d6-7e8405ad96e8",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "xe tay ga qua đêm phụ thu thêm 60.000 đồng"
-                }
-              ]
             }
           ]
         },
@@ -6076,16 +6016,6 @@
         {
           "context": "\nCòn một lối đi khác dẫn đến vịnh Vĩnh Hy đó là xuất phát từ cầu Mỹ Thanh, thành phố Cam Ranh, Khánh Hòa theo đường Nước Ngọt. Đi theo đường này bạn sẽ không thấy những cánh đồng cỏ thay vào đó là những đồi núi nhiều hình thù cùng hàng dương nơi những bãi cát trải dài.",
           "qas": [
-            {
-              "question": "Còn lối khác đến Vĩnh Hy không ?",
-              "id": "8f490c0d-7333-4c71-884f-3a13584d107b",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "Có"
-                }
-              ]
-            },
             {
               "question": "Đường khác đến vịnh Vĩnh Hy đi như thế nào ?",
               "id": "83b88245-c170-405e-8e89-6474be75e66e",
@@ -19981,1819 +19911,1819 @@
       ]
     },
     {
-      "title": "Hà Nội",
-      "paragraphs": [
-        {
-          "context": "Những công trình từ thời Pháp thuộc, hàng quán vỉa hè bày bán đặc sản địa phương, xe máy luồn lách trên đường đông đúc... là những ấn tượng đầu tiên của du khách về Hà Nội. Với nhiều người, Hà Nội có tất cả những thứ thú vị để khám phá nơi đây theo cách riêng của mình. Thời gian lý tưởng nhất để du lịch Hà Nội là vào mùa thu từ tháng 8 đến tháng 11 và mùa xuân từ tháng 3 đến tháng 4. Không ít người cho rằng mùa thu là lúc tiết trời đẹp nhất trong năm ở Hà Nội, với bầu trời xanh trong, gió heo may se se lạnh, lá vàng rơi, mùi hoa sữa thoảng... Mùa xuân về tiết trời ấm áp, đường phố như thay áo mới khi cây cối đâm chồi nảy lộc, muôn hoa đua nở...",
-          "qas": [
-            {
-              "question": "Những ấn tượng đầu tiên của du khách về Hà Nội là gì ?",
-              "id": "0d2e7e47-029a-45f6-af3c-c556ca0a237d",
-              "answers": [
-                {
-                  "answer_start": 0,
-                  "text": "Những công trình từ thời Pháp thuộc, hàng quán vỉa hè bày bán đặc sản địa phương, xe máy luồn lách trên đường đông đúc... "
-                }
-              ]
-            },
-            {
-              "question": "Thời gian lý tưởng nhất để du lịch Hà Nội là khi nào ?",
-              "id": "ac73a9e3-2636-4263-8ca3-c98771c41b87",
-              "answers": [
-                {
-                  "answer_start": 270,
-                  "text": "Thời gian lý tưởng nhất để du lịch Hà Nội là vào mùa thu từ tháng 8 đến tháng 11 và mùa xuân từ tháng 3 đến tháng 4"
-                }
-              ]
-            },
-            {
-              "question": "Mùa thu ở Hà Nội như thế nào ?",
-              "id": "0fbeaf9e-98fd-44e9-9569-c8033e63a17e",
-              "answers": [
-                {
-                  "answer_start": 411,
-                  "text": "mùa thu là lúc tiết trời đẹp nhất trong năm ở Hà Nội, với bầu trời xanh trong, gió heo may se se lạnh, lá vàng rơi, mùi hoa sữa thoảng... "
-                }
-              ]
-            },
-            {
-              "question": "Mùa xuân ở Hà Nội như thế nào ?",
-              "id": "569da796-eb6b-4f98-83db-f61113ebbd5f",
-              "answers": [
-                {
-                  "answer_start": 549,
-                  "text": "Mùa xuân về tiết trời ấm áp, đường phố như thay áo mới khi cây cối đâm chồi nảy lộc, muôn hoa đua nở..."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Hà Nội được ví như trái tim của Việt Nam, do đó du khách có thể di chuyển thuận lợi đến thủ đô bằng máy bay, tàu hỏa, xe khách, ôtô riêng hay xe máy từ các tỉnh thành khác.Để di chuyển trong thành phố, bạn có thể đi ôtô, xe máy hay xe đạp. Nhưng trải nghiệm sẽ thi vị hơn nếu bạn ngồi xích lô ngắm 36 phố phường, đi tour môtô ba bánh hay vespa cổ. Một gợi ý đáng cân nhắc khác là xe buýt hai tầng, giá vé từ 130.000 - 599.000 đồng.",
-          "qas": [
-            {
-              "question": "Hà Nội được ví như vật gì của Việt Nam ?",
-              "id": "39e187ec-03b3-4493-86fb-3b036a9c8839",
-              "answers": [
-                {
-                  "answer_start": 0,
-                  "text": "Hà Nội được ví như trái tim của Việt Nam"
-                }
-              ]
-            },
-            {
-              "question": "Du khách có thể thuận lợi đến thủ đô bằng gì ?",
-              "id": "0ab4fea6-4b50-4026-b5cd-745c7d5bda02",
-              "answers": [
-                {
-                  "answer_start": 48,
-                  "text": "du khách có thể di chuyển thuận lợi đến thủ đô bằng máy bay, tàu hỏa, xe khách, ôtô riêng hay xe máy"
-                }
-              ]
-            },
-            {
-              "question": "Để di chuyển trong thành phố Hà Nội , bạn nên đi bằng gì ?",
-              "id": "f8b6552d-65f4-47b3-8261-3b6b821a3084",
-              "answers": [
-                {
-                  "answer_start": 172,
-                  "text": "Để di chuyển trong thành phố, bạn có thể đi ôtô, xe máy hay xe đạp"
-                }
-              ]
-            },
-            {
-              "question": "Trải nghiệm thú vị khi di chuyển trong thành phố là gì ?",
-              "id": "0e9b7a86-524c-4322-beeb-f7b91d6b4f22",
-              "answers": [
-                {
-                  "answer_start": 246,
-                  "text": "trải nghiệm sẽ thi vị hơn nếu bạn ngồi xích lô ngắm 36 phố phường, đi tour môtô ba bánh hay vespa cổ"
-                }
-              ]
-            },
-            {
-              "question": "Giá vé xe buýt hai tầng ở Hà Nội bao nhiêu ?",
-              "id": "33cd952e-f31c-4210-a4b9-3624e0fcabff",
-              "answers": [
-                {
-                  "answer_start": 397,
-                  "text": " giá vé từ 130.000 - 599.000 đồng."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Hà Nội có nhiều lựa chọn lưu trú cho du khách như nhà nghỉ bình dân, homestay, khách sạn, resort... phù hợp với túi tiền và sở thích. Nếu đi dạo trong phố cổ, bạn có thể thuê từ giường kiểu 'Tây balo' với những phòng dorm tập thể khoảng 100.000 đồng một đêm, cho đến khách sạn cao cấp giá 3.000.000 - 5.000.000 đồng một đêm.Một số khách sạn đặc biệt phải kể đến như Sofitel Legend Metropole Hà Nội mang nét kiến trúc thời thuộc địa Pháp, chỉ cách Nhà hát Lớn vài bước chân là Hilton Hanoi Opera, Apricot Hotel ngay bên bờ hồ Hoàn Kiếm, khách sạn nổi tiếng với view ngắm hồ Tây là Sheraton Hà Nội và InterContinental Hanoi Westlake, Lotte Hotel Hanoi trên tầng cao của tòa Lotte Center 65 tầng...",
-          "qas": [
-            {
-              "question": "Hà Nội có các lựa chọn lưu trú nào cho du khách ?",
-              "id": "0e5ccd00-fc57-4b60-a9b1-4e32e5d26a8a",
-              "answers": [
-                {
-                  "answer_start": 0,
-                  "text": "Hà Nội có nhiều lựa chọn lưu trú cho du khách như nhà nghỉ bình dân, homestay, khách sạn, resort... phù hợp với túi tiền và sở thích."
-                }
-              ]
-            },
-            {
-              "question": "Giá thuê giường kiểu 'Tây balo' là bao nhiêu ?",
-              "id": "11117bac-a05c-4ea8-9487-4e73de7808dd",
-              "answers": [
-                {
-                  "answer_start": 178,
-                  "text": "giường kiểu 'Tây balo' với những phòng dorm tập thể khoảng 100.000 đồng một đêm"
-                }
-              ]
-            },
-            {
-              "question": "Khách sạn cao cấp ở Hà Nội giá bao nhiêu ?",
-              "id": "5e76d65f-07d4-4a6b-96e3-2763713a8619",
-              "answers": [
-                {
-                  "answer_start": 267,
-                  "text": "khách sạn cao cấp giá 3.000.000 - 5.000.000 đồng một đêm"
-                }
-              ]
-            },
-            {
-              "question": "Khách sạn Sofitel Legend Metropole Hà Nội mang nét kiến trúc gì ?",
-              "id": "708e29e8-d475-41c2-86a9-d9f9f638293b",
-              "answers": [
-                {
-                  "answer_start": 366,
-                  "text": "Sofitel Legend Metropole Hà Nội mang nét kiến trúc thời thuộc địa Pháp"
-                }
-              ]
-            },
-            {
-              "question": "Khách sạn Apricot Hotel nằm ở đâu ?",
-              "id": "b1c80a31-6d41-4e72-b115-36c1b8b3105d",
-              "answers": [
-                {
-                  "answer_start": 496,
-                  "text": "Apricot Hotel ngay bên bờ hồ Hoàn Kiếm"
-                }
-              ]
-            },
-            {
-              "question": "Khách sạn nào nổi tiếng với view ngắm hồ Tây ?",
-              "id": "31ceede2-d897-4e94-9304-80d248afcdb0",
-              "answers": [
-                {
-                  "answer_start": 580,
-                  "text": "Sheraton Hà Nội và InterContinental Hanoi Westlake"
-                }
-              ]
-            },
-            {
-              "question": "Khách sạn Hilton Hanoi Opera nằm ở đâu ?",
-              "id": "db56ae4c-9e7a-4c46-be8d-4e7f4e063aa2",
-              "answers": [
-                {
-                  "answer_start": 438,
-                  "text": "chỉ cách Nhà hát Lớn vài bước chân"
-                }
-              ]
-            },
-            {
-              "question": "Lotte Hotel Hanoi nằm ở đâu ?",
-              "id": "1343d2aa-e69a-43df-89f8-3732e288062f",
-              "answers": [
-                {
-                  "answer_start": 632,
-                  "text": "Lotte Hotel Hanoi trên tầng cao của tòa Lotte Center 65 tầng..."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Hoàng thành Thăng Long là di sản văn hóa thế giới nằm giữa lòng Hà Nội và đã có bề dày lịch sử hơn 1300 năm. Nơi đây chứa đựng những di tích, di vật độc đáo, minh chứng cho lịch sử của Thăng Long – Hà Nội và lịch sử dân tộc Việt Nam trải qua nhiều thời đại. Địa chỉ: 19C Hoàng Diệu, Điện Bàn, Ba Đình.Hoàn Kiếm là hồ nước ngọt tự nhiên của thành phố Hà Nộ, kết nối các phố Hàng Ngang, Hàng Đào, Cầu Gỗ, Lương Văn Can, Lò Sũ... với khu phố Tây do người Pháp quy hoạch cách đây hơn một thế kỷ là Bảo Khánh, Nhà Thờ, Tràng Thi, Hàng Bài, Đinh Tiên Hoàng, Tràng Tiền... Dạo quanh hồ, ngoài tận hưởng thiên nhiên trong lành giữa phố thị, bạn có thể ghé thăm đền Ngọc Sơn, phố cổ...",
-          "qas": [
-            {
-              "question": "Hoàng thành Thăng Long là gì ?",
-              "id": "a8ee0636-6f88-4dce-9bf7-c3f5eb87f809",
-              "answers": [
-                {
-                  "answer_start": 0,
-                  "text": "Hoàng thành Thăng Long là di sản văn hóa thế giới nằm giữa lòng Hà Nội "
-                }
-              ]
-            },
-            {
-              "question": "Hoàng thành Thăng Long có bề dày lịch sử bao lâu ?",
-              "id": "8527fb8b-5308-47e6-b849-30708e88b596",
-              "answers": [
-                {
-                  "answer_start": 77,
-                  "text": "có bề dày lịch sử hơn 1300 năm"
-                }
-              ]
-            },
-            {
-              "question": "Hoàng thành Thăng Long chứa đựng những gì ?",
-              "id": "add647a7-5d29-4d0c-a247-66d631525d09",
-              "answers": [
-                {
-                  "answer_start": 109,
-                  "text": "Nơi đây chứa đựng những di tích, di vật độc đáo, minh chứng cho lịch sử của Thăng Long – Hà Nội và lịch sử dân tộc Việt Nam trải qua nhiều thời đại."
-                }
-              ]
-            },
-            {
-              "question": "Địa chỉ của Hoàng thành Thăng Long là gì ?",
-              "id": "bf3f597b-cab7-4526-a123-bccb5fdf66be",
-              "answers": [
-                {
-                  "answer_start": 258,
-                  "text": "Địa chỉ: 19C Hoàng Diệu, Điện Bàn, Ba Đình"
-                }
-              ]
-            },
-            {
-              "question": "Hồ Hoàn Kiếm là hồ nước ngọt hay nước mặn ?",
-              "id": "277e4341-5994-4f27-b9d9-e6ebdd1d5179",
-              "answers": [
-                {
-                  "answer_start": 301,
-                  "text": "Hoàn Kiếm là hồ nước ngọt tự nhiên "
-                }
-              ]
-            },
-            {
-              "question": "Hồ Hoàn Kiếm kết nối các phố nào của Hà Nội ?",
-              "id": "712aaeec-c2e3-48f6-809c-2d55d3288255",
-              "answers": [
-                {
-                  "answer_start": 357,
-                  "text": "kết nối các phố Hàng Ngang, Hàng Đào, Cầu Gỗ, Lương Văn Can, Lò Sũ... "
-                }
-              ]
-            },
-            {
-              "question": "Khu phố Tây do nước nào quy hoạch ?",
-              "id": "862b8e6d-c6be-48ef-9873-0bf1f052c290",
-              "answers": [
-                {
-                  "answer_start": 431,
-                  "text": "khu phố Tây do người Pháp quy hoạch"
-                }
-              ]
-            },
-            {
-              "question": "Khu phố Tây được quy hoạch cách đây bao lâu ?",
-              "id": "55d73152-e61b-48ee-8dd3-210156e86d83",
-              "answers": [
-                {
-                  "answer_start": 467,
-                  "text": "cách đây hơn một thế kỷ "
-                }
-              ]
-            },
-            {
-              "question": "Khu phố Tây gồm những gì ?",
-              "id": "1a3f5260-6b17-41f9-9b59-a90c0e6cc998",
-              "answers": [
-                {
-                  "answer_start": 494,
-                  "text": "Bảo Khánh, Nhà Thờ, Tràng Thi, Hàng Bài, Đinh Tiên Hoàng, Tràng Tiền... "
-                }
-              ]
-            },
-            {
-              "question": "Dạo quanh hồ , du khách có thể tận hưởng gì ?",
-              "id": "8467916e-df0f-4281-98aa-cd9e7d3790c9",
-              "answers": [
-                {
-                  "answer_start": 566,
-                  "text": "Dạo quanh hồ, ngoài tận hưởng thiên nhiên trong lành giữa phố thị, bạn có thể ghé thăm đền Ngọc Sơn, phố cổ..."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Không chỉ đơn thuần bắc qua hai bờ sông Hồng, cầu Long Biên còn chính là dấu ấn nối liền giữa hiện tại và ký ức xưa của những người dân yêu Hà Nội. Cầu Long Biên được xây dựng vào năm 1898, dân gian còn gọi bằng cái tên cầu Sông Cái hay cầu Bồ Đề vì cầu bắc qua bến Bồ Đề, Gia Lâm, Hà Nội. Với chiều dài 1.682 m cùng phần cầu dẫn dài 896 m, cầu Long Biên được chia làm 9 khung, mỗi khung dài 61 m. Theo thiết kế ban đầu, cầu có tất cả 19 nhịp dầm thép đặt trên 20 trụ cao hơn 40 m. Nằm trên hòn đảo phía đông Hồ Tây, chùa Trấn Quốc từng vào top những ngôi chùa đẹp nhất thế giới. Chùa có lịch sử 1.500 năm, là trung tâm Phật giáo của kinh thành Thăng Long vào thời Lý và Trần. Công trình được công nhận là Di tích lịch sử văn hóa cấp quốc gia năm 1962. Năm 2003, chùa tổ chức khánh thành Bảo tháp Lục độ đài sen cao 15 m, 11 tầng.",
-          "qas": [
-            {
-              "question": "Cầu Long Biên bắt qua hai bờ sông gì ?",
-              "id": "13e5d945-c0cd-4502-a475-a10957f99758",
-              "answers": [
-                {
-                  "answer_start": 20,
-                  "text": "bắc qua hai bờ sông Hồng"
-                }
-              ]
-            },
-            {
-              "question": "Cầu Long Biên là dấu ấn nối liền điều gì ?",
-              "id": "3c85a71d-3599-497e-ae3d-fb7d2065173e",
-              "answers": [
-                {
-                  "answer_start": 46,
-                  "text": "cầu Long Biên còn chính là dấu ấn nối liền giữa hiện tại và ký ức xưa của những người dân yêu Hà Nội"
-                }
-              ]
-            },
-            {
-              "question": "Cầu Long Biên được xây dựng năm nào ?",
-              "id": "8ae19f6c-6d5a-4aac-b666-f0721d37c895",
-              "answers": [
-                {
-                  "answer_start": 148,
-                  "text": "Cầu Long Biên được xây dựng vào năm 1898"
-                }
-              ]
-            },
-            {
-              "question": "Cầu Long Biên được dân gian gọi là gì ?",
-              "id": "a1031cec-f92a-490e-87b6-b2e6aaa4cc7b",
-              "answers": [
-                {
-                  "answer_start": 190,
-                  "text": "dân gian còn gọi bằng cái tên cầu Sông Cái hay cầu Bồ Đề "
-                }
-              ]
-            },
-            {
-              "question": "Vì sao Cầu Long Biên còn được gọi là cầu Bồ Đề ?",
-              "id": "00ce89e7-b8dc-4a43-a94d-149e7a08976f",
-              "answers": [
-                {
-                  "answer_start": 246,
-                  "text": " vì cầu bắc qua bến Bồ Đề, Gia Lâm, Hà Nội."
-                }
-              ]
-            },
-            {
-              "question": "Chiều dài Cầu Long Biên là bao nhiêu ?",
-              "id": "a475b2e6-2f8f-4772-a33c-ed1e461712bb",
-              "answers": [
-                {
-                  "answer_start": 294,
-                  "text": "chiều dài 1.682 m"
-                }
-              ]
-            },
-            {
-              "question": "Phần cầu dẫn Cầu Long Biên dài bao nhiêu ?",
-              "id": "902ac78a-f8d3-452e-80f3-cbad1a6b908d",
-              "answers": [
-                {
-                  "answer_start": 317,
-                  "text": "phần cầu dẫn dài 896 m"
-                }
-              ]
-            },
-            {
-              "question": "Cầu Long Biên được chia làm mấy khung ?",
-              "id": "025e2889-7001-4317-be29-7b66f266c248",
-              "answers": [
-                {
-                  "answer_start": 341,
-                  "text": "cầu Long Biên được chia làm 9 khung"
-                }
-              ]
-            },
-            {
-              "question": "Mỗi khung của Cầu Long Biên dài bao nhiêu ?",
-              "id": "01ea3850-ffb7-4d07-931f-7d4609ebdfc4",
-              "answers": [
-                {
-                  "answer_start": 378,
-                  "text": "mỗi khung dài 61 m"
-                }
-              ]
-            },
-            {
-              "question": "Theo thiết kế ban đầu , Cầu Long Biên có gì ?",
-              "id": "72fc9c0f-3e1c-46de-87d9-9eba3159c704",
-              "answers": [
-                {
-                  "answer_start": 397,
-                  "text": " Theo thiết kế ban đầu, cầu có tất cả 19 nhịp dầm thép đặt trên 20 trụ cao hơn 40 m"
-                }
-              ]
-            },
-            {
-              "question": "Chùa Trấn Quốc nằm trên hòn đảo nào ? ",
-              "id": "8eaf5e6b-e7b1-423e-930c-876dca72ec08",
-              "answers": [
-                {
-                  "answer_start": 482,
-                  "text": "Nằm trên hòn đảo phía đông Hồ Tây"
-                }
-              ]
-            },
-            {
-              "question": "Chùa Trấn Quốc từng được vào top gì của thế giới ?",
-              "id": "3af692a4-9fcf-4c3c-9467-653925c412a1",
-              "answers": [
-                {
-                  "answer_start": 517,
-                  "text": "chùa Trấn Quốc từng vào top những ngôi chùa đẹp nhất thế giới"
-                }
-              ]
-            },
-            {
-              "question": "Chùa Trấn Quốc có lịch sử bao nhiêu năm ?",
-              "id": "7b88eaee-b3a0-4986-84f3-d677e1ab1424",
-              "answers": [
-                {
-                  "answer_start": 580,
-                  "text": "Chùa có lịch sử 1.500 năm"
-                }
-              ]
-            },
-            {
-              "question": "Chùa Trấn Quốc là gì của kinh thành Thăng Long ?",
-              "id": "7f690fa2-0950-49f7-9c94-0663710b2239",
-              "answers": [
-                {
-                  "answer_start": 607,
-                  "text": "là trung tâm Phật giáo của kinh thành Thăng Long "
-                }
-              ]
-            },
-            {
-              "question": "Chùa Trấn Quốc là trung tâm Phật giáo của kinh thành Thăng Long vào thời nào ?",
-              "id": "510ed290-d634-4e38-a986-93b9a71c4c05",
-              "answers": [
-                {
-                  "answer_start": 656,
-                  "text": "vào thời Lý và Trần"
-                }
-              ]
-            },
-            {
-              "question": "Công trình Chùa Trấn Quốc được công nhận là gì ?",
-              "id": "40af5e2e-5732-4037-b281-b4bef2070f3f",
-              "answers": [
-                {
-                  "answer_start": 677,
-                  "text": "Công trình được công nhận là Di tích lịch sử văn hóa cấp quốc gia"
-                }
-              ]
-            },
-            {
-              "question": "Chùa Trấn Quốc được công nhận là di sản văn hóa quốc cấp gia năm nào ?",
-              "id": "83a59940-46fe-4d87-8349-49031aa99df4",
-              "answers": [
-                {
-                  "answer_start": 743,
-                  "text": "năm 1962"
-                }
-              ]
-            },
-            {
-              "question": "Năm 2003, Chùa Trấn Quốc tổ chức gì ?",
-              "id": "f20a26f0-dda1-4e03-9c69-2104601cfb4a",
-              "answers": [
-                {
-                  "answer_start": 753,
-                  "text": "Năm 2003, chùa tổ chức khánh thành Bảo tháp Lục độ đài sen cao 15 m, 11 tầng."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Đây là trường đại học đầu tiên của Việt Nam. Ngày nay du khách đến có thể tham quan các bia đá, khuôn viên trang nghiêm với những ao sen, ao súng. Văn Miếu là nơi thanh bình, yên tĩnh hiếm hoi giữa thành phố sôi động. Du khách sẽ cảm nhận được sự hài hòa giữa cổ và kim khi tới đây qua những bức tường nghìn năm tuổi.Văn Miếu được xây dựng năm 1070 dưới thời vua Lý Thánh Tông. Đến năm 1076, vua Lý Nhân Tông mới cho lập nhà Quốc Tử Giám. Nơi này cũng lưu giữ nhiều hiện vật, tư liệu quý, đặc biệt là 82 bia tiến sĩ đã được UNESCO công nhận là 'Di sản tư liệu thế giới'.",
-          "qas": [
-            {
-              "question": "Văn Miếu là gì của Việt Nam ?",
-              "id": "8a772b97-fa48-48ef-b2e0-e3a582eb636e",
-              "answers": [
-                {
-                  "answer_start": 0,
-                  "text": "Đây là trường đại học đầu tiên của Việt Nam"
-                }
-              ]
-            },
-            {
-              "question": "Ngày nay, đến Văn Miếu du khách có thể tham quan gì ?",
-              "id": "005763d4-fc30-4c44-8127-ee3f1b401d2f",
-              "answers": [
-                {
-                  "answer_start": 45,
-                  "text": "Ngày nay du khách đến có thể tham quan các bia đá, khuôn viên trang nghiêm với những ao sen, ao súng."
-                }
-              ]
-            },
-            {
-              "question": "Văn Miếu là nơi như thế nào ?",
-              "id": "7b75d314-20de-4bf7-a730-0ba7cb999815",
-              "answers": [
-                {
-                  "answer_start": 147,
-                  "text": "Văn Miếu là nơi thanh bình, yên tĩnh hiếm hoi giữa thành phố sôi động."
-                }
-              ]
-            },
-            {
-              "question": "Du khách sẽ cảm nhận được gì khi đến Văn Miếu ?",
-              "id": "114b1529-982d-4cfb-bccb-b6f046e9a0c8",
-              "answers": [
-                {
-                  "answer_start": 218,
-                  "text": "Du khách sẽ cảm nhận được sự hài hòa giữa cổ và kim khi tới đây qua những bức tường nghìn năm tuổi."
-                }
-              ]
-            },
-            {
-              "question": "Văn Miếu được xây dựng năm nào ?",
-              "id": "2c1f2ae4-5f76-41f0-b68c-e78ad21b8d3f",
-              "answers": [
-                {
-                  "answer_start": 317,
-                  "text": "Văn Miếu được xây dựng năm 1070"
-                }
-              ]
-            },
-            {
-              "question": "Văn Miếu được xây dựng dưới thời vua nào ?",
-              "id": "7a397ebc-06fe-45e3-a52b-f72a82b7f682",
-              "answers": [
-                {
-                  "answer_start": 349,
-                  "text": "dưới thời vua Lý Thánh Tông"
-                }
-              ]
-            },
-            {
-              "question": "Quốc Tử Giám được lập năm nào ?",
-              "id": "7d5f28e0-d6b7-4283-b631-7f7fb3a969ab",
-              "answers": [
-                {
-                  "answer_start": 382,
-                  "text": "năm 1076"
-                }
-              ]
-            },
-            {
-              "question": "Quốc Tử Giám được vua nào lập ra ?",
-              "id": "32f20a68-d1f0-4b2c-ae1e-8e00776c75a2",
-              "answers": [
-                {
-                  "answer_start": 392,
-                  "text": "vua Lý Nhân Tông "
-                }
-              ]
-            },
-            {
-              "question": "Quốc Tử Giám lưu giữ gì ?",
-              "id": "aecf169f-a871-45cc-a0e5-e9f83c1cb021",
-              "answers": [
-                {
-                  "answer_start": 439,
-                  "text": "Nơi này cũng lưu giữ nhiều hiện vật, tư liệu quý, đặc biệt là 82 bia tiến sĩ đã được UNESCO công nhận là 'Di sản tư liệu thế giới'."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Đối với người Việt, đây là một trong những điểm tham quan quan trọng nhất trong nước. Du khách tới để bày tỏ lòng thành kính với Chủ tịch Hồ Chí Minh. Khách tham quan cần giữ im lặng, mặc quần áo phù hợp và không chụp ảnh tại những khu vực cấm. Dự lễ thượng cờ vào buổi sáng là trải nghiệm đặc biệt tại lăng Chủ tịch Hồ Chí Minh. Nếu bỏ lỡ, du khách có thể yên tâm dạo chơi một vòng quanh thành phố và quay lại đây tham gia lễ hạ cờ lúc 9h tối hàng ngày. Không khí trang nghiêm bao trùm khắp quảng trường Ba Đình khi tiếng loa phát thanh vang lên báo lễ hạ cờ sắp diễn ra. Người người xếp hàng ngay ngắn, dõi theo đoàn cảnh vệ trang trọng hạ lá cờ Tổ Quốc trong tiếng nhạc bài hát 'Bác vẫn cùng chúng cháu hành quân'.",
-          "qas": [
-            {
-              "question": "Lăng Chủ tịch Hồ Chí Minh là gì đối với người Việt ?",
-              "id": "aeadb2df-4685-4b62-9e73-5dcf5f3fff1f",
-              "answers": [
-                {
-                  "answer_start": 0,
-                  "text": "Đối với người Việt, đây là một trong những điểm tham quan quan trọng nhất trong nước"
-                }
-              ]
-            },
-            {
-              "question": "Du khách đến lăng Chủ tịch Hồ Chí Minh để bày tỏ điều gì ?",
-              "id": "563f808a-1a18-4baa-b8d7-bbc89ed811c7",
-              "answers": [
-                {
-                  "answer_start": 86,
-                  "text": "Du khách tới để bày tỏ lòng thành kính với Chủ tịch Hồ Chí Minh"
-                }
-              ]
-            },
-            {
-              "question": "Khi tham quan lăng Chủ tịch Hồ Chí Minh , khách tham quan cần làm gì ?",
-              "id": "bde39eeb-0133-4297-a2f3-eba59a2874ee",
-              "answers": [
-                {
-                  "answer_start": 151,
-                  "text": "Khách tham quan cần giữ im lặng, mặc quần áo phù hợp và không chụp ảnh tại những khu vực cấm"
-                }
-              ]
-            },
-            {
-              "question": "Trải nghiệm đặc biệt vào buổi sáng ở lăng Chủ tịch Hồ Chí Minh là gì ?",
-              "id": "7d53428c-e10e-4f33-a90b-b1636f9f1a0a",
-              "answers": [
-                {
-                  "answer_start": 245,
-                  "text": "Dự lễ thượng cờ vào buổi sáng là trải nghiệm đặc biệt tại lăng Chủ tịch Hồ Chí Minh"
-                }
-              ]
-            },
-            {
-              "question": "Lễ hạ cờ tại lăng Chủ tịch Hồ Chí Minh diễn ra lúc mấy giờ ?",
-              "id": "ad0a8ccd-054c-4f3e-93e9-5f1faf76f5a5",
-              "answers": [
-                {
-                  "answer_start": 424,
-                  "text": "lễ hạ cờ lúc 9h tối hàng ngày."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Lăng Chủ tịch Hồ Chí Minh chính thức khởi công ngày 2 tháng 9 năm 1973 tại vị trí của lễ đài cũ giữa quảng trường Ba Đình, nơi Bác Hồ đọc bản tuyên ngôn độc lập. Lăng Bác là nơi yên nghỉ của chủ tịch Hồ Chí Minh vĩ đại. Là một di tích đặc biệt và là danh thắng của thủ đô, bất kỳ du khách nào khi đến Hà Nội cũng đều dừng chân ghé thăm nơi yên nghỉ của vị cha già dân tộc Việt Nam - Bác Hồ Chí Minh.Nằm trên đường Ngọc Hà, Ba Đình, Hà Nội, bạn có thể đến tham quan lăng Bác bằng phương tiện cá nhân hay phương tiện công cộng. Nếu di chuyển bằng phương tiện cá nhân, Nếu di chuyển bằng phương tiện cá nhân bạn nên gửi xe ở đường Ông Ích Khiêm đối diện Bộ Tư lệnh lăng Bác hay đường Ngọc Hà, cổng chính vào lăng. Nếu đi xe buýt, bạn có thể bắt các tuyến xe số 09, 18, 22, 33, 45, 50 và dừng tại các trạm: 18A Lê Hồng Phong, 34-36 Hoàng Diệu, 91-93 Lê Hồng Phong và trạm đối diện tượng đài Bắc Sơn. ",
-          "qas": [
-            {
-              "question": "Lăng Chủ tịch Hồ Chí Minh khởi công vào năm nào ?",
-              "id": "03aca635-2b1e-43b7-a0f0-a3e9a0cb516b",
-              "answers": [
-                {
-                  "answer_start": 0,
-                  "text": "Lăng Chủ tịch Hồ Chí Minh chính thức khởi công ngày 2 tháng 9 năm 1973 "
-                }
-              ]
-            },
-            {
-              "question": "Lăng Chủ tịch Hồ Chí Minh được khởi công tại đâu ?",
-              "id": "a1490c17-7bd1-490c-935f-7ad379473c55",
-              "answers": [
-                {
-                  "answer_start": 71,
-                  "text": "tại vị trí của lễ đài cũ giữa quảng trường Ba Đình, nơi Bác Hồ đọc bản tuyên ngôn độc lập."
-                }
-              ]
-            },
-            {
-              "question": "Lăng Chủ tịch Hồ Chí Minh là di tích gì ?",
-              "id": "4e55f81c-b8cf-49f1-a6c3-d7d2979f5053",
-              "answers": [
-                {
-                  "answer_start": 220,
-                  "text": "Là một di tích đặc biệt và là danh thắng của thủ đô"
-                }
-              ]
-            },
-            {
-              "question": "Lăng Chủ tịch Hồ Chí Minh nằm trên đường nào ?",
-              "id": "903b3fab-d0c6-47d4-b82b-21d4b2ca2ecd",
-              "answers": [
-                {
-                  "answer_start": 399,
-                  "text": "Nằm trên đường Ngọc Hà, Ba Đình, Hà Nội"
-                }
-              ]
-            },
-            {
-              "question": "Du khách có thể tham quan lăng Chủ tịch Hồ Chí Minh bằng gì ?",
-              "id": "8c4df4ea-c150-4f47-af3e-4d33790b2fa0",
-              "answers": [
-                {
-                  "answer_start": 444,
-                  "text": "có thể đến tham quan lăng Bác bằng phương tiện cá nhân hay phương tiện công cộng"
-                }
-              ]
-            },
-            {
-              "question": "Nếu di chuyển bằng phương tiện cá nhân khi đi tham quan lăng Chủ tịch Hồ Chí Minh thì gửi xe ở đâu ?",
-              "id": "40755fe5-7d0c-48aa-96a3-f4dc90ccbeb5",
-              "answers": [
-                {
-                  "answer_start": 613,
-                  "text": "gửi xe ở đường Ông Ích Khiêm đối diện Bộ Tư lệnh lăng Bác hay đường Ngọc Hà, cổng chính vào lăng"
-                }
-              ]
-            },
-            {
-              "question": "Nếu đi xe buýt để lăng Chủ tịch Hồ Chí Minh thì nên bắt xe tuyến nào ?",
-              "id": "883616f9-9b83-4df5-b514-0dee5c1ccf4c",
-              "answers": [
-                {
-                  "answer_start": 738,
-                  "text": "bắt các tuyến xe số 09, 18, 22, 33, 45, 50 và dừng tại các trạm: 18A Lê Hồng Phong, 34-36 Hoàng Diệu, 91-93 Lê Hồng Phong và trạm đối diện tượng đài Bắc Sơn. "
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Công trình là một trong những ngôi chùa cổ nhất ở Hà Nội. Chùa được xây trên một thân gỗ cách đây hơn 1.000 năm. Vào những năm 1950, thân gỗ ban đầu mục nát nên được thay thế bằng một cột bê tông. Khách Tây nên tới đây để đi dạo quanh khu vực này do có những công trình nhà ở xung quanh thuộc hàng đẹp và ấn tượng nhất Hà Nội.Chùa Một Cột là ngôi chùa cổ ở Việt Nam được xây dựng từ thời vua Lý Thái Tông, còn được biết đến với nhiều tên gọi khác nhau như Chùa Mật, Liên Hoa Đài hay Diên Hựu Tự. Dưới thời nhà Lý, chùa tọa lạc trên phần đất của thôn Thanh Bảo, huyện Quảng Đức, phía tây Hoàng thành Thăng Long. Ngày nay, chùa thuộc quận Ba Đình, nằm ở công viên phía sau phố Ông Ích Khiêm, cạnh quần thể Quảng trường Ba Đình và Lăng Chủ tịch Hồ Chí Minh. Vì nằm trong quần thể Quảng trường Ba Đình và Lăng Bác nên thời gian chùa mở cửa cho khách vào tham quan cũng phụ thuộc vào 2 địa điểm này. Theo đó, chùa sẽ đón khách trong khoảng thời gian từ 7h đến 18h hàng ngày. Thời lượng cho mỗi chuyến tham quan thường dao động từ 1 – 3 giờ đồng hồ. Chùa không thu tiền vé đối với công dân Việt Nam đến vãn cảnh, lễ Phật hoặc cúng bái. Riêng đối với các du khách người nước ngoài, giá vé tham quan Chùa Một Cột là 25.000 VND/ người.",
-          "qas": [
-            {
-              "question": "Chùa Một Cột là gì ở Hà Nội ?",
-              "id": "9601b417-0f8a-43a5-94c4-4a9840f113fc",
-              "answers": [
-                {
-                  "answer_start": 0,
-                  "text": "Công trình là một trong những ngôi chùa cổ nhất ở Hà Nội."
-                }
-              ]
-            },
-            {
-              "question": "Chùa Một Cột được xây dựng trên đâu ?",
-              "id": "e1992d8e-21bb-44ee-8a51-26dc1c185d52",
-              "answers": [
-                {
-                  "answer_start": 58,
-                  "text": "Chùa được xây trên một thân gỗ "
-                }
-              ]
-            },
-            {
-              "question": "Chùa Một Cột được xây dựng cách đây bao lâu ?",
-              "id": "76ac0f20-b6ee-461f-81b9-c105c12804c3",
-              "answers": [
-                {
-                  "answer_start": 89,
-                  "text": "cách đây hơn 1.000 năm"
-                }
-              ]
-            },
-            {
-              "question": "Thân gỗ mục nát của Chùa Một Cột được thay bằng cột bê tông năm nào ?",
-              "id": "2d77697e-979a-425b-84b5-9328730dc668",
-              "answers": [
-                {
-                  "answer_start": 113,
-                  "text": "Vào những năm 1950"
-                }
-              ]
-            },
-            {
-              "question": "Khách Tây nên tới Chùa Một Cột làm gì ?",
-              "id": "cd7f68ef-7ea5-4ded-87e7-4e2cbeeed1e5",
-              "answers": [
-                {
-                  "answer_start": 197,
-                  "text": "Khách Tây nên tới đây để đi dạo quanh khu vực này do có những công trình nhà ở xung quanh thuộc hàng đẹp và ấn tượng nhất Hà Nội"
-                }
-              ]
-            },
-            {
-              "question": "Chùa Một Cột được xây dựng từ thời vua nào ?",
-              "id": "f4d91fd0-8e9b-43a6-9a74-7c34b419c364",
-              "answers": [
-                {
-                  "answer_start": 366,
-                  "text": "được xây dựng từ thời vua Lý Thái Tông"
-                }
-              ]
-            },
-            {
-              "question": "Chùa Một Cột còn được biết đến với những cái tên gì ?",
-              "id": "fcbef020-1250-4744-8f74-f045117e9510",
-              "answers": [
-                {
-                  "answer_start": 406,
-                  "text": "còn được biết đến với nhiều tên gọi khác nhau như Chùa Mật, Liên Hoa Đài hay Diên Hựu Tự."
-                }
-              ]
-            },
-            {
-              "question": "Dưới thời nhà Lý, Chùa Một Cột tọa lạc ở đâu ?",
-              "id": "715539a9-4b29-4735-b609-ed944122a143",
-              "answers": [
-                {
-                  "answer_start": 496,
-                  "text": "Dưới thời nhà Lý, chùa tọa lạc trên phần đất của thôn Thanh Bảo, huyện Quảng Đức, phía tây Hoàng thành Thăng Long"
-                }
-              ]
-            },
-            {
-              "question": "Ngày nay , Chùa Một Cột nằm ở đâu ?",
-              "id": "37fd95e8-5cb3-4fcd-a88d-6afdd789cb3a",
-              "answers": [
-                {
-                  "answer_start": 611,
-                  "text": "Ngày nay, chùa thuộc quận Ba Đình, nằm ở công viên phía sau phố Ông Ích Khiêm, cạnh quần thể Quảng trường Ba Đình và Lăng Chủ tịch Hồ Chí Minh."
-                }
-              ]
-            },
-            {
-              "question": "Thời gian mở cửa Chùa Một Cột phụ thuộc vào 2 quần thể nào ?",
-              "id": "4a4c2e95-f98b-4fd4-8c4d-326782998c16",
-              "answers": [
-                {
-                  "answer_start": 777,
-                  "text": "Quảng trường Ba Đình và Lăng Bác"
-                }
-              ]
-            },
-            {
-              "question": "Chùa Một Cột đón khách vào khoảng thời gian nào ?",
-              "id": "43e7ad97-8157-473c-bf22-ed5ffda1cd87",
-              "answers": [
-                {
-                  "answer_start": 945,
-                  "text": "từ 7h đến 18h hàng ngày"
-                }
-              ]
-            },
-            {
-              "question": "Thời lượng tham quan Chùa Một Cột dao động như thế nào ?",
-              "id": "3683a9ec-52cd-43bd-8ea0-c0cadacc6d53",
-              "answers": [
-                {
-                  "answer_start": 1025,
-                  "text": "1 – 3 giờ đồng hồ"
-                }
-              ]
-            },
-            {
-              "question": "Chùa Một Cột không thu vé tham quan đối với ai ?",
-              "id": "bdf89d73-3115-41c4-8168-f5d9701696d7",
-              "answers": [
-                {
-                  "answer_start": 1044,
-                  "text": "Chùa không thu tiền vé đối với công dân Việt Nam đến vãn cảnh, lễ Phật hoặc cúng bái."
-                }
-              ]
-            },
-            {
-              "question": "Đối với du khách nước ngoài , giá vé tham quan là bao nhiêu ?",
-              "id": "ad50a51b-0da4-4504-91a9-9fd48f6d8222",
-              "answers": [
-                {
-                  "answer_start": 1175,
-                  "text": "giá vé tham quan Chùa Một Cột là 25.000 VND/ người."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Chùa nằm trong khu vực quận Ba Đình, gần với nhiều địa điểm du lịch nổi tiếng nên khá dễ tìm. Du khách có thể đến đây bằng các loại phương tiện cá nhân như xe máy, ô tô hoặc chọn các dịch vụ xe taxi, xe ôm công nghệ. Nếu di chuyển bằng xe buýt, bạn hãy bắt các tuyến xe buýt có trạm dừng gần với chùa, chẳng hạn như tuyến số 09, số 22, số 33, số 45 và số 50. Tất cả các tuyến trên đều có điểm dừng ở số 15A Lê Hồng Phong. Hoặc bạn cũng có thể đến Chùa Một Cột bằng cách đi theo hướng bắc để vào Bưu điện thành phố, chọn lối thứ nhất ở vòng xuyến đến đường Đinh Tiên Hoàng. Từ Đinh Tiên Hoàng, bạn hãy rẽ trái tại DC Gallery để vào Hàng Gai, qua Hàng Bông đến Xôi Cấm và rẽ về Điện Biên Phủ. Di chuyển theo đường Điện Biên Phủ đến con đường cắt ngang Ông Ích Khiêm và Hùng Vương chính là địa điểm mà bạn cần đến.",
-          "qas": [
-            {
-              "question": "Chùa Một Cột nằm ở khu vực quận nào của Hà Nội ?",
-              "id": "56d9b076-2add-446b-8a18-5cbea370f4df",
-              "answers": [
-                {
-                  "answer_start": 15,
-                  "text": "khu vực quận Ba Đình"
-                }
-              ]
-            },
-            {
-              "question": "Du khách có thể đến tham quan Chùa Một Cột bằng các phương tiện nào ?",
-              "id": "ef10c21f-6d91-459c-973c-c2b58b2fa4f4",
-              "answers": [
-                {
-                  "answer_start": 94,
-                  "text": "Du khách có thể đến đây bằng các loại phương tiện cá nhân như xe máy, ô tô hoặc chọn các dịch vụ xe taxi, xe ôm công nghệ"
-                }
-              ]
-            },
-            {
-              "question": "Tham quan Chùa Một Cột bằng xe buýt , thì du khách nên bắt các tuyến xe nào ?",
-              "id": "19f58dea-4251-4193-8aa0-11c30126128a",
-              "answers": [
-                {
-                  "answer_start": 249,
-                  "text": "hãy bắt các tuyến xe buýt có trạm dừng gần với chùa, chẳng hạn như tuyến số 09, số 22, số 33, số 45 và số 50"
-                }
-              ]
-            },
-            {
-              "question": "Các tuyến xe buýt đến Chùa Một Cột dừng lại ở đâu ?",
-              "id": "77b368a5-b8ff-4f77-8c23-6442f8f22b58",
-              "answers": [
-                {
-                  "answer_start": 366,
-                  "text": "các tuyến trên đều có điểm dừng ở số 15A Lê Hồng Phong"
-                }
-              ]
-            },
-            {
-              "question": "Du khách có thể đến Chùa Một Cột bằng cách đi theo hướng nào ?",
-              "id": "e1fdf69f-6865-4d65-acdc-68525568f6e5",
-              "answers": [
-                {
-                  "answer_start": 436,
-                  "text": "có thể đến Chùa Một Cột bằng cách đi theo hướng bắc để vào Bưu điện thành phố, chọn lối thứ nhất ở vòng xuyến đến đường Đinh Tiên Hoàng. Từ Đinh Tiên Hoàng, bạn hãy rẽ trái tại DC Gallery để vào Hàng Gai, qua Hàng Bông đến Xôi Cấm và rẽ về Điện Biên Phủ. Di chuyển theo đường Điện Biên Phủ đến con đường cắt ngang Ông Ích Khiêm và Hùng Vương chính là địa điểm mà bạn cần đến."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Điểm đến không thể bỏ qua khi tới bất cứ thành phố nào chính là các bảo tàng, di tích lịch sử. Một trong những nơi được du khách check-in nhiều nhất chính là bảo tàng Dân tộc học. Bảo tàng Dân tộc học hiện lưu giữ và trưng bày 15.000 hiện vật, 42.000 phim tư liệu, tranh ảnh và hàng nghìn tài liệu khác về 54 dân tộc Việt Nam. Bên cạnh đó, du khách cũng tìm đến bảo tàng Phụ nữ Việt Nam, bảo tàng Hà Nội, bảo tàng Lịch sử Quốc gia hay nhà tù Hỏa Lò, di tích Cột cờ Hà Nội... để tìm hiểu văn hóa, lịch sử của thành phố.",
-          "qas": [
-            {
-              "question": "Các điểm đến không thể bỏ qua khi đến Hà Nội là gì ?",
-              "id": "dd70d01c-7e7a-4422-8757-3cc8404d4542",
-              "answers": [
-                {
-                  "answer_start": 0,
-                  "text": "Điểm đến không thể bỏ qua khi tới bất cứ thành phố nào chính là các bảo tàng, di tích lịch sử"
-                }
-              ]
-            },
-            {
-              "question": "Một trong những nơi được du khách check-in nhiều nhất ở Hà Nội là đâu ?",
-              "id": "2d2d0ff3-d7f9-45e3-87dc-71eec04c1344",
-              "answers": [
-                {
-                  "answer_start": 95,
-                  "text": "Một trong những nơi được du khách check-in nhiều nhất chính là bảo tàng Dân tộc học"
-                }
-              ]
-            },
-            {
-              "question": "Bảo tàng Dân tộc học hiện lưu trữ và trưng bày gì ?",
-              "id": "b08ee1ef-95b7-4bb9-b3c3-9dc0e5da29bc",
-              "answers": [
-                {
-                  "answer_start": 180,
-                  "text": "Bảo tàng Dân tộc học hiện lưu giữ và trưng bày 15.000 hiện vật, 42.000 phim tư liệu, tranh ảnh và hàng nghìn tài liệu khác về 54 dân tộc Việt Nam."
-                }
-              ]
-            },
-            {
-              "question": "Ngoài bảo tàng Dân tộc học, du khách còn có thể tìm hiểu các bảo tàng nào ?",
-              "id": "0fea9d72-6ea9-46c1-aa7a-6d188fae2226",
-              "answers": [
-                {
-                  "answer_start": 327,
-                  "text": "Bên cạnh đó, du khách cũng tìm đến bảo tàng Phụ nữ Việt Nam, bảo tàng Hà Nội, bảo tàng Lịch sử Quốc gia hay nhà tù Hỏa Lò, di tích Cột cờ Hà Nội... để tìm hiểu văn hóa, lịch sử của thành phố."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Múa rối nước: là nghệ thuật sân khấu du khách nên xem khi tới Hà Nội. Nghệ thuật này đã có truyền thống hơn 1.000 năm ở Việt Nam. Có hai địa chỉ nhiều khách ghé thăm là Nhà hát múa rối Thăng Long ở 57B Đinh Tiên Hoàng và Nhà hát múa rối Việt Nam ở 361 Trường Chinh. Nghe ca trù: Ca trù có nguồn gốc từ thế kỷ 11, phong cách mang nhiều nét giống nghi lễ geisha của Nhật Bản và các màn trình diễn opera. Ban đầu, ca trù được xem là thú vui giải trí cho giới quý tộc trong hoàng cung, sau đó, đi vào không gian văn hóa chung của Hà Nội thời hiện đại. Ca trù có năm không gian trình diễn chính: Ca trù cửa đình (hát ở cửa đình tế thần), ca trù cửa quyền (thưởng thức ca trù của giới quyền chức), ca trù tại gia, ca trù hát thi, ca trù ca quán. Du khách có thể nghe ca trù tại Câu lạc bộ Ca Trù Hà Nội ở 42 hàng Bạc, Ca Trù Thăng Long 146 Từ Hoa.",
-          "qas": [
-            {
-              "question": "Múa rối nước ở Hà Nội có truyền thống bao lâu ở Việt Nam ?",
-              "id": "a1d556aa-d309-43c6-bec4-e64404972d40",
-              "answers": [
-                {
-                  "answer_start": 70,
-                  "text": "Nghệ thuật này đã có truyền thống hơn 1.000 năm ở Việt Nam."
-                }
-              ]
-            },
-            {
-              "question": "Các địa chỉ ghé thăm để xem Múa rối nước ở Hà Nội là gì ?",
-              "id": "f898c86f-025d-4172-81b4-1690ebdd533c",
-              "answers": [
-                {
-                  "answer_start": 130,
-                  "text": "Có hai địa chỉ nhiều khách ghé thăm là Nhà hát múa rối Thăng Long ở 57B Đinh Tiên Hoàng và Nhà hát múa rối Việt Nam ở 361 Trường Chinh"
-                }
-              ]
-            },
-            {
-              "question": "Ca trù có nguồn góc từ thế kỷ bao nhiêu ?",
-              "id": "e6045e64-bae6-4e56-aa7c-a1d13ff8fa21",
-              "answers": [
-                {
-                  "answer_start": 279,
-                  "text": "Ca trù có nguồn gốc từ thế kỷ 11"
-                }
-              ]
-            },
-            {
-              "question": "Ca trù mang phong cách giống nghi lễ gì ở Nhật Bản ?",
-              "id": "2990dc4f-9411-45bc-bc91-e67b60ee767f",
-              "answers": [
-                {
-                  "answer_start": 313,
-                  "text": "phong cách mang nhiều nét giống nghi lễ geisha của Nhật Bản và các màn trình diễn opera"
-                }
-              ]
-            },
-            {
-              "question": "Ban đầu, ca trù được xem là gì ?",
-              "id": "b395ff05-3dd7-4e37-a20b-7cb7b3de7bae",
-              "answers": [
-                {
-                  "answer_start": 402,
-                  "text": "Ban đầu, ca trù được xem là thú vui giải trí cho giới quý tộc trong hoàng cung, sau đó, đi vào không gian văn hóa chung của Hà Nội thời hiện đại"
-                }
-              ]
-            },
-            {
-              "question": "Ca trù có bao nhiêu không gian trình diễn chính ?",
-              "id": "3faac785-a01f-499c-a1d8-76361ef7ccd9",
-              "answers": [
-                {
-                  "answer_start": 548,
-                  "text": "Ca trù có năm không gian trình diễn chính"
-                }
-              ]
-            },
-            {
-              "question": "Các không gian trình diễn chính của ca trù là gì ?",
-              "id": "e4e8fcbb-15ce-47d9-9930-8b9f9d940d6d",
-              "answers": [
-                {
-                  "answer_start": 591,
-                  "text": "Ca trù cửa đình (hát ở cửa đình tế thần), ca trù cửa quyền (thưởng thức ca trù của giới quyền chức), ca trù tại gia, ca trù hát thi, ca trù ca quán"
-                }
-              ]
-            },
-            {
-              "question": "Du khách có thể nghe ca trù tại đâu ?",
-              "id": "2021556b-703f-49a4-a7d3-e89241cf6efa",
-              "answers": [
-                {
-                  "answer_start": 740,
-                  "text": "Du khách có thể nghe ca trù tại Câu lạc bộ Ca Trù Hà Nội ở 42 hàng Bạc, Ca Trù Thăng Long 146 Từ Hoa."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Show thực cảnh: Tinh hoa Bắc Bộ là vở diễn thực cảnh trên sân khấu ở chùa Thầy, dưới chân núi Thầy, xã Sài Sơn, huyện Quốc Oai, Hà Nội. Vở diễn diễn ra trên mặt hồ nước rộng 4.300 mét vuông, đưa du khách du hành vào đời sống của nông dân Bắc Bộ qua những màn biểu diễn âm thanh, ánh sáng. Phần lớn diễn viên tham gia thực cảnh là những nông dân của huyện Quốc Oai. Ngoài vở diễn, du khách còn có thể trải nghiệm trực tiếp văn hóa truyền thống Bắc Bộ ở phía bên ngoài sân khấu với những quán xá bán bánh giò, bánh tẻ, bánh nếp, xôi gói lá sen lá chuối, kẹo lạc, kẹo dồi. Khách du lịch có thể mua và ngồi ăn giữa những chiếc ghế nhỏ giữa vườn trong tiếng nhạc quan họ.",
-          "qas": [
-            {
-              "question": "Tinh hoa Bắc Bộ là vở diễn nào ?",
-              "id": "320e67c1-e003-49a9-b017-26f8fce1640e",
-              "answers": [
-                {
-                  "answer_start": 16,
-                  "text": "Tinh hoa Bắc Bộ là vở diễn thực cảnh trên sân khấu ở chùa Thầy, dưới chân núi Thầy, xã Sài Sơn, huyện Quốc Oai, Hà Nội."
-                }
-              ]
-            },
-            {
-              "question": "Vở diễn thực cảnh diễn ra ở đâu ?",
-              "id": "8149eb7e-ae02-4336-b737-8e9126296b5b",
-              "answers": [
-                {
-                  "answer_start": 136,
-                  "text": "Vở diễn diễn ra trên mặt hồ nước rộng 4.300 mét vuông"
-                }
-              ]
-            },
-            {
-              "question": "Show diễn thực cảnh đưa du khách du hành vào đời sống nông dân Bắc bộ qua điều gì ?",
-              "id": "a8168ad0-23d4-48d3-9afc-c985018e68c4",
-              "answers": [
-                {
-                  "answer_start": 191,
-                  "text": "đưa du khách du hành vào đời sống của nông dân Bắc Bộ qua những màn biểu diễn âm thanh, ánh sáng"
-                }
-              ]
-            },
-            {
-              "question": "Phần lớn diễn viên tham gia thực cảnh là ai ?",
-              "id": "0775a50d-2835-4b8f-a471-cf5592287646",
-              "answers": [
-                {
-                  "answer_start": 289,
-                  "text": "Phần lớn diễn viên tham gia thực cảnh là những nông dân của huyện Quốc Oai"
-                }
-              ]
-            },
-            {
-              "question": "Ngoài vở diễn , du khách còn có thể trải nghiệm gì ?",
-              "id": "1a600015-bd9e-405b-81cb-60439bf613c3",
-              "answers": [
-                {
-                  "answer_start": 364,
-                  "text": " Ngoài vở diễn, du khách còn có thể trải nghiệm trực tiếp văn hóa truyền thống Bắc Bộ ở phía bên ngoài sân khấu với những quán xá bán bánh giò, bánh tẻ, bánh nếp, xôi gói lá sen lá chuối, kẹo lạc, kẹo dồi."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Chèo SUP trên hồ Tây: Thức dậy khi trời sắp bình minh, bạn có thể chạy xe ra Hồ Tây và trải nghiệm những trò chơi dưới nước như chèo SUP và kayak. Thời điểm thích hợp thường là 5h-7h, hoặc chiều mát. Bạn có thể tìm thuê thuyền, ván ở các cửa hàng trên phố Lạc Long Quân, Âu Cơ, Trích Sài... với giá từ 250.000 đồng một ngày. Ngắm toàn cảnh Hà Nội từ trên cao: Đến Hà Nội, bạn không thể bỏ qua Đài quan sát Lotte nằm trên đường Liễu Giai, bởi đây là nơi có thể phóng tầm mắt nhìn ngắm toàn cảnh Thủ đô từ tầng 65. Đài quan sát làm từ kính trong suốt nên bạn có thể chụp ảnh check-in sáng tạo ở bất cứ góc nào. Đài quan sát mở cửa từ 9h đến hết ngày.",
-          "qas": [
-            {
-              "question": "Khi thức dậy khi trời sắp bình minh ở Hồ Tây , du khách có thể trải nghiệm gì ?",
-              "id": "e345dc51-e607-4579-8173-8f37d0ff5f5c",
-              "answers": [
-                {
-                  "answer_start": 22,
-                  "text": "Thức dậy khi trời sắp bình minh, bạn có thể chạy xe ra Hồ Tây và trải nghiệm những trò chơi dưới nước như chèo SUP và kayak."
-                }
-              ]
-            },
-            {
-              "question": "Thời điểm thích hợp để trèo SUP trên Hồ Tây là khi nào ?",
-              "id": "5120f308-eb88-4539-a86c-78816fed9519",
-              "answers": [
-                {
-                  "answer_start": 147,
-                  "text": "Thời điểm thích hợp thường là 5h-7h, hoặc chiều mát"
-                }
-              ]
-            },
-            {
-              "question": "Du khách có thể thuê thuyền, ván ở đâu ?",
-              "id": "617c47e1-1735-4550-a772-43bfdb0fc839",
-              "answers": [
-                {
-                  "answer_start": 215,
-                  "text": "thuê thuyền, ván ở các cửa hàng trên phố Lạc Long Quân, Âu Cơ, Trích Sài... "
-                }
-              ]
-            },
-            {
-              "question": "Giá thuê thuyền, ván ở Hồ Tây là bao nhiêu ?",
-              "id": "960141f2-cb3a-4815-ae89-b1da8598627e",
-              "answers": [
-                {
-                  "answer_start": 295,
-                  "text": "giá từ 250.000 đồng một ngày."
-                }
-              ]
-            },
-            {
-              "question": "Đài quan sát Lotte nằm trên đường nào ?",
-              "id": "dad954f5-a8a8-4c7b-8c78-8cfa22f8c9a3",
-              "answers": [
-                {
-                  "answer_start": 412,
-                  "text": "nằm trên đường Liễu Giai"
-                }
-              ]
-            },
-            {
-              "question": "Khi đến đài quan sát Lotte, bạn có thể nhìn ngắm gì ?",
-              "id": "43c3cc8a-55b9-47bb-9c98-bbe831ba7925",
-              "answers": [
-                {
-                  "answer_start": 453,
-                  "text": "có thể phóng tầm mắt nhìn ngắm toàn cảnh Thủ đô từ tầng 65. Đài quan sát làm từ kính trong suốt nên bạn có thể chụp ảnh check-in sáng tạo ở bất cứ góc nào"
-                }
-              ]
-            },
-            {
-              "question": "Đài quan sát Lotte mở cửa khi nào ?",
-              "id": "ebd2ee35-6f76-45dc-9a80-b8a202befb6b",
-              "answers": [
-                {
-                  "answer_start": 609,
-                  "text": "Đài quan sát mở cửa từ 9h đến hết ngày."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Phố đi bộ: Hàng tuần, phố đi bộ Hồ Gươm mở từ 18h thứ Sáu đến hết Chủ nhật, thu hút đông đảo cả người dân lẫn du khách nước ngoài. Không gian này có rất nhiều hoạt động vui chơi, giải trí, cho đến biểu diễn nghệ thuật đường phố. Đừng quên trải nghiệm 'food tour' quanh phố đi bộ. Phố bia: Trong phố cổ, đặc biệt là ở Tạ Hiện, Bảo Khánh, Lương Ngọc Quyến, luôn có nhiều chỗ cho bạn uống bia hoặc các loại đồ uống được pha chế hấp dẫn. Đây cũng là một trong những nơi vui chơi về đêm sầm uất bậc nhất ở thủ đô.",
-          "qas": [
-            {
-              "question": "phố đi bộ Hồ Gươm mở cửa lúc mấy giờ ?",
-              "id": "b3519086-cfca-402a-bbd9-51fdf51df739",
-              "answers": [
-                {
-                  "answer_start": 11,
-                  "text": "Hàng tuần, phố đi bộ Hồ Gươm mở từ 18h thứ Sáu đến hết Chủ nhật"
-                }
-              ]
-            },
-            {
-              "question": "Phố đi bộ Hồ Gươm có gì thu hút khách du lịch ?",
-              "id": "bb408c33-2b93-4e95-a685-1c02f2bae762",
-              "answers": [
-                {
-                  "answer_start": 131,
-                  "text": "Không gian này có rất nhiều hoạt động vui chơi, giải trí, cho đến biểu diễn nghệ thuật đường phố"
-                }
-              ]
-            },
-            {
-              "question": "Xung quanh phố đi bộ Hồ Gươm có gì để trải nghiệm ?",
-              "id": "1e0e6ce3-7e6b-4ac2-b03d-cf4883cb99cc",
-              "answers": [
-                {
-                  "answer_start": 251,
-                  "text": "'food tour' quanh phố đi bộ"
-                }
-              ]
-            },
-            {
-              "question": "Các phố bia ở Hà Nội nằm ở đâu ?",
-              "id": "aa681b2b-0553-499e-805d-1439c349bf06",
-              "answers": [
-                {
-                  "answer_start": 303,
-                  "text": "đặc biệt là ở Tạ Hiện, Bảo Khánh, Lương Ngọc Quyến, luôn có nhiều chỗ cho bạn uống bia hoặc các loại đồ uống được pha chế hấp dẫn."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Đi chợ: Không phải chợ Đồng Xuân, chợ hoa Quảng Bá và chợ đầu mối Long Biên mới là hai địa chỉ khách Tây rỉ tai nhau phải ghé thăm một lần nếu có dịp đến thủ đô. Chợ chủ yếu buôn hoa và trái cây, nhưng 'yêu sách' du khách phải thức khuya, dậy sớm mới thấy được hết cái không khí náo nhiệt, sầm uất của một Hà Nội rất khác khi màn đêm buông xuống. Nằm ngay dưới chân cầu Long Biên, chợ đầu mối Long Biên quanh năm nhộn nhịp, nổi tiếng nhất phải kể đến khu chợ trời bán buôn hoa quả. Từ 20h chợ bắt đầu rục rịch, càng về đêm càng nhộn nhịp. Còn chợ hoa Quảng Bá mở suốt đêm nhưng đông vui nhất là vào khoảng 3- 4h sáng, người mua kẻ bán tấp nập. Những bó hoa lớn nhỏ chất trên xe nườm nượp ra vào.",
-          "qas": [
-            {
-              "question": "Khách Tây rỉ tai nhau ghé thăm chợ nào ở Hà Nội ?",
-              "id": "70f0279b-34d7-49c7-92b2-826d763373a9",
-              "answers": [
-                {
-                  "answer_start": 33,
-                  "text": " chợ hoa Quảng Bá và chợ đầu mối Long Biên"
-                }
-              ]
-            },
-            {
-              "question": "Chợ chủ yếu buôn bán gì ?",
-              "id": "7cc3d610-2336-48b2-a48b-20d15ffca02c",
-              "answers": [
-                {
-                  "answer_start": 162,
-                  "text": "Chợ chủ yếu buôn hoa và trái cây"
-                }
-              ]
-            },
-            {
-              "question": "Vì sao 'yêu sách' du khách phải thức khuya dậy, dậy sớm ?",
-              "id": "bcb9a8d6-1384-4e44-bff3-a743aee467e2",
-              "answers": [
-                {
-                  "answer_start": 247,
-                  "text": "mới thấy được hết cái không khí náo nhiệt, sầm uất của một Hà Nội rất khác khi màn đêm buông xuống"
-                }
-              ]
-            },
-            {
-              "question": "Chợ đầu mối Long Biên nằm ở đâu ?",
-              "id": "dc3cd8da-1815-4a67-b79f-ffa64260fa93",
-              "answers": [
-                {
-                  "answer_start": 347,
-                  "text": "Nằm ngay dưới chân cầu Long Biên"
-                }
-              ]
-            },
-            {
-              "question": "Chợ đầu mối Long Biên là chợ như thế nào ở Hà Nội ?",
-              "id": "2354fe7e-1c17-4371-9d1c-b8e14534dcd9",
-              "answers": [
-                {
-                  "answer_start": 381,
-                  "text": "chợ đầu mối Long Biên quanh năm nhộn nhịp, nổi tiếng nhất phải kể đến khu chợ trời bán buôn hoa quả"
-                }
-              ]
-            },
-            {
-              "question": "Chợ đầu mối Long biên bắt đầu rục rịch và nhộn nhịp khi nào ?",
-              "id": "203c4e5c-4b71-479d-bdd7-93650e011bf6",
-              "answers": [
-                {
-                  "answer_start": 482,
-                  "text": "Từ 20h chợ bắt đầu rục rịch, càng về đêm càng nhộn nhịp"
-                }
-              ]
-            },
-            {
-              "question": "Chợ hoa Quảng Bá nhộn nhịp cửa khi nào ?",
-              "id": "3149dfaa-bd0e-4ff1-a48d-1fce84c728db",
-              "answers": [
-                {
-                  "answer_start": 539,
-                  "text": "Còn chợ hoa Quảng Bá mở suốt đêm nhưng đông vui nhất là vào khoảng 3- 4h sáng, người mua kẻ bán tấp nập. Những bó hoa lớn nhỏ chất trên xe nườm nượp ra vào."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Phở: Đến Hà Nội không thể bỏ qua phở, đặc biệt là phở bò, thường có hai loại chính: chín và tái. Bò chín là những miếng thịt bò được luộc chín trong nước dùng, còn bò tái là những miếng thịt được thái mỏng, chần nhanh qua nước sôi. Sau đó, người bán sẽ xếp những lát thịt đó lên bánh phở, chan nước dùng và phục vụ thực khách. Một số địa chỉ tham khảo là phở Thìn, Bát Đàn, Tư Lùn, Phở Lâm phố Hàng Vải, Phở Trâm phố Yên Ninh. Nếu muốn thử những phiên bản khác, địa chỉ gợi ý là quán Nguyệt số 5 Phủ Doãn, quán Châm 63 Yên Ninh, phở gà trộn Lãn Ông hay phở cuốn Ngũ Xã.",
-          "qas": [
-            {
-              "question": "Phở bò ở Hà Nội có mấy loại ?",
-              "id": "68361b47-2b29-4d91-827b-f0654d7a3dab",
-              "answers": [
-                {
-                  "answer_start": 5,
-                  "text": "Đến Hà Nội không thể bỏ qua phở, đặc biệt là phở bò, thường có hai loại chính: chín và tái."
-                }
-              ]
-            },
-            {
-              "question": "Bò tái và bò chín của phở là gì ?",
-              "id": "3d5d007c-e67c-48b7-aa2a-7bad76711c12",
-              "answers": [
-                {
-                  "answer_start": 97,
-                  "text": "Bò chín là những miếng thịt bò được luộc chín trong nước dùng, còn bò tái là những miếng thịt được thái mỏng, chần nhanh qua nước sôi"
-                }
-              ]
-            },
-            {
-              "question": "Một số địa chỉ ăn phở ở Hà Nội là gì ?",
-              "id": "b00d09ac-ecf1-43e3-a30c-58ff7eaaa75b",
-              "answers": [
-                {
-                  "answer_start": 327,
-                  "text": "Một số địa chỉ tham khảo là phở Thìn, Bát Đàn, Tư Lùn, Phở Lâm phố Hàng Vải, Phở Trâm phố Yên Ninh"
-                }
-              ]
-            },
-            {
-              "question": "Nếu muốn thử phiên bản khác của phở bò Hà Nội thì nên đến đâu ?",
-              "id": "c0155916-023a-4380-ab4a-fafef5eba628",
-              "answers": [
-                {
-                  "answer_start": 427,
-                  "text": "Nếu muốn thử những phiên bản khác, địa chỉ gợi ý là quán Nguyệt số 5 Phủ Doãn, quán Châm 63 Yên Ninh, phở gà trộn Lãn Ông hay phở cuốn Ngũ Xã."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Bún: Người Hà Nội có rất nhiều món bún. Đặc sắc nhất là bún chả, bún thang, bún ốc, bún mọc, bún dọc mùng...Nói đến đặc sản chính gốc lâu đời ở Hà Nội không thể không nhắc đến bún thang. Người Hà thành đã khéo léo chế biến những thực phẩm thừa sau dịp Tết thành một món bún cầu kỳ, tinh tế. Một tô bún thang có giá 30.000 - 50.000 đồng. Hiện nay, ở Hà Nội chỉ còn ít nơi bán bún thang, như quán Bà Đức (Cầu Gỗ), quán Ngọc Tuyền (Đào Tấn), quán Thuận Lý (Hàng Hòm)...",
-          "qas": [
-            {
-              "question": "Các món bún đặc sản ở Hà Nội là gì ?",
-              "id": "3f020485-4c46-4049-a411-0c72bcf2bb8f",
-              "answers": [
-                {
-                  "answer_start": 5,
-                  "text": "Người Hà Nội có rất nhiều món bún. Đặc sắc nhất là bún chả, bún thang, bún ốc, bún mọc, bún dọc mùng..."
-                }
-              ]
-            },
-            {
-              "question": "Đặc sản chính gốc lâu đời ở Hà Nội là món bún gì ?",
-              "id": "0d86840a-f472-4c28-9d23-e03f8542e142",
-              "answers": [
-                {
-                  "answer_start": 116,
-                  "text": "đặc sản chính gốc lâu đời ở Hà Nội không thể không nhắc đến bún thang"
-                }
-              ]
-            },
-            {
-              "question": "Bún thang được chế biến như thế nào ?",
-              "id": "5559427e-02fc-4fae-8aa7-7e92996b149b",
-              "answers": [
-                {
-                  "answer_start": 187,
-                  "text": "Người Hà thành đã khéo léo chế biến những thực phẩm thừa sau dịp Tết thành một món bún cầu kỳ, tinh tế"
-                }
-              ]
-            },
-            {
-              "question": "Bún thang có giá bao nhiêu ?",
-              "id": "763c9f73-9ada-427f-bbc6-258995839454",
-              "answers": [
-                {
-                  "answer_start": 291,
-                  "text": "Một tô bún thang có giá 30.000 - 50.000 đồng"
-                }
-              ]
-            },
-            {
-              "question": "Địa điểm bán bún thang ở Hà Nội là gì ?",
-              "id": "48686dc9-26a1-43b9-b78e-55a24e24dc6c",
-              "answers": [
-                {
-                  "answer_start": 390,
-                  "text": "quán Bà Đức (Cầu Gỗ), quán Ngọc Tuyền (Đào Tấn), quán Thuận Lý (Hàng Hòm)..."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Bún chả - món thường được ăn vào bữa trưa. Giống món bún thịt nướng ở miền Nam và miền Trung, nhưng chả ăn bún của người Hà Nội tẩm ướp cầu kỳ hơn. Ai thích hương vị xưa thì có thể đến quán bún chả ở Hàng Mã và Hàng Đồng. Người thích bún chả kẹp tre thì tìm lên chợ Bưởi, chợ Đồng Xuân. Hay ghé sang hàng bún ở Ngọc Khánh, Giảng Võ, Lê Văn Hưu, Hàng Mành cũng đều là những quán nổi tiếng ở Hà Nội. Bún mọc ở Hà Nội có giá 20.000 - 40.000 đồng. Món bún này thường được bán ở các hàng bún sườn, bún dọc mùng, bún bung... Một số địa chỉ ngon nổi tiếng ở Hà Nội phải kể đến quán chị Loan (đầu phố Điện Biên Phủ), Hàng Lược, Hàng Trống, Cầu Gỗ, ngõ 18 Hàm Long...",
-          "qas": [
-            {
-              "question": "Bún chả thường được ăn vào bữa nào ?",
-              "id": "8f43825e-f2ff-45f5-bd8f-c73d2f624755",
-              "answers": [
-                {
-                  "answer_start": 14,
-                  "text": "thường được ăn vào bữa trưa"
-                }
-              ]
-            },
-            {
-              "question": "Bún chả giống mới món bún nào ?",
-              "id": "d781d243-f084-4731-80f3-51698ee4f387",
-              "answers": [
-                {
-                  "answer_start": 43,
-                  "text": "Giống món bún thịt nướng ở miền Nam và miền Trung"
-                }
-              ]
-            },
-            {
-              "question": "Bún chả khác với bún thịt nướng ở miền Nam và miền Trung như thế  nào ?",
-              "id": "0a727f2c-7cbe-49e8-926a-73b25d9d8acd",
-              "answers": [
-                {
-                  "answer_start": 99,
-                  "text": " chả ăn bún của người Hà Nội tẩm ướp cầu kỳ hơn."
-                }
-              ]
-            },
-            {
-              "question": "Nếu du khách thích Bún chả vị xưa thì nên đến đâu ?",
-              "id": "d6d4d0e7-82a1-4d30-bae2-5a0ba8d21de4",
-              "answers": [
-                {
-                  "answer_start": 148,
-                  "text": "Ai thích hương vị xưa thì có thể đến quán bún chả ở Hàng Mã và Hàng Đồng"
-                }
-              ]
-            },
-            {
-              "question": "Du khách thích bún chả kẹp tre thì đến đâu ?",
-              "id": "db02d219-e32b-4dc9-ae42-0ff88ab8c08f",
-              "answers": [
-                {
-                  "answer_start": 222,
-                  "text": "Người thích bún chả kẹp tre thì tìm lên chợ Bưởi, chợ Đồng Xuân. Hay ghé sang hàng bún ở Ngọc Khánh, Giảng Võ, Lê Văn Hưu, Hàng Mành cũng đều là những quán nổi tiếng ở Hà Nội"
-                }
-              ]
-            },
-            {
-              "question": "Bún mọc ở Hà Nội có giá bao nhiêu ?",
-              "id": "a2e583c4-645f-48c2-8d24-7b3eb710d164",
-              "answers": [
-                {
-                  "answer_start": 422,
-                  "text": "20.000 - 40.000 đồng"
-                }
-              ]
-            },
-            {
-              "question": "Bún mọc thường được bán ở đâu ?",
-              "id": "2693e073-6b0f-4e3b-8e1c-d83f1c359c58",
-              "answers": [
-                {
-                  "answer_start": 444,
-                  "text": "Món bún này thường được bán ở các hàng bún sườn, bún dọc mùng, bún bung... "
-                }
-              ]
-            },
-            {
-              "question": "Địa chỉ ăn bún mọc ở Hà Nội là gì ?",
-              "id": "8c95c05c-0ab2-41f4-85ba-68c4aded0e98",
-              "answers": [
-                {
-                  "answer_start": 519,
-                  "text": "Một số địa chỉ ngon nổi tiếng ở Hà Nội phải kể đến quán chị Loan (đầu phố Điện Biên Phủ), Hàng Lược, Hàng Trống, Cầu Gỗ, ngõ 18 Hàm Long..."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Tìm bún ốc ở Hà Nội không khó, thực khách có thể đến hàng bún ở Hai Bà Trưng, Đặng Dung, Hòe Nhai để ăn bún nóng. Một bát bún ốc có khoảng 6-7 miếng ốc, chan nước dùng riêu cua, topping bắp bò, giò tai, đôi khi cả trứng vịt lộn. Một phiên bản khác là bún ốc nguội hay bún ốc chấm. Một số quán nổi tiếng là quán bún ốc cô Xuân ở Ô Quan Chưởng, hay gánh bún ốc ở đầu ngã tư Bùi Thị Xuân, cũng có thể là gánh bún ốc cô Giang nổi tiếng trên phố Lương Ngọc Quyến. Giá mỗi bát thường từ 30.000 đến 40.000 đồng. Bún bung là món ăn bình dân của người Hà Nội. Không ai biết chính xác thời điểm xuất hiện, nhưng vào những năm 1990, món bún này được bán nhiều ở các vỉa hè thủ đô. 'Bung' là từ để gọi các món phải đun lâu với nhiều nước. Bún bung ở Hà Nội có giá từ 30.000 đồng một tô. Món ăn này thường được kết hợp bán ở các hàng bún sườn, bún mọc. Một số địa điểm được thực khách Hà Nội hay tìm đến là các quán ở phố Cầu Gỗ, bà Minh (Đống Đa)...",
-          "qas": [
-            {
-              "question": "Có thể tìm ăn bún ốc Hà Nội ở đâu ?",
-              "id": "dda5b548-8e5d-4552-9469-1ed82b92d29e",
-              "answers": [
-                {
-                  "answer_start": 31,
-                  "text": "thực khách có thể đến hàng bún ở Hai Bà Trưng, Đặng Dung, Hòe Nhai để ăn bún nóng"
-                }
-              ]
-            },
-            {
-              "question": "Một bát bún ốc gồm có những gì ?",
-              "id": "301cf478-f077-457b-a12c-6e5dda36753b",
-              "answers": [
-                {
-                  "answer_start": 114,
-                  "text": "Một bát bún ốc có khoảng 6-7 miếng ốc, chan nước dùng riêu cua, topping bắp bò, giò tai, đôi khi cả trứng vịt lộn. Một phiên bản khác là bún ốc nguội hay bún ốc chấm"
-                }
-              ]
-            },
-            {
-              "question": "Một số quán bún ốc nổi tiếng ở Hà Nội là gì ?",
-              "id": "e13fc08d-68bf-424c-a931-feebc1144f5a",
-              "answers": [
-                {
-                  "answer_start": 281,
-                  "text": "Một số quán nổi tiếng là quán bún ốc cô Xuân ở Ô Quan Chưởng, hay gánh bún ốc ở đầu ngã tư Bùi Thị Xuân, cũng có thể là gánh bún ốc cô Giang nổi tiếng trên phố Lương Ngọc Quyến"
-                }
-              ]
-            },
-            {
-              "question": "Giá bún ốc ở Hà Nội là bao nhiêu ?",
-              "id": "4c5f0627-f13c-4724-93c0-619f732b28fd",
-              "answers": [
-                {
-                  "answer_start": 481,
-                  "text": "30.000 đến 40.000 đồng"
-                }
-              ]
-            },
-            {
-              "question": "Bún bung ở Hà Nội có giá bao nhiêu ?",
-              "id": "175df833-e018-4234-a74f-26b27dcb09e0",
-              "answers": [
-                {
-                  "answer_start": 727,
-                  "text": "Bún bung ở Hà Nội có giá từ 30.000 đồng một tô"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Chả cá Lã Vọng: Chả cá Lã Vọng ra đời từ năm 1871, do gia tộc họ Đoàn sáng chế. Từ món ăn dân dã, chả cá dần trở thành tinh hoa ẩm thực Hà Thành đến ngày nay. 'Chả cá' được chế biến từ những loại cá ngon nhất, đặc biệt là cá lăng. 'Lã Vọng' là hình tượng vị tướng thời xưa, người tài giỏi có ý chí đợi thời cơ lớn. Thịt cá được lọc kỹ xương, ngọt dịu, vàng thơm và thấm gia vị. Rau thì là, hành hoa cắt khúc đảo lẫn trong chảo cá nóng. Khi ăn kết hợp với bánh đa nướng, bún và mắm tôm - thứ không thể thiếu giúp tạo hương vị đậm đà. Một số địa chỉ gợi ý: Chả cá Lã Vọng số 14 phố Chả Cá; Chả cá Thăng Long số 21 Đường Thành; Chả cá Lão Ngư số 171 Thái Hà...",
-          "qas": [
-            {
-              "question": "Chả cá Lã Vọng ra đời năm nào ?",
-              "id": "f6da739a-d070-4a9b-9059-3824011245ff",
-              "answers": [
-                {
-                  "answer_start": 16,
-                  "text": "Chả cá Lã Vọng ra đời từ năm 1871"
-                }
-              ]
-            },
-            {
-              "question": "Chả cá Lã Vọng do gia tộc nào sáng chế ?",
-              "id": "1b3f1234-e2a3-4606-8179-fae56a78e690",
-              "answers": [
-                {
-                  "answer_start": 51,
-                  "text": "do gia tộc họ Đoàn sáng chế"
-                }
-              ]
-            },
-            {
-              "question": "Chả cá Lã Vọng được coi là gì trong ẩm thực Hà Thành ?",
-              "id": "44f9a96d-f4a1-4db0-a280-726ef0b1ff1e",
-              "answers": [
-                {
-                  "answer_start": 80,
-                  "text": "Từ món ăn dân dã, chả cá dần trở thành tinh hoa ẩm thực Hà Thành đến ngày nay."
-                }
-              ]
-            },
-            {
-              "question": "Chả cá Lã Vọng được chế biến từ gì ?",
-              "id": "9f6853e5-32c8-4ce4-9cf2-163b011ac74d",
-              "answers": [
-                {
-                  "answer_start": 159,
-                  "text": "'Chả cá' được chế biến từ những loại cá ngon nhất, đặc biệt là cá lăng"
-                }
-              ]
-            },
-            {
-              "question": "'Lã Vọng' là hình tượng gì ?",
-              "id": "c9b01721-249c-47ae-8ff0-c903d891918f",
-              "answers": [
-                {
-                  "answer_start": 231,
-                  "text": "'Lã Vọng' là hình tượng vị tướng thời xưa, người tài giỏi có ý chí đợi thời cơ lớn"
-                }
-              ]
-            },
-            {
-              "question": "Chả cá Lã Vọng chế biến như thế nào ?",
-              "id": "e058715e-7259-41b9-aabd-b420d9964140",
-              "answers": [
-                {
-                  "answer_start": 315,
-                  "text": "Thịt cá được lọc kỹ xương, ngọt dịu, vàng thơm và thấm gia vị. Rau thì là, hành hoa cắt khúc đảo lẫn trong chảo cá nóng"
-                }
-              ]
-            },
-            {
-              "question": "Khi ăn Chả cá Lã Vọng nên kết hợp với món gì ?",
-              "id": "bc26f868-ae85-4d96-8078-4060decf6a2f",
-              "answers": [
-                {
-                  "answer_start": 436,
-                  "text": "Khi ăn kết hợp với bánh đa nướng, bún và mắm tôm - thứ không thể thiếu giúp tạo hương vị đậm đà"
-                }
-              ]
-            },
-            {
-              "question": "Địa chỉ để thưởng thức Chả cá Lã Vọng là gì ?",
-              "id": "ff59077a-353b-49c2-89d9-4c6a15058d94",
-              "answers": [
-                {
-                  "answer_start": 555,
-                  "text": "Chả cá Lã Vọng số 14 phố Chả Cá; Chả cá Thăng Long số 21 Đường Thành; Chả cá Lão Ngư số 171 Thái Hà..."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Những chiếc bánh gạo tráng mỏng nhồi thịt lợn, mộc nhĩ, hành băm, chấm với nước mắm chua ngọt luôn là món ăn thích hợp cho những ngày hè nóng nực. Đi dạo trên đường phố, du khách sẽ bắt gặp nhiều quán bánh cuốn mở cửa buổi sáng, với những bàn tay tráng bánh khéo léo, nhanh thoăn thoắt. Một số địa chỉ gợi ý là bánh cuốn Bà Hanh, số 26B Thọ Xương; bánh cuốn Bà Xuân, số 16 dốc Hoè Nhai và khu ẩm thực chợ Long Biên. Ngoài các món ăn nổi tiếng khắp thế giới, Hà Nội còn sở hữu kho tàng các loại bánh như bánh gối, nhân thịt lợn, nấm, miến xay cùng trứng cút... Để cân bằng hương vị, những chiếc bánh rán béo ngậy được ăn kèm với nước chấm tỏi, ớt và rau thơm. Nằm trên đường Lý Quốc Sư, quán Gốc Đa là nơi chuyên bán bánh rán mặn, bánh gối, mở cửa từ 10h sáng đến 9h30 tối.",
-          "qas": [
-            {
-              "question": "Bánh cuốn Hà Nội được chế biến từ gì ?",
-              "id": "32f8d28d-e04a-4b84-86ac-f13c8487be09",
-              "answers": [
-                {
-                  "answer_start": 0,
-                  "text": "Những chiếc bánh gạo tráng mỏng nhồi thịt lợn, mộc nhĩ, hành băm, chấm với nước mắm chua ngọt "
-                }
-              ]
-            },
-            {
-              "question": "Bánh cuốn Hà Nội thích hợp cho những ngày như thế nào ?",
-              "id": "2d59e753-2165-4b80-b33a-a768400dde6c",
-              "answers": [
-                {
-                  "answer_start": 99,
-                  "text": "là món ăn thích hợp cho những ngày hè nóng nực"
-                }
-              ]
-            },
-            {
-              "question": "Ta có thể bắt gặp hàng quán bán cuốn ở đâu ?",
-              "id": "13c60f02-5642-4cb8-b409-9ba5a6822c2c",
-              "answers": [
-                {
-                  "answer_start": 147,
-                  "text": "Đi dạo trên đường phố, du khách sẽ bắt gặp nhiều quán bánh cuốn mở cửa buổi sáng, với những bàn tay tráng bánh khéo léo, nhanh thoăn thoắt. "
-                }
-              ]
-            },
-            {
-              "question": "Địa chỉ ăn bánh cuốn ở Hà Nội là gì ?",
-              "id": "539039cc-187e-45e5-87da-410a0bf42ab0",
-              "answers": [
-                {
-                  "answer_start": 287,
-                  "text": "Một số địa chỉ gợi ý là bánh cuốn Bà Hanh, số 26B Thọ Xương; bánh cuốn Bà Xuân, số 16 dốc Hoè Nhai và khu ẩm thực chợ Long Biên"
-                }
-              ]
-            },
-            {
-              "question": "Hà Nội còn có những loại bánh nổi tiếng nào khác ?",
-              "id": "cc957b1d-efb5-4838-a836-968abef33474",
-              "answers": [
-                {
-                  "answer_start": 416,
-                  "text": "Ngoài các món ăn nổi tiếng khắp thế giới, Hà Nội còn sở hữu kho tàng các loại bánh như bánh gối, nhân thịt lợn, nấm, miến xay cùng trứng cút... "
-                }
-              ]
-            },
-            {
-              "question": "Để cân bằng mùi vị cho các chiếc bánh thì nên ăn kèm với gì ?",
-              "id": "40ee4c6c-1000-42d0-ba9b-b6d04164279f",
-              "answers": [
-                {
-                  "answer_start": 560,
-                  "text": "Để cân bằng hương vị, những chiếc bánh rán béo ngậy được ăn kèm với nước chấm tỏi, ớt và rau thơm."
-                }
-              ]
-            },
-            {
-              "question": "Có thể ăn bánh rán mặn, bánh gối ở đâu ?",
-              "id": "add84378-7030-44fe-8f7a-93507655d959",
-              "answers": [
-                {
-                  "answer_start": 659,
-                  "text": "Nằm trên đường Lý Quốc Sư, quán Gốc Đa"
-                }
-              ]
-            },
-            {
-              "question": "Quán Gốc Đa mở cửa khi nào ?",
-              "id": "41c3f3ad-8742-4af0-8013-d99431f30485",
-              "answers": [
-                {
-                  "answer_start": 740,
-                  "text": "mở cửa từ 10h sáng đến 9h30 tối."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Cà phê là một nét đặc trưng ở Hà Nội, với nhiều quán lâu đời ở phố cổ. Cà phê trứng là một trong những đặc sản của Hà Nội làm từ trứng đánh bông lên hòa quyện cùng cà phê Việt. Cà phê trứng có màu hơi vàng đựng trong một tách nhỏ. Thực khách luôn có thêm một chiếc thìa con để thưởng thức bọt kem bên trên giống như 'món khai vị' trước khi uống cà phê bên dưới. Cà phê trứng ngon có tiếng phải kể tới quán Đinh, Giảng, Cà phê Phố Cổ, Loading T, All Day Coffee... Giá mỗi cốc từ 25.000 đồng.",
-          "qas": [
-            {
-              "question": "Cà phê được xem là gì ở Hà Nội ?",
-              "id": "0746fff8-75d4-4ccf-b44c-7d164b73f7d7",
-              "answers": [
-                {
-                  "answer_start": 0,
-                  "text": "Cà phê là một nét đặc trưng ở Hà Nội, với nhiều quán lâu đời ở phố cổ."
-                }
-              ]
-            },
-            {
-              "question": "Đặc sản cà phê ở Hà Nội là gì ?",
-              "id": "9da99ca0-77b1-44e3-8dfa-4b1b894fd102",
-              "answers": [
-                {
-                  "answer_start": 71,
-                  "text": "Cà phê trứng là một trong những đặc sản của Hà Nội"
-                }
-              ]
-            },
-            {
-              "question": "Cà phê trứng được làm như thế nào ?",
-              "id": "8d012f60-a14a-4556-ab38-d413b90fe5c0",
-              "answers": [
-                {
-                  "answer_start": 123,
-                  "text": "àm từ trứng đánh bông lên hòa quyện cùng cà phê Việt"
-                }
-              ]
-            },
-            {
-              "question": "Cà phê trứng được thực khách thưởng thức như thế nào ?",
-              "id": "bb67bd14-7238-4581-a4e0-d8a1508492f4",
-              "answers": [
-                {
-                  "answer_start": 231,
-                  "text": "Thực khách luôn có thêm một chiếc thìa con để thưởng thức bọt kem bên trên giống như 'món khai vị' trước khi uống cà phê bên dưới"
-                }
-              ]
-            },
-            {
-              "question": "Các quán Cà phê trứng nổi tiếng ở Hà Nội là gì ?",
-              "id": "a19ea7a8-a6ca-420f-9589-e1d9a80d8253",
-              "answers": [
-                {
-                  "answer_start": 362,
-                  "text": "Cà phê trứng ngon có tiếng phải kể tới quán Đinh, Giảng, Cà phê Phố Cổ, Loading T, All Day Coffee..."
-                }
-              ]
-            },
-            {
-              "question": "Giá mỗi cốc Cà phê trứng là bao nhiêu ?",
-              "id": "74c50f69-c29a-4eb0-83c6-7cce2593da36",
-              "answers": [
-                {
-                  "answer_start": 463,
-                  "text": "Giá mỗi cốc từ 25.000 đồng."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Với đủ vị chua, cay, mặn, ngọt như hội tụ tinh hoa của ẩm thực Hà Thành, ô mai là thứ quà được nhiều người chọn mua làm quà khi rời Hà Nội. Địa chỉ nổi tiếng nhất của thứ quà vặt này là phố Hàng Đường. Du khách có thể tìm thấy ở đây các loại ô mai yêu thích như mơ, mận, gừng, sấu, khế, chanh, quất, hồng, đào, cóc, me... Tuy nhiên, nếu mua làm quà cho người miền Nam, bạn nên chọn các loại ô mai sấu, bởi nó có vị ngọt thanh làm từ thứ quả chua rất đặc trưng Hà Nội. Tùy từng loại, ô mai có giá khoảng 100.000 - 150.000 một kg.",
-          "qas": [
-            {
-              "question": "Ô mai ở Hà Nội hội tụ các hương vị gì ?",
-              "id": "ab1b6eaa-58f8-4c6e-8a7e-177a15041997",
-              "answers": [
-                {
-                  "answer_start": 0,
-                  "text": "Với đủ vị chua, cay, mặn, ngọt như hội tụ tinh hoa của ẩm thực Hà Thành"
-                }
-              ]
-            },
-            {
-              "question": "Địa chỉ mua ô mai ở Hà Nội là ở đâu ?",
-              "id": "446c0f6b-916d-43a0-8a8d-66aa7fae4fee",
-              "answers": [
-                {
-                  "answer_start": 186,
-                  "text": "phố Hàng Đường"
-                }
-              ]
-            },
-            {
-              "question": "Các loại ô mai được yêu thích là gì ?",
-              "id": "39442c77-c167-45df-9111-08f8d7427425",
-              "answers": [
-                {
-                  "answer_start": 202,
-                  "text": "Du khách có thể tìm thấy ở đây các loại ô mai yêu thích như mơ, mận, gừng, sấu, khế, chanh, quất, hồng, đào, cóc, me... "
-                }
-              ]
-            },
-            {
-              "question": "Nếu mua làm quà cho người miền Nam, nên chọn ô mai nào ?",
-              "id": "617717c3-1285-4114-aa90-c10f3c4b00b1",
-              "answers": [
-                {
-                  "answer_start": 333,
-                  "text": "nếu mua làm quà cho người miền Nam, bạn nên chọn các loại ô mai sấu, bởi nó có vị ngọt thanh làm từ thứ quả chua rất đặc trưng Hà Nội"
-                }
-              ]
-            },
-            {
-              "question": "Giá ô mai bao nhiêu tiền một kg ?",
-              "id": "333309d1-85b9-43db-88f5-b0141fbaae91",
-              "answers": [
-                {
-                  "answer_start": 483,
-                  "text": "ô mai có giá khoảng 100.000 - 150.000 một kg"
-                }
-              ]
-            }
-          ]
-        }
-      ]
+        "title": "Hà Nội",
+        "paragraphs": [
+          {
+            "context": "Những công trình từ thời Pháp thuộc, hàng quán vỉa hè bày bán đặc sản địa phương, xe máy luồn lách trên đường đông đúc... là những ấn tượng đầu tiên của du khách về Hà Nội. Với nhiều người, Hà Nội có tất cả những thứ thú vị để khám phá nơi đây theo cách riêng của mình. Thời gian lý tưởng nhất để du lịch Hà Nội là vào mùa thu từ tháng 8 đến tháng 11 và mùa xuân từ tháng 3 đến tháng 4. Không ít người cho rằng mùa thu là lúc tiết trời đẹp nhất trong năm ở Hà Nội, với bầu trời xanh trong, gió heo may se se lạnh, lá vàng rơi, mùi hoa sữa thoảng... Mùa xuân về tiết trời ấm áp, đường phố như thay áo mới khi cây cối đâm chồi nảy lộc, muôn hoa đua nở...",
+            "qas": [
+              {
+                "question": "Những ấn tượng đầu tiên của du khách về Hà Nội là gì ?",
+                "id": "0d2e7e47-029a-45f6-af3c-c556ca0a237d",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Những công trình từ thời Pháp thuộc, hàng quán vỉa hè bày bán đặc sản địa phương, xe máy luồn lách trên đường đông đúc... "
+                  }
+                ]
+              },
+              {
+                "question": "Thời gian lý tưởng nhất để du lịch Hà Nội là khi nào ?",
+                "id": "ac73a9e3-2636-4263-8ca3-c98771c41b87",
+                "answers": [
+                  {
+                    "answer_start": 270,
+                    "text": "Thời gian lý tưởng nhất để du lịch Hà Nội là vào mùa thu từ tháng 8 đến tháng 11 và mùa xuân từ tháng 3 đến tháng 4"
+                  }
+                ]
+              },
+              {
+                "question": "Mùa thu ở Hà Nội như thế nào ?",
+                "id": "0fbeaf9e-98fd-44e9-9569-c8033e63a17e",
+                "answers": [
+                  {
+                    "answer_start": 411,
+                    "text": "mùa thu là lúc tiết trời đẹp nhất trong năm ở Hà Nội, với bầu trời xanh trong, gió heo may se se lạnh, lá vàng rơi, mùi hoa sữa thoảng... "
+                  }
+                ]
+              },
+              {
+                "question": "Mùa xuân ở Hà Nội như thế nào ?",
+                "id": "569da796-eb6b-4f98-83db-f61113ebbd5f",
+                "answers": [
+                  {
+                    "answer_start": 549,
+                    "text": "Mùa xuân về tiết trời ấm áp, đường phố như thay áo mới khi cây cối đâm chồi nảy lộc, muôn hoa đua nở..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Hà Nội được ví như trái tim của Việt Nam, do đó du khách có thể di chuyển thuận lợi đến thủ đô bằng máy bay, tàu hỏa, xe khách, ôtô riêng hay xe máy từ các tỉnh thành khác.Để di chuyển trong thành phố, bạn có thể đi ôtô, xe máy hay xe đạp. Nhưng trải nghiệm sẽ thi vị hơn nếu bạn ngồi xích lô ngắm 36 phố phường, đi tour môtô ba bánh hay vespa cổ. Một gợi ý đáng cân nhắc khác là xe buýt hai tầng, giá vé từ 130.000 - 599.000 đồng.",
+            "qas": [
+              {
+                "question": "Hà Nội được ví như vật gì của Việt Nam ?",
+                "id": "39e187ec-03b3-4493-86fb-3b036a9c8839",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Hà Nội được ví như trái tim của Việt Nam"
+                  }
+                ]
+              },
+              {
+                "question": "Du khách có thể thuận lợi đến thủ đô bằng gì ?",
+                "id": "0ab4fea6-4b50-4026-b5cd-745c7d5bda02",
+                "answers": [
+                  {
+                    "answer_start": 48,
+                    "text": "du khách có thể di chuyển thuận lợi đến thủ đô bằng máy bay, tàu hỏa, xe khách, ôtô riêng hay xe máy"
+                  }
+                ]
+              },
+              {
+                "question": "Để di chuyển trong thành phố Hà Nội , bạn nên đi bằng gì ?",
+                "id": "f8b6552d-65f4-47b3-8261-3b6b821a3084",
+                "answers": [
+                  {
+                    "answer_start": 172,
+                    "text": "Để di chuyển trong thành phố, bạn có thể đi ôtô, xe máy hay xe đạp"
+                  }
+                ]
+              },
+              {
+                "question": "Trải nghiệm thú vị khi di chuyển trong thành phố là gì ?",
+                "id": "0e9b7a86-524c-4322-beeb-f7b91d6b4f22",
+                "answers": [
+                  {
+                    "answer_start": 246,
+                    "text": "trải nghiệm sẽ thi vị hơn nếu bạn ngồi xích lô ngắm 36 phố phường, đi tour môtô ba bánh hay vespa cổ"
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé xe buýt hai tầng ở Hà Nội bao nhiêu ?",
+                "id": "33cd952e-f31c-4210-a4b9-3624e0fcabff",
+                "answers": [
+                  {
+                    "answer_start": 397,
+                    "text": " giá vé từ 130.000 - 599.000 đồng."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Hà Nội có nhiều lựa chọn lưu trú cho du khách như nhà nghỉ bình dân, homestay, khách sạn, resort... phù hợp với túi tiền và sở thích. Nếu đi dạo trong phố cổ, bạn có thể thuê từ giường kiểu 'Tây balo' với những phòng dorm tập thể khoảng 100.000 đồng một đêm, cho đến khách sạn cao cấp giá 3.000.000 - 5.000.000 đồng một đêm.Một số khách sạn đặc biệt phải kể đến như Sofitel Legend Metropole Hà Nội mang nét kiến trúc thời thuộc địa Pháp, chỉ cách Nhà hát Lớn vài bước chân là Hilton Hanoi Opera, Apricot Hotel ngay bên bờ hồ Hoàn Kiếm, khách sạn nổi tiếng với view ngắm hồ Tây là Sheraton Hà Nội và InterContinental Hanoi Westlake, Lotte Hotel Hanoi trên tầng cao của tòa Lotte Center 65 tầng...",
+            "qas": [
+              {
+                "question": "Hà Nội có các lựa chọn lưu trú nào cho du khách ?",
+                "id": "0e5ccd00-fc57-4b60-a9b1-4e32e5d26a8a",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Hà Nội có nhiều lựa chọn lưu trú cho du khách như nhà nghỉ bình dân, homestay, khách sạn, resort... phù hợp với túi tiền và sở thích."
+                  }
+                ]
+              },
+              {
+                "question": "Giá thuê giường kiểu 'Tây balo' là bao nhiêu ?",
+                "id": "11117bac-a05c-4ea8-9487-4e73de7808dd",
+                "answers": [
+                  {
+                    "answer_start": 178,
+                    "text": "giường kiểu 'Tây balo' với những phòng dorm tập thể khoảng 100.000 đồng một đêm"
+                  }
+                ]
+              },
+              {
+                "question": "Khách sạn cao cấp ở Hà Nội giá bao nhiêu ?",
+                "id": "5e76d65f-07d4-4a6b-96e3-2763713a8619",
+                "answers": [
+                  {
+                    "answer_start": 267,
+                    "text": "khách sạn cao cấp giá 3.000.000 - 5.000.000 đồng một đêm"
+                  }
+                ]
+              },
+              {
+                "question": "Khách sạn Sofitel Legend Metropole Hà Nội mang nét kiến trúc gì ?",
+                "id": "708e29e8-d475-41c2-86a9-d9f9f638293b",
+                "answers": [
+                  {
+                    "answer_start": 366,
+                    "text": "Sofitel Legend Metropole Hà Nội mang nét kiến trúc thời thuộc địa Pháp"
+                  }
+                ]
+              },
+              {
+                "question": "Khách sạn Apricot Hotel nằm ở đâu ?",
+                "id": "b1c80a31-6d41-4e72-b115-36c1b8b3105d",
+                "answers": [
+                  {
+                    "answer_start": 496,
+                    "text": "Apricot Hotel ngay bên bờ hồ Hoàn Kiếm"
+                  }
+                ]
+              },
+              {
+                "question": "Khách sạn nào nổi tiếng với view ngắm hồ Tây ?",
+                "id": "31ceede2-d897-4e94-9304-80d248afcdb0",
+                "answers": [
+                  {
+                    "answer_start": 580,
+                    "text": "Sheraton Hà Nội và InterContinental Hanoi Westlake"
+                  }
+                ]
+              },
+              {
+                "question": "Khách sạn Hilton Hanoi Opera nằm ở đâu ?",
+                "id": "db56ae4c-9e7a-4c46-be8d-4e7f4e063aa2",
+                "answers": [
+                  {
+                    "answer_start": 438,
+                    "text": "chỉ cách Nhà hát Lớn vài bước chân"
+                  }
+                ]
+              },
+              {
+                "question": "Lotte Hotel Hanoi nằm ở đâu ?",
+                "id": "1343d2aa-e69a-43df-89f8-3732e288062f",
+                "answers": [
+                  {
+                    "answer_start": 632,
+                    "text": "Lotte Hotel Hanoi trên tầng cao của tòa Lotte Center 65 tầng..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Hoàng thành Thăng Long là di sản văn hóa thế giới nằm giữa lòng Hà Nội và đã có bề dày lịch sử hơn 1300 năm. Nơi đây chứa đựng những di tích, di vật độc đáo, minh chứng cho lịch sử của Thăng Long – Hà Nội và lịch sử dân tộc Việt Nam trải qua nhiều thời đại. Địa chỉ: 19C Hoàng Diệu, Điện Bàn, Ba Đình.Hoàn Kiếm là hồ nước ngọt tự nhiên của thành phố Hà Nộ, kết nối các phố Hàng Ngang, Hàng Đào, Cầu Gỗ, Lương Văn Can, Lò Sũ... với khu phố Tây do người Pháp quy hoạch cách đây hơn một thế kỷ là Bảo Khánh, Nhà Thờ, Tràng Thi, Hàng Bài, Đinh Tiên Hoàng, Tràng Tiền... Dạo quanh hồ, ngoài tận hưởng thiên nhiên trong lành giữa phố thị, bạn có thể ghé thăm đền Ngọc Sơn, phố cổ...",
+            "qas": [
+              {
+                "question": "Hoàng thành Thăng Long là gì ?",
+                "id": "a8ee0636-6f88-4dce-9bf7-c3f5eb87f809",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Hoàng thành Thăng Long là di sản văn hóa thế giới nằm giữa lòng Hà Nội "
+                  }
+                ]
+              },
+              {
+                "question": "Hoàng thành Thăng Long có bề dày lịch sử bao lâu ?",
+                "id": "8527fb8b-5308-47e6-b849-30708e88b596",
+                "answers": [
+                  {
+                    "answer_start": 77,
+                    "text": "có bề dày lịch sử hơn 1300 năm"
+                  }
+                ]
+              },
+              {
+                "question": "Hoàng thành Thăng Long chứa đựng những gì ?",
+                "id": "add647a7-5d29-4d0c-a247-66d631525d09",
+                "answers": [
+                  {
+                    "answer_start": 109,
+                    "text": "Nơi đây chứa đựng những di tích, di vật độc đáo, minh chứng cho lịch sử của Thăng Long – Hà Nội và lịch sử dân tộc Việt Nam trải qua nhiều thời đại."
+                  }
+                ]
+              },
+              {
+                "question": "Địa chỉ của Hoàng thành Thăng Long là gì ?",
+                "id": "bf3f597b-cab7-4526-a123-bccb5fdf66be",
+                "answers": [
+                  {
+                    "answer_start": 258,
+                    "text": "Địa chỉ: 19C Hoàng Diệu, Điện Bàn, Ba Đình"
+                  }
+                ]
+              },
+              {
+                "question": "Hồ Hoàn Kiếm là hồ nước ngọt hay nước mặn ?",
+                "id": "277e4341-5994-4f27-b9d9-e6ebdd1d5179",
+                "answers": [
+                  {
+                    "answer_start": 301,
+                    "text": "Hoàn Kiếm là hồ nước ngọt tự nhiên "
+                  }
+                ]
+              },
+              {
+                "question": "Hồ Hoàn Kiếm kết nối các phố nào của Hà Nội ?",
+                "id": "712aaeec-c2e3-48f6-809c-2d55d3288255",
+                "answers": [
+                  {
+                    "answer_start": 357,
+                    "text": "kết nối các phố Hàng Ngang, Hàng Đào, Cầu Gỗ, Lương Văn Can, Lò Sũ... "
+                  }
+                ]
+              },
+              {
+                "question": "Khu phố Tây do nước nào quy hoạch ?",
+                "id": "862b8e6d-c6be-48ef-9873-0bf1f052c290",
+                "answers": [
+                  {
+                    "answer_start": 431,
+                    "text": "khu phố Tây do người Pháp quy hoạch"
+                  }
+                ]
+              },
+              {
+                "question": "Khu phố Tây được quy hoạch cách đây bao lâu ?",
+                "id": "55d73152-e61b-48ee-8dd3-210156e86d83",
+                "answers": [
+                  {
+                    "answer_start": 467,
+                    "text": "cách đây hơn một thế kỷ "
+                  }
+                ]
+              },
+              {
+                "question": "Khu phố Tây gồm những gì ?",
+                "id": "1a3f5260-6b17-41f9-9b59-a90c0e6cc998",
+                "answers": [
+                  {
+                    "answer_start": 494,
+                    "text": "Bảo Khánh, Nhà Thờ, Tràng Thi, Hàng Bài, Đinh Tiên Hoàng, Tràng Tiền... "
+                  }
+                ]
+              },
+              {
+                "question": "Dạo quanh hồ , du khách có thể tận hưởng gì ?",
+                "id": "8467916e-df0f-4281-98aa-cd9e7d3790c9",
+                "answers": [
+                  {
+                    "answer_start": 566,
+                    "text": "Dạo quanh hồ, ngoài tận hưởng thiên nhiên trong lành giữa phố thị, bạn có thể ghé thăm đền Ngọc Sơn, phố cổ..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Không chỉ đơn thuần bắc qua hai bờ sông Hồng, cầu Long Biên còn chính là dấu ấn nối liền giữa hiện tại và ký ức xưa của những người dân yêu Hà Nội. Cầu Long Biên được xây dựng vào năm 1898, dân gian còn gọi bằng cái tên cầu Sông Cái hay cầu Bồ Đề vì cầu bắc qua bến Bồ Đề, Gia Lâm, Hà Nội. Với chiều dài 1.682 m cùng phần cầu dẫn dài 896 m, cầu Long Biên được chia làm 9 khung, mỗi khung dài 61 m. Theo thiết kế ban đầu, cầu có tất cả 19 nhịp dầm thép đặt trên 20 trụ cao hơn 40 m. Nằm trên hòn đảo phía đông Hồ Tây, chùa Trấn Quốc từng vào top những ngôi chùa đẹp nhất thế giới. Chùa có lịch sử 1.500 năm, là trung tâm Phật giáo của kinh thành Thăng Long vào thời Lý và Trần. Công trình được công nhận là Di tích lịch sử văn hóa cấp quốc gia năm 1962. Năm 2003, chùa tổ chức khánh thành Bảo tháp Lục độ đài sen cao 15 m, 11 tầng.",
+            "qas": [
+              {
+                "question": "Cầu Long Biên bắt qua hai bờ sông gì ?",
+                "id": "13e5d945-c0cd-4502-a475-a10957f99758",
+                "answers": [
+                  {
+                    "answer_start": 20,
+                    "text": "bắc qua hai bờ sông Hồng"
+                  }
+                ]
+              },
+              {
+                "question": "Cầu Long Biên là dấu ấn nối liền điều gì ?",
+                "id": "3c85a71d-3599-497e-ae3d-fb7d2065173e",
+                "answers": [
+                  {
+                    "answer_start": 46,
+                    "text": "cầu Long Biên còn chính là dấu ấn nối liền giữa hiện tại và ký ức xưa của những người dân yêu Hà Nội"
+                  }
+                ]
+              },
+              {
+                "question": "Cầu Long Biên được xây dựng năm nào ?",
+                "id": "8ae19f6c-6d5a-4aac-b666-f0721d37c895",
+                "answers": [
+                  {
+                    "answer_start": 148,
+                    "text": "Cầu Long Biên được xây dựng vào năm 1898"
+                  }
+                ]
+              },
+              {
+                "question": "Cầu Long Biên được dân gian gọi là gì ?",
+                "id": "a1031cec-f92a-490e-87b6-b2e6aaa4cc7b",
+                "answers": [
+                  {
+                    "answer_start": 190,
+                    "text": "dân gian còn gọi bằng cái tên cầu Sông Cái hay cầu Bồ Đề "
+                  }
+                ]
+              },
+              {
+                "question": "Vì sao Cầu Long Biên còn được gọi là cầu Bồ Đề ?",
+                "id": "00ce89e7-b8dc-4a43-a94d-149e7a08976f",
+                "answers": [
+                  {
+                    "answer_start": 246,
+                    "text": " vì cầu bắc qua bến Bồ Đề, Gia Lâm, Hà Nội."
+                  }
+                ]
+              },
+              {
+                "question": "Chiều dài Cầu Long Biên là bao nhiêu ?",
+                "id": "a475b2e6-2f8f-4772-a33c-ed1e461712bb",
+                "answers": [
+                  {
+                    "answer_start": 294,
+                    "text": "chiều dài 1.682 m"
+                  }
+                ]
+              },
+              {
+                "question": "Phần cầu dẫn Cầu Long Biên dài bao nhiêu ?",
+                "id": "902ac78a-f8d3-452e-80f3-cbad1a6b908d",
+                "answers": [
+                  {
+                    "answer_start": 317,
+                    "text": "phần cầu dẫn dài 896 m"
+                  }
+                ]
+              },
+              {
+                "question": "Cầu Long Biên được chia làm mấy khung ?",
+                "id": "025e2889-7001-4317-be29-7b66f266c248",
+                "answers": [
+                  {
+                    "answer_start": 341,
+                    "text": "cầu Long Biên được chia làm 9 khung"
+                  }
+                ]
+              },
+              {
+                "question": "Mỗi khung của Cầu Long Biên dài bao nhiêu ?",
+                "id": "01ea3850-ffb7-4d07-931f-7d4609ebdfc4",
+                "answers": [
+                  {
+                    "answer_start": 378,
+                    "text": "mỗi khung dài 61 m"
+                  }
+                ]
+              },
+              {
+                "question": "Theo thiết kế ban đầu , Cầu Long Biên có gì ?",
+                "id": "72fc9c0f-3e1c-46de-87d9-9eba3159c704",
+                "answers": [
+                  {
+                    "answer_start": 397,
+                    "text": " Theo thiết kế ban đầu, cầu có tất cả 19 nhịp dầm thép đặt trên 20 trụ cao hơn 40 m"
+                  }
+                ]
+              },
+              {
+                "question": "Chùa Trấn Quốc nằm trên hòn đảo nào ? ",
+                "id": "8eaf5e6b-e7b1-423e-930c-876dca72ec08",
+                "answers": [
+                  {
+                    "answer_start": 482,
+                    "text": "Nằm trên hòn đảo phía đông Hồ Tây"
+                  }
+                ]
+              },
+              {
+                "question": "Chùa Trấn Quốc từng được vào top gì của thế giới ?",
+                "id": "3af692a4-9fcf-4c3c-9467-653925c412a1",
+                "answers": [
+                  {
+                    "answer_start": 517,
+                    "text": "chùa Trấn Quốc từng vào top những ngôi chùa đẹp nhất thế giới"
+                  }
+                ]
+              },
+              {
+                "question": "Chùa Trấn Quốc có lịch sử bao nhiêu năm ?",
+                "id": "7b88eaee-b3a0-4986-84f3-d677e1ab1424",
+                "answers": [
+                  {
+                    "answer_start": 580,
+                    "text": "Chùa có lịch sử 1.500 năm"
+                  }
+                ]
+              },
+              {
+                "question": "Chùa Trấn Quốc là gì của kinh thành Thăng Long ?",
+                "id": "7f690fa2-0950-49f7-9c94-0663710b2239",
+                "answers": [
+                  {
+                    "answer_start": 607,
+                    "text": "là trung tâm Phật giáo của kinh thành Thăng Long "
+                  }
+                ]
+              },
+              {
+                "question": "Chùa Trấn Quốc là trung tâm Phật giáo của kinh thành Thăng Long vào thời nào ?",
+                "id": "510ed290-d634-4e38-a986-93b9a71c4c05",
+                "answers": [
+                  {
+                    "answer_start": 656,
+                    "text": "vào thời Lý và Trần"
+                  }
+                ]
+              },
+              {
+                "question": "Công trình Chùa Trấn Quốc được công nhận là gì ?",
+                "id": "40af5e2e-5732-4037-b281-b4bef2070f3f",
+                "answers": [
+                  {
+                    "answer_start": 677,
+                    "text": "Công trình được công nhận là Di tích lịch sử văn hóa cấp quốc gia"
+                  }
+                ]
+              },
+              {
+                "question": "Chùa Trấn Quốc được công nhận là di sản văn hóa quốc cấp gia năm nào ?",
+                "id": "83a59940-46fe-4d87-8349-49031aa99df4",
+                "answers": [
+                  {
+                    "answer_start": 743,
+                    "text": "năm 1962"
+                  }
+                ]
+              },
+              {
+                "question": "Năm 2003, Chùa Trấn Quốc tổ chức gì ?",
+                "id": "f20a26f0-dda1-4e03-9c69-2104601cfb4a",
+                "answers": [
+                  {
+                    "answer_start": 753,
+                    "text": "Năm 2003, chùa tổ chức khánh thành Bảo tháp Lục độ đài sen cao 15 m, 11 tầng."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Đây là trường đại học đầu tiên của Việt Nam. Ngày nay du khách đến có thể tham quan các bia đá, khuôn viên trang nghiêm với những ao sen, ao súng. Văn Miếu là nơi thanh bình, yên tĩnh hiếm hoi giữa thành phố sôi động. Du khách sẽ cảm nhận được sự hài hòa giữa cổ và kim khi tới đây qua những bức tường nghìn năm tuổi.Văn Miếu được xây dựng năm 1070 dưới thời vua Lý Thánh Tông. Đến năm 1076, vua Lý Nhân Tông mới cho lập nhà Quốc Tử Giám. Nơi này cũng lưu giữ nhiều hiện vật, tư liệu quý, đặc biệt là 82 bia tiến sĩ đã được UNESCO công nhận là 'Di sản tư liệu thế giới'.",
+            "qas": [
+              {
+                "question": "Văn Miếu là gì của Việt Nam ?",
+                "id": "8a772b97-fa48-48ef-b2e0-e3a582eb636e",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Đây là trường đại học đầu tiên của Việt Nam"
+                  }
+                ]
+              },
+              {
+                "question": "Ngày nay, đến Văn Miếu du khách có thể tham quan gì ?",
+                "id": "005763d4-fc30-4c44-8127-ee3f1b401d2f",
+                "answers": [
+                  {
+                    "answer_start": 45,
+                    "text": "Ngày nay du khách đến có thể tham quan các bia đá, khuôn viên trang nghiêm với những ao sen, ao súng."
+                  }
+                ]
+              },
+              {
+                "question": "Văn Miếu là nơi như thế nào ?",
+                "id": "7b75d314-20de-4bf7-a730-0ba7cb999815",
+                "answers": [
+                  {
+                    "answer_start": 147,
+                    "text": "Văn Miếu là nơi thanh bình, yên tĩnh hiếm hoi giữa thành phố sôi động."
+                  }
+                ]
+              },
+              {
+                "question": "Du khách sẽ cảm nhận được gì khi đến Văn Miếu ?",
+                "id": "114b1529-982d-4cfb-bccb-b6f046e9a0c8",
+                "answers": [
+                  {
+                    "answer_start": 218,
+                    "text": "Du khách sẽ cảm nhận được sự hài hòa giữa cổ và kim khi tới đây qua những bức tường nghìn năm tuổi."
+                  }
+                ]
+              },
+              {
+                "question": "Văn Miếu được xây dựng năm nào ?",
+                "id": "2c1f2ae4-5f76-41f0-b68c-e78ad21b8d3f",
+                "answers": [
+                  {
+                    "answer_start": 317,
+                    "text": "Văn Miếu được xây dựng năm 1070"
+                  }
+                ]
+              },
+              {
+                "question": "Văn Miếu được xây dựng dưới thời vua nào ?",
+                "id": "7a397ebc-06fe-45e3-a52b-f72a82b7f682",
+                "answers": [
+                  {
+                    "answer_start": 349,
+                    "text": "dưới thời vua Lý Thánh Tông"
+                  }
+                ]
+              },
+              {
+                "question": "Quốc Tử Giám được lập năm nào ?",
+                "id": "7d5f28e0-d6b7-4283-b631-7f7fb3a969ab",
+                "answers": [
+                  {
+                    "answer_start": 382,
+                    "text": "năm 1076"
+                  }
+                ]
+              },
+              {
+                "question": "Quốc Tử Giám được vua nào lập ra ?",
+                "id": "32f20a68-d1f0-4b2c-ae1e-8e00776c75a2",
+                "answers": [
+                  {
+                    "answer_start": 392,
+                    "text": "vua Lý Nhân Tông "
+                  }
+                ]
+              },
+              {
+                "question": "Quốc Tử Giám lưu giữ gì ?",
+                "id": "aecf169f-a871-45cc-a0e5-e9f83c1cb021",
+                "answers": [
+                  {
+                    "answer_start": 439,
+                    "text": "Nơi này cũng lưu giữ nhiều hiện vật, tư liệu quý, đặc biệt là 82 bia tiến sĩ đã được UNESCO công nhận là 'Di sản tư liệu thế giới'."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Đối với người Việt, đây là một trong những điểm tham quan quan trọng nhất trong nước. Du khách tới để bày tỏ lòng thành kính với Chủ tịch Hồ Chí Minh. Khách tham quan cần giữ im lặng, mặc quần áo phù hợp và không chụp ảnh tại những khu vực cấm. Dự lễ thượng cờ vào buổi sáng là trải nghiệm đặc biệt tại lăng Chủ tịch Hồ Chí Minh. Nếu bỏ lỡ, du khách có thể yên tâm dạo chơi một vòng quanh thành phố và quay lại đây tham gia lễ hạ cờ lúc 9h tối hàng ngày. Không khí trang nghiêm bao trùm khắp quảng trường Ba Đình khi tiếng loa phát thanh vang lên báo lễ hạ cờ sắp diễn ra. Người người xếp hàng ngay ngắn, dõi theo đoàn cảnh vệ trang trọng hạ lá cờ Tổ Quốc trong tiếng nhạc bài hát 'Bác vẫn cùng chúng cháu hành quân'.",
+            "qas": [
+              {
+                "question": "Lăng Chủ tịch Hồ Chí Minh là gì đối với người Việt ?",
+                "id": "aeadb2df-4685-4b62-9e73-5dcf5f3fff1f",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Đối với người Việt, đây là một trong những điểm tham quan quan trọng nhất trong nước"
+                  }
+                ]
+              },
+              {
+                "question": "Du khách đến lăng Chủ tịch Hồ Chí Minh để bày tỏ điều gì ?",
+                "id": "563f808a-1a18-4baa-b8d7-bbc89ed811c7",
+                "answers": [
+                  {
+                    "answer_start": 86,
+                    "text": "Du khách tới để bày tỏ lòng thành kính với Chủ tịch Hồ Chí Minh"
+                  }
+                ]
+              },
+              {
+                "question": "Khi tham quan lăng Chủ tịch Hồ Chí Minh , khách tham quan cần làm gì ?",
+                "id": "bde39eeb-0133-4297-a2f3-eba59a2874ee",
+                "answers": [
+                  {
+                    "answer_start": 151,
+                    "text": "Khách tham quan cần giữ im lặng, mặc quần áo phù hợp và không chụp ảnh tại những khu vực cấm"
+                  }
+                ]
+              },
+              {
+                "question": "Trải nghiệm đặc biệt vào buổi sáng ở lăng Chủ tịch Hồ Chí Minh là gì ?",
+                "id": "7d53428c-e10e-4f33-a90b-b1636f9f1a0a",
+                "answers": [
+                  {
+                    "answer_start": 245,
+                    "text": "Dự lễ thượng cờ vào buổi sáng là trải nghiệm đặc biệt tại lăng Chủ tịch Hồ Chí Minh"
+                  }
+                ]
+              },
+              {
+                "question": "Lễ hạ cờ tại lăng Chủ tịch Hồ Chí Minh diễn ra lúc mấy giờ ?",
+                "id": "ad0a8ccd-054c-4f3e-93e9-5f1faf76f5a5",
+                "answers": [
+                  {
+                    "answer_start": 424,
+                    "text": "lễ hạ cờ lúc 9h tối hàng ngày."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Lăng Chủ tịch Hồ Chí Minh chính thức khởi công ngày 2 tháng 9 năm 1973 tại vị trí của lễ đài cũ giữa quảng trường Ba Đình, nơi Bác Hồ đọc bản tuyên ngôn độc lập. Lăng Bác là nơi yên nghỉ của chủ tịch Hồ Chí Minh vĩ đại. Là một di tích đặc biệt và là danh thắng của thủ đô, bất kỳ du khách nào khi đến Hà Nội cũng đều dừng chân ghé thăm nơi yên nghỉ của vị cha già dân tộc Việt Nam - Bác Hồ Chí Minh.Nằm trên đường Ngọc Hà, Ba Đình, Hà Nội, bạn có thể đến tham quan lăng Bác bằng phương tiện cá nhân hay phương tiện công cộng. Nếu di chuyển bằng phương tiện cá nhân, Nếu di chuyển bằng phương tiện cá nhân bạn nên gửi xe ở đường Ông Ích Khiêm đối diện Bộ Tư lệnh lăng Bác hay đường Ngọc Hà, cổng chính vào lăng. Nếu đi xe buýt, bạn có thể bắt các tuyến xe số 09, 18, 22, 33, 45, 50 và dừng tại các trạm: 18A Lê Hồng Phong, 34-36 Hoàng Diệu, 91-93 Lê Hồng Phong và trạm đối diện tượng đài Bắc Sơn. ",
+            "qas": [
+              {
+                "question": "Lăng Chủ tịch Hồ Chí Minh khởi công vào năm nào ?",
+                "id": "03aca635-2b1e-43b7-a0f0-a3e9a0cb516b",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Lăng Chủ tịch Hồ Chí Minh chính thức khởi công ngày 2 tháng 9 năm 1973 "
+                  }
+                ]
+              },
+              {
+                "question": "Lăng Chủ tịch Hồ Chí Minh được khởi công tại đâu ?",
+                "id": "a1490c17-7bd1-490c-935f-7ad379473c55",
+                "answers": [
+                  {
+                    "answer_start": 71,
+                    "text": "tại vị trí của lễ đài cũ giữa quảng trường Ba Đình, nơi Bác Hồ đọc bản tuyên ngôn độc lập."
+                  }
+                ]
+              },
+              {
+                "question": "Lăng Chủ tịch Hồ Chí Minh là di tích gì ?",
+                "id": "4e55f81c-b8cf-49f1-a6c3-d7d2979f5053",
+                "answers": [
+                  {
+                    "answer_start": 220,
+                    "text": "Là một di tích đặc biệt và là danh thắng của thủ đô"
+                  }
+                ]
+              },
+              {
+                "question": "Lăng Chủ tịch Hồ Chí Minh nằm trên đường nào ?",
+                "id": "903b3fab-d0c6-47d4-b82b-21d4b2ca2ecd",
+                "answers": [
+                  {
+                    "answer_start": 399,
+                    "text": "Nằm trên đường Ngọc Hà, Ba Đình, Hà Nội"
+                  }
+                ]
+              },
+              {
+                "question": "Du khách có thể tham quan lăng Chủ tịch Hồ Chí Minh bằng gì ?",
+                "id": "8c4df4ea-c150-4f47-af3e-4d33790b2fa0",
+                "answers": [
+                  {
+                    "answer_start": 444,
+                    "text": "có thể đến tham quan lăng Bác bằng phương tiện cá nhân hay phương tiện công cộng"
+                  }
+                ]
+              },
+              {
+                "question": "Nếu di chuyển bằng phương tiện cá nhân khi đi tham quan lăng Chủ tịch Hồ Chí Minh thì gửi xe ở đâu ?",
+                "id": "40755fe5-7d0c-48aa-96a3-f4dc90ccbeb5",
+                "answers": [
+                  {
+                    "answer_start": 613,
+                    "text": "gửi xe ở đường Ông Ích Khiêm đối diện Bộ Tư lệnh lăng Bác hay đường Ngọc Hà, cổng chính vào lăng"
+                  }
+                ]
+              },
+              {
+                "question": "Nếu đi xe buýt để lăng Chủ tịch Hồ Chí Minh thì nên bắt xe tuyến nào ?",
+                "id": "883616f9-9b83-4df5-b514-0dee5c1ccf4c",
+                "answers": [
+                  {
+                    "answer_start": 738,
+                    "text": "bắt các tuyến xe số 09, 18, 22, 33, 45, 50 và dừng tại các trạm: 18A Lê Hồng Phong, 34-36 Hoàng Diệu, 91-93 Lê Hồng Phong và trạm đối diện tượng đài Bắc Sơn. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Công trình là một trong những ngôi chùa cổ nhất ở Hà Nội. Chùa được xây trên một thân gỗ cách đây hơn 1.000 năm. Vào những năm 1950, thân gỗ ban đầu mục nát nên được thay thế bằng một cột bê tông. Khách Tây nên tới đây để đi dạo quanh khu vực này do có những công trình nhà ở xung quanh thuộc hàng đẹp và ấn tượng nhất Hà Nội.Chùa Một Cột là ngôi chùa cổ ở Việt Nam được xây dựng từ thời vua Lý Thái Tông, còn được biết đến với nhiều tên gọi khác nhau như Chùa Mật, Liên Hoa Đài hay Diên Hựu Tự. Dưới thời nhà Lý, chùa tọa lạc trên phần đất của thôn Thanh Bảo, huyện Quảng Đức, phía tây Hoàng thành Thăng Long. Ngày nay, chùa thuộc quận Ba Đình, nằm ở công viên phía sau phố Ông Ích Khiêm, cạnh quần thể Quảng trường Ba Đình và Lăng Chủ tịch Hồ Chí Minh. Vì nằm trong quần thể Quảng trường Ba Đình và Lăng Bác nên thời gian chùa mở cửa cho khách vào tham quan cũng phụ thuộc vào 2 địa điểm này. Theo đó, chùa sẽ đón khách trong khoảng thời gian từ 7h đến 18h hàng ngày. Thời lượng cho mỗi chuyến tham quan thường dao động từ 1 – 3 giờ đồng hồ. Chùa không thu tiền vé đối với công dân Việt Nam đến vãn cảnh, lễ Phật hoặc cúng bái. Riêng đối với các du khách người nước ngoài, giá vé tham quan Chùa Một Cột là 25.000 VND/ người.",
+            "qas": [
+              {
+                "question": "Chùa Một Cột là gì ở Hà Nội ?",
+                "id": "9601b417-0f8a-43a5-94c4-4a9840f113fc",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Công trình là một trong những ngôi chùa cổ nhất ở Hà Nội."
+                  }
+                ]
+              },
+              {
+                "question": "Chùa Một Cột được xây dựng trên đâu ?",
+                "id": "e1992d8e-21bb-44ee-8a51-26dc1c185d52",
+                "answers": [
+                  {
+                    "answer_start": 58,
+                    "text": "Chùa được xây trên một thân gỗ "
+                  }
+                ]
+              },
+              {
+                "question": "Chùa Một Cột được xây dựng cách đây bao lâu ?",
+                "id": "76ac0f20-b6ee-461f-81b9-c105c12804c3",
+                "answers": [
+                  {
+                    "answer_start": 89,
+                    "text": "cách đây hơn 1.000 năm"
+                  }
+                ]
+              },
+              {
+                "question": "Thân gỗ mục nát của Chùa Một Cột được thay bằng cột bê tông năm nào ?",
+                "id": "2d77697e-979a-425b-84b5-9328730dc668",
+                "answers": [
+                  {
+                    "answer_start": 113,
+                    "text": "Vào những năm 1950"
+                  }
+                ]
+              },
+              {
+                "question": "Khách Tây nên tới Chùa Một Cột làm gì ?",
+                "id": "cd7f68ef-7ea5-4ded-87e7-4e2cbeeed1e5",
+                "answers": [
+                  {
+                    "answer_start": 197,
+                    "text": "Khách Tây nên tới đây để đi dạo quanh khu vực này do có những công trình nhà ở xung quanh thuộc hàng đẹp và ấn tượng nhất Hà Nội"
+                  }
+                ]
+              },
+              {
+                "question": "Chùa Một Cột được xây dựng từ thời vua nào ?",
+                "id": "f4d91fd0-8e9b-43a6-9a74-7c34b419c364",
+                "answers": [
+                  {
+                    "answer_start": 366,
+                    "text": "được xây dựng từ thời vua Lý Thái Tông"
+                  }
+                ]
+              },
+              {
+                "question": "Chùa Một Cột còn được biết đến với những cái tên gì ?",
+                "id": "fcbef020-1250-4744-8f74-f045117e9510",
+                "answers": [
+                  {
+                    "answer_start": 406,
+                    "text": "còn được biết đến với nhiều tên gọi khác nhau như Chùa Mật, Liên Hoa Đài hay Diên Hựu Tự."
+                  }
+                ]
+              },
+              {
+                "question": "Dưới thời nhà Lý, Chùa Một Cột tọa lạc ở đâu ?",
+                "id": "715539a9-4b29-4735-b609-ed944122a143",
+                "answers": [
+                  {
+                    "answer_start": 496,
+                    "text": "Dưới thời nhà Lý, chùa tọa lạc trên phần đất của thôn Thanh Bảo, huyện Quảng Đức, phía tây Hoàng thành Thăng Long"
+                  }
+                ]
+              },
+              {
+                "question": "Ngày nay , Chùa Một Cột nằm ở đâu ?",
+                "id": "37fd95e8-5cb3-4fcd-a88d-6afdd789cb3a",
+                "answers": [
+                  {
+                    "answer_start": 611,
+                    "text": "Ngày nay, chùa thuộc quận Ba Đình, nằm ở công viên phía sau phố Ông Ích Khiêm, cạnh quần thể Quảng trường Ba Đình và Lăng Chủ tịch Hồ Chí Minh."
+                  }
+                ]
+              },
+              {
+                "question": "Thời gian mở cửa Chùa Một Cột phụ thuộc vào 2 quần thể nào ?",
+                "id": "4a4c2e95-f98b-4fd4-8c4d-326782998c16",
+                "answers": [
+                  {
+                    "answer_start": 777,
+                    "text": "Quảng trường Ba Đình và Lăng Bác"
+                  }
+                ]
+              },
+              {
+                "question": "Chùa Một Cột đón khách vào khoảng thời gian nào ?",
+                "id": "43e7ad97-8157-473c-bf22-ed5ffda1cd87",
+                "answers": [
+                  {
+                    "answer_start": 945,
+                    "text": "từ 7h đến 18h hàng ngày"
+                  }
+                ]
+              },
+              {
+                "question": "Thời lượng tham quan Chùa Một Cột dao động như thế nào ?",
+                "id": "3683a9ec-52cd-43bd-8ea0-c0cadacc6d53",
+                "answers": [
+                  {
+                    "answer_start": 1025,
+                    "text": "1 – 3 giờ đồng hồ"
+                  }
+                ]
+              },
+              {
+                "question": "Chùa Một Cột không thu vé tham quan đối với ai ?",
+                "id": "bdf89d73-3115-41c4-8168-f5d9701696d7",
+                "answers": [
+                  {
+                    "answer_start": 1044,
+                    "text": "Chùa không thu tiền vé đối với công dân Việt Nam đến vãn cảnh, lễ Phật hoặc cúng bái."
+                  }
+                ]
+              },
+              {
+                "question": "Đối với du khách nước ngoài , giá vé tham quan là bao nhiêu ?",
+                "id": "ad50a51b-0da4-4504-91a9-9fd48f6d8222",
+                "answers": [
+                  {
+                    "answer_start": 1175,
+                    "text": "giá vé tham quan Chùa Một Cột là 25.000 VND/ người."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Chùa nằm trong khu vực quận Ba Đình, gần với nhiều địa điểm du lịch nổi tiếng nên khá dễ tìm. Du khách có thể đến đây bằng các loại phương tiện cá nhân như xe máy, ô tô hoặc chọn các dịch vụ xe taxi, xe ôm công nghệ. Nếu di chuyển bằng xe buýt, bạn hãy bắt các tuyến xe buýt có trạm dừng gần với chùa, chẳng hạn như tuyến số 09, số 22, số 33, số 45 và số 50. Tất cả các tuyến trên đều có điểm dừng ở số 15A Lê Hồng Phong. Hoặc bạn cũng có thể đến Chùa Một Cột bằng cách đi theo hướng bắc để vào Bưu điện thành phố, chọn lối thứ nhất ở vòng xuyến đến đường Đinh Tiên Hoàng. Từ Đinh Tiên Hoàng, bạn hãy rẽ trái tại DC Gallery để vào Hàng Gai, qua Hàng Bông đến Xôi Cấm và rẽ về Điện Biên Phủ. Di chuyển theo đường Điện Biên Phủ đến con đường cắt ngang Ông Ích Khiêm và Hùng Vương chính là địa điểm mà bạn cần đến.",
+            "qas": [
+              {
+                "question": "Chùa Một Cột nằm ở khu vực quận nào của Hà Nội ?",
+                "id": "56d9b076-2add-446b-8a18-5cbea370f4df",
+                "answers": [
+                  {
+                    "answer_start": 15,
+                    "text": "khu vực quận Ba Đình"
+                  }
+                ]
+              },
+              {
+                "question": "Du khách có thể đến tham quan Chùa Một Cột bằng các phương tiện nào ?",
+                "id": "ef10c21f-6d91-459c-973c-c2b58b2fa4f4",
+                "answers": [
+                  {
+                    "answer_start": 94,
+                    "text": "Du khách có thể đến đây bằng các loại phương tiện cá nhân như xe máy, ô tô hoặc chọn các dịch vụ xe taxi, xe ôm công nghệ"
+                  }
+                ]
+              },
+              {
+                "question": "Tham quan Chùa Một Cột bằng xe buýt , thì du khách nên bắt các tuyến xe nào ?",
+                "id": "19f58dea-4251-4193-8aa0-11c30126128a",
+                "answers": [
+                  {
+                    "answer_start": 249,
+                    "text": "hãy bắt các tuyến xe buýt có trạm dừng gần với chùa, chẳng hạn như tuyến số 09, số 22, số 33, số 45 và số 50"
+                  }
+                ]
+              },
+              {
+                "question": "Các tuyến xe buýt đến Chùa Một Cột dừng lại ở đâu ?",
+                "id": "77b368a5-b8ff-4f77-8c23-6442f8f22b58",
+                "answers": [
+                  {
+                    "answer_start": 366,
+                    "text": "các tuyến trên đều có điểm dừng ở số 15A Lê Hồng Phong"
+                  }
+                ]
+              },
+              {
+                "question": "Du khách có thể đến Chùa Một Cột bằng cách đi theo hướng nào ?",
+                "id": "e1fdf69f-6865-4d65-acdc-68525568f6e5",
+                "answers": [
+                  {
+                    "answer_start": 436,
+                    "text": "có thể đến Chùa Một Cột bằng cách đi theo hướng bắc để vào Bưu điện thành phố, chọn lối thứ nhất ở vòng xuyến đến đường Đinh Tiên Hoàng. Từ Đinh Tiên Hoàng, bạn hãy rẽ trái tại DC Gallery để vào Hàng Gai, qua Hàng Bông đến Xôi Cấm và rẽ về Điện Biên Phủ. Di chuyển theo đường Điện Biên Phủ đến con đường cắt ngang Ông Ích Khiêm và Hùng Vương chính là địa điểm mà bạn cần đến."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Điểm đến không thể bỏ qua khi tới bất cứ thành phố nào chính là các bảo tàng, di tích lịch sử. Một trong những nơi được du khách check-in nhiều nhất chính là bảo tàng Dân tộc học. Bảo tàng Dân tộc học hiện lưu giữ và trưng bày 15.000 hiện vật, 42.000 phim tư liệu, tranh ảnh và hàng nghìn tài liệu khác về 54 dân tộc Việt Nam. Bên cạnh đó, du khách cũng tìm đến bảo tàng Phụ nữ Việt Nam, bảo tàng Hà Nội, bảo tàng Lịch sử Quốc gia hay nhà tù Hỏa Lò, di tích Cột cờ Hà Nội... để tìm hiểu văn hóa, lịch sử của thành phố.",
+            "qas": [
+              {
+                "question": "Các điểm đến không thể bỏ qua khi đến Hà Nội là gì ?",
+                "id": "dd70d01c-7e7a-4422-8757-3cc8404d4542",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Điểm đến không thể bỏ qua khi tới bất cứ thành phố nào chính là các bảo tàng, di tích lịch sử"
+                  }
+                ]
+              },
+              {
+                "question": "Một trong những nơi được du khách check-in nhiều nhất ở Hà Nội là đâu ?",
+                "id": "2d2d0ff3-d7f9-45e3-87dc-71eec04c1344",
+                "answers": [
+                  {
+                    "answer_start": 95,
+                    "text": "Một trong những nơi được du khách check-in nhiều nhất chính là bảo tàng Dân tộc học"
+                  }
+                ]
+              },
+              {
+                "question": "Bảo tàng Dân tộc học hiện lưu trữ và trưng bày gì ?",
+                "id": "b08ee1ef-95b7-4bb9-b3c3-9dc0e5da29bc",
+                "answers": [
+                  {
+                    "answer_start": 180,
+                    "text": "Bảo tàng Dân tộc học hiện lưu giữ và trưng bày 15.000 hiện vật, 42.000 phim tư liệu, tranh ảnh và hàng nghìn tài liệu khác về 54 dân tộc Việt Nam."
+                  }
+                ]
+              },
+              {
+                "question": "Ngoài bảo tàng Dân tộc học, du khách còn có thể tìm hiểu các bảo tàng nào ?",
+                "id": "0fea9d72-6ea9-46c1-aa7a-6d188fae2226",
+                "answers": [
+                  {
+                    "answer_start": 327,
+                    "text": "Bên cạnh đó, du khách cũng tìm đến bảo tàng Phụ nữ Việt Nam, bảo tàng Hà Nội, bảo tàng Lịch sử Quốc gia hay nhà tù Hỏa Lò, di tích Cột cờ Hà Nội... để tìm hiểu văn hóa, lịch sử của thành phố."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Múa rối nước: là nghệ thuật sân khấu du khách nên xem khi tới Hà Nội. Nghệ thuật này đã có truyền thống hơn 1.000 năm ở Việt Nam. Có hai địa chỉ nhiều khách ghé thăm là Nhà hát múa rối Thăng Long ở 57B Đinh Tiên Hoàng và Nhà hát múa rối Việt Nam ở 361 Trường Chinh. Nghe ca trù: Ca trù có nguồn gốc từ thế kỷ 11, phong cách mang nhiều nét giống nghi lễ geisha của Nhật Bản và các màn trình diễn opera. Ban đầu, ca trù được xem là thú vui giải trí cho giới quý tộc trong hoàng cung, sau đó, đi vào không gian văn hóa chung của Hà Nội thời hiện đại. Ca trù có năm không gian trình diễn chính: Ca trù cửa đình (hát ở cửa đình tế thần), ca trù cửa quyền (thưởng thức ca trù của giới quyền chức), ca trù tại gia, ca trù hát thi, ca trù ca quán. Du khách có thể nghe ca trù tại Câu lạc bộ Ca Trù Hà Nội ở 42 hàng Bạc, Ca Trù Thăng Long 146 Từ Hoa.",
+            "qas": [
+              {
+                "question": "Múa rối nước ở Hà Nội có truyền thống bao lâu ở Việt Nam ?",
+                "id": "a1d556aa-d309-43c6-bec4-e64404972d40",
+                "answers": [
+                  {
+                    "answer_start": 70,
+                    "text": "Nghệ thuật này đã có truyền thống hơn 1.000 năm ở Việt Nam."
+                  }
+                ]
+              },
+              {
+                "question": "Các địa chỉ ghé thăm để xem Múa rối nước ở Hà Nội là gì ?",
+                "id": "f898c86f-025d-4172-81b4-1690ebdd533c",
+                "answers": [
+                  {
+                    "answer_start": 130,
+                    "text": "Có hai địa chỉ nhiều khách ghé thăm là Nhà hát múa rối Thăng Long ở 57B Đinh Tiên Hoàng và Nhà hát múa rối Việt Nam ở 361 Trường Chinh"
+                  }
+                ]
+              },
+              {
+                "question": "Ca trù có nguồn góc từ thế kỷ bao nhiêu ?",
+                "id": "e6045e64-bae6-4e56-aa7c-a1d13ff8fa21",
+                "answers": [
+                  {
+                    "answer_start": 279,
+                    "text": "Ca trù có nguồn gốc từ thế kỷ 11"
+                  }
+                ]
+              },
+              {
+                "question": "Ca trù mang phong cách giống nghi lễ gì ở Nhật Bản ?",
+                "id": "2990dc4f-9411-45bc-bc91-e67b60ee767f",
+                "answers": [
+                  {
+                    "answer_start": 313,
+                    "text": "phong cách mang nhiều nét giống nghi lễ geisha của Nhật Bản và các màn trình diễn opera"
+                  }
+                ]
+              },
+              {
+                "question": "Ban đầu, ca trù được xem là gì ?",
+                "id": "b395ff05-3dd7-4e37-a20b-7cb7b3de7bae",
+                "answers": [
+                  {
+                    "answer_start": 402,
+                    "text": "Ban đầu, ca trù được xem là thú vui giải trí cho giới quý tộc trong hoàng cung, sau đó, đi vào không gian văn hóa chung của Hà Nội thời hiện đại"
+                  }
+                ]
+              },
+              {
+                "question": "Ca trù có bao nhiêu không gian trình diễn chính ?",
+                "id": "3faac785-a01f-499c-a1d8-76361ef7ccd9",
+                "answers": [
+                  {
+                    "answer_start": 548,
+                    "text": "Ca trù có năm không gian trình diễn chính"
+                  }
+                ]
+              },
+              {
+                "question": "Các không gian trình diễn chính của ca trù là gì ?",
+                "id": "e4e8fcbb-15ce-47d9-9930-8b9f9d940d6d",
+                "answers": [
+                  {
+                    "answer_start": 591,
+                    "text": "Ca trù cửa đình (hát ở cửa đình tế thần), ca trù cửa quyền (thưởng thức ca trù của giới quyền chức), ca trù tại gia, ca trù hát thi, ca trù ca quán"
+                  }
+                ]
+              },
+              {
+                "question": "Du khách có thể nghe ca trù tại đâu ?",
+                "id": "2021556b-703f-49a4-a7d3-e89241cf6efa",
+                "answers": [
+                  {
+                    "answer_start": 740,
+                    "text": "Du khách có thể nghe ca trù tại Câu lạc bộ Ca Trù Hà Nội ở 42 hàng Bạc, Ca Trù Thăng Long 146 Từ Hoa."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Show thực cảnh: Tinh hoa Bắc Bộ là vở diễn thực cảnh trên sân khấu ở chùa Thầy, dưới chân núi Thầy, xã Sài Sơn, huyện Quốc Oai, Hà Nội. Vở diễn diễn ra trên mặt hồ nước rộng 4.300 mét vuông, đưa du khách du hành vào đời sống của nông dân Bắc Bộ qua những màn biểu diễn âm thanh, ánh sáng. Phần lớn diễn viên tham gia thực cảnh là những nông dân của huyện Quốc Oai. Ngoài vở diễn, du khách còn có thể trải nghiệm trực tiếp văn hóa truyền thống Bắc Bộ ở phía bên ngoài sân khấu với những quán xá bán bánh giò, bánh tẻ, bánh nếp, xôi gói lá sen lá chuối, kẹo lạc, kẹo dồi. Khách du lịch có thể mua và ngồi ăn giữa những chiếc ghế nhỏ giữa vườn trong tiếng nhạc quan họ.",
+            "qas": [
+              {
+                "question": "Tinh hoa Bắc Bộ là vở diễn nào ?",
+                "id": "320e67c1-e003-49a9-b017-26f8fce1640e",
+                "answers": [
+                  {
+                    "answer_start": 16,
+                    "text": "Tinh hoa Bắc Bộ là vở diễn thực cảnh trên sân khấu ở chùa Thầy, dưới chân núi Thầy, xã Sài Sơn, huyện Quốc Oai, Hà Nội."
+                  }
+                ]
+              },
+              {
+                "question": "Vở diễn thực cảnh diễn ra ở đâu ?",
+                "id": "8149eb7e-ae02-4336-b737-8e9126296b5b",
+                "answers": [
+                  {
+                    "answer_start": 136,
+                    "text": "Vở diễn diễn ra trên mặt hồ nước rộng 4.300 mét vuông"
+                  }
+                ]
+              },
+              {
+                "question": "Show diễn thực cảnh đưa du khách du hành vào đời sống nông dân Bắc bộ qua điều gì ?",
+                "id": "a8168ad0-23d4-48d3-9afc-c985018e68c4",
+                "answers": [
+                  {
+                    "answer_start": 191,
+                    "text": "đưa du khách du hành vào đời sống của nông dân Bắc Bộ qua những màn biểu diễn âm thanh, ánh sáng"
+                  }
+                ]
+              },
+              {
+                "question": "Phần lớn diễn viên tham gia thực cảnh là ai ?",
+                "id": "0775a50d-2835-4b8f-a471-cf5592287646",
+                "answers": [
+                  {
+                    "answer_start": 289,
+                    "text": "Phần lớn diễn viên tham gia thực cảnh là những nông dân của huyện Quốc Oai"
+                  }
+                ]
+              },
+              {
+                "question": "Ngoài vở diễn , du khách còn có thể trải nghiệm gì ?",
+                "id": "1a600015-bd9e-405b-81cb-60439bf613c3",
+                "answers": [
+                  {
+                    "answer_start": 364,
+                    "text": " Ngoài vở diễn, du khách còn có thể trải nghiệm trực tiếp văn hóa truyền thống Bắc Bộ ở phía bên ngoài sân khấu với những quán xá bán bánh giò, bánh tẻ, bánh nếp, xôi gói lá sen lá chuối, kẹo lạc, kẹo dồi."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Chèo SUP trên hồ Tây: Thức dậy khi trời sắp bình minh, bạn có thể chạy xe ra Hồ Tây và trải nghiệm những trò chơi dưới nước như chèo SUP và kayak. Thời điểm thích hợp thường là 5h-7h, hoặc chiều mát. Bạn có thể tìm thuê thuyền, ván ở các cửa hàng trên phố Lạc Long Quân, Âu Cơ, Trích Sài... với giá từ 250.000 đồng một ngày. Ngắm toàn cảnh Hà Nội từ trên cao: Đến Hà Nội, bạn không thể bỏ qua Đài quan sát Lotte nằm trên đường Liễu Giai, bởi đây là nơi có thể phóng tầm mắt nhìn ngắm toàn cảnh Thủ đô từ tầng 65. Đài quan sát làm từ kính trong suốt nên bạn có thể chụp ảnh check-in sáng tạo ở bất cứ góc nào. Đài quan sát mở cửa từ 9h đến hết ngày.",
+            "qas": [
+              {
+                "question": "Khi thức dậy khi trời sắp bình minh ở Hồ Tây , du khách có thể trải nghiệm gì ?",
+                "id": "e345dc51-e607-4579-8173-8f37d0ff5f5c",
+                "answers": [
+                  {
+                    "answer_start": 22,
+                    "text": "Thức dậy khi trời sắp bình minh, bạn có thể chạy xe ra Hồ Tây và trải nghiệm những trò chơi dưới nước như chèo SUP và kayak."
+                  }
+                ]
+              },
+              {
+                "question": "Thời điểm thích hợp để trèo SUP trên Hồ Tây là khi nào ?",
+                "id": "5120f308-eb88-4539-a86c-78816fed9519",
+                "answers": [
+                  {
+                    "answer_start": 147,
+                    "text": "Thời điểm thích hợp thường là 5h-7h, hoặc chiều mát"
+                  }
+                ]
+              },
+              {
+                "question": "Du khách có thể thuê thuyền, ván ở đâu ?",
+                "id": "617c47e1-1735-4550-a772-43bfdb0fc839",
+                "answers": [
+                  {
+                    "answer_start": 215,
+                    "text": "thuê thuyền, ván ở các cửa hàng trên phố Lạc Long Quân, Âu Cơ, Trích Sài... "
+                  }
+                ]
+              },
+              {
+                "question": "Giá thuê thuyền, ván ở Hồ Tây là bao nhiêu ?",
+                "id": "960141f2-cb3a-4815-ae89-b1da8598627e",
+                "answers": [
+                  {
+                    "answer_start": 295,
+                    "text": "giá từ 250.000 đồng một ngày."
+                  }
+                ]
+              },
+              {
+                "question": "Đài quan sát Lotte nằm trên đường nào ?",
+                "id": "dad954f5-a8a8-4c7b-8c78-8cfa22f8c9a3",
+                "answers": [
+                  {
+                    "answer_start": 412,
+                    "text": "nằm trên đường Liễu Giai"
+                  }
+                ]
+              },
+              {
+                "question": "Khi đến đài quan sát Lotte, bạn có thể nhìn ngắm gì ?",
+                "id": "43c3cc8a-55b9-47bb-9c98-bbe831ba7925",
+                "answers": [
+                  {
+                    "answer_start": 453,
+                    "text": "có thể phóng tầm mắt nhìn ngắm toàn cảnh Thủ đô từ tầng 65. Đài quan sát làm từ kính trong suốt nên bạn có thể chụp ảnh check-in sáng tạo ở bất cứ góc nào"
+                  }
+                ]
+              },
+              {
+                "question": "Đài quan sát Lotte mở cửa khi nào ?",
+                "id": "ebd2ee35-6f76-45dc-9a80-b8a202befb6b",
+                "answers": [
+                  {
+                    "answer_start": 609,
+                    "text": "Đài quan sát mở cửa từ 9h đến hết ngày."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Phố đi bộ: Hàng tuần, phố đi bộ Hồ Gươm mở từ 18h thứ Sáu đến hết Chủ nhật, thu hút đông đảo cả người dân lẫn du khách nước ngoài. Không gian này có rất nhiều hoạt động vui chơi, giải trí, cho đến biểu diễn nghệ thuật đường phố. Đừng quên trải nghiệm 'food tour' quanh phố đi bộ. Phố bia: Trong phố cổ, đặc biệt là ở Tạ Hiện, Bảo Khánh, Lương Ngọc Quyến, luôn có nhiều chỗ cho bạn uống bia hoặc các loại đồ uống được pha chế hấp dẫn. Đây cũng là một trong những nơi vui chơi về đêm sầm uất bậc nhất ở thủ đô.",
+            "qas": [
+              {
+                "question": "phố đi bộ Hồ Gươm mở cửa lúc mấy giờ ?",
+                "id": "b3519086-cfca-402a-bbd9-51fdf51df739",
+                "answers": [
+                  {
+                    "answer_start": 11,
+                    "text": "Hàng tuần, phố đi bộ Hồ Gươm mở từ 18h thứ Sáu đến hết Chủ nhật"
+                  }
+                ]
+              },
+              {
+                "question": "Phố đi bộ Hồ Gươm có gì thu hút khách du lịch ?",
+                "id": "bb408c33-2b93-4e95-a685-1c02f2bae762",
+                "answers": [
+                  {
+                    "answer_start": 131,
+                    "text": "Không gian này có rất nhiều hoạt động vui chơi, giải trí, cho đến biểu diễn nghệ thuật đường phố"
+                  }
+                ]
+              },
+              {
+                "question": "Xung quanh phố đi bộ Hồ Gươm có gì để trải nghiệm ?",
+                "id": "1e0e6ce3-7e6b-4ac2-b03d-cf4883cb99cc",
+                "answers": [
+                  {
+                    "answer_start": 251,
+                    "text": "'food tour' quanh phố đi bộ"
+                  }
+                ]
+              },
+              {
+                "question": "Các phố bia ở Hà Nội nằm ở đâu ?",
+                "id": "aa681b2b-0553-499e-805d-1439c349bf06",
+                "answers": [
+                  {
+                    "answer_start": 303,
+                    "text": "đặc biệt là ở Tạ Hiện, Bảo Khánh, Lương Ngọc Quyến, luôn có nhiều chỗ cho bạn uống bia hoặc các loại đồ uống được pha chế hấp dẫn."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Đi chợ: Không phải chợ Đồng Xuân, chợ hoa Quảng Bá và chợ đầu mối Long Biên mới là hai địa chỉ khách Tây rỉ tai nhau phải ghé thăm một lần nếu có dịp đến thủ đô. Chợ chủ yếu buôn hoa và trái cây, nhưng 'yêu sách' du khách phải thức khuya, dậy sớm mới thấy được hết cái không khí náo nhiệt, sầm uất của một Hà Nội rất khác khi màn đêm buông xuống. Nằm ngay dưới chân cầu Long Biên, chợ đầu mối Long Biên quanh năm nhộn nhịp, nổi tiếng nhất phải kể đến khu chợ trời bán buôn hoa quả. Từ 20h chợ bắt đầu rục rịch, càng về đêm càng nhộn nhịp. Còn chợ hoa Quảng Bá mở suốt đêm nhưng đông vui nhất là vào khoảng 3- 4h sáng, người mua kẻ bán tấp nập. Những bó hoa lớn nhỏ chất trên xe nườm nượp ra vào.",
+            "qas": [
+              {
+                "question": "Khách Tây rỉ tai nhau ghé thăm chợ nào ở Hà Nội ?",
+                "id": "70f0279b-34d7-49c7-92b2-826d763373a9",
+                "answers": [
+                  {
+                    "answer_start": 33,
+                    "text": " chợ hoa Quảng Bá và chợ đầu mối Long Biên"
+                  }
+                ]
+              },
+              {
+                "question": "Chợ chủ yếu buôn bán gì ?",
+                "id": "7cc3d610-2336-48b2-a48b-20d15ffca02c",
+                "answers": [
+                  {
+                    "answer_start": 162,
+                    "text": "Chợ chủ yếu buôn hoa và trái cây"
+                  }
+                ]
+              },
+              {
+                "question": "Vì sao 'yêu sách' du khách phải thức khuya dậy, dậy sớm ?",
+                "id": "bcb9a8d6-1384-4e44-bff3-a743aee467e2",
+                "answers": [
+                  {
+                    "answer_start": 247,
+                    "text": "mới thấy được hết cái không khí náo nhiệt, sầm uất của một Hà Nội rất khác khi màn đêm buông xuống"
+                  }
+                ]
+              },
+              {
+                "question": "Chợ đầu mối Long Biên nằm ở đâu ?",
+                "id": "dc3cd8da-1815-4a67-b79f-ffa64260fa93",
+                "answers": [
+                  {
+                    "answer_start": 347,
+                    "text": "Nằm ngay dưới chân cầu Long Biên"
+                  }
+                ]
+              },
+              {
+                "question": "Chợ đầu mối Long Biên là chợ như thế nào ở Hà Nội ?",
+                "id": "2354fe7e-1c17-4371-9d1c-b8e14534dcd9",
+                "answers": [
+                  {
+                    "answer_start": 381,
+                    "text": "chợ đầu mối Long Biên quanh năm nhộn nhịp, nổi tiếng nhất phải kể đến khu chợ trời bán buôn hoa quả"
+                  }
+                ]
+              },
+              {
+                "question": "Chợ đầu mối Long biên bắt đầu rục rịch và nhộn nhịp khi nào ?",
+                "id": "203c4e5c-4b71-479d-bdd7-93650e011bf6",
+                "answers": [
+                  {
+                    "answer_start": 482,
+                    "text": "Từ 20h chợ bắt đầu rục rịch, càng về đêm càng nhộn nhịp"
+                  }
+                ]
+              },
+              {
+                "question": "Chợ hoa Quảng Bá nhộn nhịp cửa khi nào ?",
+                "id": "3149dfaa-bd0e-4ff1-a48d-1fce84c728db",
+                "answers": [
+                  {
+                    "answer_start": 539,
+                    "text": "Còn chợ hoa Quảng Bá mở suốt đêm nhưng đông vui nhất là vào khoảng 3- 4h sáng, người mua kẻ bán tấp nập. Những bó hoa lớn nhỏ chất trên xe nườm nượp ra vào."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Phở: Đến Hà Nội không thể bỏ qua phở, đặc biệt là phở bò, thường có hai loại chính: chín và tái. Bò chín là những miếng thịt bò được luộc chín trong nước dùng, còn bò tái là những miếng thịt được thái mỏng, chần nhanh qua nước sôi. Sau đó, người bán sẽ xếp những lát thịt đó lên bánh phở, chan nước dùng và phục vụ thực khách. Một số địa chỉ tham khảo là phở Thìn, Bát Đàn, Tư Lùn, Phở Lâm phố Hàng Vải, Phở Trâm phố Yên Ninh. Nếu muốn thử những phiên bản khác, địa chỉ gợi ý là quán Nguyệt số 5 Phủ Doãn, quán Châm 63 Yên Ninh, phở gà trộn Lãn Ông hay phở cuốn Ngũ Xã.",
+            "qas": [
+              {
+                "question": "Phở bò ở Hà Nội có mấy loại ?",
+                "id": "68361b47-2b29-4d91-827b-f0654d7a3dab",
+                "answers": [
+                  {
+                    "answer_start": 5,
+                    "text": "Đến Hà Nội không thể bỏ qua phở, đặc biệt là phở bò, thường có hai loại chính: chín và tái."
+                  }
+                ]
+              },
+              {
+                "question": "Bò tái và bò chín của phở là gì ?",
+                "id": "3d5d007c-e67c-48b7-aa2a-7bad76711c12",
+                "answers": [
+                  {
+                    "answer_start": 97,
+                    "text": "Bò chín là những miếng thịt bò được luộc chín trong nước dùng, còn bò tái là những miếng thịt được thái mỏng, chần nhanh qua nước sôi"
+                  }
+                ]
+              },
+              {
+                "question": "Một số địa chỉ ăn phở ở Hà Nội là gì ?",
+                "id": "b00d09ac-ecf1-43e3-a30c-58ff7eaaa75b",
+                "answers": [
+                  {
+                    "answer_start": 327,
+                    "text": "Một số địa chỉ tham khảo là phở Thìn, Bát Đàn, Tư Lùn, Phở Lâm phố Hàng Vải, Phở Trâm phố Yên Ninh"
+                  }
+                ]
+              },
+              {
+                "question": "Nếu muốn thử phiên bản khác của phở bò Hà Nội thì nên đến đâu ?",
+                "id": "c0155916-023a-4380-ab4a-fafef5eba628",
+                "answers": [
+                  {
+                    "answer_start": 427,
+                    "text": "Nếu muốn thử những phiên bản khác, địa chỉ gợi ý là quán Nguyệt số 5 Phủ Doãn, quán Châm 63 Yên Ninh, phở gà trộn Lãn Ông hay phở cuốn Ngũ Xã."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Bún: Người Hà Nội có rất nhiều món bún. Đặc sắc nhất là bún chả, bún thang, bún ốc, bún mọc, bún dọc mùng...Nói đến đặc sản chính gốc lâu đời ở Hà Nội không thể không nhắc đến bún thang. Người Hà thành đã khéo léo chế biến những thực phẩm thừa sau dịp Tết thành một món bún cầu kỳ, tinh tế. Một tô bún thang có giá 30.000 - 50.000 đồng. Hiện nay, ở Hà Nội chỉ còn ít nơi bán bún thang, như quán Bà Đức (Cầu Gỗ), quán Ngọc Tuyền (Đào Tấn), quán Thuận Lý (Hàng Hòm)...",
+            "qas": [
+              {
+                "question": "Các món bún đặc sản ở Hà Nội là gì ?",
+                "id": "3f020485-4c46-4049-a411-0c72bcf2bb8f",
+                "answers": [
+                  {
+                    "answer_start": 5,
+                    "text": "Người Hà Nội có rất nhiều món bún. Đặc sắc nhất là bún chả, bún thang, bún ốc, bún mọc, bún dọc mùng..."
+                  }
+                ]
+              },
+              {
+                "question": "Đặc sản chính gốc lâu đời ở Hà Nội là món bún gì ?",
+                "id": "0d86840a-f472-4c28-9d23-e03f8542e142",
+                "answers": [
+                  {
+                    "answer_start": 116,
+                    "text": "đặc sản chính gốc lâu đời ở Hà Nội không thể không nhắc đến bún thang"
+                  }
+                ]
+              },
+              {
+                "question": "Bún thang được chế biến như thế nào ?",
+                "id": "5559427e-02fc-4fae-8aa7-7e92996b149b",
+                "answers": [
+                  {
+                    "answer_start": 187,
+                    "text": "Người Hà thành đã khéo léo chế biến những thực phẩm thừa sau dịp Tết thành một món bún cầu kỳ, tinh tế"
+                  }
+                ]
+              },
+              {
+                "question": "Bún thang có giá bao nhiêu ?",
+                "id": "763c9f73-9ada-427f-bbc6-258995839454",
+                "answers": [
+                  {
+                    "answer_start": 291,
+                    "text": "Một tô bún thang có giá 30.000 - 50.000 đồng"
+                  }
+                ]
+              },
+              {
+                "question": "Địa điểm bán bún thang ở Hà Nội là gì ?",
+                "id": "48686dc9-26a1-43b9-b78e-55a24e24dc6c",
+                "answers": [
+                  {
+                    "answer_start": 390,
+                    "text": "quán Bà Đức (Cầu Gỗ), quán Ngọc Tuyền (Đào Tấn), quán Thuận Lý (Hàng Hòm)..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Bún chả - món thường được ăn vào bữa trưa. Giống món bún thịt nướng ở miền Nam và miền Trung, nhưng chả ăn bún của người Hà Nội tẩm ướp cầu kỳ hơn. Ai thích hương vị xưa thì có thể đến quán bún chả ở Hàng Mã và Hàng Đồng. Người thích bún chả kẹp tre thì tìm lên chợ Bưởi, chợ Đồng Xuân. Hay ghé sang hàng bún ở Ngọc Khánh, Giảng Võ, Lê Văn Hưu, Hàng Mành cũng đều là những quán nổi tiếng ở Hà Nội. Bún mọc ở Hà Nội có giá 20.000 - 40.000 đồng. Món bún này thường được bán ở các hàng bún sườn, bún dọc mùng, bún bung... Một số địa chỉ ngon nổi tiếng ở Hà Nội phải kể đến quán chị Loan (đầu phố Điện Biên Phủ), Hàng Lược, Hàng Trống, Cầu Gỗ, ngõ 18 Hàm Long...",
+            "qas": [
+              {
+                "question": "Bún chả thường được ăn vào bữa nào ?",
+                "id": "8f43825e-f2ff-45f5-bd8f-c73d2f624755",
+                "answers": [
+                  {
+                    "answer_start": 14,
+                    "text": "thường được ăn vào bữa trưa"
+                  }
+                ]
+              },
+              {
+                "question": "Bún chả giống mới món bún nào ?",
+                "id": "d781d243-f084-4731-80f3-51698ee4f387",
+                "answers": [
+                  {
+                    "answer_start": 43,
+                    "text": "Giống món bún thịt nướng ở miền Nam và miền Trung"
+                  }
+                ]
+              },
+              {
+                "question": "Bún chả khác với bún thịt nướng ở miền Nam và miền Trung như thế  nào ?",
+                "id": "0a727f2c-7cbe-49e8-926a-73b25d9d8acd",
+                "answers": [
+                  {
+                    "answer_start": 99,
+                    "text": " chả ăn bún của người Hà Nội tẩm ướp cầu kỳ hơn."
+                  }
+                ]
+              },
+              {
+                "question": "Nếu du khách thích Bún chả vị xưa thì nên đến đâu ?",
+                "id": "d6d4d0e7-82a1-4d30-bae2-5a0ba8d21de4",
+                "answers": [
+                  {
+                    "answer_start": 148,
+                    "text": "Ai thích hương vị xưa thì có thể đến quán bún chả ở Hàng Mã và Hàng Đồng"
+                  }
+                ]
+              },
+              {
+                "question": "Du khách thích bún chả kẹp tre thì đến đâu ?",
+                "id": "db02d219-e32b-4dc9-ae42-0ff88ab8c08f",
+                "answers": [
+                  {
+                    "answer_start": 222,
+                    "text": "Người thích bún chả kẹp tre thì tìm lên chợ Bưởi, chợ Đồng Xuân. Hay ghé sang hàng bún ở Ngọc Khánh, Giảng Võ, Lê Văn Hưu, Hàng Mành cũng đều là những quán nổi tiếng ở Hà Nội"
+                  }
+                ]
+              },
+              {
+                "question": "Bún mọc ở Hà Nội có giá bao nhiêu ?",
+                "id": "a2e583c4-645f-48c2-8d24-7b3eb710d164",
+                "answers": [
+                  {
+                    "answer_start": 422,
+                    "text": "20.000 - 40.000 đồng"
+                  }
+                ]
+              },
+              {
+                "question": "Bún mọc thường được bán ở đâu ?",
+                "id": "2693e073-6b0f-4e3b-8e1c-d83f1c359c58",
+                "answers": [
+                  {
+                    "answer_start": 444,
+                    "text": "Món bún này thường được bán ở các hàng bún sườn, bún dọc mùng, bún bung... "
+                  }
+                ]
+              },
+              {
+                "question": "Địa chỉ ăn bún mọc ở Hà Nội là gì ?",
+                "id": "8c95c05c-0ab2-41f4-85ba-68c4aded0e98",
+                "answers": [
+                  {
+                    "answer_start": 519,
+                    "text": "Một số địa chỉ ngon nổi tiếng ở Hà Nội phải kể đến quán chị Loan (đầu phố Điện Biên Phủ), Hàng Lược, Hàng Trống, Cầu Gỗ, ngõ 18 Hàm Long..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Tìm bún ốc ở Hà Nội không khó, thực khách có thể đến hàng bún ở Hai Bà Trưng, Đặng Dung, Hòe Nhai để ăn bún nóng. Một bát bún ốc có khoảng 6-7 miếng ốc, chan nước dùng riêu cua, topping bắp bò, giò tai, đôi khi cả trứng vịt lộn. Một phiên bản khác là bún ốc nguội hay bún ốc chấm. Một số quán nổi tiếng là quán bún ốc cô Xuân ở Ô Quan Chưởng, hay gánh bún ốc ở đầu ngã tư Bùi Thị Xuân, cũng có thể là gánh bún ốc cô Giang nổi tiếng trên phố Lương Ngọc Quyến. Giá mỗi bát thường từ 30.000 đến 40.000 đồng. Bún bung là món ăn bình dân của người Hà Nội. Không ai biết chính xác thời điểm xuất hiện, nhưng vào những năm 1990, món bún này được bán nhiều ở các vỉa hè thủ đô. 'Bung' là từ để gọi các món phải đun lâu với nhiều nước. Bún bung ở Hà Nội có giá từ 30.000 đồng một tô. Món ăn này thường được kết hợp bán ở các hàng bún sườn, bún mọc. Một số địa điểm được thực khách Hà Nội hay tìm đến là các quán ở phố Cầu Gỗ, bà Minh (Đống Đa)...",
+            "qas": [
+              {
+                "question": "Có thể tìm ăn bún ốc Hà Nội ở đâu ?",
+                "id": "dda5b548-8e5d-4552-9469-1ed82b92d29e",
+                "answers": [
+                  {
+                    "answer_start": 31,
+                    "text": "thực khách có thể đến hàng bún ở Hai Bà Trưng, Đặng Dung, Hòe Nhai để ăn bún nóng"
+                  }
+                ]
+              },
+              {
+                "question": "Một bát bún ốc gồm có những gì ?",
+                "id": "301cf478-f077-457b-a12c-6e5dda36753b",
+                "answers": [
+                  {
+                    "answer_start": 114,
+                    "text": "Một bát bún ốc có khoảng 6-7 miếng ốc, chan nước dùng riêu cua, topping bắp bò, giò tai, đôi khi cả trứng vịt lộn. Một phiên bản khác là bún ốc nguội hay bún ốc chấm"
+                  }
+                ]
+              },
+              {
+                "question": "Một số quán bún ốc nổi tiếng ở Hà Nội là gì ?",
+                "id": "e13fc08d-68bf-424c-a931-feebc1144f5a",
+                "answers": [
+                  {
+                    "answer_start": 281,
+                    "text": "Một số quán nổi tiếng là quán bún ốc cô Xuân ở Ô Quan Chưởng, hay gánh bún ốc ở đầu ngã tư Bùi Thị Xuân, cũng có thể là gánh bún ốc cô Giang nổi tiếng trên phố Lương Ngọc Quyến"
+                  }
+                ]
+              },
+              {
+                "question": "Giá bún ốc ở Hà Nội là bao nhiêu ?",
+                "id": "4c5f0627-f13c-4724-93c0-619f732b28fd",
+                "answers": [
+                  {
+                    "answer_start": 481,
+                    "text": "30.000 đến 40.000 đồng"
+                  }
+                ]
+              },
+              {
+                "question": "Bún bung ở Hà Nội có giá bao nhiêu ?",
+                "id": "175df833-e018-4234-a74f-26b27dcb09e0",
+                "answers": [
+                  {
+                    "answer_start": 727,
+                    "text": "Bún bung ở Hà Nội có giá từ 30.000 đồng một tô"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Chả cá Lã Vọng: Chả cá Lã Vọng ra đời từ năm 1871, do gia tộc họ Đoàn sáng chế. Từ món ăn dân dã, chả cá dần trở thành tinh hoa ẩm thực Hà Thành đến ngày nay. 'Chả cá' được chế biến từ những loại cá ngon nhất, đặc biệt là cá lăng. 'Lã Vọng' là hình tượng vị tướng thời xưa, người tài giỏi có ý chí đợi thời cơ lớn. Thịt cá được lọc kỹ xương, ngọt dịu, vàng thơm và thấm gia vị. Rau thì là, hành hoa cắt khúc đảo lẫn trong chảo cá nóng. Khi ăn kết hợp với bánh đa nướng, bún và mắm tôm - thứ không thể thiếu giúp tạo hương vị đậm đà. Một số địa chỉ gợi ý: Chả cá Lã Vọng số 14 phố Chả Cá; Chả cá Thăng Long số 21 Đường Thành; Chả cá Lão Ngư số 171 Thái Hà...",
+            "qas": [
+              {
+                "question": "Chả cá Lã Vọng ra đời năm nào ?",
+                "id": "f6da739a-d070-4a9b-9059-3824011245ff",
+                "answers": [
+                  {
+                    "answer_start": 16,
+                    "text": "Chả cá Lã Vọng ra đời từ năm 1871"
+                  }
+                ]
+              },
+              {
+                "question": "Chả cá Lã Vọng do gia tộc nào sáng chế ?",
+                "id": "1b3f1234-e2a3-4606-8179-fae56a78e690",
+                "answers": [
+                  {
+                    "answer_start": 51,
+                    "text": "do gia tộc họ Đoàn sáng chế"
+                  }
+                ]
+              },
+              {
+                "question": "Chả cá Lã Vọng được coi là gì trong ẩm thực Hà Thành ?",
+                "id": "44f9a96d-f4a1-4db0-a280-726ef0b1ff1e",
+                "answers": [
+                  {
+                    "answer_start": 80,
+                    "text": "Từ món ăn dân dã, chả cá dần trở thành tinh hoa ẩm thực Hà Thành đến ngày nay."
+                  }
+                ]
+              },
+              {
+                "question": "Chả cá Lã Vọng được chế biến từ gì ?",
+                "id": "9f6853e5-32c8-4ce4-9cf2-163b011ac74d",
+                "answers": [
+                  {
+                    "answer_start": 159,
+                    "text": "'Chả cá' được chế biến từ những loại cá ngon nhất, đặc biệt là cá lăng"
+                  }
+                ]
+              },
+              {
+                "question": "'Lã Vọng' là hình tượng gì ?",
+                "id": "c9b01721-249c-47ae-8ff0-c903d891918f",
+                "answers": [
+                  {
+                    "answer_start": 231,
+                    "text": "'Lã Vọng' là hình tượng vị tướng thời xưa, người tài giỏi có ý chí đợi thời cơ lớn"
+                  }
+                ]
+              },
+              {
+                "question": "Chả cá Lã Vọng chế biến như thế nào ?",
+                "id": "e058715e-7259-41b9-aabd-b420d9964140",
+                "answers": [
+                  {
+                    "answer_start": 315,
+                    "text": "Thịt cá được lọc kỹ xương, ngọt dịu, vàng thơm và thấm gia vị. Rau thì là, hành hoa cắt khúc đảo lẫn trong chảo cá nóng"
+                  }
+                ]
+              },
+              {
+                "question": "Khi ăn Chả cá Lã Vọng nên kết hợp với món gì ?",
+                "id": "bc26f868-ae85-4d96-8078-4060decf6a2f",
+                "answers": [
+                  {
+                    "answer_start": 436,
+                    "text": "Khi ăn kết hợp với bánh đa nướng, bún và mắm tôm - thứ không thể thiếu giúp tạo hương vị đậm đà"
+                  }
+                ]
+              },
+              {
+                "question": "Địa chỉ để thưởng thức Chả cá Lã Vọng là gì ?",
+                "id": "ff59077a-353b-49c2-89d9-4c6a15058d94",
+                "answers": [
+                  {
+                    "answer_start": 555,
+                    "text": "Chả cá Lã Vọng số 14 phố Chả Cá; Chả cá Thăng Long số 21 Đường Thành; Chả cá Lão Ngư số 171 Thái Hà..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Những chiếc bánh gạo tráng mỏng nhồi thịt lợn, mộc nhĩ, hành băm, chấm với nước mắm chua ngọt luôn là món ăn thích hợp cho những ngày hè nóng nực. Đi dạo trên đường phố, du khách sẽ bắt gặp nhiều quán bánh cuốn mở cửa buổi sáng, với những bàn tay tráng bánh khéo léo, nhanh thoăn thoắt. Một số địa chỉ gợi ý là bánh cuốn Bà Hanh, số 26B Thọ Xương; bánh cuốn Bà Xuân, số 16 dốc Hoè Nhai và khu ẩm thực chợ Long Biên. Ngoài các món ăn nổi tiếng khắp thế giới, Hà Nội còn sở hữu kho tàng các loại bánh như bánh gối, nhân thịt lợn, nấm, miến xay cùng trứng cút... Để cân bằng hương vị, những chiếc bánh rán béo ngậy được ăn kèm với nước chấm tỏi, ớt và rau thơm. Nằm trên đường Lý Quốc Sư, quán Gốc Đa là nơi chuyên bán bánh rán mặn, bánh gối, mở cửa từ 10h sáng đến 9h30 tối.",
+            "qas": [
+              {
+                "question": "Bánh cuốn Hà Nội được chế biến từ gì ?",
+                "id": "32f8d28d-e04a-4b84-86ac-f13c8487be09",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Những chiếc bánh gạo tráng mỏng nhồi thịt lợn, mộc nhĩ, hành băm, chấm với nước mắm chua ngọt "
+                  }
+                ]
+              },
+              {
+                "question": "Bánh cuốn Hà Nội thích hợp cho những ngày như thế nào ?",
+                "id": "2d59e753-2165-4b80-b33a-a768400dde6c",
+                "answers": [
+                  {
+                    "answer_start": 99,
+                    "text": "là món ăn thích hợp cho những ngày hè nóng nực"
+                  }
+                ]
+              },
+              {
+                "question": "Ta có thể bắt gặp hàng quán bán cuốn ở đâu ?",
+                "id": "13c60f02-5642-4cb8-b409-9ba5a6822c2c",
+                "answers": [
+                  {
+                    "answer_start": 147,
+                    "text": "Đi dạo trên đường phố, du khách sẽ bắt gặp nhiều quán bánh cuốn mở cửa buổi sáng, với những bàn tay tráng bánh khéo léo, nhanh thoăn thoắt. "
+                  }
+                ]
+              },
+              {
+                "question": "Địa chỉ ăn bánh cuốn ở Hà Nội là gì ?",
+                "id": "539039cc-187e-45e5-87da-410a0bf42ab0",
+                "answers": [
+                  {
+                    "answer_start": 287,
+                    "text": "Một số địa chỉ gợi ý là bánh cuốn Bà Hanh, số 26B Thọ Xương; bánh cuốn Bà Xuân, số 16 dốc Hoè Nhai và khu ẩm thực chợ Long Biên"
+                  }
+                ]
+              },
+              {
+                "question": "Hà Nội còn có những loại bánh nổi tiếng nào khác ?",
+                "id": "cc957b1d-efb5-4838-a836-968abef33474",
+                "answers": [
+                  {
+                    "answer_start": 416,
+                    "text": "Ngoài các món ăn nổi tiếng khắp thế giới, Hà Nội còn sở hữu kho tàng các loại bánh như bánh gối, nhân thịt lợn, nấm, miến xay cùng trứng cút... "
+                  }
+                ]
+              },
+              {
+                "question": "Để cân bằng mùi vị cho các chiếc bánh thì nên ăn kèm với gì ?",
+                "id": "40ee4c6c-1000-42d0-ba9b-b6d04164279f",
+                "answers": [
+                  {
+                    "answer_start": 560,
+                    "text": "Để cân bằng hương vị, những chiếc bánh rán béo ngậy được ăn kèm với nước chấm tỏi, ớt và rau thơm."
+                  }
+                ]
+              },
+              {
+                "question": "Có thể ăn bánh rán mặn, bánh gối ở đâu ?",
+                "id": "add84378-7030-44fe-8f7a-93507655d959",
+                "answers": [
+                  {
+                    "answer_start": 659,
+                    "text": "Nằm trên đường Lý Quốc Sư, quán Gốc Đa"
+                  }
+                ]
+              },
+              {
+                "question": "Quán Gốc Đa mở cửa khi nào ?",
+                "id": "41c3f3ad-8742-4af0-8013-d99431f30485",
+                "answers": [
+                  {
+                    "answer_start": 740,
+                    "text": "mở cửa từ 10h sáng đến 9h30 tối."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Cà phê là một nét đặc trưng ở Hà Nội, với nhiều quán lâu đời ở phố cổ. Cà phê trứng là một trong những đặc sản của Hà Nội làm từ trứng đánh bông lên hòa quyện cùng cà phê Việt. Cà phê trứng có màu hơi vàng đựng trong một tách nhỏ. Thực khách luôn có thêm một chiếc thìa con để thưởng thức bọt kem bên trên giống như 'món khai vị' trước khi uống cà phê bên dưới. Cà phê trứng ngon có tiếng phải kể tới quán Đinh, Giảng, Cà phê Phố Cổ, Loading T, All Day Coffee... Giá mỗi cốc từ 25.000 đồng.",
+            "qas": [
+              {
+                "question": "Cà phê được xem là gì ở Hà Nội ?",
+                "id": "0746fff8-75d4-4ccf-b44c-7d164b73f7d7",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Cà phê là một nét đặc trưng ở Hà Nội, với nhiều quán lâu đời ở phố cổ."
+                  }
+                ]
+              },
+              {
+                "question": "Đặc sản cà phê ở Hà Nội là gì ?",
+                "id": "9da99ca0-77b1-44e3-8dfa-4b1b894fd102",
+                "answers": [
+                  {
+                    "answer_start": 71,
+                    "text": "Cà phê trứng là một trong những đặc sản của Hà Nội"
+                  }
+                ]
+              },
+              {
+                "question": "Cà phê trứng được làm như thế nào ?",
+                "id": "8d012f60-a14a-4556-ab38-d413b90fe5c0",
+                "answers": [
+                  {
+                    "answer_start": 123,
+                    "text": "àm từ trứng đánh bông lên hòa quyện cùng cà phê Việt"
+                  }
+                ]
+              },
+              {
+                "question": "Cà phê trứng được thực khách thưởng thức như thế nào ?",
+                "id": "bb67bd14-7238-4581-a4e0-d8a1508492f4",
+                "answers": [
+                  {
+                    "answer_start": 231,
+                    "text": "Thực khách luôn có thêm một chiếc thìa con để thưởng thức bọt kem bên trên giống như 'món khai vị' trước khi uống cà phê bên dưới"
+                  }
+                ]
+              },
+              {
+                "question": "Các quán Cà phê trứng nổi tiếng ở Hà Nội là gì ?",
+                "id": "a19ea7a8-a6ca-420f-9589-e1d9a80d8253",
+                "answers": [
+                  {
+                    "answer_start": 362,
+                    "text": "Cà phê trứng ngon có tiếng phải kể tới quán Đinh, Giảng, Cà phê Phố Cổ, Loading T, All Day Coffee..."
+                  }
+                ]
+              },
+              {
+                "question": "Giá mỗi cốc Cà phê trứng là bao nhiêu ?",
+                "id": "74c50f69-c29a-4eb0-83c6-7cce2593da36",
+                "answers": [
+                  {
+                    "answer_start": 463,
+                    "text": "Giá mỗi cốc từ 25.000 đồng."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Với đủ vị chua, cay, mặn, ngọt như hội tụ tinh hoa của ẩm thực Hà Thành, ô mai là thứ quà được nhiều người chọn mua làm quà khi rời Hà Nội. Địa chỉ nổi tiếng nhất của thứ quà vặt này là phố Hàng Đường. Du khách có thể tìm thấy ở đây các loại ô mai yêu thích như mơ, mận, gừng, sấu, khế, chanh, quất, hồng, đào, cóc, me... Tuy nhiên, nếu mua làm quà cho người miền Nam, bạn nên chọn các loại ô mai sấu, bởi nó có vị ngọt thanh làm từ thứ quả chua rất đặc trưng Hà Nội. Tùy từng loại, ô mai có giá khoảng 100.000 - 150.000 một kg.",
+            "qas": [
+              {
+                "question": "Ô mai ở Hà Nội hội tụ các hương vị gì ?",
+                "id": "ab1b6eaa-58f8-4c6e-8a7e-177a15041997",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Với đủ vị chua, cay, mặn, ngọt như hội tụ tinh hoa của ẩm thực Hà Thành"
+                  }
+                ]
+              },
+              {
+                "question": "Địa chỉ mua ô mai ở Hà Nội là ở đâu ?",
+                "id": "446c0f6b-916d-43a0-8a8d-66aa7fae4fee",
+                "answers": [
+                  {
+                    "answer_start": 186,
+                    "text": "phố Hàng Đường"
+                  }
+                ]
+              },
+              {
+                "question": "Các loại ô mai được yêu thích là gì ?",
+                "id": "39442c77-c167-45df-9111-08f8d7427425",
+                "answers": [
+                  {
+                    "answer_start": 202,
+                    "text": "Du khách có thể tìm thấy ở đây các loại ô mai yêu thích như mơ, mận, gừng, sấu, khế, chanh, quất, hồng, đào, cóc, me... "
+                  }
+                ]
+              },
+              {
+                "question": "Nếu mua làm quà cho người miền Nam, nên chọn ô mai nào ?",
+                "id": "617717c3-1285-4114-aa90-c10f3c4b00b1",
+                "answers": [
+                  {
+                    "answer_start": 333,
+                    "text": "nếu mua làm quà cho người miền Nam, bạn nên chọn các loại ô mai sấu, bởi nó có vị ngọt thanh làm từ thứ quả chua rất đặc trưng Hà Nội"
+                  }
+                ]
+              },
+              {
+                "question": "Giá ô mai bao nhiêu tiền một kg ?",
+                "id": "333309d1-85b9-43db-88f5-b0141fbaae91",
+                "answers": [
+                  {
+                    "answer_start": 483,
+                    "text": "ô mai có giá khoảng 100.000 - 150.000 một kg"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
     },
     {
       "title": "Buôn ma thuột",
