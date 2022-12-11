@@ -6042,16 +6042,6 @@
           "context": "\nNgoài việc tiết kiệm so với đi xe máy thì buýt giúp những người không quen lái xe đường dài an tâm. Xuất phát tại bến xe Phan Rang hoặc bạn có thể đón xe buýt tại các trạm đón trả khách trên đường đến Vĩnh Hy. Mất khoảng 1h15 phút các bạn sẽ đến vịnh Vĩnh Hy.",
           "qas": [
             {
-              "question": "Có thể đi xe buýt đến Vĩnh Hy không ?",
-              "id": "38c6685d-fd7a-4aa9-abe6-3d581235b1b9",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "Có"
-                }
-              ]
-            },
-            {
               "question": "Đi xe buýt đến vịnh Vĩnh Hy mất khoảng bao lâu ?",
               "id": "9de7ea6f-a3bc-493a-b261-2166a2e67487",
               "answers": [
@@ -6093,16 +6083,6 @@
                 {
                   "answer_start": 68,
                   "text": "Ngọc Hoa, Ninh Thuận, Mai Linh."
-                }
-              ]
-            },
-            {
-              "question": "Tại Phan Rang có taxi không ?",
-              "id": "765c712a-43a0-4c29-84c3-5a50d4b3773c",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "Có"
                 }
               ]
             }
@@ -6168,16 +6148,6 @@
                 {
                   "answer_start": 41,
                   "text": "ngắm san hô và lặn biển"
-                }
-              ]
-            },
-            {
-              "question": "Thuê thuyền từ 2-8 người thì được không ?",
-              "id": "64c9414f-8fd9-4da4-9838-b03b5ed016d8",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "Được"
                 }
               ]
             },
@@ -9659,7 +9629,7 @@
       "title": "Đà lạt",
       "paragraphs": [
         {
-          "context": "Đà Lạt là thủ phủ tỉnh Lâm Đồng, nằm trên cao nguyên Lâm Viên ở độ cao 1.500 m so với mực nước biển. Cách TP HCM khoảng 300 km và có khí hậu mát mẻ năm nên Đà Lạt là điểm nghỉ dưỡng lý tưởng, giúp du khách thoát khỏi nóng nực của vùng Nam Bộ. ",
+          "context": "Đà Lạt là thủ phủ tỉnh Lâm Đồng, nằm trên cao nguyên Lâm Viên ở độ cao 1.500 m so với mực nước biển. Cách TP HCM khoảng 300 km và có khí hậu mát mẻ quanh năm nên Đà Lạt là điểm nghỉ dưỡng lý tưởng, giúp du khách thoát khỏi nóng nực của vùng Nam Bộ. ",
           "qas": [
             {
               "question": "Đà Lạt là thủ phủ của tỉnh nào ?",
@@ -9706,7 +9676,7 @@
               "id": "10e65e76-5b52-426d-bee4-7a005a01cc01",
               "answers": [
                 {
-                  "answer_start": -1,
+                  "answer_start": 141,
                   "text": "mát mẻ quanh năm"
                 }
               ]
@@ -9716,8 +9686,8 @@
               "id": "bc9e005b-9d90-4ef1-824a-bd42131bb825",
               "answers": [
                 {
-                  "answer_start": -1,
-                  "text": "có khí hậu mát mẻ , giúp du khách thoát khỏi nóng nực của vùng Nam Bộ"
+                  "answer_start": 131,
+                  "text": "có khí hậu mát mẻ"
                 }
               ]
             }
@@ -9917,36 +9887,6 @@
           "context": "Tại Đà Lạt, du khách thuê xe máy, ôtô, taxi hoặc sử dụng các ứng dụng gọi xe công nghệ để di chuyển giữa các điểm tham quan. Giá thuê xe máy từ 120.000 đồng/ngày. Giá thuê ôtô tự lái từ 700.000 đồng/ngày.",
           "qas": [
             {
-              "question": "Tại Đà Lạt có cho thuê xe máy không ?",
-              "id": "66306497-44bd-44f2-a18d-a24202be3741",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "Có"
-                }
-              ]
-            },
-            {
-              "question": "Tại Đà Lạt có cho thuê ô tô không ?",
-              "id": "84a11784-4acc-487c-aa76-99e537c8bc55",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "Có"
-                }
-              ]
-            },
-            {
-              "question": "Tại Đà Lạt có xe công nghệ không ?",
-              "id": "5dc0d120-8726-44bb-9e63-23a24896355a",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "Có"
-                }
-              ]
-            },
-            {
               "question": "Giá thuê xe máy là bao nhiêu ?",
               "id": "b02d135d-6ecf-42d8-8abc-c954dd6d27c0",
               "answers": [
@@ -9996,8 +9936,8 @@
               "id": "bdf41a99-8cfe-4787-b87e-fe352e527a10",
               "answers": [
                 {
-                  "answer_start": -1,
-                  "text": "gần trung tâm Đà Lạt"
+                  "answer_start": 187,
+                  "text": "gần trung tâm"
                 }
               ]
             },
@@ -10531,8 +10471,8 @@
               "id": "9895496b-f419-4b1f-905c-a9d49f40e164",
               "answers": [
                 {
-                  "answer_start": -1,
-                  "text": "khoảng tháng 2 – tháng 4 - thời điểm của hoa phượng tím, bồ công anh, hay lavender nở rộ."
+                  "answer_start": 167,
+                  "text": "khoảng tháng 2 – tháng 4"
                 }
               ]
             }
@@ -10676,8 +10616,8 @@
               "id": "d0e1a59e-539d-412b-9a99-31c07b1f9c4f",
               "answers": [
                 {
-                  "answer_start": -1,
-                  "text": "Bên cạnh Hồ Xuân Hương, gần BigC Đà Lạt."
+                  "answer_start": 300,
+                  "text": "Bêncạnh Hồ Xuân Hương, gần BigC Đà Lạt."
                 }
               ]
             }
@@ -10853,16 +10793,6 @@
                 {
                   "answer_start": 340,
                   "text": "150.000 VND"
-                }
-              ]
-            },
-            {
-              "question": "Dịch vụ trọn gói tham quan Dinh Bảo Đại là gì ?",
-              "id": "032afe6a-6e9a-41f4-9688-81c1502bb003",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "dịch vụ hóa trang, vui chơi tại Dinh I II III"
                 }
               ]
             },
@@ -12018,16 +11948,6 @@
                 {
                   "answer_start": 39,
                   "text": "kangaroo, ngựa lùn, cừu, hay lạc đà Alpaca"
-                }
-              ]
-            },
-            {
-              "question": "Bạn có thể chơi cùng các loài thú ở Vườn thú Zoodoo không ?",
-              "id": "e4dce2f5-5c3f-4fff-9c11-19d4be791e11",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "Có"
                 }
               ]
             },
@@ -17807,16 +17727,6 @@
               ]
             },
             {
-              "question": "Khi đến TP Hà Giang có thể thuê xe máy không ?",
-              "id": "ddcd1598-fb0b-45d8-878d-118a0b85ee3e",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "Có"
-                }
-              ]
-            },
-            {
               "question": "Giá thuê xe máy ở TP Hà Giang là bao nhiêu ?",
               "id": "6563ed8e-8f50-479c-899c-f9fba632cbea",
               "answers": [
@@ -18096,8 +18006,8 @@
               "id": "6fa61fc1-891c-4e93-90d2-42fcd5720557",
               "answers": [
                 {
-                  "answer_start": -1,
-                  "text": "từ thành phố, điểm đầu tiên là cột mốc Km 0, sau đó di chuyển đến Quản Bạ chừng 40 km."
+                  "answer_start": 0,
+                  "text": "Từ thành phố, điểm đầu tiên là cột mốc Km 0, sau đó di chuyển đến Quản Bạ chừng 40 km."
                 }
               ]
             },
@@ -18177,32 +18087,12 @@
           "context": "Lưu ý, khi đi tới cầu Cán Tỷ có 2 lối rẽ, lối lên dốc sẽ tiết kiệm cho bạn 20 km, nhưng cũng khó khăn hơn và đòi hỏi phải là tay lái cứng. Hãy tính toán thời gian để đến đến Yên Minh và ăn trưa tại đó.Đây là tuyến đường nhiều cảnh đẹp và các điểm du lịch được nhiều người biết tới. Đó là Dốc Thẩm Mã hay Đèo 9 Khoanh, điểm check-in biểu tượng của Hà Giang. Tại đây, bạn dễ gặp những người bạn ngoại quốc, những nhà nhiếp ảnh phong cảnh, và đặc biệt là các em bé Mông gùi đầy hoa cỏ.",
           "qas": [
             {
-              "question": "Chặng thứ 2 đi từ Quản Bạ sẽ đến đâu ?",
-              "id": "aaf1a741-9358-4db6-a789-391e97ed4d57",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "Thị trấn Yên Minh"
-                }
-              ]
-            },
-            {
               "question": "Nên lưu ý như thế nào khi đến cầu Cán Tỷ ?",
               "id": "9e6252c1-2f44-457f-ad42-de2210a13e19",
               "answers": [
                 {
                   "answer_start": 29,
                   "text": "có 2 lối rẽ, lối lên dốc sẽ tiết kiệm cho bạn 20 km"
-                }
-              ]
-            },
-            {
-              "question": "Nên tính toán và đến Yên Minh vào buổi nào ?",
-              "id": "ca42127b-9fa8-4070-8aaf-1a56dde27d9e",
-              "answers": [
-                {
-                  "answer_start": -1,
-                  "text": "buổi trưa"
                 }
               ]
             },
