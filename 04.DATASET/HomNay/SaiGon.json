@@ -1,0 +1,1419 @@
+{
+    "data": [
+      {
+        "title": "Sài Gòn",
+        "paragraphs": [
+          {
+            "context": "Ở Sài Gòn, thời tiết hầu như nóng quanh năm dù không nắng nóng gay gắt như miền Bắc hay oi bức như miền Trung, nhiệt độ trung bình là 27°C và thời gian nắng đỉnh điểm nhiệt độ còn có thể lên tới hơn 40°C. Có hai mùa rõ rệt nơi đây chính là mùa mưa và mùa khô. Mùa mưa bắt đầu từ tháng 5 đến tháng 11, bạn lưu ý nếu đến đây vào thời gian này thì đừng bao giờ quên mang theo bên mình những chiếc ô bởi những cơn mưa thời gian này luôn ghé thăm bất chợt không báo trước. Mùa khô thì thường kéo dài từ tháng 12 đến tháng 4.Sài Gòn luôn sầm uất và có khí hậu khá dễ chịu nên bạn hoàn toàn có thể du lịch Sài Gòn vào bất cứ thời gian nào trong năm bởi mỗi mùa, Sài Gòn đều khoác lên mình một vẻ đẹp riêng quyến rũ du khách.",
+            "qas": [
+              {
+                "question": "Thời tiết ở Sài Gòn như thế nào ?",
+                "id": "7e217faa-74a3-4e4e-9019-df591738869a",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Ở Sài Gòn, thời tiết hầu như nóng quanh năm dù không nắng nóng gay gắt như miền Bắc hay oi bức như miền Trung"
+                  }
+                ]
+              },
+              {
+                "question": "Nhiệt độ trung bình ở Sài Gòn là bao nhiêu ?",
+                "id": "216e5c5e-17cd-4349-bb30-d4baaf831c21",
+                "answers": [
+                  {
+                    "answer_start": 111,
+                    "text": "nhiệt độ trung bình là 27°C"
+                  }
+                ]
+              },
+              {
+                "question": "Trong thời gian nắng đỉnh điểm nhiệt độ ở Sài Gòn có thể lên tới bao nhiêu ?",
+                "id": "ec64e47c-95d6-4ba1-981d-45e0e98110dc",
+                "answers": [
+                  {
+                    "answer_start": 142,
+                    "text": "thời gian nắng đỉnh điểm nhiệt độ còn có thể lên tới hơn 40°C"
+                  }
+                ]
+              },
+              {
+                "question": "Sài Gòn có các mùa rõ rệt là gì ?",
+                "id": "22cb96b3-a383-40a2-98bd-490c87516c3b",
+                "answers": [
+                  {
+                    "answer_start": 205,
+                    "text": "Có hai mùa rõ rệt nơi đây chính là mùa mưa và mùa khô"
+                  }
+                ]
+              },
+              {
+                "question": "Mùa mưa ở Sài Gòn bắt đầu từ tháng nào ?",
+                "id": "3aa714ae-95bf-49fc-8e39-e092445f6987",
+                "answers": [
+                  {
+                    "answer_start": 260,
+                    "text": "Mùa mưa bắt đầu từ tháng 5 đến tháng 11"
+                  }
+                ]
+              },
+              {
+                "question": "Mùa khô ở Sài Gòn bắt đầu từ tháng nào ?",
+                "id": "6c4c9a73-acaf-4c9b-9fa9-8655b6e9811e",
+                "answers": [
+                  {
+                    "answer_start": 468,
+                    "text": "Mùa khô thì thường kéo dài từ tháng 12 đến tháng 4"
+                  }
+                ]
+              },
+              {
+                "question": "Vì sao có thể du lịch Sài Gòn bất cứ thời gian nào trong năm ?",
+                "id": "758515de-1eef-4e2b-b874-23bf2cbbf231",
+                "answers": [
+                  {
+                    "answer_start": 519,
+                    "text": "Sài Gòn luôn sầm uất và có khí hậu khá dễ chịu nên bạn hoàn toàn có thể du lịch Sài Gòn vào bất cứ thời gian nào trong năm"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Là thành phố sôi động nhất cả nước, thật dễ dàng để đến Sài Gòn bởi bạn có thể sử dụng bất cứ loại phương tiện nào để tới đây như xe ô tô, máy bay hay tàu hỏa…tại bất cứ địa điểm nào trên đất nước ta.Chỉ cần ra các ga tàu, bến xe hay các đại lý bán vé máy bay, thậm chí là chỉ một cú click chuột trên các trang web du lịch trực tuyến, bạn dễ dàng sở hữu những chiếc vé tới Sài Gòn. Tuy nhiên, điểm lưu ý đặc biệt chính là bạn nên tham khảo giá vé ít nhất là vài ngày trước khi khởi hành để lựa chọn được giá vé rẻ nhất bởi có sự khác nhau về giá vé ở những thời điểm khác nhau.",
+            "qas": [
+              {
+                "question": "Sài Gòn được xem là thành phố như thế nào so với cả nước ?",
+                "id": "05451abc-2f16-46fa-b118-5712c679639b",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Là thành phố sôi động nhất cả nước"
+                  }
+                ]
+              },
+              {
+                "question": "Bạn có thể dùng phương tiện gì để đi đến Sài Gòn ?",
+                "id": "548606d4-8c7d-4f2a-a203-22840555a53b",
+                "answers": [
+                  {
+                    "answer_start": 36,
+                    "text": "thật dễ dàng để đến Sài Gòn bởi bạn có thể sử dụng bất cứ loại phương tiện nào để tới đây như xe ô tô, máy bay hay tàu hỏa…tại bất cứ địa điểm nào trên đất nước ta"
+                  }
+                ]
+              },
+              {
+                "question": "Bạn có thể dễ dàng sở hữu những chiếc vé tới Sài Gòn như thế nào ?",
+                "id": "f6d405cc-7e2b-4037-b44b-3dc4f7c325f3",
+                "answers": [
+                  {
+                    "answer_start": 200,
+                    "text": "Chỉ cần ra các ga tàu, bến xe hay các đại lý bán vé máy bay, thậm chí là chỉ một cú click chuột trên các trang web du lịch trực tuyến, bạn dễ dàng sở hữu những chiếc vé tới Sài Gòn"
+                  }
+                ]
+              },
+              {
+                "question": "Cần phải lưu ý gì khi mua vé tới Sài Gòn ?",
+                "id": "70f8422f-bcd4-48f4-9d6c-495f5992ac26",
+                "answers": [
+                  {
+                    "answer_start": 393,
+                    "text": "điểm lưu ý đặc biệt chính là bạn nên tham khảo giá vé ít nhất là vài ngày trước khi khởi hành để lựa chọn được giá vé rẻ nhất bởi có sự khác nhau về giá vé ở những thời điểm khác nhau."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Sau khi đến Sài Gòn, bạn có thể thuê xe máy với giá 100.000 đồng một ngày để tiện di chuyển, ngoài ra bạn cũng có thể đi bằng xe ôm, xe buýt, taxi hay xích lô đều là những phương tiện phổ biến để đi du lịch trong thành phố. Lưu ý nhỏ là nếu bạn quyết định thuê xe máy để chủ động di chuyển hơn thì hãy nhớ để mang theo đầy đủ bằng lái xe và tuân thủ đúng quy định của luật giao thông để tránh những sự cố gây ảnh hưởng cho lịch trình chuyến đi của mình nhé. Ngoài ra, để bảo vệ sức khỏe và tránh ánh nắng trong khi đi du lịch ở đây, bạn cũng nhớ mang theo khẩu trang, kính và bao tay, bôi kem chống nắng để tránh ánh nắng tác động trực tiếp gây ảnh hưởng xấu cho làn da của mình. Với những bạn lần đầu đến hoặc không nắm rõ đường sá nơi đây thì đừng quên mang theo bản đồ hay dùng ứng dụng google map để không bị lạc nhé.",
+            "qas": [
+              {
+                "question": "Bạn có thể thuê xe máy ở Sài Gòn với giá bao nhiêu ?",
+                "id": "848fcf5d-504c-42d3-9021-97cf68ba59e8",
+                "answers": [
+                  {
+                    "answer_start": 8,
+                    "text": "đến Sài Gòn, bạn có thể thuê xe máy với giá 100.000 đồng một ngày "
+                  }
+                ]
+              },
+              {
+                "question": "Khi đến Sài Gòn để tiện di chuyển bạn có thể di chuyển bằng phương tiện gì ?",
+                "id": "a27eb8c1-c7e0-4f69-8e0f-edcb7d3b788d",
+                "answers": [
+                  {
+                    "answer_start": 74,
+                    "text": "để tiện di chuyển, ngoài ra bạn cũng có thể đi bằng xe ôm, xe buýt, taxi hay xích lô "
+                  }
+                ]
+              },
+              {
+                "question": "Lưu ý khi thuê xe máy ở Sài Gòn là gì ?",
+                "id": "39d52bc0-4026-4efd-89a7-a78413d38190",
+                "answers": [
+                  {
+                    "answer_start": 224,
+                    "text": "Lưu ý nhỏ là nếu bạn quyết định thuê xe máy để chủ động di chuyển hơn thì hãy nhớ để mang theo đầy đủ bằng lái xe và tuân thủ đúng quy định của luật giao thông "
+                  }
+                ]
+              },
+              {
+                "question": "Để bảo vệ sức khỏe khi du lịch Sài Gòn, thì nên làm gì ?",
+                "id": "7d630545-726b-4306-982c-d5bf9f5f70b3",
+                "answers": [
+                  {
+                    "answer_start": 468,
+                    "text": "để bảo vệ sức khỏe và tránh ánh nắng trong khi đi du lịch ở đây, bạn cũng nhớ mang theo khẩu trang, kính và bao tay, bôi kem chống nắng để tránh ánh nắng tác động trực tiếp gây ảnh hưởng xấu cho làn da của mình"
+                  }
+                ]
+              },
+              {
+                "question": "Với những người lần đầu đến hoặc không nắm rõ đường sá ở Sài Gòn thì nên làm gì ?",
+                "id": "b678efec-669d-4448-a431-d35ab1f246e2",
+                "answers": [
+                  {
+                    "answer_start": 680,
+                    "text": "Với những bạn lần đầu đến hoặc không nắm rõ đường sá nơi đây thì đừng quên mang theo bản đồ hay dùng ứng dụng google map để không bị lạc"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Giờ mở cửa tham quan: Sáng 8h30 - 10h00, chiều 14h30 - 15h30 (Thứ 2 - Thứ 6). Thời gian diễn ra Thánh lễ: Sáng 5h30, chiều 17h00 (T2 – T7), Chủ nhật.: 5h30, 6h30, 7h30, 9h30 (dành cho người nước ngoài), 16h00, 17h00, 18h30. Địa chỉ: Số 1 Công xã Paris, Phường Bến Nghé, Quận 1. ",
+            "qas": [
+              {
+                "question": "Giờ mở cửa tham quan Nhà Thờ Đức Bà ở Sài Gòn là mấy giờ ?",
+                "id": "8c7ca002-bbad-4b83-9141-8969f1704971",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Giờ mở cửa tham quan: Sáng 8h30 - 10h00, chiều 14h30 - 15h30"
+                  }
+                ]
+              },
+              {
+                "question": "Nhà thờ Đức Bà ở Sài Gòn mở cửa ngày nào trong tuần ?",
+                "id": "d0f923a9-7099-4251-bdfe-2d90fb42f51d",
+                "answers": [
+                  {
+                    "answer_start": 62,
+                    "text": "Thứ 2 - Thứ 6"
+                  }
+                ]
+              },
+              {
+                "question": "Thánh lễ Nhà thờ Đức Bà ở Sài Gòn diễn ra vào các ngày nào trong tuần ?",
+                "id": "363b76b0-076f-40f8-b3f6-f245e9e675a1",
+                "answers": [
+                  {
+                    "answer_start": 130,
+                    "text": "T2 – T7"
+                  }
+                ]
+              },
+              {
+                "question": "Thời gian diễn ra Thánh lễ ở Nhà thờ Đức Bà ở Sài Gòn là khi nào ?",
+                "id": "37e2ec50-bc15-4fc7-93c5-b38121325bd2",
+                "answers": [
+                  {
+                    "answer_start": 106,
+                    "text": "Sáng 5h30, chiều 17h00 (T2 – T7), Chủ nhật.: 5h30, 6h30, 7h30, 9h30 (dành cho người nước ngoài), 16h00, 17h00, 18h30"
+                  }
+                ]
+              },
+              {
+                "question": "Địa chỉ nhà thờ Đức Bà ở Sài Gòn là gì ?",
+                "id": "591a39cf-57b3-448f-ae73-bf495192ffa2",
+                "answers": [
+                  {
+                    "answer_start": 224,
+                    "text": "Địa chỉ: Số 1 Công xã Paris, Phường Bến Nghé, Quận 1. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Không còn xa lạ gì nữa, nhà thờ Đức Bà là một trong những địa điểm mà bạn đích thị không thể bỏ lỡ check-in khi đến Sài Gòn bởi vẻ đẹp cổ kính và ý nghĩa biểu tượng của nó. Nằm ở khu trung tâm của Quận 1, khu vực nhà thờ thể hiện rất rõ dấu ấn Sài Thành khi mà bao xung quanh khu nhà thờ cổ kính, rêu phong và đậm tính lịch sử là những tòa nhà chọc trời, hiện đại và sầm uất hơn thảy. Nơi đây nổi bật với kiến trúc Châu Âu kết hợp phong cách Roman và Gothic tuyệt đẹp, cùng cặp chuông lớn nhất Việt Nam. Nhà thờ Đức Bà là ngôi thánh đường đẹp nhất và quan trọng nhất của giáo phận Sài Gòn, niềm tự hào của người dân thành phố.Điều tiện lợi còn nằm ở chỗ, từ vị trí này bạn có thể di chuyển sang các vị trí tham quan khác ở Sài Gòn một cách nhanh chóng như dinh Độc Lập, mua sắm ở Diamond Plaza hay qua dạo phố Đồng Khởi, ngắm hồ Con Rùa hay đơn giản là thử cảm giác uống cafe bệt ở đường Hàn Thuyên.",
+            "qas": [
+              {
+                "question": "Nhà thờ Đức Bà ở Sài Gòn có vẻ đẹp như thế nào ?",
+                "id": "cc34a492-2431-4eb9-8b0c-952692ca1e74",
+                "answers": [
+                  {
+                    "answer_start": 128,
+                    "text": "vẻ đẹp cổ kính và ý nghĩa biểu tượng của nó"
+                  }
+                ]
+              },
+              {
+                "question": "Nhà thờ Đức Bà ở Sài Gòn nằm ở khu vực nào của Quận 1 ?",
+                "id": "560c3248-7f75-49f4-9221-1c86bc7db097",
+                "answers": [
+                  {
+                    "answer_start": 173,
+                    "text": "Nằm ở khu trung tâm của Quận 1"
+                  }
+                ]
+              },
+              {
+                "question": "Nhà thờ Đức Bà ở Sài Gòn bao quanh bởi gì ?",
+                "id": "c79f7a2f-9d87-48ac-a5e6-c77e94d40446",
+                "answers": [
+                  {
+                    "answer_start": 261,
+                    "text": "bao xung quanh khu nhà thờ cổ kính, rêu phong và đậm tính lịch sử là những tòa nhà chọc trời, hiện đại và sầm uất hơn thảy"
+                  }
+                ]
+              },
+              {
+                "question": "Nhà thờ Đức Bà ở Sài Gòn mang kiến trúc gì ?",
+                "id": "6183b1ab-9f91-433e-b9cc-224d6f8cedf3",
+                "answers": [
+                  {
+                    "answer_start": 385,
+                    "text": "Nơi đây nổi bật với kiến trúc Châu Âu kết hợp phong cách Roman và Gothic tuyệt đẹp"
+                  }
+                ]
+              },
+              {
+                "question": "Nhà thờ Đức Bà ở Sài Gòn có gì ?",
+                "id": "6e4cb361-4254-4f7c-937b-ad00375de42b",
+                "answers": [
+                  {
+                    "answer_start": 474,
+                    "text": "cặp chuông lớn nhất Việt Nam"
+                  }
+                ]
+              },
+              {
+                "question": "Nhà thờ Đức Bà ở Sài Gòn là ngôi thánh đường như nào ?",
+                "id": "9bebce8c-3783-4f39-83a8-f593929f3385",
+                "answers": [
+                  {
+                    "answer_start": 504,
+                    "text": "Nhà thờ Đức Bà là ngôi thánh đường đẹp nhất và quan trọng nhất của giáo phận Sài Gòn, niềm tự hào của người dân thành phố"
+                  }
+                ]
+              },
+              {
+                "question": "Khi du dịch ở Nhà thờ Đức Bà ở Sài Gòn bạn có thể dễ dàng di chuyển sang thăm những đâu ?",
+                "id": "b96ad8b5-7386-4a1a-be12-9df0490f451b",
+                "answers": [
+                  {
+                    "answer_start": 669,
+                    "text": "bạn có thể di chuyển sang các vị trí tham quan khác ở Sài Gòn một cách nhanh chóng như dinh Độc Lập, mua sắm ở Diamond Plaza hay qua dạo phố Đồng Khởi, ngắm hồ Con Rùa hay đơn giản là thử cảm giác uống cafe bệt ở đường Hàn Thuyên."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Bến Nhà Rồng hay còn có tên gọi khác là Bảo tàng Hồ Chí Minh, đây chính là nơi Bác Hồ ra đi tìm đường cứu nước vào năm 1911. Điểm đặc biệt trong kiến trúc Bến Nhà Rồng nằm ở nóc nhà gắn hình rồng, ở giữa mang chiếc phù hiệu “Đầu ngựa và chiếc mỏ neo”. Đặc biệt, dạo bước ra sân phía ngoài du khách còn có thể ngắm sông Sài Gòn với tầm nhìn thoáng đáng, vào ban đêm còn lung linh ánh đèn soi bóng xuống dòng sông.",
+            "qas": [
+              {
+                "question": "Bến Nhà Rồng ở Sài Gòn còn có tên gọi khác là gì ?",
+                "id": "88f7445b-fa86-487f-b912-b8d9901b6fcd",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Bến Nhà Rồng hay còn có tên gọi khác là Bảo tàng Hồ Chí Minh"
+                  }
+                ]
+              },
+              {
+                "question": "Bến Nhà Rồng ở Sài Gòn là nơi như thế nào ?",
+                "id": "f982cf9e-37df-4e62-ab60-4e4de99c91f1",
+                "answers": [
+                  {
+                    "answer_start": 62,
+                    "text": "đây chính là nơi Bác Hồ ra đi tìm đường cứu nước vào năm 1911"
+                  }
+                ]
+              },
+              {
+                "question": "Đặc biệt trong kiến trúc bến Nhà Rồng ở Sài Gòn là gì ?",
+                "id": "d7ba1e7a-e9bf-4028-b625-0cb49b36b618",
+                "answers": [
+                  {
+                    "answer_start": 125,
+                    "text": "Điểm đặc biệt trong kiến trúc Bến Nhà Rồng nằm ở nóc nhà gắn hình rồng, ở giữa mang chiếc phù hiệu “Đầu ngựa và chiếc mỏ neo”."
+                  }
+                ]
+              },
+              {
+                "question": "Khi đi dạo bên ngoài bến Nhà Rồng bạn có thể ngắm nhìn gì ?",
+                "id": "04f66c20-a120-40b7-b98d-05568c02d047",
+                "answers": [
+                  {
+                    "answer_start": 252,
+                    "text": "Đặc biệt, dạo bước ra sân phía ngoài du khách còn có thể ngắm sông Sài Gòn với tầm nhìn thoáng đáng, vào ban đêm còn lung linh ánh đèn soi bóng xuống dòng sông."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Thời gian gần đây, con đường Nguyễn Huệ đã được xây dựng thành phố đi bộ cho người dân Sài Thành và trở thành một con đường vô cùng sôi động vào các dịp lễ hội và các ngày cuối tuần. Hai bên con đường này sở hữu rất nhiều khách sạn, khu mua sắm cao cấp và những căn nhà đã tồn tại lâu đời mang hơi thở kiến trúc châu Âu một thời.Đi thẳng đường Nguyễn Huệ theo hướng Đông Nam sẽ đến con đường Tôn Đức Thắng rực rỡ ở ven sông Sài Gòn. Đặc biệt hơn, cứ mỗi dịp Tết đến xuân về, con đường Nguyễn Huệ được phủ trong lung linh các sắc hoa tươi mới và rực rỡ sức sống.",
+            "qas": [
+              {
+                "question": "Con đường Nguyễn Huệ ở Sài Gòn trở thành con đường như thế nào ?",
+                "id": "a797026a-02c5-451e-b87d-12365a25abfd",
+                "answers": [
+                  {
+                    "answer_start": 100,
+                    "text": "trở thành một con đường vô cùng sôi động vào các dịp lễ hội và các ngày cuối tuần"
+                  }
+                ]
+              },
+              {
+                "question": "Hai bên đường Nguyễn Huệ ở Sài Gòn có gì ?",
+                "id": "010fdffa-be7d-480a-9b01-7cc1a38a195a",
+                "answers": [
+                  {
+                    "answer_start": 183,
+                    "text": "Hai bên con đường này sở hữu rất nhiều khách sạn, khu mua sắm cao cấp và những căn nhà đã tồn tại lâu đời "
+                  }
+                ]
+              },
+              {
+                "question": "Các căn nhà ở hai bên đường Nguyễn Huệ ở Sài Gòn mang hơi thở kiến trúc gì ?",
+                "id": "56de1bd9-4bdd-4f36-ad8a-44ff051c24d4",
+                "answers": [
+                  {
+                    "answer_start": 289,
+                    "text": "mang hơi thở kiến trúc châu Âu một thời"
+                  }
+                ]
+              },
+              {
+                "question": "Đi thẳng đường Nguyễn Huệ ở Sài Gòn theo hướng Đông Nam sẽ đến con đường gì ?",
+                "id": "ec2fc3ae-1a25-47c5-85dc-4fd73467b090",
+                "answers": [
+                  {
+                    "answer_start": 329,
+                    "text": "Đi thẳng đường Nguyễn Huệ theo hướng Đông Nam sẽ đến con đường Tôn Đức Thắng"
+                  }
+                ]
+              },
+              {
+                "question": "đường Tôn Đức Thắng ở Sài Gòn nằm ven sông gì ?",
+                "id": "5e1c1b8f-06e4-42c2-9c9c-6e4cbe6068de",
+                "answers": [
+                  {
+                    "answer_start": 415,
+                    "text": "ven sông Sài Gòn."
+                  }
+                ]
+              },
+              {
+                "question": "Mỗi dịp Tết đến xuân về thì đường Nguyễn Huệ ở Sài Gòn như thế nào ?",
+                "id": "adf0a3b6-7719-40a1-8f51-2eb7f427f0ee",
+                "answers": [
+                  {
+                    "answer_start": 433,
+                    "text": "Đặc biệt hơn, cứ mỗi dịp Tết đến xuân về, con đường Nguyễn Huệ được phủ trong lung linh các sắc hoa tươi mới và rực rỡ sức sống."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Giờ mở cửa: 7h00 - 19h00 hàng ngày. Địa chỉ: Nằm giữa các đường Phan Bội Châu - Phan Chu Trinh - Lê Thánh Tôn - Công trường Quách Thị Trang, Phường Bến Thành - Quận 1.Được coi như là một nhân chứng lịch sử chứng kiến những biến động của lịch sử qua các thời kì, chợ Bến Thành là một trong những biểu tượng nổi bật nhất khi nhắc tới Sài Gòn đối với các khách du lịch gần xa. Chợ Bến Thành có bốn cổng Đông Tây Nam Bắc hướng ra những con đường chính ở trung tâm Sài Gòn. Ghé thăm khu chợ Bến Thành, du khách sẽ tha hồ lựa chọn mua quần áo, giày dép, đồ lưu niệm hay rất nhiều đồ dùng, vật dụng khác.",
+            "qas": [
+              {
+                "question": "Giờ mở cửa chợ Bến Thành ở Sài Gòn là gì ?",
+                "id": "55070a18-a483-434c-95b2-d44512dac4ef",
+                "answers": [
+                  {
+                    "answer_start": 12,
+                    "text": "7h00 - 19h00 hàng ngày"
+                  }
+                ]
+              },
+              {
+                "question": "Địa chỉ chợ Bến Thành ở Sài Gòn là gì ?",
+                "id": "fc5e96f6-6159-466b-b3bd-bb7c1a5b2506",
+                "answers": [
+                  {
+                    "answer_start": 36,
+                    "text": "Địa chỉ: Nằm giữa các đường Phan Bội Châu - Phan Chu Trinh - Lê Thánh Tôn - Công trường Quách Thị Trang, Phường Bến Thành - Quận 1"
+                  }
+                ]
+              },
+              {
+                "question": "chợ Bến Thành ở Sài Gòn có các cổng nào ?",
+                "id": "8543d17b-450a-4227-a175-63efb53e2ec5",
+                "answers": [
+                  {
+                    "answer_start": 374,
+                    "text": "Chợ Bến Thành có bốn cổng Đông Tây Nam Bắc hướng ra những con đường chính ở trung tâm Sài Gòn"
+                  }
+                ]
+              },
+              {
+                "question": "Ghé thăm chợ Bến Thành ở Sài Gòn thì du khách có thể chọn mua gì ?",
+                "id": "03d9a45e-369e-4a49-8791-80a4585ab4bd",
+                "answers": [
+                  {
+                    "answer_start": 469,
+                    "text": "Ghé thăm khu chợ Bến Thành, du khách sẽ tha hồ lựa chọn mua quần áo, giày dép, đồ lưu niệm hay rất nhiều đồ dùng, vật dụng khác."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Giờ mở cửa: 7h00 - 18h00 hàng ngày. Địa chỉ: 57A Tháp Mười, Phường 12, Quận 6. ằm trong khu phố người Hoa, Chợ Lớn là khu chợ đầu mối cung cấp rất nhiều mặt hàng hóa quan trọng cho nhiều tỉnh thành tại Nam Bộ và cả nước. Hàng hóa ở đây rất đa dạng bao gồm từ thực phẩm khô, ngũ cốc, hải sản khô đến quần áo, giày dép, đồ chơi trẻ em Thuộc khu vực có nhiều người Hoa sinh sống nên nhiều tập tục sinh hoạt, cung cách hoạt động của Chợ Lớn cũng bị ảnh hưởng nhiều bởi lối sống và văn hóa Trung Quốc. Bên cạnh đó, hãy thử chọn một khách sạn tốt gần khu vực chợ Lớn để cảm nhận sự khác biệt trong dịch vụ khách sạn tại đây nhé! Nhìn chung, đây là một khu chợ tấp nập và đáng để bạn đến khám phá để hiểu hơn về lối sống, cách sinh hoạt, buôn bán của người dân ở đây.",
+            "qas": [
+              {
+                "question": "Giờ mở cửa Chợ Lớn ở Sài Gòn là khi nào ?",
+                "id": "dcba97f9-74fc-4f08-b9dc-b9a94753988f",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Giờ mở cửa: 7h00 - 18h00 hàng ngày"
+                  }
+                ]
+              },
+              {
+                "question": "Địa chỉ của Chợ Lớn ở Sài Gòn là gì ?",
+                "id": "ee851c28-0612-4de5-bc3b-f8282c6de83a",
+                "answers": [
+                  {
+                    "answer_start": 36,
+                    "text": "Địa chỉ: 57A Tháp Mười, Phường 12, Quận 6. ằm trong khu phố người Hoa"
+                  }
+                ]
+              },
+              {
+                "question": "Chợ Lớn ở Sài Gòn là khu chợ như thế nào ?",
+                "id": "fb682a72-8aba-465b-9d61-5c3837d6e191",
+                "answers": [
+                  {
+                    "answer_start": 107,
+                    "text": "Chợ Lớn là khu chợ đầu mối cung cấp rất nhiều mặt hàng hóa quan trọng cho nhiều tỉnh thành tại Nam Bộ và cả nước."
+                  }
+                ]
+              },
+              {
+                "question": "Hàng hóa ở Chợ Lớn ở Sài Gòn như thế nào ?",
+                "id": "f6fbed5b-9f38-4bd4-9da8-35c74da03863",
+                "answers": [
+                  {
+                    "answer_start": 221,
+                    "text": "Hàng hóa ở đây rất đa dạng bao gồm từ thực phẩm khô, ngũ cốc, hải sản khô đến quần áo, giày dép, đồ chơi trẻ em"
+                  }
+                ]
+              },
+              {
+                "question": "Vì sao Chợ Lớn ở Sài Gòn bị ảnh hưởng bởi lối sống và văn hóa Trung Quốc ?",
+                "id": "bf6a132e-7d9c-468d-ad59-c6071edaaed4",
+                "answers": [
+                  {
+                    "answer_start": 333,
+                    "text": "Thuộc khu vực có nhiều người Hoa sinh sống nên nhiều tập tục sinh hoạt, cung cách hoạt động của Chợ Lớn cũng bị ảnh hưởng nhiều bởi lối sống và văn hóa Trung Quốc"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Giờ mở cửa: 8h00 - 17h30 (Thứ 2 - Thứ 6), 8h00 - 18h00 (Thứ 7 và Chủ Nhật), 6h30 - 22h00 (Lễ Tết). Vé vào cổng: 60.000VND/người lớn, 30.000VND/trẻ em; Vé các trò chơi: 5.000 - 40.000VND/lượt.Địa chỉ: 120 Xa Lộ Hà Nội, Phường Tân Phú, Quận 9 (cách trung tâm thành phố 19km).",
+            "qas": [
+              {
+                "question": "Giờ mở cửa Suối Tiên ở Sài Gòn ngày thường là gì ?",
+                "id": "d1a54d38-a0eb-4b24-abf2-554a9d2f6b11",
+                "answers": [
+                  {
+                    "answer_start": 12,
+                    "text": "8h00 - 17h30 (Thứ 2 - Thứ 6)"
+                  }
+                ]
+              },
+              {
+                "question": "Giờ mở cửa Suối Tiên ở Sài Gòn ngày cuối tuần là gì ?",
+                "id": "ad7b8a09-69d8-472f-b157-37711e8df39b",
+                "answers": [
+                  {
+                    "answer_start": 42,
+                    "text": "8h00 - 18h00 (Thứ 7 và Chủ Nhật)"
+                  }
+                ]
+              },
+              {
+                "question": "Giờ mở cửa Suối Tiên ở Sài Gòn ngày lễ là gì ?",
+                "id": "eed2f1cd-d28b-4a40-80ec-11f1e1c51deb",
+                "answers": [
+                  {
+                    "answer_start": 76,
+                    "text": "6h30 - 22h00 (Lễ Tết)"
+                  }
+                ]
+              },
+              {
+                "question": "Vé vào cổng Suối Tiên ở Sài Gòn cho người lớn là bao nhiêu tiền ?",
+                "id": "7226eea0-576d-4aaa-bfe6-45d84c75f7fd",
+                "answers": [
+                  {
+                    "answer_start": 112,
+                    "text": "60.000VND"
+                  }
+                ]
+              },
+              {
+                "question": "Vé vào cổng Suối Tiên ở Sài Gòn cho trẻ em là bao nhiêu tiền ?",
+                "id": "3cc7bdd3-0235-4c55-ba86-bcbaa36cbd03",
+                "answers": [
+                  {
+                    "answer_start": 133,
+                    "text": "30.000VND"
+                  }
+                ]
+              },
+              {
+                "question": "Vé trò chơi ở Suối Tiên ở Sài Gòn là bao nhiêu ?",
+                "id": "c8235907-dbaf-4531-b722-72ed4ba3d723",
+                "answers": [
+                  {
+                    "answer_start": 151,
+                    "text": "Vé các trò chơi: 5.000 - 40.000VND/lượt"
+                  }
+                ]
+              },
+              {
+                "question": "Địa chỉ Suối Tiên ở Sài Gòn là ở đâu ?",
+                "id": "9512a039-6347-4a35-967d-878cfd2e69aa",
+                "answers": [
+                  {
+                    "answer_start": 191,
+                    "text": "Địa chỉ: 120 Xa Lộ Hà Nội, Phường Tân Phú, Quận 9 (cách trung tâm thành phố 19km)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Nằm ở cửa ngõ Đông Bắc Sài Gòn, khu du lịch Suối Tiên thực sự là một địa điểm vui chơi giải trí vô cùng hút khách, đặc biệt là vào mùa hè. Ngoài ra, đây cũng là nơi được rất nhiều các bậc phụ huynh đưa con cái đến hay những du khách nước ngoài đến khám phá bởi nơi đây còn là nơi giáo dục văn hoá lịch sử qua những khu tham quan xây dựng dựa trên ý tưởng các truyền thuyết, huyền tích của dân tộc và tư tưởng đạo học phương Ðông.",
+            "qas": [
+              {
+                "question": "Suối Tiên nằm ở cửa ngõ nào ở Sài Gòn ?",
+                "id": "4dd4c3c3-2b00-45a7-9eee-17e8effdb6ab",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Nằm ở cửa ngõ Đông Bắc Sài Gòn"
+                  }
+                ]
+              },
+              {
+                "question": "Suối Tiên ở Sài Gòn là khu du lịch như thế nào ?",
+                "id": "c55b660f-eedd-4ea5-81b1-a8c2d5a92383",
+                "answers": [
+                  {
+                    "answer_start": 32,
+                    "text": "khu du lịch Suối Tiên thực sự là một địa điểm vui chơi giải trí vô cùng hút khách, đặc biệt là vào mùa hè"
+                  }
+                ]
+              },
+              {
+                "question": "Vì sao Suối Tiên ở Sài Gòn còn là nơi được các bậc phụ huynh đưa con đến ?",
+                "id": "b60b35f0-fae5-41fd-8feb-d573c9bdea74",
+                "answers": [
+                  {
+                    "answer_start": 149,
+                    "text": "đây cũng là nơi được rất nhiều các bậc phụ huynh đưa con cái đến hay những du khách nước ngoài đến khám phá bởi nơi đây còn là nơi giáo dục văn hoá lịch sử qua những khu tham quan xây dựng dựa trên ý tưởng các truyền thuyết, huyền tích của dân tộc và tư tưởng đạo học phương Ðông."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Giờ mở cửa: Sáng 8h00 - 11h30; chiều 13h30 - 16h30 (Thứ 3 - Chủ Nhật); Vé vào cổng: 2.000VND/người lớn, 1.000VND/trẻ em (khách Việt), 15.000VND/người (khách nước ngoài). Địa chỉ: Số 2 đường Nguyễn Bỉnh Khiêm, Phường Bến Nghé, Quận 1 (bên cạnh Thảo Cầm Viên).",
+            "qas": [
+              {
+                "question": "Giờ mở cửa Bảo tàng Lịch sử Việt Nam là khi nào ?",
+                "id": "48b0eb8a-de5c-4dda-b3ed-69be89d61808",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Giờ mở cửa: Sáng 8h00 - 11h30; chiều 13h30 - 16h30 "
+                  }
+                ]
+              },
+              {
+                "question": "Bảo tàng Lịch sử Việt Nam ở Sài Gòn mở cửa ngày nào trong tuần ?",
+                "id": "1cb38033-10cd-4483-890a-ef6a894f1820",
+                "answers": [
+                  {
+                    "answer_start": 52,
+                    "text": "Thứ 3 - Chủ Nhật"
+                  }
+                ]
+              },
+              {
+                "question": "Vé vào cổng Bảo tàng Lịch sử Việt Nam cho người lớn bao nhiêu ? ",
+                "id": "ee21fb5d-2042-4ad9-b11b-e214ec62d175",
+                "answers": [
+                  {
+                    "answer_start": 84,
+                    "text": "2.000VND"
+                  }
+                ]
+              },
+              {
+                "question": "Vé vào cổng Bảo tàng Lịch sử Việt Nam cho trẻ em bao nhiêu ?",
+                "id": "afd1ea05-e86d-407a-b7e7-42e16da801c9",
+                "answers": [
+                  {
+                    "answer_start": 104,
+                    "text": "1.000VND"
+                  }
+                ]
+              },
+              {
+                "question": "Vé vào cổng Bảo tàng Lịch sử Việt Nam cho khách nước ngoài bao nhiêu ?",
+                "id": "a3eaf26f-86cb-43b7-be6e-c2f0fde524d9",
+                "answers": [
+                  {
+                    "answer_start": 134,
+                    "text": "15.000VND/người "
+                  }
+                ]
+              },
+              {
+                "question": "Địa chỉ Bảo tàng Lịch sử Việt Nam ở Sài Gòn là gì ?",
+                "id": "e59073de-f32c-41bb-b49c-6f813503bfb8",
+                "answers": [
+                  {
+                    "answer_start": 170,
+                    "text": "Địa chỉ: Số 2 đường Nguyễn Bỉnh Khiêm, Phường Bến Nghé, Quận 1"
+                  }
+                ]
+              },
+              {
+                "question": "Bảo tàng Lịch sử Việt Nam ở Sài Gòn năm bên cạnh địa điểm nào ?",
+                "id": "97e9bfcb-0bd3-407e-aced-f709855ec330",
+                "answers": [
+                  {
+                    "answer_start": 234,
+                    "text": "bên cạnh Thảo Cầm Viên"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Tiền thân là Viện Bảo tàng Blanchard de la Brosse, bảo tàng lịch sử Việt Nam sẽ cho bạn cơ hội chiêm ngưỡng hàng nghìn hiện vật có giá trị và tìm hiểu thêm về lịch sử Việt Nam. Đây thực sự là một địa điểm mà du khách nước ngoài rất ưa chuộng để được tìm hiểu về quá khứ, lịch sử Việt Nam sâu sắc hơn. Không những là nơi trưng bày những hiện vật có ý nghĩa mà đây còn là nơi chứa hơn 25.000 đầu sách báo tạp chí tài liệu phục vụ cho công việc nghiên cứu khảo cổ, dân tộc học, sử học…",
+            "qas": [
+              {
+                "question": "Bảo tàng Lịch sử Việt Nam ở Sài Gòn tiền thân là gì ?",
+                "id": "6300c6b3-488e-4395-86e3-d4ae710c1389",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Tiền thân là Viện Bảo tàng Blanchard de la Brosse"
+                  }
+                ]
+              },
+              {
+                "question": "Bảo tàng Lịch sử Việt Nam ở Sài Gòn sẽ cho bạn cơ hội chiêm ngưỡng gì ?",
+                "id": "d76f84d0-3427-4e7b-8c14-c9fb15cfb2cc",
+                "answers": [
+                  {
+                    "answer_start": 51,
+                    "text": "bảo tàng lịch sử Việt Nam sẽ cho bạn cơ hội chiêm ngưỡng hàng nghìn hiện vật có giá trị và tìm hiểu thêm về lịch sử Việt Nam"
+                  }
+                ]
+              },
+              {
+                "question": "Bảo tàng Lịch sử Việt Nam ở Sài Gòn là địa điểm ưa chuộng cho khách nước ngoài thích gì ?",
+                "id": "0b6a7457-6f53-40e2-b392-ce1d8965160a",
+                "answers": [
+                  {
+                    "answer_start": 177,
+                    "text": "Đây thực sự là một địa điểm mà du khách nước ngoài rất ưa chuộng để được tìm hiểu về quá khứ, lịch sử Việt Nam sâu sắc hơn"
+                  }
+                ]
+              },
+              {
+                "question": "Bảo tàng Lịch sử Việt Nam ở Sài Gòn trưng bày những gì ?",
+                "id": "87231c91-217c-4f68-9501-c2b2fe37a45f",
+                "answers": [
+                  {
+                    "answer_start": 301,
+                    "text": "Không những là nơi trưng bày những hiện vật có ý nghĩa mà đây còn là nơi chứa hơn 25.000 đầu sách báo tạp chí tài liệu phục vụ cho công việc nghiên cứu khảo cổ, dân tộc học, sử học…"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Địa đạo Bến Dược: Cách di chuyển chính là bắt tuyến 13 và 79, đón xe buýt số 13 từ Bến Thành đi bến xe Củ Chi, sau đó đón xe 79 từ bến xe Củ Chi đến Bến Dược. Đây chính là căn cứ khu ủy và quân khu Sài Gòn-Gia Định.Địa đạo Bến Đình: Du khách đón tuyến xe buýt số 4 từ Bến Thành đến Bến đi An Sương. Sau đó tiếp tục đón tuyến 122 từ Bến xe An Sương đi An Nhơn Tây là xuống xe.",
+            "qas": [
+              {
+                "question": "Bắt tuyến xe buýt nào để đến Địa đạo Bến Dược ở Sài Gòn ?",
+                "id": "0353d119-ac05-4507-9488-a3593eab7201",
+                "answers": [
+                  {
+                    "answer_start": 42,
+                    "text": "bắt tuyến 13 và 79"
+                  }
+                ]
+              },
+              {
+                "question": "Di chuyển đến địa đạo Bến Dược ở Sài Gòn như thế nào ?",
+                "id": "ece7b2f5-775b-49e0-817b-e573d6757ac9",
+                "answers": [
+                  {
+                    "answer_start": 62,
+                    "text": "đón xe buýt số 13 từ Bến Thành đi bến xe Củ Chi, sau đó đón xe 79 từ bến xe Củ Chi đến Bến Dược"
+                  }
+                ]
+              },
+              {
+                "question": "Địa đạo Bến Dược ở Sài Gòn là gì ?",
+                "id": "496236a8-0cac-41fd-8c5c-60b8c552f509",
+                "answers": [
+                  {
+                    "answer_start": 159,
+                    "text": "Đây chính là căn cứ khu ủy và quân khu Sài Gòn-Gia Định"
+                  }
+                ]
+              },
+              {
+                "question": "Di chuyển đến địa đạo Bến Đình ở Sài Gòn như thế nào ?",
+                "id": "8ae7ba4a-525a-4baf-bdae-ea42f7ed9c67",
+                "answers": [
+                  {
+                    "answer_start": 233,
+                    "text": "Du khách đón tuyến xe buýt số 4 từ Bến Thành đến Bến đi An Sương. Sau đó tiếp tục đón tuyến 122 từ Bến xe An Sương đi An Nhơn Tây là xuống xe."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Địa đạo Củ Chi là một hệ thống phòng thủ trong lòng đất ở huyện Củ Chi, cách Sài Gòn 70 km về hướng tây-bắc với độ dài khoảng 250km. Hệ thống này được Việt Minh và Mặt trận dân tộc giải phóng Việt Nam đào trong thời kỳ chiến tranh Đông Dương và chiến tranh Việt Nam. Hệ thống địa đạo bao gồm bệnh xá, nhiều phòng ở, nhà bếp, kho chứa, phòng làm việc, hệ thống đường ngầm dưới lòng đất.Khu vực Củ Chi là quần thể danh thắng – di tích lịch sử lớn, nếu lỡ yêu thích không gian nơi đây, hãy nghía qua list khách sạn giá rẻ khu vực Củ Chi nhé!",
+            "qas": [
+              {
+                "question": "Địa đạo Củ Chi ở Sài Gòn là hệ thống như thế nào ?",
+                "id": "58099dbc-5271-41b1-8d7e-d48003d13972",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Địa đạo Củ Chi là một hệ thống phòng thủ trong lòng đất ở huyện Củ Chi"
+                  }
+                ]
+              },
+              {
+                "question": "Địa đạo Củ Chi ở Sài Gòn cách Sài Gòn bao xa ?",
+                "id": "951e79c4-1861-47a8-b3e3-69166bc428fd",
+                "answers": [
+                  {
+                    "answer_start": 72,
+                    "text": "cách Sài Gòn 70 km về hướng tây-bắc"
+                  }
+                ]
+              },
+              {
+                "question": "Độ dài Địa đạo Củ Chi ở Sài Gòn là bao nhiêu ?",
+                "id": "9a77f239-794c-47f3-86e6-49b109585c97",
+                "answers": [
+                  {
+                    "answer_start": 112,
+                    "text": "độ dài khoảng 250km"
+                  }
+                ]
+              },
+              {
+                "question": "Hệ thống Địa đạo Củ Chi ở Sài Gòn được tổ chức nào đào ?",
+                "id": "111aca82-ea9f-4a82-8bdf-50623d079c1b",
+                "answers": [
+                  {
+                    "answer_start": 133,
+                    "text": "Hệ thống này được Việt Minh và Mặt trận dân tộc giải phóng Việt Nam đào trong thời kỳ chiến tranh Đông Dương và chiến tranh Việt Nam"
+                  }
+                ]
+              },
+              {
+                "question": "Hệ thống Địa đạo Củ Chi ở Sài Gòn bao gồm những gì ?",
+                "id": "4b627822-6d00-4fa4-8e2c-b0ef37ed9e3d",
+                "answers": [
+                  {
+                    "answer_start": 267,
+                    "text": "Hệ thống địa đạo bao gồm bệnh xá, nhiều phòng ở, nhà bếp, kho chứa, phòng làm việc, hệ thống đường ngầm dưới lòng đất"
+                  }
+                ]
+              },
+              {
+                "question": "Địa đạo Củ Chi ở Sài Gòn là khu vực như thế nào ?",
+                "id": "1a0578da-3b73-4faa-a23a-401548da2cea",
+                "answers": [
+                  {
+                    "answer_start": 385,
+                    "text": "Khu vực Củ Chi là quần thể danh thắng – di tích lịch sử lớn, nếu lỡ yêu thích không gian nơi đây, hãy nghía qua list khách sạn giá rẻ khu vực Củ Chi"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Nếu kịp quan sát các bức ảnh check-in của các bạn trẻ thời gian gần đây trên các mạng xã hội thì hầm Thủ Thiêm thực sự là một góc ngắm nhìn cảnh vật thành phố tuyệt đẹp với vị trí đắc địa nằm vắt ngang khúc sông Sài Gòn uốn lượn hữu tình. Khi màn đêm buông xuống, cả Sài Gòn được “nhúng” trong ánh điện đèn từ các con đường, các tòa nhà chọc trời hay các phương tiện giao thông thì góc nhìn từ cầu Thủ Thiêm thực sự khiến bạn bất ngờ bởi một view nhìn khó tin. Ghé thăm nơi đây và lưu lại một bức ảnh kỉ niệm với Sài Gòn tại đây có lẽ là một trải nghiệm không nên bỏ qua.Một khách sạn quận Bình Thạnh gần cầu Thủ Thiêm là điểm dừng chân lí tưởng nếu muốn nhìn ngắm cây cầu này từ trên cao đấy!",
+            "qas": [
+              {
+                "question": "Cầu Thủ Thiêm ở Sài Gòn là nơi như thế nào ?",
+                "id": "c1299847-47c1-46ef-ae2b-60d9fd69b949",
+                "answers": [
+                  {
+                    "answer_start": 119,
+                    "text": "là một góc ngắm nhìn cảnh vật thành phố tuyệt đẹp với vị trí đắc địa nằm vắt ngang khúc sông Sài Gòn uốn lượn hữu tình"
+                  }
+                ]
+              },
+              {
+                "question": "Cầu Thủ Thiêm ở Sài Gòn vào buổi tối sẽ ngắm nhìn được gì ?",
+                "id": "9208e6b1-b34e-4471-a3ec-5ad99a9e66eb",
+                "answers": [
+                  {
+                    "answer_start": 239,
+                    "text": "Khi màn đêm buông xuống, cả Sài Gòn được “nhúng” trong ánh điện đèn từ các con đường, các tòa nhà chọc trời hay các phương tiện giao thông thì góc nhìn từ cầu Thủ Thiêm thực sự khiến bạn bất ngờ bởi một view nhìn khó tin."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Là tòa nhà cao ốc cao thứ hai Việt Nam (sau Kangnam Hanoi Landmark Tower), Bitexco đang trở thành biểu tượng mới của Sài Gòn và là địa điểm chụp ảnh quen thuộc của các bạn trẻ khi tới đây. Điều ấn tượng của tòa nhà này nằm ở kiến trúc như búp sen vươn cao và kỉ lục nằm ở việc ở đây có sân đỗ cho trực thăng. Bitexco cũng sở hữu Saigon Skydeck có view hoàn hảo để ngắm trọn vẹn thành phố từ trên cao, từ đây có thể thấy những công trình tiêu biểu nhất của Sài Gòn như Nhà thờ Đức Bà, hầm Thủ Thiêm, đại lộ Đông Tây…",
+            "qas": [
+              {
+                "question": "Tòa nhà cao ốc cao thứ 2 Việt Nam là gì ?",
+                "id": "58f9bde8-f30d-4e4f-a8d6-7ec50912ee43",
+                "answers": [
+                  {
+                    "answer_start": 75,
+                    "text": "Bitexco"
+                  }
+                ]
+              },
+              {
+                "question": "Tòa nhà cao ốc cao thứ nhất Việt Nam là gì ?",
+                "id": "fc2c1149-e166-4308-a777-638c38d3fbcc",
+                "answers": [
+                  {
+                    "answer_start": 44,
+                    "text": "Kangnam Hanoi Landmark Tower"
+                  }
+                ]
+              },
+              {
+                "question": "Tòa nhà Bitexco là gì ?",
+                "id": "81e13b48-34ad-4209-948d-cc8061482cc9",
+                "answers": [
+                  {
+                    "answer_start": 75,
+                    "text": "Bitexco đang trở thành biểu tượng mới của Sài Gòn và là địa điểm chụp ảnh quen thuộc của các bạn trẻ khi tới đây"
+                  }
+                ]
+              },
+              {
+                "question": "Điểm ấn tượng của Tòa nhà Bitexco là gì ?",
+                "id": "1f1d39a9-324f-4fdd-8256-0acfe7b63fad",
+                "answers": [
+                  {
+                    "answer_start": 189,
+                    "text": "Điều ấn tượng của tòa nhà này nằm ở kiến trúc như búp sen vươn cao và kỉ lục nằm ở việc ở đây có sân đỗ cho trực thăng"
+                  }
+                ]
+              },
+              {
+                "question": "Tòa nhà Bitexco đang sở hữu gì để ngắm cảnh ?",
+                "id": "27021171-ba33-4f2d-b6b5-2a154aa03cbb",
+                "answers": [
+                  {
+                    "answer_start": 309,
+                    "text": "Bitexco cũng sở hữu Saigon Skydeck có view hoàn hảo để ngắm trọn vẹn thành phố từ trên cao, từ đây có thể thấy những công trình tiêu biểu nhất của Sài Gòn như Nhà thờ Đức Bà, hầm Thủ Thiêm, đại lộ Đông Tây…"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Màu vàng rộm của bánh xèo kết hợp với nhân tôm, thịt, giá đỗ và ăn cùng chút rau sống chấm trong một loại nước chấm vị vừa đủ sẽ chinh phục thực khách ngay từ lần đầu nếm thử. Bánh xèo miền Nam có trứng, khi ăn chấm nước mắm chua ngọt và rất nhiều loại rau và lá cây tại miệt vườn. Tại một số nhà hàng người ta cho thêm các loại nấm làm nhân bánh xèo ăn rất ngon miệng và bớt ngán. Gợi ý một số địa chỉ uy tín: 46A Đinh công Tráng (Quận 1); Mười Xiềm, 190 Nam Kỳ Khởi Nghĩa (Phường 6, Quận 3); Ăn Là Ghiền, 74 Sương Nguyệt Ánh (Phường Bến Thành, Quận 1). ",
+            "qas": [
+              {
+                "question": "Bánh xèo Nam Bộ ở Sài Gòn như thế nào ?",
+                "id": "b6f6e3d8-48d4-402e-ab2c-9b98f27f69ca",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Màu vàng rộm của bánh xèo kết hợp với nhân tôm, thịt, giá đỗ và ăn cùng chút rau sống chấm trong một loại nước chấm vị vừa đủ sẽ chinh phục thực khách ngay từ lần đầu nếm thử"
+                  }
+                ]
+              },
+              {
+                "question": "Bánh xèo Nam Bộ ở Sài Gòn có gì ?",
+                "id": "01627dea-741f-418a-9e71-f24cac1064bd",
+                "answers": [
+                  {
+                    "answer_start": 176,
+                    "text": "Bánh xèo miền Nam có trứng, khi ăn chấm nước mắm chua ngọt và rất nhiều loại rau và lá cây tại miệt vườn."
+                  }
+                ]
+              },
+              {
+                "question": "Tại một số nhà hàng, Bánh xèo Nam Bộ ở Sài Gòn cho thêm gì ?",
+                "id": "fe3c6a0a-8d46-4393-8499-8db58f432b11",
+                "answers": [
+                  {
+                    "answer_start": 281,
+                    "text": " Tại một số nhà hàng người ta cho thêm các loại nấm làm nhân bánh xèo ăn rất ngon miệng và bớt ngán"
+                  }
+                ]
+              },
+              {
+                "question": "Địa chỉ ăn Bánh xèo Nam Bộ ở Sài Gòn uy tín là gì ?",
+                "id": "9c68831d-ce9c-4911-be7f-ee175844bd49",
+                "answers": [
+                  {
+                    "answer_start": 411,
+                    "text": "46A Đinh công Tráng (Quận 1); Mười Xiềm, 190 Nam Kỳ Khởi Nghĩa (Phường 6, Quận 3); Ăn Là Ghiền, 74 Sương Nguyệt Ánh (Phường Bến Thành, Quận 1)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Một vài địa chỉ nổi tiếng: Bún bò Thành Nội Huế, 47A Trần Cao Vân, Quận 3 (gần vòng xoay hồ Con Rùa); Bún bò Huế Đông Ba, 110A Nguyễn Du, Phường Bến Thành, Quận 1. Dù đây là một món ăn có xuất xứ từ Huế tuy nhiên với sự đổ xô của người dân từ khắp cả nước về đây lập nghiệp và làm ăn, món ăn này cũng trở thành một trong những món ăn yêu thích ở Sài Gòn và được mở ra ở rất nhiều nơi khắp thành phố.Vị cay và đặm của nước dùng trộn thêm chút mắm tôm tạo nên hương vị riêng vô cùng đặc biệt và dễ gây “nghiện”. Món ăn này được bán ở Sài Gòn với mức giá rất bình dân là 20.000 đồng một tô.",
+            "qas": [
+              {
+                "question": "Một vài địa chỉ ăn Bún Bò nổi tiếng ở Sài Gòn là gì ?",
+                "id": "f1aab1a2-a22d-4b8a-8817-dd1215a97e56",
+                "answers": [
+                  {
+                    "answer_start": 27,
+                    "text": "Bún bò Thành Nội Huế, 47A Trần Cao Vân, Quận 3 (gần vòng xoay hồ Con Rùa); Bún bò Huế Đông Ba, 110A Nguyễn Du, Phường Bến Thành, Quận 1."
+                  }
+                ]
+              },
+              {
+                "question": "Bún bò ở Sài Gòn xuất xứ từ đâu ?",
+                "id": "8d2e9d57-b68b-48c0-8207-b745506357bd",
+                "answers": [
+                  {
+                    "answer_start": 167,
+                    "text": "đây là một món ăn có xuất xứ từ Huế tuy nhiên với sự đổ xô của người dân từ khắp cả nước về đây lập nghiệp và làm ăn, món ăn này cũng trở thành một trong những món ăn yêu thích ở Sài Gòn"
+                  }
+                ]
+              },
+              {
+                "question": "Bún bò ở Sài Gòn có hương vị như thế nào ?",
+                "id": "b68c6b4d-665e-44d7-bea7-88c70d372310",
+                "answers": [
+                  {
+                    "answer_start": 399,
+                    "text": "Vị cay và đặm của nước dùng trộn thêm chút mắm tôm tạo nên hương vị riêng vô cùng đặc biệt và dễ gây “nghiện”."
+                  }
+                ]
+              },
+              {
+                "question": "Bún bò được bán ở Sài Gòn với giá như thế nào ?",
+                "id": "7486763e-76aa-48d1-a5e8-68871b23cf17",
+                "answers": [
+                  {
+                    "answer_start": 510,
+                    "text": "Món ăn này được bán ở Sài Gòn với mức giá rất bình dân là 20.000 đồng một tô."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Một vài địa chỉ nổi tiếng: Hủ tiếu mì trên đường Mạc Thị Bưởi (Quận 1), hủ tiếu cá gà trên đường Tôn Thất Đạm (Quận 1), hủ tiếu mì vàng trên đường Hải Thượng Lãn Ông (Quận 5), hủ tiếu 46/102 Võ Văn Tần, Q.3, mì Vịt tiềm trên đường Phạm Văn Hai (Quận Tân Bình), mì chú Tắc: 22 Bà Huyện Thanh Quan (Quận 3).Những món ăn này tuy không phải nguồn gốc bản địa song giờ đây cũng trở thành nét đặc trưng của Sài Gòn. Với người dân Sài Gòn, món này dễ ăn và khá được ưa chuộng. Tuy nhiên với dân Bắc, món này có vị hơi ngọt, có thể không quen khi thưởng thức lần đầu. Các quán hủ tiếu rất sẵn trên bất kỳ còn đường, ngõ hẻm nào của Sài Gòn với giá từ 20.000VND/tô.",
+            "qas": [
+              {
+                "question": "Một vài địa chỉ ăn Hủ tiếu nổi tiếng ở Sài Gòn là gì ?",
+                "id": "b2570b8a-a0d1-48be-b8d9-82c3ab178e78",
+                "answers": [
+                  {
+                    "answer_start": 27,
+                    "text": "Hủ tiếu mì trên đường Mạc Thị Bưởi (Quận 1), hủ tiếu cá gà trên đường Tôn Thất Đạm (Quận 1), hủ tiếu mì vàng trên đường Hải Thượng Lãn Ông (Quận 5), hủ tiếu 46/102 Võ Văn Tần, Q.3, mì Vịt tiềm trên đường Phạm Văn Hai (Quận Tân Bình), mì chú Tắc: 22 Bà Huyện Thanh Quan (Quận 3)"
+                  }
+                ]
+              },
+              {
+                "question": "Món hủ tiếu ở Sài Gòn như thế nào ?",
+                "id": "bb39b3ff-6c17-4609-b293-ae9e59330183",
+                "answers": [
+                  {
+                    "answer_start": 305,
+                    "text": "Những món ăn này tuy không phải nguồn gốc bản địa song giờ đây cũng trở thành nét đặc trưng của Sài Gòn. Với người dân Sài Gòn, món này dễ ăn và khá được ưa chuộng."
+                  }
+                ]
+              },
+              {
+                "question": "Đối với người dân ở miền Bắc thì các món hủ tiếu ở Sài Gòn như thế nào ?",
+                "id": "5284cb7b-d92a-4315-9c35-f5c0904dd9e4",
+                "answers": [
+                  {
+                    "answer_start": 470,
+                    "text": "Tuy nhiên với dân Bắc, món này có vị hơi ngọt, có thể không quen khi thưởng thức lần đầu"
+                  }
+                ]
+              },
+              {
+                "question": "Giá các món hủ tiếu ở Sài Gòn như thế nào ?",
+                "id": "2684a724-7359-4767-bfaa-df880f20a028",
+                "answers": [
+                  {
+                    "answer_start": 560,
+                    "text": "Các quán hủ tiếu rất sẵn trên bất kỳ còn đường, ngõ hẻm nào của Sài Gòn với giá từ 20.000VND/tô."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Một vài địa chỉ nổi tiếng: Lẩu mắm Nam Bộ (94AB Cao Thắng, Phường 4, Quận 3), giá: 160.000 - 240.000VND; Lẩu mắm Ăn là khen (11 Hồ Biểu Chánh, P.12, Quận Phú Nhuận), giá: Lẩu mắm: 210.000 - 300.000VND.Ai muốn thưởng thức món này ngon nhất thì phải về miền Tây (Cần Thơ, Vĩnh Long, Long An), nhưng nếu không có thời gian thì bạn có thể thưởng thức lẩu mắm ngay tại Sài Gòn cũng là một lựa chọn không hề tồi. Nồi lẩu mắm quan trọng nhất là nước dùng, phải chế biến từ loại mắm ngon, nêm nếm khéo léo cho vừa ăn. Lẩu mắm ở Sài Gòn thường có rau muống, kèo nèo, bông súng, đậu bắp, bạc hà…",
+            "qas": [
+              {
+                "question": "Một vài địa chỉ ăn Lẩu mắm nổi tiếng ở Sài Gòn là gì ?",
+                "id": "7e747e38-0658-4ebc-88d0-6d4f1756bc50",
+                "answers": [
+                  {
+                    "answer_start": 27,
+                    "text": "Lẩu mắm Nam Bộ (94AB Cao Thắng, Phường 4, Quận 3), giá: 160.000 - 240.000VND; Lẩu mắm Ăn là khen (11 Hồ Biểu Chánh, P.12, Quận Phú Nhuận)"
+                  }
+                ]
+              },
+              {
+                "question": "Giá lẩu mắm ở Sài Gòn là bao nhiêu ?",
+                "id": "fef215a5-1e0a-4d4f-b855-052f99526817",
+                "answers": [
+                  {
+                    "answer_start": 166,
+                    "text": "giá: Lẩu mắm: 210.000 - 300.000VND"
+                  }
+                ]
+              },
+              {
+                "question": "Món lẩu mắm ngon nhất khi thưởng thức ở đâu ?",
+                "id": "dc7c1cea-f4dc-4717-b5ef-7b588264b2b1",
+                "answers": [
+                  {
+                    "answer_start": 201,
+                    "text": "Ai muốn thưởng thức món này ngon nhất thì phải về miền Tây (Cần Thơ, Vĩnh Long, Long An)"
+                  }
+                ]
+              },
+              {
+                "question": "Lẩu mắm ở Sài Gòn được chế biến như thế nào ?",
+                "id": "0ea08a97-a266-409c-bace-e55b38911194",
+                "answers": [
+                  {
+                    "answer_start": 407,
+                    "text": "Nồi lẩu mắm quan trọng nhất là nước dùng, phải chế biến từ loại mắm ngon, nêm nếm khéo léo cho vừa ăn. Lẩu mắm ở Sài Gòn thường có rau muống, kèo nèo, bông súng, đậu bắp, bạc hà…"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Vài địa chỉ nổi tiếng: Bún mắm Huỳnh Lâm (37A Gò Dầu, Q. Tân Phú) 28.000VND/tô; Quán bún mắm (444 – 369 Lê Quang Định, Phường 5, Quận Bình Thạnh), mở cửa từ 9h đến 21h hàng ngày, trừ ngày rằm và mùng 1, giá 35.000VND/tô, bún mắm (528 Phan Văn Trị, Quận Gò Vấp), giá 30.000VND/tô.Giống như lẩu mắm, nước dùng là thành phần quan trọng nhất của món bún mắm. Tô bún mắm ngon không quá ngọt, quá mặn hay cay nhưng cũng không hề nhạt nhẽo, nhất là không thể thiếu vị thơm nức của mắm. Ăn bún mắm ngoài lát cá, thịt heo quay, tôm, mực, không thể thiếu đĩa rau sống với rau đắng, bắp chuối, kèo nèo, cọng bông súng, húng thơm. Một số quán ăn ghi điểm thêm nhờ tô nước mắm me chua chua ngọt ngọt rất hấp dẫn.",
+            "qas": [
+              {
+                "question": "Một vài địa chỉ ăn Bún mắm nổi tiếng ở Sài Gòn là gì ?",
+                "id": "8faaffaa-eeed-47c0-973b-d2c53c529527",
+                "answers": [
+                  {
+                    "answer_start": 23,
+                    "text": "Bún mắm Huỳnh Lâm (37A Gò Dầu, Q. Tân Phú) 28.000VND/tô; Quán bún mắm (444 – 369 Lê Quang Định, Phường 5, Quận Bình Thạnh), mở cửa từ 9h đến 21h hàng ngày, trừ ngày rằm và mùng 1, giá 35.000VND/tô, bún mắm (528 Phan Văn Trị, Quận Gò Vấp), giá 30.000VND/tô."
+                  }
+                ]
+              },
+              {
+                "question": "Giá bún mắm Huỳnh Lâm ở Sài Gòn là bao nhiêu ?",
+                "id": "4f21549f-d313-46b6-8c8d-efcb7340d5fc",
+                "answers": [
+                  {
+                    "answer_start": 66,
+                    "text": "28.000VND/tô"
+                  }
+                ]
+              },
+              {
+                "question": "Giá bún mắm 444 Lê Quang Định ở Sài Gòn là bao nhiêu ?",
+                "id": "c9981db0-62f7-48e1-a01c-8495d0511dec",
+                "answers": [
+                  {
+                    "answer_start": 203,
+                    "text": "giá 35.000VND/tô"
+                  }
+                ]
+              },
+              {
+                "question": "Giá bún mắm 528 Phan Văn Trị ở Sài Gòn là bao nhiêu ?",
+                "id": "06fe7d26-b841-4434-a272-8200fbf723f9",
+                "answers": [
+                  {
+                    "answer_start": 266,
+                    "text": "30.000VND/tô"
+                  }
+                ]
+              },
+              {
+                "question": "Bún mắm ở Sài Gòn có mùi vị như thế nào ?",
+                "id": "6f295ba9-2d64-49a9-802e-ea0c1b2abb52",
+                "answers": [
+                  {
+                    "answer_start": 355,
+                    "text": "Tô bún mắm ngon không quá ngọt, quá mặn hay cay nhưng cũng không hề nhạt nhẽo, nhất là không thể thiếu vị thơm nức của mắm"
+                  }
+                ]
+              },
+              {
+                "question": "Bún mắm ở Sài Gòn được chế biến như thế nào ?",
+                "id": "a82eedce-d58a-407e-91aa-8ef9b037fec6",
+                "answers": [
+                  {
+                    "answer_start": 479,
+                    "text": "Ăn bún mắm ngoài lát cá, thịt heo quay, tôm, mực, không thể thiếu đĩa rau sống với rau đắng, bắp chuối, kèo nèo, cọng bông súng, húng thơm. Một số quán ăn ghi điểm thêm nhờ tô nước mắm me chua chua ngọt ngọt rất hấp dẫn."
+                  }
+                ]
+              },
+              {
+                "question": "Thành phần quan trọng nhất trong bún mắm là gì ?",
+                "id": "6576fead-9462-46c8-ba38-fee6bd2126f4",
+                "answers": [
+                  {
+                    "answer_start": 298,
+                    "text": "nước dùng là thành phần quan trọng nhất của món bún mắm"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Là một thương hiệu trà lâu đời của Việt Nam nhưng Trà Phúc Long mới chỉ thực sự trở nên nổi tiếng thời gian gần đây bởi vị trà đậm đà và mùi thơm thanh nhã. Nhiều người cho rằng, đã một lần thử trà Phúc Long thì bạn sẽ bị mê hoặc và muốn uống lại mãi. Phúc Long thực sự là thương hiệu hiếm hoi của nước nhà đang trở thành đối thủ đáng gờm của các hãng trà sữa nước ngoài đang tràn vào Việt Nam.",
+            "qas": [
+              {
+                "question": "Phúc Long là thương hiệu như thế nào của Việt Nam ?",
+                "id": "379b29bf-8fd6-49ed-ba6b-649c1af1f5e4",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Là một thương hiệu trà lâu đời của Việt Nam nhưng Trà Phúc Long mới chỉ thực sự trở nên nổi tiếng thời gian gần"
+                  }
+                ]
+              },
+              {
+                "question": "Trà Phúc Long ở Sài Gòn  nổi tiếng bởi điều gì ?",
+                "id": "15411468-37de-4a5a-a3ea-4b475f6c3eae",
+                "answers": [
+                  {
+                    "answer_start": 116,
+                    "text": "bởi vị trà đậm đà và mùi thơm thanh nhã"
+                  }
+                ]
+              },
+              {
+                "question": "Trà Phúc Long ở Sài Gòn được đánh giá như thế nào ?",
+                "id": "c8a6ac60-3cf5-4923-ab46-d6b02d4b864c",
+                "answers": [
+                  {
+                    "answer_start": 252,
+                    "text": "Phúc Long thực sự là thương hiệu hiếm hoi của nước nhà đang trở thành đối thủ đáng gờm của các hãng trà sữa nước ngoài đang tràn vào Việt Nam."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Victory Saigon Hotel sở hữu một vị trí vô cùng thuận lợi vì khoảng cách từ khách sạn đến Dinh Độc Lập chỉ mất chừng 5 phút đi bộ, đến nhà thờ Đức Bà và Bảo Tàng Chiến Tranh chỉ mất chừng 10 phút đi bộ mà thôi và tiện lợi hơn khi từ khách sạn, các du khách chỉ mất chừng 20 phút đi ô tô để có thể đến Sân bay Quốc tế Tân Sơn Nhất mà thôi. Sự tiện nghi bởi trang bị đầy đủ những thiết bị hiện đại nhất và một view nhìn đẹp là điểm cộng to đùng giúp khách sạn này chinh phục du khách. Đây cũng là một lựa chọn cực kì tốt khác đối với những du khách có ý định đầu tư không quá nhiều tiền vào nơi ở mà vẫn muốn có một không gian thoải mái, thoáng đãng.",
+            "qas": [
+              {
+                "question": "Khách sạn Victory Saigon Hotel ở Sài Gòn sở hữu vị trí như thế nào ?",
+                "id": "e80a56b1-800f-4963-bc0e-1ae33cd6a659",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Victory Saigon Hotel sở hữu một vị trí vô cùng thuận lợi vì khoảng cách từ khách sạn đến Dinh Độc Lập chỉ mất chừng 5 phút đi bộ, đến nhà thờ Đức Bà và Bảo Tàng Chiến Tranh chỉ mất chừng 10 phút đi bộ mà thôi"
+                  }
+                ]
+              },
+              {
+                "question": "Khách sạn Victory Saigon Hotel ở Sài Gòn tốn bao nhiêu thời gian khi di chuyển đến sân bay Tân Sơn Nhất ?",
+                "id": "04bcbf28-7591-4074-aa9f-0771b861e353",
+                "answers": [
+                  {
+                    "answer_start": 247,
+                    "text": "du khách chỉ mất chừng 20 phút đi ô tô để có thể đến Sân bay Quốc tế Tân Sơn Nhất mà thôi"
+                  }
+                ]
+              },
+              {
+                "question": "Sự tiện nghi của Khách sạn Victory Saigon Hotel ở Sài Gòn như thế nào ?",
+                "id": "7420bb09-0ed5-4d0e-9547-b11cff083bc7",
+                "answers": [
+                  {
+                    "answer_start": 338,
+                    "text": "Sự tiện nghi bởi trang bị đầy đủ những thiết bị hiện đại nhất và một view nhìn đẹp là điểm cộng to đùng giúp khách sạn này chinh phục du khách"
+                  }
+                ]
+              },
+              {
+                "question": "Khách sạn Victory Saigon Hotel ở Sài Gòn là lựa chọn như thế nào ?",
+                "id": "84b1704c-5317-4198-afd3-49e61dfe36a6",
+                "answers": [
+                  {
+                    "answer_start": 482,
+                    "text": "Đây cũng là một lựa chọn cực kì tốt khác đối với những du khách có ý định đầu tư không quá nhiều tiền vào nơi ở mà vẫn muốn có một không gian thoải mái, thoáng đãng."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "First Hotel là khách sạn nằm trên đường Hoàng Việt thuộc quận Tân Bình, ngay gần trung tâm thành phốnên rất thuận tiện cho du khách nghỉ ngơi sau một ngày ròng rã khám phá Sài Gòn. Khách sạn này sở hữu một lối kiến trúc với một toà nhà đồ sộ, khang trang và hiện đại cùng nội thất hoành tráng, đẹp và sang trọng với tổng số phòng nghỉ lên tới 152 phòng có khả năng đáp ứng cùng lúc số lượng lớn khách hàng, đảm bảo cho bạn có một nơi ăn ở tiện nghi nhất.Với không gian đẹp, sang trọng, dịch vụ được đánh giá cao và địa điểm thuận lợi ngay trung tâm thành phố, First Hotel chắc chắn sẽ chinh phục được bạn.",
+            "qas": [
+              {
+                "question": "First Hotel ở Sài Gòn nằm trên đường nào ?",
+                "id": "81cf7522-2882-45c0-bec4-160bfe2b3425",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "First Hotel là khách sạn nằm trên đường Hoàng Việt "
+                  }
+                ]
+              },
+              {
+                "question": "First Hotel ở Sài Gòn thuộc quận nào ?",
+                "id": "fabff9fe-314b-4833-9371-4b3a609252fa",
+                "answers": [
+                  {
+                    "answer_start": 51,
+                    "text": "thuộc quận Tân Bình"
+                  }
+                ]
+              },
+              {
+                "question": "First Hotel ở Sài Gòn vị trí thuận tiện như thế nào ?",
+                "id": "bf4d6b84-93e3-4e66-94b1-97eb65fa9d56",
+                "answers": [
+                  {
+                    "answer_start": 72,
+                    "text": "ngay gần trung tâm thành phốnên rất thuận tiện cho du khách nghỉ ngơi sau một ngày ròng rã khám phá Sài Gòn"
+                  }
+                ]
+              },
+              {
+                "question": "First Hotel ở Sài Gòn sở hữu kiến trúc gì ?",
+                "id": "ffd2c316-96cf-43b9-aca4-52f1d24aedd0",
+                "answers": [
+                  {
+                    "answer_start": 181,
+                    "text": "Khách sạn này sở hữu một lối kiến trúc với một toà nhà đồ sộ, khang trang và hiện đại cùng nội thất hoành tráng, đẹp và sang trọng"
+                  }
+                ]
+              },
+              {
+                "question": "First Hotel ở Sài Gòn có tổng số phòng nghỉ là bao nhiêu ?",
+                "id": "f65fea1b-8bf7-42f5-b7bc-505ce6009363",
+                "answers": [
+                  {
+                    "answer_start": 317,
+                    "text": "ổng số phòng nghỉ lên tới 152 phòng "
+                  }
+                ]
+              },
+              {
+                "question": "First Hotel ở Sài Gòn có không gian như thế nào ?",
+                "id": "d30ddce9-aa8d-47f1-8f70-528ba439906c",
+                "answers": [
+                  {
+                    "answer_start": 454,
+                    "text": "Với không gian đẹp, sang trọng, dịch vụ được đánh giá cao và địa điểm thuận lợi ngay trung tâm thành phố, First Hotel chắc chắn sẽ chinh phục được bạn."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Mường Thanh Sài Gòn Centre Hotel nằm trên đường Mạc Đĩnh Chi, gần trung tâm thành phố Hồ Chí Minh. Tuyến đường rợp bóng cây xanh mang đến sự yên bình giữa Sài Gòn tấp nập. Từ khách sạn, chỉ mất ít phút đến các địa điểm du lịch nổi tiếng của thành phố như Nhà thờ Đức Bà, Nhà hát Thành phố hay chợ Bến Thành, rất thuận lợi cho du khách đến lưu trú và tham quan. Các phòng được trang bị theo tiêu chuẩn quốc tế và một phong thái phục vụ chuyên nghiệp của nhân viên cùng vị trí thuận lợi để đến mua sắm tại các trung tâm thương mại như Vincom Central A, Parkson…sẽ làm bạn hài lòng một cách hoàn hảo nhất.",
+            "qas": [
+              {
+                "question": "Mường Thanh Sài Gòn Centre Hotel nằm ở đường nào ?",
+                "id": "58a58c24-268a-450a-b79c-07d07a106147",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Mường Thanh Sài Gòn Centre Hotel nằm trên đường Mạc Đĩnh Chi"
+                  }
+                ]
+              },
+              {
+                "question": "Mường Thanh Sài Gòn Centre Hotel nằm ở đâu trong thành phố Hồ Chí Minh ?",
+                "id": "19278a8a-770d-4688-9f06-44beeb8bb942",
+                "answers": [
+                  {
+                    "answer_start": 62,
+                    "text": "gần trung tâm thành phố Hồ Chí Minh"
+                  }
+                ]
+              },
+              {
+                "question": "Tuyến đường Mạc Đĩnh Chi ở Sài Gòn như thế nào ?",
+                "id": "4c5cffb6-78ff-471e-8d67-2e54efec8285",
+                "answers": [
+                  {
+                    "answer_start": 99,
+                    "text": "Tuyến đường rợp bóng cây xanh mang đến sự yên bình giữa Sài Gòn tấp nập"
+                  }
+                ]
+              },
+              {
+                "question": "Từ khách sạn Mường Thanh Sài Gòn Centre Hotel có thể tới các điểm du lịch nổi tiếng nào ?",
+                "id": "90f5d4e3-9855-4869-a462-e8475d542df3",
+                "answers": [
+                  {
+                    "answer_start": 172,
+                    "text": "Từ khách sạn, chỉ mất ít phút đến các địa điểm du lịch nổi tiếng của thành phố như Nhà thờ Đức Bà, Nhà hát Thành phố hay chợ Bến Thành"
+                  }
+                ]
+              },
+              {
+                "question": "Mường Thanh Sài Gòn Centre Hotel thuận lợi cho khách điều gì ?",
+                "id": "d260b286-db1a-4f0d-bf53-d4187bc2baac",
+                "answers": [
+                  {
+                    "answer_start": 308,
+                    "text": "rất thuận lợi cho du khách đến lưu trú và tham quan"
+                  }
+                ]
+              },
+              {
+                "question": "Các phòng ở Mường Thanh Sài Gòn Centre Hotel  được trang bị như thế nào ?",
+                "id": "66a08d33-5053-4d7e-b010-9894f5b7d0e3",
+                "answers": [
+                  {
+                    "answer_start": 361,
+                    "text": "Các phòng được trang bị theo tiêu chuẩn quốc tế và một phong thái phục vụ chuyên nghiệp của nhân viên"
+                  }
+                ]
+              },
+              {
+                "question": "Mường Thanh Sài Gòn Centre Hotel gần các trung tâm thương mại nào ?",
+                "id": "d1fe5e9f-2071-436b-a6c5-42cd0f2aa9bd",
+                "answers": [
+                  {
+                    "answer_start": 504,
+                    "text": "các trung tâm thương mại như Vincom Central A, Parkson…sẽ làm bạn hài lòng một cách hoàn hảo nhất."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

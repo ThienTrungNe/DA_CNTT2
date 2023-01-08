@@ -1,0 +1,829 @@
+{
+    "data": [
+      {
+        "title": "Cần Giờ",
+        "paragraphs": [
+          {
+            "context": "Cách trung tâm thành phố Hồ Chí Minh khoảng 50km, làng biển Cần Giờ là một địa điểm du lịch hấp dẫn với những đường bờ biển dài, những cánh rừng ngập mặn bạt ngàn và vô vàn món ăn tươi ngon từ hải sản. Với những đặc điểm này, Cần Giờ được ví như một “ốc đảo xanh” nằm cạnh Sài Gòn nhộn nhịp và được rất nhiều con dân Sài Thành chọn làm điểm đến cho những chuyến đi cuối tuần, tạm lánh sự huyên náo của chốn phồn hoa đô thị. Khi kết thúc chỉ thị giãn cách vì dịch bệnh, biển Cần Giờ thực sự là một địa điểm lý tưởng cho bạn xua tan cảm giác ngột ngạt sau chuỗi ngày dài bị 'trói chân' trong thành phố. Hãy bỏ túi trọn bộ kinh nghiệm du lịch biển Cần Giờ dưới đây để triển ngay một chuyến vi vu sau giãn cách bạn nhé!",
+            "qas": [
+              {
+                "question": "Cần Giờ cách trung tâm thành phố Hồ Chí Minh bao xa ?",
+                "id": "569de128-63f8-445c-a655-ca81dcab9d25",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Cách trung tâm thành phố Hồ Chí Minh khoảng 50km"
+                  }
+                ]
+              },
+              {
+                "question": "Làng biển Cần Giờ hấp dẫn với những điều gì ?",
+                "id": "ba1d536f-49cc-49fa-a483-66eece16d4fb",
+                "answers": [
+                  {
+                    "answer_start": 50,
+                    "text": "làng biển Cần Giờ là một địa điểm du lịch hấp dẫn với những đường bờ biển dài, những cánh rừng ngập mặn bạt ngàn và vô vàn món ăn tươi ngon từ hải sản"
+                  }
+                ]
+              },
+              {
+                "question": "Cần Giờ được ví như điều gì ?",
+                "id": "dd7f06f2-911c-465b-ae88-84334c30958f",
+                "answers": [
+                  {
+                    "answer_start": 226,
+                    "text": "Cần Giờ được ví như một “ốc đảo xanh” nằm cạnh Sài Gòn nhộn nhịp "
+                  }
+                ]
+              },
+              {
+                "question": "Cần Giờ được con dân Sài Thành chọn làm điểm đến cho điều gì ?",
+                "id": "c809b0c0-ea17-4982-b05e-a50a2935d0bc",
+                "answers": [
+                  {
+                    "answer_start": 294,
+                    "text": "được rất nhiều con dân Sài Thành chọn làm điểm đến cho những chuyến đi cuối tuần, tạm lánh sự huyên náo của chốn phồn hoa đô thị"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Tương tự như nhiều tỉnh thành phía Nam khác, biển Cần Giờ mang những nét đặc trưng của miền khí hậu nhiệt đới gió mùa cận xích đạo, mưa nắng hai mùa rõ rệt. Mùa mưa thường kéo dài từ tháng 5 đến tháng 10, mùa khô là từ tháng 11 đến tháng 4 với nền nhiệt khá cao và ổn định.Nhiệt độ trung bình ở làng biển Cần Giờ vào khoảng 25 đến 29 độ C, nhìn chung quanh năm đều có nắng, khí hậu mát mẻ do đón hướng gió biển và dĩ nhiên là rất phù hợp cho các hoạt động trải nghiệm, tham quan, vui chơi ngoài trời. Một lưu ý nhỏ cho bạn thì Cần Giờ là một huyện giáp biển, vì vậy bạn nên tránh đi vào những tháng có nhiều cơn bão đổ bộ như tháng 8 hằng năm nhé!",
+            "qas": [
+              {
+                "question": "Biển Cần Giờ có nét đặc trưng khí hậu như thế nào ?",
+                "id": "39807389-3e05-4661-a3d1-cb15d9921e0e",
+                "answers": [
+                  {
+                    "answer_start": 45,
+                    "text": "biển Cần Giờ mang những nét đặc trưng của miền khí hậu nhiệt đới gió mùa cận xích đạo, mưa nắng hai mùa rõ rệt"
+                  }
+                ]
+              },
+              {
+                "question": "Nhiệt độ trung bình ở Cần Giờ là bao nhiêu ? ",
+                "id": "50732f87-1d5a-4b1d-a0f9-a71867345d5c",
+                "answers": [
+                  {
+                    "answer_start": 273,
+                    "text": "Nhiệt độ trung bình ở làng biển Cần Giờ vào khoảng 25 đến 29 độ C"
+                  }
+                ]
+              },
+              {
+                "question": "Vì sao Cần Giờ phù hợp với các hoạt động trải nghiệm, tham quan, vui chơi ?",
+                "id": "56619caa-0cc1-4942-a2b4-b50fa6941675",
+                "answers": [
+                  {
+                    "answer_start": 340,
+                    "text": "nhìn chung quanh năm đều có nắng, khí hậu mát mẻ do đón hướng gió biển "
+                  }
+                ]
+              },
+              {
+                "question": "Vì Cần Giờ là một huyện giáp biển nên cần tránh điều gì ?",
+                "id": "630112a2-2b53-4d21-bad0-82ae9b63c040",
+                "answers": [
+                  {
+                    "answer_start": 527,
+                    "text": "Cần Giờ là một huyện giáp biển, vì vậy bạn nên tránh đi vào những tháng có nhiều cơn bão đổ bộ như tháng 8 hằng năm nhé!"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Tuyến đường từ TP. Hồ Chí Minh đến làng biển Cần Giờ là một trong những tuyến đường dễ đi nhất với nhiều loại hình di chuyển. Từ nội thành Sài Gòn, bạn có thể chọn cho mình một loại phương tiện như xe buýt, xe máy hay ô tô để tham quan làng biển.Các bạn ở xa thì có thể dừng chân một ngày để khám phá Sài Gòn và tham gia một vài hoạt động trải nghiệm, đảm bảo bạn sẽ tìm thấy nhiều điều thú vị giữa lòng thành phố không ngủ này đấy!",
+            "qas": [
+              {
+                "question": "Tuyến đường dễ nhất để đến Cần Giờ là gì ?",
+                "id": "c322852e-14ca-4aae-888a-1eea9785d1d8",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Tuyến đường từ TP. Hồ Chí Minh đến làng biển Cần Giờ là một trong những tuyến đường dễ đi nhất với nhiều loại hình di chuyển"
+                  }
+                ]
+              },
+              {
+                "question": "Từ nội thành , bạn có thể đến Cần Giờ bằng những phương tiện nào ? ",
+                "id": "900b5691-e5d6-4fa1-a618-817d458a1806",
+                "answers": [
+                  {
+                    "answer_start": 126,
+                    "text": "Từ nội thành Sài Gòn, bạn có thể chọn cho mình một loại phương tiện như xe buýt, xe máy hay ô tô để tham quan làng biển"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Bằng xe máy: Cách di chuyển: Cách trung tâm TP. Hồ Chí Minh chỉ hơn 50km, bạn có thể di chuyển đến làng biển Cần Giờ bằng xe máy để thuận tiện vi vu, tham quan các địa điểm du lịch. Từ trung tâm Sài Gòn, bạn di chuyển về hướng đường Huỳnh Tấn Phát quận 7. Tại đây, chỉ cần chạy hết đường Huỳnh Tấn Phát là có thể đến được phà Bình Khánh. Với phí qua phà là 5.000 VND/ xe, bạn qua phà và đi tiếp con đường Rừng Sác thì sẽ đến làng biển Cần Giờ. Mặc dù là tuyến đường thẳng và rất dễ đi nhưng nếu là lần đầu du lịch Cần Giờ thì bạn nên dùng Google map trong suốt cuộc hành trình của mình để tránh “lầm đường lạc lối” nha!.Lưu ý: Đường Rừng Sác là một cung đường khá vắng, không có nhà dân và cây xăng nên hãy nhớ kiểm tra xe cũng như đổ đầy bình xăng trước khi xuất phát. Đặc biệt là không vì đường vắng chạy xe quá nhanh hoặc lấn làn bạn nhé!",
+            "qas": [
+              {
+                "question": "Từ Sài Gòn , khi di chuyển đến Cần Giờ bằng xe máy thì di chuyển như thế nào ?",
+                "id": "d48cbd82-d745-4812-b165-cf4b278099f0",
+                "answers": [
+                  {
+                    "answer_start": 182,
+                    "text": "Từ trung tâm Sài Gòn, bạn di chuyển về hướng đường Huỳnh Tấn Phát quận 7. Tại đây, chỉ cần chạy hết đường Huỳnh Tấn Phát là có thể đến được phà Bình Khánh. Với phí qua phà là 5.000 VND/ xe, bạn qua phà và đi tiếp con đường Rừng Sác thì sẽ đến làng biển Cần Giờ"
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé phà Bình Khánh là bao nhiêu ?",
+                "id": "d4d4f6fb-5b7c-4bf4-91ec-009b847e75a7",
+                "answers": [
+                  {
+                    "answer_start": 357,
+                    "text": "5.000 VND/ xe"
+                  }
+                ]
+              },
+              {
+                "question": "Đường Rừng Sắc là một khung đường như thế nào ?",
+                "id": "1c2e4986-6779-4c10-b81a-2b13d397e14f",
+                "answers": [
+                  {
+                    "answer_start": 627,
+                    "text": "Đường Rừng Sác là một cung đường khá vắng, không có nhà dân và cây xăng "
+                  }
+                ]
+              },
+              {
+                "question": "Khi di chuyển đến cung đường Rừng Sắc nên lưu ý điều gì ?",
+                "id": "f4fdc582-89bf-4f5b-a61d-a456eddc7c65",
+                "answers": [
+                  {
+                    "answer_start": 703,
+                    "text": "hãy nhớ kiểm tra xe cũng như đổ đầy bình xăng trước khi xuất phát. Đặc biệt là không vì đường vắng chạy xe quá nhanh hoặc lấn làn "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Bằng xe buýt: Xe buýt cũng là một phương tiện khá thú vị để bạn chọn di chuyển đến Cần Giờ. Mặc dù không được chủ động về thời gian nhưng đổi lại bạn có thể chậm rãi ngắm nhìn cảnh vật ven đường, từ đời sống nhộn nhịp nơi nội thành cho đến vẻ yên bình của một vùng ngoại ô xanh mát. Cách di chuyển: Từ trong nội thành Sài Gòn, bạn tìm đến trạm xe buýt có xe số 20 đi Nhà Bè, di chuyển bằng xe 20 và xuống ở bến phà Bình Khánh. Sau khi mua vé qua phà thì bắt tiếp xe buýt số 90 để ra làng biển Cần Giờ. Dọc đường đi nếu bạn muốn xuống tại địa điểm nào đó thì có thể xuống xe, tham quan, chụp ảnh xong thì có thể bắt chuyến xe số 90 khác để tiếp tục cuộc hành trình nhé!Lưu ý lịch trình di chuyển của xe buýt:Xe số 20: giờ hoạt động từ 04:20 đến 21:00, mỗi chuyến cách nhau 20 phútXe số 90: giờ hoạt động từ 04:45 đến 21:30, mỗi chuyến cách nhau 30 đến 90 phút",
+            "qas": [
+              {
+                "question": "Có thể đi xe buýt đến Cần Giờ không ?",
+                "id": "e8b2d6b6-61df-46d8-a738-6a05ac74d0fb",
+                "answers": [
+                  {
+                    "answer_start": 14,
+                    "text": "Xe buýt cũng là một phương tiện khá thú vị để bạn chọn di chuyển đến Cần Giờ"
+                  }
+                ]
+              },
+              {
+                "question": "Khi đi xe buýt đến Cần Giờ, bạn có thể ngắm nhìn gì ?",
+                "id": "d2ef5c7c-52b0-4f58-9dfb-939e3254f486",
+                "answers": [
+                  {
+                    "answer_start": 146,
+                    "text": "bạn có thể chậm rãi ngắm nhìn cảnh vật ven đường, từ đời sống nhộn nhịp nơi nội thành cho đến vẻ yên bình của một vùng ngoại ô xanh mát"
+                  }
+                ]
+              },
+              {
+                "question": "Di chuyển bằng xe buýt đến Cần Giờ như thế nào ?",
+                "id": "ed18313b-639d-4552-9018-f1dbdc34322f",
+                "answers": [
+                  {
+                    "answer_start": 299,
+                    "text": "Từ trong nội thành Sài Gòn, bạn tìm đến trạm xe buýt có xe số 20 đi Nhà Bè, di chuyển bằng xe 20 và xuống ở bến phà Bình Khánh. Sau khi mua vé qua phà thì bắt tiếp xe buýt số 90 để ra làng biển Cần Giờ"
+                  }
+                ]
+              },
+              {
+                "question": "Giờ hoạt động xe buýt 20 đi Cần Giờ là gì ?",
+                "id": "1bd131aa-fa81-47d4-8244-c953627d2b49",
+                "answers": [
+                  {
+                    "answer_start": 717,
+                    "text": "giờ hoạt động từ 04:20 đến 21:00, mỗi chuyến cách nhau 20 phút"
+                  }
+                ]
+              },
+              {
+                "question": "Giờ hoạt động xe buýt 90 đi Cần Giờ là gì ?",
+                "id": "4fba2fe1-184e-4a77-954d-21c6fe6574d1",
+                "answers": [
+                  {
+                    "answer_start": 789,
+                    "text": "giờ hoạt động từ 04:45 đến 21:30, mỗi chuyến cách nhau 30 đến 90 phút"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Xã đảo Thạnh An nằm cách Sài Gòn hơn 70 km về phía Đông và là một nơi bạn không thể không ghé thăm khi đi du lịch biển Cần Giờ. Mặc dù có diện tích khá nhỏ, không có nhiều hoạt động vui chơi nhưng đảo Thạnh An là một địa điểm lý tưởng cho những ai đang cần hít thở không khí trong lành của biển cả, khám phá cuộc sống bình dị của người dân làng biển và thưởng thức những món ăn tươi ngon được chế biến từ hải sản.",
+            "qas": [
+              {
+                "question": "Xã đảo Thạnh An cách Cần Giờ bao xa ?",
+                "id": "aea67a4d-07b5-4285-bba4-1533c0767ac1",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Xã đảo Thạnh An nằm cách Sài Gòn hơn 70 km "
+                  }
+                ]
+              },
+              {
+                "question": "Xã đảo Thạnh An nằm ở phía nào của Cần Giờ ?",
+                "id": "ad03289f-2cd2-4d01-9f73-9c8fb0647268",
+                "answers": [
+                  {
+                    "answer_start": 45,
+                    "text": " phía Đông"
+                  }
+                ]
+              },
+              {
+                "question": "Đảo Thạnh An là một địa điểm như thế nào ?",
+                "id": "fe69fcc3-2727-4d2f-aa19-e1edb9b7cd50",
+                "answers": [
+                  {
+                    "answer_start": 197,
+                    "text": "đảo Thạnh An là một địa điểm lý tưởng cho những ai đang cần hít thở không khí trong lành của biển cả, khám phá cuộc sống bình dị của người dân làng biển và thưởng thức những món ăn tươi ngon được chế biến từ hải sản."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Những lưu ý khi ra đảo Thạnh An: Các mốc thời gian phà di chuyển từ đất liền ra đảo - từ đảo về đất liền: 6:30, 9:00, 10:30, 12:00, 14:00 và 17:00. Giá vé: 10.000 VND/ 1 người. Khoảng thời gian di chuyển: 45 phút/ 1 chuyến. Mặc dù không lộng lẫy như hoàng hôn của Phú Quốc, không kiêu hãnh như cảnh chiều buông trên biển Nha Trang nhưng hoàng hôn trên đảo Thạnh An vẫn mang một nét đẹp rất riêng mà những nơi khác không thể nào có được. Một chút mộc mạc, một chút dịu dàng mà lại rất dễ làm say lòng du khách. Nếu có thể thì bạn hãy nán lại một đêm, ngắm hoàng hôn trên đảo Thạnh An để cảm nhận vẻ đẹp yên bình của một làng biển nhỏ.",
+            "qas": [
+              {
+                "question": "Mốc thời gian đi phà ra đảo Thạnh An là gì ?",
+                "id": "b03d3e3a-130b-4df6-a4e2-126fa5c3df55",
+                "answers": [
+                  {
+                    "answer_start": 106,
+                    "text": "6:30, 9:00, 10:30, 12:00, 14:00 và 17:00."
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé phà đi ra đảo Thạnh An là bao nhiêu ?",
+                "id": "9a166aed-7129-4e18-a749-8993690c1bc5",
+                "answers": [
+                  {
+                    "answer_start": 148,
+                    "text": "Giá vé: 10.000 VND/ 1 người"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Nằm cách biển Cần Giờ khoảng 60 km, Rừng Vàm Sát là một khu du lịch sinh thái nổi tiếng nằm trong khu dự trữ sinh quyển rừng ngập mặn Cần Giờ.Với diện tích rừng ngập mặn lên đến hơn 75.000 ha, nơi đây cũng là môi trường sống của rất nhiều loài động vật, thực vật quý hiếm đang được bảo tồn. Trước màu xanh bạt ngàn của đất rừng và sự phong phú của các loài động vật trên cạn cùng chim muông, bò sát,... Một địa điểm du lịch đậm chất sinh thái như Rừng Vàm Sát chắc chắn sẽ khiến du khách không muốn rời khi đã một lần đặt chân đến.Tại khu du lịch Rừng Vàm Sát, bạn có thể tự do chụp ảnh, thăm thú động vật hay thưởng thức những món ăn dân dã. Bên cạnh đó cũng có một số hoạt động thú vị tại mà bạn nên thử như chèo thuyền, cắm trại, đạp xe, trồng đước, câu cá sấu,...",
+            "qas": [
+              {
+                "question": "Rừng Vàm Sát nằm cách biển Cần Giờ bao xa ?",
+                "id": "545e5352-a09c-4658-a4b9-41611e3b5d3d",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Nằm cách biển Cần Giờ khoảng 60 km"
+                  }
+                ]
+              },
+              {
+                "question": "Rừng Vàm Sát là gì ?",
+                "id": "1df6c83c-7d78-42cc-b7f1-969336a2f95a",
+                "answers": [
+                  {
+                    "answer_start": 36,
+                    "text": "Rừng Vàm Sát là một khu du lịch sinh thái nổi tiếng nằm trong khu dự trữ sinh quyển rừng ngập mặn Cần Giờ"
+                  }
+                ]
+              },
+              {
+                "question": "Diện tích rừng Vàm Sát là bao nhiêu ?",
+                "id": "0c5f8b92-9752-4162-ba24-c368d6b2ee81",
+                "answers": [
+                  {
+                    "answer_start": 146,
+                    "text": "diện tích rừng ngập mặn lên đến hơn 75.000 ha"
+                  }
+                ]
+              },
+              {
+                "question": "Rừng Vàm Sát là môi trường như thế nào ?",
+                "id": "c322804c-e367-4913-86a3-8e36c9085a2e",
+                "answers": [
+                  {
+                    "answer_start": 193,
+                    "text": "nơi đây cũng là môi trường sống của rất nhiều loài động vật, thực vật quý hiếm đang được bảo tồn. Trước màu xanh bạt ngàn của đất rừng và sự phong phú của các loài động vật trên cạn cùng chim muông, bò sát,... "
+                  }
+                ]
+              },
+              {
+                "question": "Tại rừng Vàm Sát bạn có thể tham gia những hoạt động nào ?",
+                "id": "118875e8-1ff2-4ce6-9982-ed8b3c2da5be",
+                "answers": [
+                  {
+                    "answer_start": 531,
+                    "text": "Tại khu du lịch Rừng Vàm Sát, bạn có thể tự do chụp ảnh, thăm thú động vật hay thưởng thức những món ăn dân dã. Bên cạnh đó cũng có một số hoạt động thú vị tại mà bạn nên thử như chèo thuyền, cắm trại, đạp xe, trồng đước, câu cá sấu,..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Bãi biển Cần Giờ hay còn gọi là bãi biển 30/4 là một trong những tọa độ thu hút nhiều bạn trẻ đến trải nghiệm và chụp ảnh khi du lịch Cần Giờ. Điểm đặc biệt của biển 30/4 là dãy cát đen đặc trưng do phù sa tích tụ. Do vậy, những ai lần đầu đặt chân đến đây đều khá ngạc nhiên và có phần ái ngại vì màu đen tuyền của cát biển Cần Giờ. Những đừng lo nhé, bạn vẫn có thể thoải mái vui chơi và tắm biển nơi đây. Và bãi biển 30/4 còn là một trong những bãi biển cát đen đẹp nhất ở Việt Nam, hứa hẹn là nơi cho ra đời những tấm ảnh đẹp-độc-lạ đấy!",
+            "qas": [
+              {
+                "question": "Bãi biển Cần Giờ còn gọi là gì ?",
+                "id": "3e79e5c4-39c4-4805-9228-0b542ff1cf64",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Bãi biển Cần Giờ hay còn gọi là bãi biển 30/4 "
+                  }
+                ]
+              },
+              {
+                "question": "Bãi biển Cần Giờ là gì ?",
+                "id": "a3bbcd18-7f90-4054-a0a4-5e39e1819c2f",
+                "answers": [
+                  {
+                    "answer_start": 46,
+                    "text": "là một trong những tọa độ thu hút nhiều bạn trẻ đến trải nghiệm và chụp ảnh khi du lịch Cần Giờ"
+                  }
+                ]
+              },
+              {
+                "question": "Điểm đặc biệt của biển 30/4 là gì ?",
+                "id": "e6230328-910e-4254-b629-0df51f1c7572",
+                "answers": [
+                  {
+                    "answer_start": 143,
+                    "text": "Điểm đặc biệt của biển 30/4 là dãy cát đen đặc trưng do phù sa tích tụ."
+                  }
+                ]
+              },
+              {
+                "question": "Những ai lần đầu tiên đặt chân đến biển 30/4 ngạc nhiên vì điều gì ?",
+                "id": "3ebb76dd-facb-4b99-b376-1d0f36f485c7",
+                "answers": [
+                  {
+                    "answer_start": 223,
+                    "text": "những ai lần đầu đặt chân đến đây đều khá ngạc nhiên và có phần ái ngại vì màu đen tuyền của cát biển Cần Giờ"
+                  }
+                ]
+              },
+              {
+                "question": "Bãi biển 30/4 là gì ở Việt Nam ?",
+                "id": "420c006c-4104-422c-883f-47e5a5c0f38d",
+                "answers": [
+                  {
+                    "answer_start": 411,
+                    "text": "bãi biển 30/4 còn là một trong những bãi biển cát đen đẹp nhất ở Việt Nam"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Khu du lịch sinh thái biển Phương Nam tọa lạc tại số 1227/65 đường Duyên Hải, Đồng Tranh, Long Hòa. Đây được xem là một khu nghỉ dưỡng sinh thái biển nổi tiếng nhất nằm ven bờ biển Cần Giờ.Nơi đây có một khuôn viên rộng rãi nằm ven đường bờ biển dài, bên trong được trang bị hồ bơi rộng lớn cùng hơn 70 gian phòng đủ tiện nghi dành cho những du khách muốn nghỉ chân sau ngày dài rong ruổi ở làng biển Cần Giờ.",
+            "qas": [
+              {
+                "question": "Khu du lịch sinh thái biển Phương Nam tọa lạc ở đâu ?",
+                "id": "b49ebfcb-4263-4967-a86b-453f1102bde0",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Khu du lịch sinh thái biển Phương Nam tọa lạc tại số 1227/65 đường Duyên Hải, Đồng Tranh, Long Hòa"
+                  }
+                ]
+              },
+              {
+                "question": "Khu du lịch sinh thái biển Phương Nam được xem là gì của Cần Giờ ?",
+                "id": "99637c09-c709-4c84-b412-2288bef4b277",
+                "answers": [
+                  {
+                    "answer_start": 104,
+                    "text": "được xem là một khu nghỉ dưỡng sinh thái biển nổi tiếng nhất nằm ven bờ biển Cần Giờ"
+                  }
+                ]
+              },
+              {
+                "question": "Khu du lịch sinh thái biển Phương Nam có khuôn viên như thế nào ?",
+                "id": "979e0862-9520-4222-ac4e-a554f430db93",
+                "answers": [
+                  {
+                    "answer_start": 189,
+                    "text": "Nơi đây có một khuôn viên rộng rãi nằm ven đường bờ biển dài, bên trong được trang bị hồ bơi rộng lớn cùng hơn 70 gian phòng đủ tiện nghi dành cho những du khách muốn nghỉ chân sau ngày dài rong ruổi ở làng biển Cần Giờ."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Giá vé tắm hồ bơi dành cho du khách không lưu trú tại Phương Nam Pearl Resort: Ngày thường: 50.000 VND/ 1 người. Ngày lễ: 75.000 VND/ 1 người. Nằm trong khu du lịch sinh thái Phương Nam, cầu Nam Hải cũng là một địa điểm tuyệt vời dành cho những tín đồ chụp ảnh. Chiếc cầu dẫn ra biển Cần Giờ này cũng được xem là biểu tượng nổi tiếng của Phương Nam Pearl Resort.",
+            "qas": [
+              {
+                "question": "Giá vé hồ bơi ở Khu du lịch sinh thái biển Phương Nam là bao nhiêu ?",
+                "id": "cb3ae7ab-009c-4e69-87ab-1ba291781c0c",
+                "answers": [
+                  {
+                    "answer_start": 92,
+                    "text": "50.000 VND/ 1 người"
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé hồ bơi ở Khu du lịch sinh thái biển Phương Nam ngày lễ là bao nhiêu ?",
+                "id": "a5ac6f12-fe9a-4485-8c4e-eb2ad593cd3b",
+                "answers": [
+                  {
+                    "answer_start": 112,
+                    "text": " Ngày lễ: 75.000 VND/ 1 người."
+                  }
+                ]
+              },
+              {
+                "question": "cầu Nam Hải nằm ở đâu ?",
+                "id": "a239118c-2bf8-4d7a-9d3d-85587cf96724",
+                "answers": [
+                  {
+                    "answer_start": 143,
+                    "text": "Nằm trong khu du lịch sinh thái Phương Nam"
+                  }
+                ]
+              },
+              {
+                "question": "Cầu Nam Hải dẫn ra đâu ?",
+                "id": "59dbe5d1-eaad-4c38-8e6d-414df1b3f988",
+                "answers": [
+                  {
+                    "answer_start": 262,
+                    "text": "Chiếc cầu dẫn ra biển Cần Giờ này cũng được xem là biểu tượng nổi tiếng của Phương Nam Pearl Resort."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Đi du lịch biển Cần Giờ mà không ghé qua các khu chợ hải sản thì thật là một điều đáng nuối tiếc đó nha! Và một trong những khu chợ hải sản thu hút nhiều bước chân du khách nhất tại Cần Giờ chính là chợ Hàng Dương. Sau khi “tung tăng” ở những địa điểm du lịch kể trên thì bạn có thể ghé qua chợ Hàng Dương để đi dạo một vòng, ngắm nhìn khung cảnh mua bán nhộn nhịp, sau đó lựa chọn một vài cân hải sản tươi ngon để lấp đầy chiếc bụng đói.",
+            "qas": [
+              {
+                "question": "Đi Cần Giờ điều đáng tiếc nhất là gì ?",
+                "id": "b23037f9-a5b6-4fd2-ae94-890bc3609ff8",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Đi du lịch biển Cần Giờ mà không ghé qua các khu chợ hải sản thì thật là một điều đáng nuối tiếc "
+                  }
+                ]
+              },
+              {
+                "question": "Chợ Hàng Dương ở Cần Giờ là gì ?",
+                "id": "56cac2c7-ca9c-4ccf-a6ae-29974e8551fc",
+                "answers": [
+                  {
+                    "answer_start": 108,
+                    "text": "một trong những khu chợ hải sản thu hút nhiều bước chân du khách nhất tại Cần Giờ "
+                  }
+                ]
+              },
+              {
+                "question": "Tại chợ Hàng Dương có thể ngắm được cảnh gì ?",
+                "id": "29c3376c-d5b1-427e-9b03-faeb4d1e7899",
+                "answers": [
+                  {
+                    "answer_start": 326,
+                    "text": "ngắm nhìn khung cảnh mua bán nhộn nhịp, sau đó lựa chọn một vài cân hải sản tươi ngon để lấp đầy chiếc bụng đói."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Hàng Dương là khu chợ hải sản có quy mô lớn nhất tại huyện Cần Giờ với đa dạng các loại hải sản từ “size” nhỏ đến lớn, thịt chắc và tươi roi rói. Tại đây bạn có thể chọn mua các món ăn chế biến sẵn từ hải sản hoặc tự tay chọn từng loại và nhờ người bán chế biến tại chỗ theo yêu cầu. Mức giá trung bình cho các loại hải sản tại chợ Hàng Dương khá rẻ nhưng chất lượng thì không kém cạnh hải sản ở bất kỳ miền biển nào đâu nha: Hải sản từ 50.000 VND đến 450.000 VND/ kg. Tiền công chế biến: 10.000 VND đến 30.000 VND/ món",
+            "qas": [
+              {
+                "question": "Hàng Dương là gì tại huyện Cần Giờ ?",
+                "id": "392924c4-f5f6-4517-8e8b-5b632d15db43",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Hàng Dương là khu chợ hải sản có quy mô lớn nhất tại huyện Cần Giờ "
+                  }
+                ]
+              },
+              {
+                "question": "Hải sản ở Hàng Dương như thế nào ?",
+                "id": "7f21133b-b0d2-4636-a698-1ef478dafa0a",
+                "answers": [
+                  {
+                    "answer_start": 71,
+                    "text": "đa dạng các loại hải sản từ “size” nhỏ đến lớn, thịt chắc và tươi roi rói"
+                  }
+                ]
+              },
+              {
+                "question": "Tại chợ Hàng Dương ở Cần Giờ bạn có thể mua các món hải sản chế biến sẵn như thế nào ?",
+                "id": "4ed1322c-5f0b-43ee-9fc3-cd1729b3913c",
+                "answers": [
+                  {
+                    "answer_start": 146,
+                    "text": "Tại đây bạn có thể chọn mua các món ăn chế biến sẵn từ hải sản hoặc tự tay chọn từng loại và nhờ người bán chế biến tại chỗ theo yêu cầu"
+                  }
+                ]
+              },
+              {
+                "question": "Mức giá trung bình hải sản tại Hàng Dương cần giờ là bao nhiêu ?",
+                "id": "fb93514a-2973-4e21-895c-2290bba3452d",
+                "answers": [
+                  {
+                    "answer_start": 426,
+                    "text": "Hải sản từ 50.000 VND đến 450.000 VND/ kg. "
+                  }
+                ]
+              },
+              {
+                "question": "Tiền công chế biến tại Hàng Dương Cần Giờ là bao nhiêu ?",
+                "id": "b2d95cfd-dde8-4587-84a1-55d5740af886",
+                "answers": [
+                  {
+                    "answer_start": 469,
+                    "text": "Tiền công chế biến: 10.000 VND đến 30.000 VND/ món"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Sam trứng nướng mỡ hành là một món đặc sản mà bạn nên thử qua một lần khi đến thăm làng biển Cần Giờ. Đây có lẽ là món ăn ấn tượng nhất trong các loại đặc sản Cần Giờ từ hình dạng bên ngoài đến mùi vị. Nguyên liệu chính của món ăn này là sam trứng ướp cùng hỗn hợp mỡ hành, đậu phộng thơm lừng và gia vị rồi mang đi nướng trên bếp than. Sam trứng dù có khá ít thịt nhưng trứng sam thì ngọt thanh, béo ngậy và rất giàu dinh dưỡng so với các loại hải sản khác như tôm, cua, ghẹ. Giá sam trứng nướng: từ 60.000 VND đến 80.000 VND/ 1con (tùy theo kích cỡ)",
+            "qas": [
+              {
+                "question": "Đặc sản làng biển Cần Giờ là gì ?",
+                "id": "1f401e97-476a-465a-abcb-25a9baaa1108",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Sam trứng nướng mỡ hành là một món đặc sản mà bạn nên thử qua một lần khi đến thăm làng biển Cần Giờ."
+                  }
+                ]
+              },
+              {
+                "question": "Món ăn nào là món ăn ấn tượng trong các loại hải sản ở Cần Giờ ?",
+                "id": "f6eac635-1a8c-41c4-a6e1-2d995e27b487",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Sam trứng nướng mỡ hành"
+                  }
+                ]
+              },
+              {
+                "question": "Nguyên liệu chính của sam trứng muối mỡ hành ở Cần Giờ là gì ?",
+                "id": "801afea0-4d18-4860-8751-639f4dc48f72",
+                "answers": [
+                  {
+                    "answer_start": 202,
+                    "text": "Nguyên liệu chính của món ăn này là sam trứng ướp cùng hỗn hợp mỡ hành, đậu phộng thơm lừng và gia vị rồi mang đi nướng trên bếp than"
+                  }
+                ]
+              },
+              {
+                "question": "Trứng sam ở Cần Giờ như thế nào ?",
+                "id": "5eea9da5-9b6b-4081-a0cc-67e5d5ffd878",
+                "answers": [
+                  {
+                    "answer_start": 337,
+                    "text": "Sam trứng dù có khá ít thịt nhưng trứng sam thì ngọt thanh, béo ngậy và rất giàu dinh dưỡng so với các loại hải sản khác như tôm, cua, ghẹ"
+                  }
+                ]
+              },
+              {
+                "question": "Giá sam trứng nướng ở Cần Giờ là bao nhiêu ?",
+                "id": "50e13782-87df-44a8-8ed9-beda027b1a8e",
+                "answers": [
+                  {
+                    "answer_start": 497,
+                    "text": " từ 60.000 VND đến 80.000 VND/ 1con (tùy theo kích cỡ)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Cá dứa một nắng từ lâu đã được ví như “vua của các loại khô” ở làng biển Cần Giờ. Và cũng là một món ăn đặc sản rất thích hợp để làm quà biếu cho người thân, bạn bè khi trở về từ chuyến du lịch Cần Giờ nữa đấy! Cá dứa ở Cần Giờ được người dân phơi chỉ sau một một nắng là đã vàng ươm, chắc thịt và đặc biệt là không còn mùi tanh của cá. Nếu muốn thử cách chế biến khô cá dứa ngay tại làng biển Cần Giờ thì các bạn có thể gọi một vài món ngon làm từ khô cá dứa như gỏi khô cá dứa, cơm cháy khô cá dứa, cá dứa chiên tỏi ớt,... Giá khô cá dứa: từ 450.000 VND đến 500.000 VND/ 1 kg (tùy theo kích cỡ). Địa chỉ bán:Cơ sở sản xuất Hiếu cá dứa: 232/2A ấp Phong Thạnh, thị trấn Cần Thạnh, huyện Cần Giờ, TP. Hồ Chí MinhCơ sở sản xuất Khô cá dứa 1 nắng Cần Giờ hải sản Cô Ba: ấp Đồng Tranh, xã Long Hòa, huyện Cần Giờ, TP. Hồ Chí Minh.",
+            "qas": [
+              {
+                "question": "Cá dứa một nắng ở Cần Giờ được ví như gì ?",
+                "id": "5340cf80-8f97-4038-8dd3-891d3933827a",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Cá dứa một nắng từ lâu đã được ví như “vua của các loại khô” ở làng biển Cần Giờ"
+                  }
+                ]
+              },
+              {
+                "question": "Cá dứa một nắng là món ăn như thế nào ở Cần Giờ ?",
+                "id": "f818bd16-938e-46c0-ae45-6f47c2c0694b",
+                "answers": [
+                  {
+                    "answer_start": 90,
+                    "text": "là một món ăn đặc sản rất thích hợp để làm quà biếu cho người thân, bạn bè khi trở về từ chuyến du lịch Cần Giờ"
+                  }
+                ]
+              },
+              {
+                "question": "Cá dứa ở Cần Giờ được phơi như thế nào ?",
+                "id": "42a182de-ae8e-45f2-82e9-46e23e4b306e",
+                "answers": [
+                  {
+                    "answer_start": 211,
+                    "text": "Cá dứa ở Cần Giờ được người dân phơi chỉ sau một một nắng là đã vàng ươm, chắc thịt và đặc biệt là không còn mùi tanh của cá"
+                  }
+                ]
+              },
+              {
+                "question": "Tại làng biển Cần Giờ thì bạn có thể gọi các món gì từ cá dứa ?",
+                "id": "19aba157-d7a5-487c-9628-41e570e665e1",
+                "answers": [
+                  {
+                    "answer_start": 380,
+                    "text": "tại làng biển Cần Giờ thì các bạn có thể gọi một vài món ngon làm từ khô cá dứa như gỏi khô cá dứa, cơm cháy khô cá dứa, cá dứa chiên tỏi ớt,... "
+                  }
+                ]
+              },
+              {
+                "question": "Giá khô cá dứa ở Cần Giờ bao nhiêu ?",
+                "id": "663a627d-0a69-42ab-8610-bc102057aa77",
+                "answers": [
+                  {
+                    "answer_start": 525,
+                    "text": "Giá khô cá dứa: từ 450.000 VND đến 500.000 VND/ 1 kg (tùy theo kích cỡ)"
+                  }
+                ]
+              },
+              {
+                "question": "Địa chỉ bán khô cá dứa ở Cần Giờ ?",
+                "id": "01b5ecfa-fb06-4bf5-9c34-cd369c800f97",
+                "answers": [
+                  {
+                    "answer_start": 598,
+                    "text": "Địa chỉ bán:Cơ sở sản xuất Hiếu cá dứa: 232/2A ấp Phong Thạnh, thị trấn Cần Thạnh, huyện Cần Giờ, TP. Hồ Chí Minh"
+                  }
+                ]
+              },
+              {
+                "question": "Cơ sở sản xuất khô cá dứa là gì ?",
+                "id": "000c9aad-24ad-4fbd-9052-2a00e8db56ec",
+                "answers": [
+                  {
+                    "answer_start": 711,
+                    "text": "Cơ sở sản xuất Khô cá dứa 1 nắng Cần Giờ hải sản Cô Ba: ấp Đồng Tranh, xã Long Hòa, huyện Cần Giờ, TP. Hồ Chí Minh."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Cá thòi lòi trộn gỏi: Một món ăn đặc sản biển Cần Giờ cũng được chế biến từ cá và cực kỳ được lòng các du khách chính là món cá thòi lòi trộn gỏi. Cá thòi lòi nước mặn thuộc họ cá bống trắng, chúng sống trên các bãi bùn lầy và là sản vật rất quý giá của người dân làng biển nơi đây. Traveloka Xperience đảm bảo rằng bạn sẽ bị món ăn này chinh phục bởi mùi thơm, sự dai mềm của thịt cá quyện cùng nộm dưa chua chua ngọt ngọt. Giá: từ 50.000 VND/ 1 đĩa.",
+            "qas": [
+              {
+                "question": "Cá thòi lòi trộn gỏi ở Cần Giờ là gì ?",
+                "id": "91fb5009-68b7-488c-bc4a-7db576de4e7d",
+                "answers": [
+                  {
+                    "answer_start": 22,
+                    "text": "Một món ăn đặc sản biển Cần Giờ cũng được chế biến từ cá và cực kỳ được lòng các du khách "
+                  }
+                ]
+              },
+              {
+                "question": "Cá thòi lòi ở Cần Giờ là gì ?",
+                "id": "f06f79ca-c4ea-420c-bb53-7fd173200407",
+                "answers": [
+                  {
+                    "answer_start": 147,
+                    "text": "Cá thòi lòi nước mặn thuộc họ cá bống trắng, chúng sống trên các bãi bùn lầy và là sản vật rất quý giá của người dân làng biển nơi đây."
+                  }
+                ]
+              },
+              {
+                "question": "Giá cá thòi lòi trộn gỏi là bao nhiêu ?",
+                "id": "f4cb4baa-ca61-4391-b297-74b381f39e51",
+                "answers": [
+                  {
+                    "answer_start": 425,
+                    "text": "Giá: từ 50.000 VND/ 1 đĩa."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Dừa nước Cần Giờ: Dọc theo những con đường từ Sài Gòn đến biển Cần Giờ sẽ xuất hiện những hàng nước giải khát với một món đặc sản quen thuộc đó là dừa nước. Sau khi thưởng thức những món ăn chính thì bạn có thể tráng miệng bằng một ly dừa nước ngọt thanh, mát lành được bày bán tại hầu hết các quán nước trên huyện đảo. Vừa nhâm nhi ly dừa nước giải nhiệt dưới cái nắng chói chang của miền biển vừa được thỏa cơn “buồn miệng” khi ăn miếng cơm dừa trắng ngần, giòn sần sật thì còn gì bằng.Giá dừa nước các loại: 15.000 VND/ 1 ly dừa pha sẵn. 40.000 VND/ 1 kg (cơm dừa). 15.000 VND/ 1 trái dừa nguyên vỏ",
+            "qas": [
+              {
+                "question": "Dọc theo những con đường từ Sài Gòn đến Cần Giờ sẽ xuất hiện những hàng nước gì ?",
+                "id": "250cb828-3287-41db-b2ad-64cd02a29bdf",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Dừa nước Cần Giờ"
+                  }
+                ]
+              },
+              {
+                "question": "Dừa nước Cần Giờ mùi vị như thế nào ?",
+                "id": "018d42be-2806-4ea8-a361-3dc8564fcab5",
+                "answers": [
+                  {
+                    "answer_start": 244,
+                    "text": "ngọt thanh, mát lành"
+                  }
+                ]
+              },
+              {
+                "question": "Dừa nước Cần Giờ được bày bán ở đâu ?",
+                "id": "f5f929a8-eed7-4056-b189-1ae9d52b5640",
+                "answers": [
+                  {
+                    "answer_start": 265,
+                    "text": "được bày bán tại hầu hết các quán nước trên huyện đảo"
+                  }
+                ]
+              },
+              {
+                "question": "Giá 1 ly dừa nước pha sẵn là bao nhiêu ?",
+                "id": "877f9687-a250-4b6a-b0ab-fa68119bb02e",
+                "answers": [
+                  {
+                    "answer_start": 511,
+                    "text": "15.000 VND/ 1 ly dừa pha sẵn"
+                  }
+                ]
+              },
+              {
+                "question": "Giá cơm dừa ở  Cần Giờ là bao nhiêu ?",
+                "id": "4a660a29-bee9-4ccd-bf24-70366438121a",
+                "answers": [
+                  {
+                    "answer_start": 541,
+                    "text": "40.000 VND/ 1 kg (cơm dừa)"
+                  }
+                ]
+              },
+              {
+                "question": "Giá dừa ở Cần Giờ ?",
+                "id": "688e61d1-02af-42fa-8538-a3383679a95e",
+                "answers": [
+                  {
+                    "answer_start": 569,
+                    "text": "15.000 VND/ 1 trái dừa nguyên vỏ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Ngoài những món đặc sản kể trên thì Cần Giờ còn là “vương quốc hải sản” với vô số những món ăn được làm từ loại nguyên liệu tươi ngon này. Khi dừng chân tại bất kỳ quán ăn nào trên huyện đảo, bạn nhất định phải gọi cho mình một đĩa tôm sắt nướng muối ớt, tôm tít cháy tỏi hay một đĩa hàu nướng mọi thơm lừng. Một vài địa chỉ bán món ăn hải sản chất lượng và giá phải chăng mà bạn nên thử như: Chợ hải sản Hàng Dương, vựa hải sản Hưng Sơn, quán ăn Thanh Lịch, quán hải sản Gió Lộng,...Giá trung bình từ 40.000 VND đến 300.000 VND/ 1 phần.",
+            "qas": [
+              {
+                "question": "Cần Giờ còn được gọi là gì ?",
+                "id": "8559815b-7598-45ff-bd53-bdca5d296c0f",
+                "answers": [
+                  {
+                    "answer_start": 36,
+                    "text": "Cần Giờ còn là “vương quốc hải sản”"
+                  }
+                ]
+              },
+              {
+                "question": "Các món ăn nhất định phải gọi khi đến Cần Giờ là gì ?",
+                "id": "68c53147-6384-439c-9d88-e818cca0ce1b",
+                "answers": [
+                  {
+                    "answer_start": 196,
+                    "text": "nhất định phải gọi cho mình một đĩa tôm sắt nướng muối ớt, tôm tít cháy tỏi hay một đĩa hàu nướng mọi thơm lừng"
+                  }
+                ]
+              },
+              {
+                "question": "Giá trung bình các món ăn ở Cần Giờ là bao nhiêu ?",
+                "id": "b1b4b9b2-f5a7-4a18-ab8e-68b4474193ed",
+                "answers": [
+                  {
+                    "answer_start": 484,
+                    "text": "Giá trung bình từ 40.000 VND đến 300.000 VND/ 1 phần."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

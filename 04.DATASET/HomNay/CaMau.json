@@ -1,0 +1,1109 @@
+{
+    "data": [
+      {
+        "title": "Cà Mau",
+        "paragraphs": [
+          {
+            "context": "Cà Mau là tỉnh cực nam của Việt Nam, thuộc khu vực Đồng bằng châu thổ sông Cửu Long. Mảnh đất tận cùng của tổ quốc có ba mặt tiếp giáp với biển: phía đông là biển Đông, phía tây và phía nam là vịnh Thái Lan, phía Bắc giáp Bạc Liêu và Kiên Giang. Về Cà Mau, du khách sẽ nghe chuyện Bác Ba Phi, đờn ca tài tử, du ngoạn sông nước, ăn đặc sản của rừng, cua biển... Khí hậu khá dễ chịu quanh năm nhưng thời điểm du lịch Cà Mau lý tưởng nhất là vào mùa khô, từ tháng 12 đến tháng 4 năm sau. Mùa mưa kéo dài từ tháng 5 đến tháng 11. Nếu đi vào khoảng tháng 7 - 8 Âm lịch, du khách sẽ được thưởng thức nhiều đặc sản.",
+            "qas": [
+              {
+                "question": "Cà Mau là tỉnh nằm ở phía nào của Việt Nam ?",
+                "id": "27c7b967-89f1-4cf6-9f6b-d3291deb97d3",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Cà Mau là tỉnh cực nam của Việt Nam"
+                  }
+                ]
+              },
+              {
+                "question": "Cà Mau thuộc khu vực nào ?",
+                "id": "8a35c4f8-8eaf-4932-9fee-009108e997eb",
+                "answers": [
+                  {
+                    "answer_start": 37,
+                    "text": "thuộc khu vực Đồng bằng châu thổ sông Cửu Long"
+                  }
+                ]
+              },
+              {
+                "question": "Cà Mau có mấy mặt tiếp giáp với biển ?",
+                "id": "39a2705f-d0b3-4fe7-8349-74b54682aaa3",
+                "answers": [
+                  {
+                    "answer_start": 85,
+                    "text": "Mảnh đất tận cùng của tổ quốc có ba mặt tiếp giáp với biển"
+                  }
+                ]
+              },
+              {
+                "question": "Phía đông Cà Mau giáp với biển gì ?",
+                "id": "92b20444-6e68-4b40-ac0b-ea93cd396217",
+                "answers": [
+                  {
+                    "answer_start": 145,
+                    "text": "phía đông là biển Đông"
+                  }
+                ]
+              },
+              {
+                "question": "Phía tây và tây nam Cà Mau giáp với biển gì ?",
+                "id": "eb2f655b-ed8a-4075-ac71-0772f0dd4452",
+                "answers": [
+                  {
+                    "answer_start": 169,
+                    "text": "phía tây và phía nam là vịnh Thái Lan"
+                  }
+                ]
+              },
+              {
+                "question": "Phía bắc Cà Mau giáp với biển gì ?",
+                "id": "1b41f8b1-dd7e-4d7d-b4a9-70ee67f84a3e",
+                "answers": [
+                  {
+                    "answer_start": 208,
+                    "text": "phía Bắc giáp Bạc Liêu và Kiên Giang"
+                  }
+                ]
+              },
+              {
+                "question": "Về Cà Mau du khách sẽ được trải nghiệm những gì ?",
+                "id": "aa04fd4f-6415-4ece-acb4-96938e069e0f",
+                "answers": [
+                  {
+                    "answer_start": 246,
+                    "text": "Về Cà Mau, du khách sẽ nghe chuyện Bác Ba Phi, đờn ca tài tử, du ngoạn sông nước, ăn đặc sản của rừng, cua biển... "
+                  }
+                ]
+              },
+              {
+                "question": "Khí hậu ở Cà Mau như thế nào ?",
+                "id": "682c2aaf-b9ac-40c6-b2b7-d6964a95a8de",
+                "answers": [
+                  {
+                    "answer_start": 361,
+                    "text": "Khí hậu khá dễ chịu quanh năm "
+                  }
+                ]
+              },
+              {
+                "question": "Thời điểm lý tưởng để du lịch Cà Mau là vào mua nào ?",
+                "id": "82c92075-06d1-4edc-b102-1af2b94cb0dc",
+                "answers": [
+                  {
+                    "answer_start": 397,
+                    "text": "thời điểm du lịch Cà Mau lý tưởng nhất là vào mùa khô"
+                  }
+                ]
+              },
+              {
+                "question": "Mùa khô ở Cà Mau từ tháng nào tới tháng nào ?",
+                "id": "d9cf91f4-2c86-4068-8d02-762b089715fb",
+                "answers": [
+                  {
+                    "answer_start": 452,
+                    "text": "từ tháng 12 đến tháng 4 năm sau"
+                  }
+                ]
+              },
+              {
+                "question": "Mùa mưa ở Cà Mau kéo dài từ tháng nào tới tháng nào ?",
+                "id": "3e19943c-f41d-4726-9115-65e2b4246944",
+                "answers": [
+                  {
+                    "answer_start": 485,
+                    "text": "Mùa mưa kéo dài từ tháng 5 đến tháng 11."
+                  }
+                ]
+              },
+              {
+                "question": "Du khách du lịch vào tháng nào sẽ được thưởng thức nhiều đặc sản ?",
+                "id": "94c8ca12-534b-4e4b-a03a-dd33cb96976d",
+                "answers": [
+                  {
+                    "answer_start": 537,
+                    "text": "khoảng tháng 7 - 8 Âm lịch"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Cà Mau cách TP HCM hơn 300 km. Từ những tỉnh phía Bắc, bạn chọn chuyến bay tới Cần Thơ của các hãng hàng không Vietnam Airlines, Vietjet Air, Bamboo Airlines, giá vé từ 1.500.000 đồng đến 2.000.000 đồng. Từ sân bay Cần Thơ, du khách di chuyển tới Cà Mau bằng xe giường nằm. Giá một vé từ 125.000 đến 150.000 đồng, quãng đường khoảng 150 km. Từ TP HCM, du khách có thể mua vé xe khách hoặc tự lái xe. Các xe khách thường xuất phát từ tối, và dừng ở trung tâm thành phố Cà Mau sau 7-8 tiếng. Một số nhà xe có chất lượng tốt như Phương Trang, Giáp Diệp, Mai Linh, hay là Tuấn Hưng... có giá vé tuyến TP HCM - Cà Mau khoảng 190.000 - 200.000 đồng một chiều.",
+            "qas": [
+              {
+                "question": "Cà Mau cách TP HCM bao xa ?",
+                "id": "3d9d2c45-5772-4f9f-9cf6-168894f7b66b",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Cà Mau cách TP HCM hơn 300 km"
+                  }
+                ]
+              },
+              {
+                "question": "Nếu du khách từ các tỉnh phía Bắc thì chọn bay hãng nào ?",
+                "id": "809dcc50-9043-4ca3-88ba-de9dc6232f02",
+                "answers": [
+                  {
+                    "answer_start": 31,
+                    "text": "Từ những tỉnh phía Bắc, bạn chọn chuyến bay tới Cần Thơ của các hãng hàng không Vietnam Airlines, Vietjet Air, Bamboo Airlines"
+                  }
+                ]
+              },
+              {
+                "question": "Nếu du khách từ các tỉnh phía Bắc thì chọn bay tới đâu ?",
+                "id": "4d708766-e000-480b-8161-70cff09eb8ee",
+                "answers": [
+                  {
+                    "answer_start": 55,
+                    "text": "bạn chọn chuyến bay tới Cần Thơ "
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé máy bay từ các tỉnh phía Bắc đến Cần Thơ là bao nhiêu ?",
+                "id": "5f921412-b168-418d-9fcf-4740abbf4bb9",
+                "answers": [
+                  {
+                    "answer_start": 159,
+                    "text": "giá vé từ 1.500.000 đồng đến 2.000.000 đồng"
+                  }
+                ]
+              },
+              {
+                "question": "Từ sân bay Cần Thơ bạn di chuyển bằng gì đến Cà Mau ?",
+                "id": "4fe825ee-aab6-4655-a618-0a03e7a87029",
+                "answers": [
+                  {
+                    "answer_start": 204,
+                    "text": "Từ sân bay Cần Thơ, du khách di chuyển tới Cà Mau bằng xe giường nằm"
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé xe giường nằm từ sân bay Cần Thơ đến Cà Mau là bao nhiêu ?",
+                "id": "4c5c50a4-9c2e-48b0-a9c4-a4e8c97c3514",
+                "answers": [
+                  {
+                    "answer_start": 285,
+                    "text": "từ 125.000 đến 150.000 đồng"
+                  }
+                ]
+              },
+              {
+                "question": "Quãng đường từ từ sân bay Cần Thơ đến Cà Mau là bao xa ?",
+                "id": "1549ead9-90c0-49f2-b4b3-3b58a2febbde",
+                "answers": [
+                  {
+                    "answer_start": 314,
+                    "text": "quãng đường khoảng 150 km"
+                  }
+                ]
+              },
+              {
+                "question": "Nếu du khách đến từ TP HCM thì có thể đến Cà Mau bằng cách nào ?",
+                "id": "4b53801a-1ef7-42a6-8e41-4528e325dc72",
+                "answers": [
+                  {
+                    "answer_start": 341,
+                    "text": "Từ TP HCM, du khách có thể mua vé xe khách hoặc tự lái xe"
+                  }
+                ]
+              },
+              {
+                "question": "Các xe khách từ TP HCM thường mất bao lâu để đến Cà Mau ?",
+                "id": "7b08c8c3-d283-44b6-88b2-53ede95e472e",
+                "answers": [
+                  {
+                    "answer_start": 400,
+                    "text": "Các xe khách thường xuất phát từ tối, và dừng ở trung tâm thành phố Cà Mau sau 7-8 tiếng"
+                  }
+                ]
+              },
+              {
+                "question": "Các nhà xe đến Cà Mau có chất lượng tốt là gì ?",
+                "id": "c8e4c0f4-335c-43f5-97e9-b34b6f214d6a",
+                "answers": [
+                  {
+                    "answer_start": 490,
+                    "text": "Một số nhà xe có chất lượng tốt như Phương Trang, Giáp Diệp, Mai Linh, hay là Tuấn Hưng"
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé tuyến TP HCM - Cà Mau bao nhiêu ?",
+                "id": "dd23101b-f96b-42f4-9814-6a7bb834e858",
+                "answers": [
+                  {
+                    "answer_start": 584,
+                    "text": "giá vé tuyến TP HCM - Cà Mau khoảng 190.000 - 200.000 đồng một chiều."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Nếu lái ôtô từ TP HCM đến Cà Mau, bạn đi theo hướng QL1A và Quản Lộ - Phụng Hiệp. Hành trình mất khoảng 7-8 tiếng tùy thời gian nghỉ ngơi. Đường khá đẹp, nhưng sông rạch nhiều. Những cây cầu bắc qua rạch thường ngắn, độ dốc gắt, tài xế nên chạy từ từ. Đường qua các thị trấn, khu dân cư có nhiều biển hạn chế tốc độ từ 40 đến 60 km/h.Phương tiện tốt nhất để khám phá thành phố Cà Mau là xe máy, thứ hai là ôtô với quãng đường dài. Thứ ba là tàu, ghe, xuồng máy - phương tiện rất phổ biến bởi Cà Mau có hệ thống sông ngòi và kênh rạch chằng chịt.",
+            "qas": [
+              {
+                "question": "Nếu di chuyển ô tô từ TP HCM đến Cà Mau thì di chuyển theo hướng nào ?",
+                "id": "ce491581-3104-46f9-897a-ae71c3d3a798",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Nếu lái ôtô từ TP HCM đến Cà Mau, bạn đi theo hướng QL1A và Quản Lộ - Phụng Hiệp"
+                  }
+                ]
+              },
+              {
+                "question": "Nếu di chuyển ô tô từ TP HCM đến Cà Mau thì di chuyển mất bao lâu ?",
+                "id": "ad68822d-cece-49df-abb7-78cfe1341dfc",
+                "answers": [
+                  {
+                    "answer_start": 82,
+                    "text": "Hành trình mất khoảng 7-8 tiếng tùy thời gian nghỉ ngơi."
+                  }
+                ]
+              },
+              {
+                "question": "Hành trình di chuyển ô tô từ TP HCM đến Cà Mau đường đi thế nào ?",
+                "id": "20dce0d8-9f40-4bac-93df-433e57d77fee",
+                "answers": [
+                  {
+                    "answer_start": 177,
+                    "text": "Những cây cầu bắc qua rạch thường ngắn, độ dốc gắt, tài xế nên chạy từ từ. Đường qua các thị trấn, khu dân cư có nhiều biển hạn chế tốc độ từ 40 đến 60 km/h"
+                  }
+                ]
+              },
+              {
+                "question": "Phương tiện tốt nhất để khám phá thành phố Cà Mau là gì ?",
+                "id": "e0112a46-e7e3-4e4a-8b5f-811444fa0186",
+                "answers": [
+                  {
+                    "answer_start": 334,
+                    "text": "Phương tiện tốt nhất để khám phá thành phố Cà Mau là xe máy, thứ hai là ôtô với quãng đường dài. Thứ ba là tàu, ghe, xuồng máy - phương tiện rất phổ biến bởi Cà Mau có hệ thống sông ngòi và kênh rạch chằng chịt."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Với hành trình đi Đất Mũi, cách trung tâm thành phố hơn 110 km, trải nghiệm thú vị nhất là đi tàu cao tốc, để ngắm nhìn cuộc sống sông nước. Hành trình mất hơn ba giờ do tàu dừng ở các bến nhỏ dọc đường. Du khách đến điểm cuối là chợ Đất Mũi và tiếp tục đi xe ôm đến khu du lịch Đất Mũi cách khoảng 4 km, giá khoảng 50.000 đồng một người. Ngoài ra, có nhiều hãng xe địa phương chuyên chạy tuyến TP Cà Mau - Đất Mũi như Phước Nghĩa, Trường Giang, Đen Mập... giá khoảng 120.000 - 140.000 đồng một chiều. Bạn nên nghỉ tại trung tâm thành phố để thuận tiện ăn uống, vui chơi. Khách sạn Cà Mau không đa dạng trên các nền tảng đặt phòng trực tuyến. Bạn nên liên hệ trực tiếp khi đặt phòng. Giá dao động từ 200.000 đến 600.000 đồng tùy chất lượng.Địa chỉ lưu trú cao cấp trong thành phố có khách sạn bốn sao Mường Thanh Luxury giá khoảng 1.400.000 đồng một đêm; khách sạn ba sao Ánh Nguyệt khoảng 900.000 đồng một đêm. Nếu muốn nghỉ ngơi giữa thiên nhiên Đất Mũi, du khách có nhiều lựa chọn tại các khu du lịch sinh thái, homestay như Rừng Đước, Hương Đất Mũi, Dân Ba Khía, Ba Sú, Tứ Nhuần, Năm Hướng... Giá từ khoảng 70.000 đồng một người một đêm.",
+            "qas": [
+              {
+                "question": "Đất Mũi cách trung tâm thành phố Cà Mau bao xa ?",
+                "id": "73a6b1cd-d63d-44a4-836d-2b998ba4fcdf",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Với hành trình đi Đất Mũi, cách trung tâm thành phố hơn 110 km"
+                  }
+                ]
+              },
+              {
+                "question": "Trải nghiệm thú vị nhất khi đến Đất Mũi ở Cà Mau là gì ?",
+                "id": "9058205b-5194-4c61-b5df-abcb91e85773",
+                "answers": [
+                  {
+                    "answer_start": 64,
+                    "text": "trải nghiệm thú vị nhất là đi tàu cao tốc, để ngắm nhìn cuộc sống sông nước."
+                  }
+                ]
+              },
+              {
+                "question": "Hành trình đi Đất Mũi ở Cà Mau mất bao lâu ?",
+                "id": "bb3e68d1-af14-4761-a6ba-e7ed6b7564f1",
+                "answers": [
+                  {
+                    "answer_start": 141,
+                    "text": "Hành trình mất hơn ba giờ do tàu dừng ở các bến nhỏ dọc đường."
+                  }
+                ]
+              },
+              {
+                "question": "Du khách đến điểm cuối là chợ Đất Mũi rồi nên làm gì ?",
+                "id": "bdf754f5-70b3-4206-9462-094d75ffef9c",
+                "answers": [
+                  {
+                    "answer_start": 204,
+                    "text": "Du khách đến điểm cuối là chợ Đất Mũi và tiếp tục đi xe ôm đến khu du lịch Đất Mũi"
+                  }
+                ]
+              },
+              {
+                "question": "Chợ Đất Mũi cách khu du lịch Đất Mũi bao xa ?",
+                "id": "91277843-54dd-4232-b8f0-b6bab40b6a47",
+                "answers": [
+                  {
+                    "answer_start": 287,
+                    "text": "cách khoảng 4 km"
+                  }
+                ]
+              },
+              {
+                "question": "Giá đi xe ôm từ chợ Đất Mũi đến khu du lịch Đất Mũi là bao nhiêu ?",
+                "id": "a46912af-7854-45e8-ba18-6cd8bc783e24",
+                "answers": [
+                  {
+                    "answer_start": 305,
+                    "text": "giá khoảng 50.000 đồng một người"
+                  }
+                ]
+              },
+              {
+                "question": "Giá vé các hãng xe địa phương chạy tuyến Cà Mau - Đất Mũi là bao nhiêu ?",
+                "id": "dad97f35-fcd2-4f86-aac3-43ad307397ff",
+                "answers": [
+                  {
+                    "answer_start": 457,
+                    "text": "giá khoảng 120.000 - 140.000 đồng một chiều"
+                  }
+                ]
+              },
+              {
+                "question": "Các hãng xe địa phương chạy tuyến Cà Mau - Đất Mũi là gì ?",
+                "id": "071f829c-2eec-4992-9d07-94faa57b136c",
+                "answers": [
+                  {
+                    "answer_start": 339,
+                    "text": "Ngoài ra, có nhiều hãng xe địa phương chuyên chạy tuyến TP Cà Mau - Đất Mũi như Phước Nghĩa, Trường Giang, Đen Mập... "
+                  }
+                ]
+              },
+              {
+                "question": "Vì sao bạn nên đặt phòng trực tiếp ở Cà Mau ?",
+                "id": "adaa451b-7b71-4757-a15a-ffb54304ccd6",
+                "answers": [
+                  {
+                    "answer_start": 572,
+                    "text": "Khách sạn Cà Mau không đa dạng trên các nền tảng đặt phòng trực tuyến. Bạn nên liên hệ trực tiếp khi đặt phòng"
+                  }
+                ]
+              },
+              {
+                "question": "Giá phòng khách sạn ở Cà Mau là bao nhiêu ?",
+                "id": "711d9306-06e9-4e33-a5da-c7a7d8355c24",
+                "answers": [
+                  {
+                    "answer_start": 684,
+                    "text": "Giá dao động từ 200.000 đến 600.000 đồng tùy chất lượng"
+                  }
+                ]
+              },
+              {
+                "question": "Khách sạn bốn sao ở khu du lịch Đất Mũi Cà Mau là gì ?",
+                "id": "97c4b291-63cf-4f96-a5c7-46f40f287650",
+                "answers": [
+                  {
+                    "answer_start": 783,
+                    "text": "khách sạn bốn sao Mường Thanh Luxury "
+                  }
+                ]
+              },
+              {
+                "question": "Giá thuê một đêm của khách sạn bốn sao Mường Thanh Luxury là bao nhiêu ?",
+                "id": "eee7da98-b7ee-450a-a531-65444b9a1795",
+                "answers": [
+                  {
+                    "answer_start": 820,
+                    "text": "giá khoảng 1.400.000 đồng một đêm"
+                  }
+                ]
+              },
+              {
+                "question": "Khách sạn ba sao ở khu du lịch Đất Mũi Cà Mau là gì ?",
+                "id": "3d35d19b-2a16-4c69-a727-8c4698fcf65e",
+                "answers": [
+                  {
+                    "answer_start": 855,
+                    "text": "khách sạn ba sao Ánh Nguyệt "
+                  }
+                ]
+              },
+              {
+                "question": "Giá thuê một đêm của khách sạn ba sao Ánh Nguyệt à bao nhiêu ?",
+                "id": "fdce5d72-0a60-4ed4-8345-59105c9aa6a7",
+                "answers": [
+                  {
+                    "answer_start": 855,
+                    "text": "khách sạn ba sao Ánh Nguyệt khoảng 900.000 đồng một đêm."
+                  }
+                ]
+              },
+              {
+                "question": "Nếu muốn nghỉ ngơi giữa thiên nhiên Đất Mũi Cà Mau thì du khách nên làm gì ?",
+                "id": "a92f2a90-e72a-44d2-bbc3-2cf224d8304a",
+                "answers": [
+                  {
+                    "answer_start": 912,
+                    "text": "Nếu muốn nghỉ ngơi giữa thiên nhiên Đất Mũi, du khách có nhiều lựa chọn tại các khu du lịch sinh thái, homestay như Rừng Đước, Hương Đất Mũi, Dân Ba Khía, Ba Sú, Tứ Nhuần, Năm Hướng... "
+                  }
+                ]
+              },
+              {
+                "question": "Giá thuê tại các khu du lịch sinh thái, homestay ở Đất Mũi Cà Mau là bao nhiêu ?",
+                "id": "8ee191ba-8e68-4378-9b15-6fbed42d4a1d",
+                "answers": [
+                  {
+                    "answer_start": 1097,
+                    "text": "Giá từ khoảng 70.000 đồng một người một đêm."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Mũi Cà Mau là nơi đặt cột mốc tọa độ GPS 0001 (cây số 0). Cột mốc này mang hình một con tàu no gió, vươn mình ra biển. Mũi Cà Mau là nơi có thể quan sát mặt trời mọc lên từ mặt biển phía đông vào buổi sáng và lặn xuống mặt biển phía tây vào buổi chiều.Đất Mũi, thuộc huyện Ngọc Hiển, còn là điểm cuối cùng của đường Hồ Chí Minh. Km 2436 của đường Hồ Chí Minh thuộc Khu du lịch Quốc gia Mũi Cà Mau. Con đường bắt đầu từ Pác Bó - Cao Bằng đi qua 28 tỉnh thành phố và kết thúc ở điểm cực nam của Tổ quốc. Lâm ngư trường 184 nằm ở giữa rừng đước Năm Căn, thuộc ấp Chà Là, xã Tam Giang, huyện Năm Căn. Nơi đây có 44 loài thực vật, trong đó một số loài quý hiếm như cóc trắng, đưng, sú, trang... Đến đây du khách có thể chèo thuyền đi sâu vào rừng ngập mặn, ngắm khỉ nô đùa trên cây. Khu dự trữ sinh quyển thế giới Mũi Cà Mau là một hệ sinh thái rừng ngập mặn tự nhiên được UNESCO công nhận, bao gồm Vườn quốc gia Mũi Cà Mau, Vườn quốc gia U Minh Hạ và khu vực rừng phòng hộ ven Biển Tây. Trải nghiệm không nên bỏ lỡ là ngồi thuyền đi xuyên rừng tại Vườn quốc gia Mũi Cà Mau hay tham gia trồng rừng ngập mặn, quan sát các loài động thực vật hoặc trải nghiệm ăn ong với người dân địa phương trong rừng U Minh Hạ, nghe những mẩu chuyện về bác Ba Phi.",
+            "qas": [
+              {
+                "question": "Mũi Cà Mau là nơi đặt cột mốc tọa độ gì ?",
+                "id": "e20c6688-c277-4276-b20a-355a7daec7fc",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Mũi Cà Mau là nơi đặt cột mốc tọa độ GPS 0001 (cây số 0)"
+                  }
+                ]
+              },
+              {
+                "question": "Cột mốc tọa độ GPS 0001 ở Mũi Cà Mau mang hình dáng gì ?",
+                "id": "bbf16c16-fdcd-46a0-a257-d9ba72a2b860",
+                "answers": [
+                  {
+                    "answer_start": 58,
+                    "text": "Cột mốc này mang hình một con tàu no gió, vươn mình ra biển"
+                  }
+                ]
+              },
+              {
+                "question": "Mũi Cà Mau là nơi có thể quan sát mặt trời như thế nào ?",
+                "id": "366e4821-c8a9-48a4-bb1e-17c1639ee8a7",
+                "answers": [
+                  {
+                    "answer_start": 119,
+                    "text": "Mũi Cà Mau là nơi có thể quan sát mặt trời mọc lên từ mặt biển phía đông vào buổi sáng và lặn xuống mặt biển phía tây vào buổi chiều"
+                  }
+                ]
+              },
+              {
+                "question": "Đất Mũi Cà Mau thuộc huyện nào ?",
+                "id": "e22a0ebe-6fab-4b34-b7f3-2a7bd886bd95",
+                "answers": [
+                  {
+                    "answer_start": 252,
+                    "text": "Đất Mũi, thuộc huyện Ngọc Hiển"
+                  }
+                ]
+              },
+              {
+                "question": "Đất Mũi Cà Mau còn là điểm gì nằm trên đường Hồ Chí Minh ?",
+                "id": "0f23778e-1527-4bb2-9cb2-8235b966ec05",
+                "answers": [
+                  {
+                    "answer_start": 284,
+                    "text": "còn là điểm cuối cùng của đường Hồ Chí Minh"
+                  }
+                ]
+              },
+              {
+                "question": "Km 2436 của đường Hồ Chí Minh thuộc khu du lịch nào ?",
+                "id": "0b9e994b-fb24-4dc9-b4c4-cd33ce2dc12a",
+                "answers": [
+                  {
+                    "answer_start": 329,
+                    "text": "Km 2436 của đường Hồ Chí Minh thuộc Khu du lịch Quốc gia Mũi Cà Mau"
+                  }
+                ]
+              },
+              {
+                "question": "Con đường Hồ Chí Minh bắt đầu và kết thúc ở điểm nào ?",
+                "id": "bd1f93a5-bb7e-48bb-b317-954d79a94d89",
+                "answers": [
+                  {
+                    "answer_start": 398,
+                    "text": "Con đường bắt đầu từ Pác Bó - Cao Bằng đi qua 28 tỉnh thành phố và kết thúc ở điểm cực nam của Tổ quốc."
+                  }
+                ]
+              },
+              {
+                "question": "Lầm ngư trường 184 nằm ở đâu tại Cà Mau ?",
+                "id": "fb1cd3c0-ef9c-4faf-9efc-56ae380e96b5",
+                "answers": [
+                  {
+                    "answer_start": 502,
+                    "text": "Lâm ngư trường 184 nằm ở giữa rừng đước Năm Căn, thuộc ấp Chà Là, xã Tam Giang, huyện Năm Căn"
+                  }
+                ]
+              },
+              {
+                "question": "Lâm ngư trường 184 có các loài thực vật nào ?",
+                "id": "7d916fbd-3c52-4b5b-b228-2da6e9126067",
+                "answers": [
+                  {
+                    "answer_start": 597,
+                    "text": "Nơi đây có 44 loài thực vật, trong đó một số loài quý hiếm như cóc trắng, đưng, sú, trang..."
+                  }
+                ]
+              },
+              {
+                "question": "Đến lâm ngư trường 184 du khách có thể làm gì ?",
+                "id": "0426987d-c29d-4752-97bf-f18332bd9805",
+                "answers": [
+                  {
+                    "answer_start": 690,
+                    "text": "Đến đây du khách có thể chèo thuyền đi sâu vào rừng ngập mặn, ngắm khỉ nô đùa trên cây. "
+                  }
+                ]
+              },
+              {
+                "question": "Khu dự trữ sinh quyển thế giới Mũi Cà Mau là gì ?",
+                "id": "81b2568a-f1e6-45d4-87e4-6fd3e17a1ca8",
+                "answers": [
+                  {
+                    "answer_start": 778,
+                    "text": "Khu dự trữ sinh quyển thế giới Mũi Cà Mau là một hệ sinh thái rừng ngập mặn tự nhiên được UNESCO công nhận"
+                  }
+                ]
+              },
+              {
+                "question": "Khu dự trữ sinh quyển thế giới Mũi Cà Mau bao gồm gì ?",
+                "id": "aa394661-4aa6-4c5e-a0e4-cf1533d6fe08",
+                "answers": [
+                  {
+                    "answer_start": 886,
+                    "text": "bao gồm Vườn quốc gia Mũi Cà Mau, Vườn quốc gia U Minh Hạ và khu vực rừng phòng hộ ven Biển Tây."
+                  }
+                ]
+              },
+              {
+                "question": "Trải nghiệm không thể bỏ lỡ ở Khu dự trữ sinh quyển thế giới Mũi Cà Mau là gì ?",
+                "id": "ec90cf51-2b0c-4237-8a72-d5b4d976c3cd",
+                "answers": [
+                  {
+                    "answer_start": 983,
+                    "text": "Trải nghiệm không nên bỏ lỡ là ngồi thuyền đi xuyên rừng tại Vườn quốc gia Mũi Cà Mau hay tham gia trồng rừng ngập mặn, quan sát các loài động thực vật hoặc trải nghiệm ăn ong với người dân địa phương trong rừng U Minh Hạ, nghe những mẩu chuyện về bác Ba Phi."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Sân chim Ngọc Hiển có diện tích 130 ha ở huyện Ngọc Hiển. Nơi đây tập trung các loài chim quý hiếm và mảng thực vật phong phú. Xen kẽ màu xanh bạt ngàn của rừng đước, tràm là những nhánh sông đỏ nặng phù sa. Du khách có thể ghé vào buổi sáng sớm để ngắm hàng nghìn con chim đi kiếm ăn, hoặc khi chúng bay lượn khắp bầu trời để tìm đường về tổ trong ánh hoàng hôn.Những điểm đến khác để quan sát chim hoang dã là vườn chim Tư Sự (huyện Thới Bình, cách trung tâm khoảng 30 km), Sân chim trong lòng thành phố Cà Mau (Lý Văn Lâm, phường 1). Đảo Hòn Khoai nằm ở huyện Ngọc Hiển, cách đất liền 14,6 km. Cà Mau không có núi nhưng có hòn cao như di tích lịch sử văn hóa cấp quốc gia hòn Khoai có đỉnh cao 318 m so với mặt nước biển. Hòn đảo này ấn tượng bởi những dãy đá rộng lớn, những mảng đồi nhấp nhô và rừng xanh bao phủ.Hòn Đá Bạc là hòn đảo đẹp nổi danh và thuần nét nguyên sơ với những tảng đá đủ sắc màu, ước tính hình thành cách đây 180 triệu năm. Hòn Đá Bạc là một cụm đảo đẹp bao gồm ba hòn lớn, nhỏ nằm gần nhau là: Hòn Ông Ngộ, Hòn Đá Lẻ và Hòn Đá Bạc. Trong đó hòn cao nhất là 50 m so với mực nước biển.",
+            "qas": [
+              {
+                "question": "Sân chim Ngọc Hiển có diện tích bao nhiêu ha ?",
+                "id": "0cf26af1-aef2-4602-b442-c5d3ffaa46f8",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Sân chim Ngọc Hiển có diện tích 130 ha"
+                  }
+                ]
+              },
+              {
+                "question": "Sân chim Ngọc Hiển ở đâu ?",
+                "id": "86a464ca-e230-4007-ad9d-54e0bd4ffdff",
+                "answers": [
+                  {
+                    "answer_start": 39,
+                    "text": "ở huyện Ngọc Hiển"
+                  }
+                ]
+              },
+              {
+                "question": "Sân chim Ngọc HIển là nơi như thế nào ?",
+                "id": "589fed8d-8c13-42c5-8c0f-39b76a560417",
+                "answers": [
+                  {
+                    "answer_start": 58,
+                    "text": "Nơi đây tập trung các loài chim quý hiếm và mảng thực vật phong phú. Xen kẽ màu xanh bạt ngàn của rừng đước, tràm là những nhánh sông đỏ nặng phù sa."
+                  }
+                ]
+              },
+              {
+                "question": "Khi ghé thăm sân chim Ngọc Hiển vào buổi sớm thì sẽ thấy gì ?",
+                "id": "897e0091-2367-4706-8fd9-8f0022681983",
+                "answers": [
+                  {
+                    "answer_start": 208,
+                    "text": "Du khách có thể ghé vào buổi sáng sớm để ngắm hàng nghìn con chim đi kiếm ăn, hoặc khi chúng bay lượn khắp bầu trời để tìm đường về tổ trong ánh hoàng hôn"
+                  }
+                ]
+              },
+              {
+                "question": "Những điểm đến để quan sát chim hoang dã là gì ?",
+                "id": "81d070ed-978b-4f49-ac13-05fa853d07c8",
+                "answers": [
+                  {
+                    "answer_start": 363,
+                    "text": "Những điểm đến khác để quan sát chim hoang dã là vườn chim Tư Sự (huyện Thới Bình, cách trung tâm khoảng 30 km)"
+                  }
+                ]
+              },
+              {
+                "question": "Đảo Hòn Khoai ở Cà Mau nằm ở huyện nào ?",
+                "id": "aeab7847-23bb-43c8-a107-2613a0663bda",
+                "answers": [
+                  {
+                    "answer_start": 537,
+                    "text": "Đảo Hòn Khoai nằm ở huyện Ngọc Hiển"
+                  }
+                ]
+              },
+              {
+                "question": "Đảo Hòn Khoai ở Cà Mau cách đất liền bao xa ?",
+                "id": "aafbf033-5697-4778-a150-0b1ade301dd5",
+                "answers": [
+                  {
+                    "answer_start": 574,
+                    "text": "cách đất liền 14,6 km"
+                  }
+                ]
+              },
+              {
+                "question": "Đỉnh của Đảo Hòn Khoai ở Cà Mau cao bao nhiêu ?",
+                "id": "02a91678-7e4f-4fc4-a8f2-9ea4ab5f4360",
+                "answers": [
+                  {
+                    "answer_start": 674,
+                    "text": " hòn Khoai có đỉnh cao 318 m so với mặt nước biển"
+                  }
+                ]
+              },
+              {
+                "question": "Đảo Hòn Khoai ở Cà Mau ấn tượng như thế nào ?",
+                "id": "fe60c229-957a-489a-bc4d-77418dcaa7d8",
+                "answers": [
+                  {
+                    "answer_start": 725,
+                    "text": "Hòn đảo này ấn tượng bởi những dãy đá rộng lớn, những mảng đồi nhấp nhô và rừng xanh bao phủ.Hòn Đá Bạc là hòn đảo đẹp nổi danh và thuần nét nguyên sơ với những tảng đá đủ sắc màu, ước tính hình thành cách đây 180 triệu năm"
+                  }
+                ]
+              },
+              {
+                "question": "Hòn Đá Bạc bao gồm các cụm đảo nào ?",
+                "id": "57188c18-6584-4d38-a966-5945ef77a9e0",
+                "answers": [
+                  {
+                    "answer_start": 950,
+                    "text": "Hòn Đá Bạc là một cụm đảo đẹp bao gồm ba hòn lớn, nhỏ nằm gần nhau là: Hòn Ông Ngộ, Hòn Đá Lẻ và Hòn Đá Bạc. Trong đó hòn cao nhất là 50 m so với mực nước biển."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Bãi biển Khai Long có bãi cát uốn lượn như những con rồng dọc bờ biển ở ấp Khai Long, xã Đất Mũi, huyện Ngọc Hiển. Biển nằm trong hệ sinh thái rừng ngập mặn của vùng, vẻ đẹp hoang sơ.Vườn dâu Cái Tàu nằm ở xã Nguyễn Phích, huyện U Minh, cách trung tâm thành phố Cà Mau khoảng 30 km về phía Tây. Đây là xứ sở của hàng nghìn cây dâu. Du khách hãy ngồi xuồng ba lá, luồn lách qua những con rạch nhỏ để ngắm trọn cảnh sắc bình yên và thưởng thức trái dâu thơm ngọt trong tầm tay với. Dâu Cái Tàu có trái lớn, vỏ mỏng, mọng nước, vị ngọt và chua nhẹ. Trái chín màu vàng ươm. Khi mưa đầu mùa bắt đầu nặng hạt là dâu chín rộ, lúc này người dân mở cửa vườn đón khách tham quan. Đình Tân Hưng là di tích lịch sử - văn hóa cấp quốc gia được xây dựng từ năm 1907. Đình nằm ở ấp Xóm Lớn, xã Lý Văn Lâm, cách trung tâm thành phố Cà Mau 4 km. Ngôi đình này là nơi treo cờ Đảng Cộng sản Đông Dương đầu tiên tại Cà Mau vào năm 1930. Đây là nơi các chiến sĩ cộng hòa vệ binh ở lại xây công sự, đào chiến lũy chiến bị chiến đấu lâu dài với thực dân Pháp. Du ngoạn sông Trẹm Với chiều dài 42 km, xuất phát từ Kiên Giang đến ngã ba Cái Tàu, Cà Mau, sông Trẹm đẹp lạ bởi dòng nước thay đổi theo mùa, thời gian. Mùa mưa nước sông màu đỏ, điểm xuyến là những nhánh bông lục bình xanh biếc trôi theo dòng. Mùa khô nước sông màu trắng đục, hai bên là những hàng dừa nước xanh biếc.",
+            "qas": [
+              {
+                "question": "Bãi biển Khai Long ở Cà Mau có bãi cát như thế nào ?",
+                "id": "b78adb07-8f7c-4bd0-a7e7-2762f5d57189",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Bãi biển Khai Long có bãi cát uốn lượn như những con rồng dọc bờ biển"
+                  }
+                ]
+              },
+              {
+                "question": "Bãi biển Khai Long ở Cà Mau ở đâu ?",
+                "id": "81773ae0-d4e0-4d7a-aa03-80ba8728c267",
+                "answers": [
+                  {
+                    "answer_start": 70,
+                    "text": "ở ấp Khai Long, xã Đất Mũi, huyện Ngọc Hiển."
+                  }
+                ]
+              },
+              {
+                "question": "Bãi biển Khai Long ở Cà Mau nằm trong hệ sinh thái gì ?",
+                "id": "efc5f037-fc74-40ac-96ef-d51f4e7054be",
+                "answers": [
+                  {
+                    "answer_start": 115,
+                    "text": "Biển nằm trong hệ sinh thái rừng ngập mặn của vùng, vẻ đẹp hoang sơ."
+                  }
+                ]
+              },
+              {
+                "question": "Vườn dâu Cái Tằm ở đâu ? ",
+                "id": "ffaf3c14-f8e7-4875-bda6-a8d9ca7b21c5",
+                "answers": [
+                  {
+                    "answer_start": 192,
+                    "text": "Cái Tàu nằm ở xã Nguyễn Phích, huyện U Minh, cách trung tâm thành phố Cà Mau khoảng 30 km về phía Tây"
+                  }
+                ]
+              },
+              {
+                "question": "Đến vườn dâu Cái Tằm du khách sẽ được trải nghiệm gì ?",
+                "id": "becafe42-85b8-46d8-8157-de9e6d1807a8",
+                "answers": [
+                  {
+                    "answer_start": 295,
+                    "text": "Đây là xứ sở của hàng nghìn cây dâu. Du khách hãy ngồi xuồng ba lá, luồn lách qua những con rạch nhỏ để ngắm trọn cảnh sắc bình yên và thưởng thức trái dâu thơm ngọt trong tầm tay với"
+                  }
+                ]
+              },
+              {
+                "question": "Dâu Cái Tàu ở Cà Mau như thế nào ?",
+                "id": "62ebce66-369b-4ccb-a701-18edcbd518ae",
+                "answers": [
+                  {
+                    "answer_start": 480,
+                    "text": "Dâu Cái Tàu có trái lớn, vỏ mỏng, mọng nước, vị ngọt và chua nhẹ. Trái chín màu vàng ươm. Khi mưa đầu mùa bắt đầu nặng hạt là dâu chín rộ, lúc này người dân mở cửa vườn đón khách tham quan"
+                  }
+                ]
+              },
+              {
+                "question": "Đình Tân Hưng ở Cà Mau là gì ?",
+                "id": "5180f957-8adf-4b46-930a-5a17ecfa2ae8",
+                "answers": [
+                  {
+                    "answer_start": 670,
+                    "text": "Đình Tân Hưng là di tích lịch sử - văn hóa cấp quốc gia"
+                  }
+                ]
+              },
+              {
+                "question": "Đình Tân Hưng ở Cà Mau được xây dựng năm nào ?",
+                "id": "a9c8eaf4-e1b9-44e8-8a72-a6fd3b9adea1",
+                "answers": [
+                  {
+                    "answer_start": 743,
+                    "text": "năm 1907."
+                  }
+                ]
+              },
+              {
+                "question": "Đình Tân Hưng ở Cà Mau nằm ở đâu ?",
+                "id": "4231b39b-de2d-492a-bb35-4ce0c5718672",
+                "answers": [
+                  {
+                    "answer_start": 753,
+                    "text": "Đình nằm ở ấp Xóm Lớn, xã Lý Văn Lâm, cách trung tâm thành phố Cà Mau 4 km."
+                  }
+                ]
+              },
+              {
+                "question": "Đình Tân Hưng ở Cà Mau treo gì đầu tiên ?",
+                "id": "6f84a196-b2c2-4a18-9e50-72e5de4229a1",
+                "answers": [
+                  {
+                    "answer_start": 829,
+                    "text": "Ngôi đình này là nơi treo cờ Đảng Cộng sản Đông Dương đầu tiên tại Cà Mau vào năm 1930. Đây là nơi các chiến sĩ cộng hòa vệ binh ở lại xây công sự, đào chiến lũy chiến bị chiến đấu lâu dài với thực dân Pháp"
+                  }
+                ]
+              },
+              {
+                "question": "Sông Trẹm ở Cà Mau dài bao nhiêu km ? ",
+                "id": "64ce45e7-97a5-419a-b61a-66a9ba76ef79",
+                "answers": [
+                  {
+                    "answer_start": 1037,
+                    "text": "Du ngoạn sông Trẹm Với chiều dài 42 km"
+                  }
+                ]
+              },
+              {
+                "question": "Du ngoạn sông Trẹm như thế nào ?",
+                "id": "cdad673f-ef05-4bc2-8d91-7e1d81bfa54b",
+                "answers": [
+                  {
+                    "answer_start": 1077,
+                    "text": "xuất phát từ Kiên Giang đến ngã ba Cái Tàu, Cà Mau, sông Trẹm đẹp lạ bởi dòng nước thay đổi theo mùa, thời gian"
+                  }
+                ]
+              },
+              {
+                "question": "Hai mùa ở sông Trẹm như thế nào ?",
+                "id": "608bbbe9-3b17-4caa-8161-45e211e9fc45",
+                "answers": [
+                  {
+                    "answer_start": 1190,
+                    "text": "Mùa mưa nước sông màu đỏ, điểm xuyến là những nhánh bông lục bình xanh biếc trôi theo dòng. Mùa khô nước sông màu trắng đục, hai bên là những hàng dừa nước xanh biếc."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Đầm Thị Tường được mệnh danh là 'biển hồ giữa đồng bằng'. Đây còn là đầm nước có diện tích lớn nhất vùng Đồng bằng sông Cửu Long với chiều dài 12 km, chỗ rộng nhất 2 km, chỗ sâu nhất 1,5 m. Đầm Thị Tường gồm ba đầm chính là Đầm Trên, Đầm Giữa và Đầm Dưới, trong đó Đầm Giữa là đầm lớn nhất. Ngồi thuyền máy lướt trên mặt đầm, du khách vừa thưởng ngoạn thiên nhiên tươi đẹp, vừa quan sát đời sống của những ngư dân địa phương, hoặc trải nghiệm chài lưới, câu, bắt cá bằng đó... Ngoài ra là thưởng thức đặc sản cá, sò, tôm, cua... tươi ngon. Cua Cà Mau nổi tiếng ngon. Khách sành ăn thường tìm mua cua tự nhiên vì thịt ngon, ngọt hơn nhiều so với cua nuôi. Cua tại các vuông tôm Cà Mau luôn tươi, giá cả phải chăng. Giá cua thịt Cà Mau dao động 150.000 - 300.000 đồng một kg và cua gạch từ 300.000 500.000 đồng một kg. Nhiều hàng quán chế biến cua thành nhiều món khác nhau, từ đơn giản như luộc, hấp, nướng than đến cầu kỳ hơn như rang me, lẩu, bánh canh cua... Vọp nướng giống con nghêu nhưng kích thước lớn hơn và thường sống trong các bãi bồi, cửa biển, rừng ngập mặn. Vọp đất Mũi thường dai và ngọt hơn nhiều so với các vùng khác. Vọp có thể nấu canh chua, luộc, hấp, xào hay nướng mỡ hành.Ốc len còn có tên gọi khác là ốc linh hoa, phổ biến ở các khu rừng ngập mặn. Có nhiều cách chế biến nhưng ốc len xào dừa vẫn nổi tiếng nhất.",
+            "qas": [
+              {
+                "question": "Đầm Thị Tường được mệnh danh là gì ?",
+                "id": "c3340bb0-424d-4888-a097-00e6354e680d",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Đầm Thị Tường được mệnh danh là 'biển hồ giữa đồng bằng'."
+                  }
+                ]
+              },
+              {
+                "question": "Đầm Thị Tường là đầm nước như thế nào ?",
+                "id": "6710b2ca-9f3d-4ae0-8e7c-e820c41258a4",
+                "answers": [
+                  {
+                    "answer_start": 58,
+                    "text": "Đây còn là đầm nước có diện tích lớn nhất vùng Đồng bằng sông Cửu Long với chiều dài 12 km, chỗ rộng nhất 2 km, chỗ sâu nhất 1,5 m"
+                  }
+                ]
+              },
+              {
+                "question": "Đầm Thị Tường gồm các đầm chính là gì ?",
+                "id": "ad08ea27-5753-4031-895d-7d721d790712",
+                "answers": [
+                  {
+                    "answer_start": 189,
+                    "text": " Đầm Thị Tường gồm ba đầm chính là Đầm Trên, Đầm Giữa và Đầm Dưới, trong đó Đầm Giữa là đầm lớn nhất"
+                  }
+                ]
+              },
+              {
+                "question": "Ngồi thuyền tham quan Đầm Thị Tường, du khách sẽ ngắm nhìn gì ?",
+                "id": "e8a7217e-cae8-4d0f-b2d9-70ab0cb01414",
+                "answers": [
+                  {
+                    "answer_start": 291,
+                    "text": "Ngồi thuyền máy lướt trên mặt đầm, du khách vừa thưởng ngoạn thiên nhiên tươi đẹp, vừa quan sát đời sống của những ngư dân địa phương, hoặc trải nghiệm chài lưới, câu, bắt cá bằng đó... "
+                  }
+                ]
+              },
+              {
+                "question": "Cua Cà Mau nổi tiếng với điều gì ?",
+                "id": "cb7b5ee1-8014-42bb-8f0d-30386635772e",
+                "answers": [
+                  {
+                    "answer_start": 540,
+                    "text": "Cua Cà Mau nổi tiếng ngon. Khách sành ăn thường tìm mua cua tự nhiên vì thịt ngon, ngọt hơn nhiều so với cua nuôi"
+                  }
+                ]
+              },
+              {
+                "question": "Giá cua thịt Cà Mau bao nhiêu ?",
+                "id": "0d1b1ab9-c290-48f0-aac4-fdce8a4c36f1",
+                "answers": [
+                  {
+                    "answer_start": 714,
+                    "text": "Giá cua thịt Cà Mau dao động 150.000 - 300.000 đồng một kg "
+                  }
+                ]
+              },
+              {
+                "question": "Giá cua gạch ở Cà Mau là bao nhiêu ?",
+                "id": "a71ab235-0d7a-46dd-9d9f-ae4d38b8f92f",
+                "answers": [
+                  {
+                    "answer_start": 776,
+                    "text": "cua gạch từ 300.000 500.000 đồng một kg."
+                  }
+                ]
+              },
+              {
+                "question": "Cua ở Cà Mau được chế biến như thế nào ?",
+                "id": "3308e966-a981-472d-969f-17dcf6e518fd",
+                "answers": [
+                  {
+                    "answer_start": 817,
+                    "text": "Nhiều hàng quán chế biến cua thành nhiều món khác nhau, từ đơn giản như luộc, hấp, nướng than đến cầu kỳ hơn như rang me, lẩu, bánh canh cua..."
+                  }
+                ]
+              },
+              {
+                "question": "Vọp nướng ở Cà Mau như thế nào ?",
+                "id": "2b38db61-d5e0-45b6-aa8d-7473afbe1b8a",
+                "answers": [
+                  {
+                    "answer_start": 961,
+                    "text": "Vọp nướng giống con nghêu nhưng kích thước lớn hơn và thường sống trong các bãi bồi, cửa biển, rừng ngập mặn. Vọp đất Mũi thường dai và ngọt hơn nhiều so với các vùng khác."
+                  }
+                ]
+              },
+              {
+                "question": "Vọp ở Cà Mau được chế biến như thế nào ?",
+                "id": "134929ca-2ff1-4cff-93e2-96258ea0af40",
+                "answers": [
+                  {
+                    "answer_start": 1134,
+                    "text": "Vọp có thể nấu canh chua, luộc, hấp, xào hay nướng mỡ hành"
+                  }
+                ]
+              },
+              {
+                "question": "Cách chế biến món ốc len",
+                "id": "4f3e80a1-358a-4482-b818-1ccb18a86678",
+                "answers": [
+                  {
+                    "answer_start": 1270,
+                    "text": "Có nhiều cách chế biến nhưng ốc len xào dừa vẫn nổi tiếng nhất."
+                  }
+                ]
+              },
+              {
+                "question": "Ốc len còn được gọi là gì ?",
+                "id": "df182678-60e3-4d71-82ec-c071c755238e",
+                "answers": [
+                  {
+                    "answer_start": 1193,
+                    "text": "Ốc len còn có tên gọi khác là ốc linh hoa, phổ biến ở các khu rừng ngập mặn"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Cá thòi lòi trông khá kỳ dị, sống ở vùng đầm lầy. Thịt cá chắc, ngon và không tanh. Cá thòi lòi thường được nướng muối ớt, chiên giòn hoặc nấu canh chua, kho tương, nấu mẻ.Cá lóc nướng trui là món ăn có vị ngọt thanh tao, thơm của nước phù sa và vị mặn của biển quê hương. Cá không cần tẩm ướp vẫn sẽ thơm và ngọt thịt. Bạn có thể cầm nguyên con cá nướng ăn cho đúng chất nhà quê, hoặc bỏ lên lá chuối, đem cuốn bánh tráng cùng các loại rau, khế, dưa leo... và chấm mắm chua ngọt.Gỏi nhộng ong được mệnh danh là hấp dẫn nhất nhì Cà Mau. Sáp nhộng ong thường được thợ lấy trong rừng đem về, sau đó chế biến thành các món như cháo, nhộng ong xào hoặc ngon nhất là đem đi bóp gỏi.Mắm ong là đặc sản không phải ai cũng dám thử. Người dân đất Mũi thường dùng mắm ong ăn cùng với cơm trắng. Ở một số nhà hàng, người ta thường sử dụng thịt ba chỉ cuốn với các loại rau quả như chuối chát, dưa leo, lá cóc, gừng, ớt hay mùi tàu, chấm cùng mắm ong.",
+            "qas": [
+              {
+                "question": "Cá thòi lòi ở Cà Màu ?",
+                "id": "f5ae495b-31bb-4a76-a720-afad91c9f902",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Cá thòi lòi trông khá kỳ dị, sống ở vùng đầm lầy. Thịt cá chắc, ngon và không tanh"
+                  }
+                ]
+              },
+              {
+                "question": "Cá thòi lòi ở Cà Màu thường được chế biến như thế nào ?",
+                "id": "9f631fb3-f98b-489b-9eda-b9c7d8f19773",
+                "answers": [
+                  {
+                    "answer_start": 84,
+                    "text": "Cá thòi lòi thường được nướng muối ớt, chiên giòn hoặc nấu canh chua, kho tương, nấu mẻ"
+                  }
+                ]
+              },
+              {
+                "question": "Cá lóc nướng trui ở Cà Mau là món ăn như thế nào ?",
+                "id": "4bb9f314-65b8-4415-95ad-76de004b9e6b",
+                "answers": [
+                  {
+                    "answer_start": 172,
+                    "text": "Cá lóc nướng trui là món ăn có vị ngọt thanh tao, thơm của nước phù sa và vị mặn của biển quê hương. Cá không cần tẩm ướp vẫn sẽ thơm và ngọt thịt. "
+                  }
+                ]
+              },
+              {
+                "question": "Cá lóc nướng trui ở Cà Mau ăn như thế nào ?",
+                "id": "e97c2142-5c13-4702-9a57-e2dbfbf2cd78",
+                "answers": [
+                  {
+                    "answer_start": 320,
+                    "text": "Bạn có thể cầm nguyên con cá nướng ăn cho đúng chất nhà quê, hoặc bỏ lên lá chuối, đem cuốn bánh tráng cùng các loại rau, khế, dưa leo... và chấm mắm chua ngọt."
+                  }
+                ]
+              },
+              {
+                "question": "Gỏi nhộng ong được mệnh danh là gì ở Cà Mau ?",
+                "id": "6fec18f7-5fd0-43e8-af03-1848edcf3d37",
+                "answers": [
+                  {
+                    "answer_start": 480,
+                    "text": "Gỏi nhộng ong được mệnh danh là hấp dẫn nhất nhì Cà Mau. "
+                  }
+                ]
+              },
+              {
+                "question": "Sáp nhộng ong thường được thợ ở Cà Mau dùng làm gì ?",
+                "id": "f4247cab-5bbe-41ba-8b6e-d619fb59512a",
+                "answers": [
+                  {
+                    "answer_start": 537,
+                    "text": "Sáp nhộng ong thường được thợ lấy trong rừng đem về, sau đó chế biến thành các món như cháo, nhộng ong xào hoặc ngon nhất là đem đi bóp gỏi."
+                  }
+                ]
+              },
+              {
+                "question": "Mắm ong là món ăn gì ở Cà Mau ?",
+                "id": "1c75471f-d354-43ad-80eb-3faf4665b040",
+                "answers": [
+                  {
+                    "answer_start": 677,
+                    "text": "Mắm ong là đặc sản không phải ai cũng dám thử. Người dân đất Mũi thường dùng mắm ong ăn cùng với cơm trắng. Ở một số nhà hàng, người ta thường sử dụng thịt ba chỉ cuốn với các loại rau quả như chuối chát, dưa leo, lá cóc, gừng, ớt hay mùi tàu, chấm cùng mắm ong."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "context": "Bồn bồn mọc hoang nhiều ở vùng rìa các đầm, ao hồ. Bồn bồn được chế biến như rau thành nhiều món khác nhau, trong đó có gỏi hải sản, muối chua. Lõi bồn bồn ăn giòn, mềm, chua lạ, như thể ngó sen và măng hòa quyện.Bánh tằm xuất hiện khiêm tốn ở các quán nhỏ hè phố thay vì trong các thực đơn nhà hàng. Món ăn này dân dã chân chất nhưng lại có sức thu hút đặc biệt.Đông khách nhất là quán bánh tằm trên đường Lê Lợi, đường Nguyễn Hữu Lễ phường 2 hay quán ăn sáng ở đường Quang Trung, đường Lưu Tấn Tài ở phường 5, thành phố Cà Mau... Nếu may mắn bạn sẽ được 'thổ địa' chỉ đến một quán ăn chuyên bán bánh tằm cà ri gà cay trong con hẻm khuất, rất chiều thực khách.Những đặc sản khác phải kể đến cá kèo, hàu, chuột đồng chiên sả ớt, chả mực trứng, cháo tống... là món ăn bình dân của người Cà Mau. Món này có nhiều chất dinh dưỡng, thơm thịt và đậm đà. Du khách có thể mua các loại hải sản tươi ngon, giá rẻ trong ngày như cua biển, ba khía Rạch Gốc; hay các loại khô nổi tiếng như: khô cá lóc đồng, khô cá lù đù, khô cá sặc bổi, khô cá thòi lòi; hoặc mắm tép, mắm cá đồng. Đặc biệt nhất là mật ong nguyên chất từ rừng tràm U Minh. Dưa bồn bồn cũng thường được du khách mua về làm quà khi đến các vùng Cà Mau.",
+            "qas": [
+              {
+                "question": "Bồn bồn thường mọc ở đâu ở Cà Mau ?",
+                "id": "48375327-9d5c-410f-80d8-aa6157040d78",
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Bồn bồn mọc hoang nhiều ở vùng rìa các đầm, ao hồ. "
+                  }
+                ]
+              },
+              {
+                "question": "Bồn bồn được chế biến như thế nào ở Cà Mau ?",
+                "id": "cf1a00ee-4d21-45fc-bd0f-c1703c6a366d",
+                "answers": [
+                  {
+                    "answer_start": 51,
+                    "text": "Bồn bồn được chế biến như rau thành nhiều món khác nhau, trong đó có gỏi hải sản, muối chua. Lõi bồn bồn ăn giòn, mềm, chua lạ, như thể ngó sen và măng hòa quyện."
+                  }
+                ]
+              },
+              {
+                "question": "Quán bánh tằm nào đông khách ở Cà Mau ?",
+                "id": "d8cadd41-c9e0-4fbc-a8e5-9a3e6d28acb2",
+                "answers": [
+                  {
+                    "answer_start": 363,
+                    "text": "Đông khách nhất là quán bánh tằm trên đường Lê Lợi, đường Nguyễn Hữu Lễ phường 2 hay quán ăn sáng ở đường Quang Trung, đường Lưu Tấn Tài ở phường 5, thành phố Cà Mau..."
+                  }
+                ]
+              },
+              {
+                "question": "Các đặc sản khác của Cà Mau là gì ?",
+                "id": "476a533b-7a4e-47f5-932b-c7c0ec3899d4",
+                "answers": [
+                  {
+                    "answer_start": 661,
+                    "text": "Những đặc sản khác phải kể đến cá kèo, hàu, chuột đồng chiên sả ớt, chả mực trứng, cháo tống... là món ăn bình dân của người Cà Mau."
+                  }
+                ]
+              },
+              {
+                "question": "Du khách có thể mua các loại hải sản tươi ngon nào ở Cà Mau ?",
+                "id": "6fbda835-b855-4791-9ef2-5df987da0809",
+                "answers": [
+                  {
+                    "answer_start": 848,
+                    "text": " Du khách có thể mua các loại hải sản tươi ngon, giá rẻ trong ngày như cua biển, ba khía Rạch Gốc;"
+                  }
+                ]
+              },
+              {
+                "question": "Các loại khô nổi tiếng ở Cà Mau ?",
+                "id": "c9873e60-6908-4dbc-8a18-4ef47d69bf0c",
+                "answers": [
+                  {
+                    "answer_start": 947,
+                    "text": "hay các loại khô nổi tiếng như: khô cá lóc đồng, khô cá lù đù, khô cá sặc bổi, khô cá thòi lòi; "
+                  }
+                ]
+              },
+              {
+                "question": "Các loại mắm nổi tiếng ở Cà Mau ?",
+                "id": "20d1c142-b476-469f-8992-8c74a8f3480f",
+                "answers": [
+                  {
+                    "answer_start": 1048,
+                    "text": "mắm tép, mắm cá đồng"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
